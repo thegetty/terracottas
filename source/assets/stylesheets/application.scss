@@ -1,7 +1,11 @@
 @import "vendor/normalize";
 
 @import "bourbon";
-@import "base/base";
+@import 'base/grid-settings';
 @import "neat";
+@import "base/base";
+
 
 @import "global";
+@import "components/grid";
+@import "components/card";
