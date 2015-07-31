@@ -6,6 +6,8 @@
     %meta{name: "viewport", content: "width=device-width, initial-scale=1"}
     %title= current_page.data.title || "The Middleman"
     = stylesheet_link_tag "application"
+    %script{src: "https://api.mapbox.com/mapbox.js/v2.2.1/mapbox.js"}
+    %link{href: "https://api.mapbox.com/mapbox.js/v2.2.1/mapbox.css", rel: "stylesheet"}
 
   %body{class: page_classes}
     = yield
