@@ -3,7 +3,6 @@
   @include flex-direction(column);
   @include align-items(stretch);
   @include justify-content(flex-end);
-  background-color: #fff;
   border-radius: $base-border-radius;
   box-shadow: $base-box-shadow;
   height: 320px;
@@ -12,9 +11,11 @@
   background-color: $light-gray;
   background-position: center center;
   background-size: cover;
-}
 
-.card__image {
+  -webkit-background-clip: padding-box; 
+  -moz-background-clip:    padding; 
+  background-clip:         padding-box;
+
 }
 
 .card__title {
@@ -26,4 +27,9 @@
   text-align: left;
   display: block;
   z-index: 10;
+  overflow: hidden;
+
+  border-bottom-left-radius: $base-border-radius;
+  border-bottom-right-radius: $base-border-radius;
+
 }

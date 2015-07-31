@@ -19,6 +19,14 @@
   @include flex(1);
 }
 
+.grid-cell--full {
+  @include flex(0 0 100%);
+}
+
+.grid-cell--1of2 {
+  @include flex(0 0 50%);
+}
+
 .grid-cell--1of3 {
   @include flex(0 0 33%);
 }
@@ -29,4 +37,23 @@
 
 .grid-cell--1of5 {
   @include flex(0 0 20%);
+}
+
+// Responsive sizes
+.grid-cell-med--1of2 {
+  @include media($medium-screen-up) {
+    @include flex(0 0 50%);
+  }
+}
+
+.grid-cell-large--1of3 {
+  @include media($large-screen-up) {
+    @include flex(0 0 33%);
+  }
+}
+
+.grid-cell-x-large--1of4 {
+  @include media($x-large-screen-up) {
+    @include flex(0 0 25%);
+  }
 }
