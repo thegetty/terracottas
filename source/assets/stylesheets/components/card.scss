@@ -1,0 +1,29 @@
+.card {
+  @include display(flex);
+  @include flex-direction(column);
+  @include align-items(stretch);
+  @include justify-content(flex-end);
+  background-color: #fff;
+  border-radius: $base-border-radius;
+  box-shadow: $base-box-shadow;
+  height: 320px;
+  overflow: hidden;
+  
+  background-color: $light-gray;
+  background-position: center center;
+  background-size: cover;
+}
+
+.card__image {
+}
+
+.card__title {
+  @include flex(0 0 20%);
+  background-color: transparentize(#000, 0.5);
+  color: #fff;
+  margin-bottom: 0;
+  padding: $small-spacing;
+  text-align: left;
+  display: block;
+  z-index: 10;
+}
