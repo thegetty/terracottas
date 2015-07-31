@@ -36,3 +36,7 @@ helpers do
     link_to(link_text, page_url, options)
   end
 end
+
+# data.terracottas.each do |object|
+#   proxy "/collection/#{object.cat}.html", "/views/detail.html", :locals => {:artifact => object}, :ignore => true
+# end 
