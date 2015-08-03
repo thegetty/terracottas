@@ -9,6 +9,7 @@ set :js_dir, 'assets/javascripts'
 set :images_dir, 'assets/images'
 set :fonts_dir, 'assets/fonts'
 set :layout, 'layouts/application'
+set :partials_dir, 'partials'
 
 configure :development do
  activate :livereload
@@ -37,6 +38,4 @@ helpers do
   end
 end
 
-# data.terracottas.each do |object|
-#   proxy "/collection/#{object.cat}.html", "/views/detail.html", :locals => {:artifact => object}, :ignore => true
-# end 
+page "/collection/*", :layout => :detail

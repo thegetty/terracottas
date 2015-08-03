@@ -1,0 +1,34 @@
+%h1.mt4.mb3.object__title= current_page.data.title
+- data.terracottas.each do |object|
+  - if current_page.data.cat == object.cat
+    %hr
+    %ul.object__info
+      %li.object_attr.mb1= "Cat." + object.cat.to_s unless object.cat.nil?
+      %li.object_attr.mb1= object.acc unless object.acc.nil?
+      %li.object_attr.mb1= object.title unless object.title.nil?
+      %li.object_attr.mb1= object.group unless object.group.nil?
+      %li.object_attr.mb1= object.region unless object.region.nil?
+      %li.object_attr.mb1= object.city unless object.city.nil?
+      %li.object_attr.mb1= object.typology unless object.typology.nil?
+      %li.object_attr.mb1= object.date unless object.date.nil?
+      %li.object_attr.mb1= object.munsell unless object.munsell.nil?
+      %li.object_attr.mb1= object.dimensions unless object.dimensions.nil?
+    %hr
+.object__content.mt3
+  %p= lorem.paragraph
+  %p= lorem.paragraph
+  %p= lorem.paragraph
+  %p= lorem.paragraph
+  %p= lorem.paragraph
+  %p= lorem.paragraph
+  %p= lorem.paragraph
+  %p= lorem.paragraph
+  %p= lorem.paragraph
+  %p= lorem.paragraph
+  %p= lorem.paragraph
+  %p= lorem.paragraph
+  %p= lorem.paragraph
+  %p= lorem.paragraph
+  %p= lorem.paragraph
+
+

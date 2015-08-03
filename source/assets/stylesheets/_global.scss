@@ -2,17 +2,19 @@ body {
   background-color: $base-background-color;
 }
 
-.delete-me {
-  @include align-items(center);
-  @include display(flex);
-  @include justify-content(center);
-  height: 100vh;
+%inverse-link {
+  color: $inverse-color;
+  text-decoration: none;
+  transition: color 0.1s linear;
 
-  .container {
-    text-align: center;
+  &:active,
+  &:focus,
+  &:hover {
+    color: darken($action-color, 15%);
+  }
 
-    h1 {
-      font-weight: 200;
-    }
+  &:active,
+  &:focus {
+    outline: none;
   }
 }

@@ -1,0 +1,9 @@
+// Asset Pipeline:
+// Bourbon supports an $asset-pipeline variable which changes how the @font-face
+// mixin works. By setting it to true, we can give urls relative to the global
+// assets folder (default is /_assets/).
+
+//-------------------------------------------------------------------
+$asset-pipeline: true;
+
+// ionicons are imported in their own scss file (see vendor folder)
