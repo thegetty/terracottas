@@ -8,9 +8,9 @@
   date: 330-300 BC
   munsell: 7.5 yr 8/3-8/5
   dimensions: 
-    H:104cm 
-    W:56.8cm 
-    D:100.6cm
+    H: 104cm 
+    W: 56.8cm 
+    D: 100.6cm
 
 - cat: 2
   acc: 76.AD.11.2
@@ -22,9 +22,9 @@
   date: 330-300 BC
   munsell: 7.5 yr 8/3
   dimensions: 
-    H:140cm 
-    W:35.8cm 
-    D:55.2cm2
+    H: 140cm 
+    W: 35.8cm 
+    D: 55.2cm2
 
 - cat: 3
   acc: 76.AD.11.3
@@ -161,9 +161,9 @@
   date: Late sixth-early fifth centuries BC
   munsell: 2.5 yr 7/6
   dimensions:
-    H:4.9 cm
-    L:14.1 cm
-    D:6.4 cm
+    H: 4.9 cm
+    L: 14.1 cm
+    D: 6.4 cm
 
 - cat: 51
   acc: 76.AD.34

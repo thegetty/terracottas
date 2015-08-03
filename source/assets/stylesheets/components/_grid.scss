@@ -8,7 +8,7 @@
 }
 
 .grid--gutters {
-  margin: -$base-spacing 0 0 -$base-spacing;
+  margin-left: -($base-spacing);
 }
 
 .grid--gutters > .grid-cell {

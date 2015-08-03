@@ -1,0 +1,24 @@
+= wrap_layout :application do
+  .panel.panel--left
+    .panel__header--overlay.p1
+      %a
+        %i.ion-ios-photos.h2.mr2
+      %a
+        %i.ion-ios-location.h2.mr1
+    #map
+      %script
+        L.mapbox.accessToken = 'pk.eyJ1IjoiZWdhcmRuZXIiLCJhIjoiN2IyMmRlMTc0YTAwMzRjYWVhMzI5ZGY1YmViMGVkZTEifQ._576KIFjJ0S_dRHcdM2BmQ';
+        L.mapbox.map('map', 'egardner.n1p8bjh1');
+
+  .panel.panel--right
+    .panel__header.pt1
+      .panel__header__left
+        %a
+          %i.ion-arrow-expand.h2.ml2.mt1
+      .panel__header__center 
+        %h4.mt2.h6 RUNNING HEAD
+      .panel__header__right
+        %a
+          %i.ion-navicon-round.h2.mr2.mt1
+    .panel__inner
+      = yield

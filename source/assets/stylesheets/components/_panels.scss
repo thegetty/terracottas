@@ -1,16 +1,84 @@
-.panel {
-  padding: $base-spacing * 2;
+// Mapbox map needs to be given height
+#map {
+  @include media($small-screen) {
+    height: 50vh;
+  }
+  @include media($medium-screen-up) {
+    height: 100vh;
+  }
+}
 
+.panel {
   @include media($small-screen) {
     width: 100%;
     min-height: 50vh;
   }
-
   @include media($medium-screen-up) {
     float: left;
     height: 100vh;
     width: 50%;
     overflow: auto;
   }
+  position: relative;
+}
 
+.panel--right {
+  @include media($medium-screen-up) {
+    .panel__header {
+      background-color: $base-background-color;
+      position: fixed;
+      width: 50%;
+      z-index: 50;
+    }
+  }
+}
+
+.panel__header {
+  @include display(flex);
+  @include flex-direction(row);
+  @include justify-content(space-between);
+}
+
+// Transparent overlay header is absolutely positioned.
+// Sizes are relative to panels, which have relative position 
+.panel__header--overlay {
+  position: absolute;
+  width: 100%;
+  z-index: 50;
+  text-align: right;
+
+  a {
+    @extend %inverse-link;
+  }
+}
+
+
+.panel__header__left {
+  @include flex(0 0 25%);
+  @include display(flex);
+  @include justify-content(flex-start);
+}
+
+.panel__header__right {
+  @include flex(0 0 25%);
+  @include display(flex);
+  @include justify-content(flex-end);
+}
+
+.panel__header__center {
+  @include flex(0 1 50%);
+  @include display(flex);
+  @include justify-content(center);
+  text-align: center;
+}
+
+.panel__inner {
+  padding: $small-spacing;
+  @include media($medium-screen-up) {
+    padding: $base-spacing * 2;
+  }
+  @include media($large-screen-up) {
+    max-width: 750px;
+    margin: 0 auto;
+  }
 }
