@@ -1,0 +1,95 @@
+**South Italy**
+
+**Taranto**
+
+**8.**
+
+**Head of a Male Banqueter**
+
+82.AD.93.9
+
+<span class="smcaps">Date:</span> Fourth century <span
+class="smcaps">BC</span>
+
+<span class="smcaps">Fabric</span>: light orange in
+color (Munsell 7.5 yr 8/6), talcous, purified, with reflective
+inclusions.
+
+H: 17.2 cm; W: 14.5 cm; H (face): 10.3 cm
+
+<span class="smcaps">Condition:</span> The central and
+left-hand sections of the wreath and probably the central and right-hand
+rosette, the strips of cloths, and the locks of hair on the sides of the
+neck are fragmentary; there are diffuse incrustations on the surface.
+
+<span class="smcaps">Provenance</span>: – 1982 Antike
+Kunst Palladion (Basel, Switzerland), sold to the J. Paul Getty Museum,
+1982.
+
+<span class="smcaps">Bibliography:</span> Unpublished.
+
+The head, with its oval face, is tilted slightly to the right and has
+pronounced cheekbones; the small eyes have downturned outer corners and
+thickened eyelids; the nose is straight; the open mouth leaves the teeth
+visible; the lower lip is quite prominent. The figure wears ornamental
+headgear added to the head and decorated with ribbon, a wreath, probably
+three rosettes, and bands falling on either side of the face and onto
+the shoulders. The hair protrudes from beneath the head covering and,
+leaving the ears uncovered, is arrayed on either side of the face in
+wavy locks, clearly separated by incisions. In the center of the
+forehead, the hair is less clearly defined and more softly brushed; two
+three-dimensional ringlets dangle at the sides of the neck. The head can
+be assigned to the type of the young, beardless banqueter represented in
+the act of singing, found in Tarentine production from the end of the
+fifth and the first half of the fourth centuries <span
+class="smcaps">BC.</span>[^1] The wreath decorated
+with three symmetrically arranged rosettes and sometimes topped by a
+small palm tree is distinctive to the Tarentine area and can also be
+found in a number of bronzes that are probably depictions of Zeus
+Katabaites.[^2] The details of the fine locks of hair, the half-open
+mouth, and the tilted position of the head are also found in a number of
+busts and terracotta sculptures from Taranto.[^3] Music and song
+constituted significant moments during the symposium, and these
+iconographic elements, much like the individual attributes accompanying
+the depictions of the banqueters, must have had a specific value in
+various phases of the ritual, related to status and age, which
+identified the banqueter in the context of the political and social
+community.[^4]
+
+[^1]: On the type of the reclining figure in general, see the
+    introduction and cat. 6. See also the pieces with diadems, bands,
+    and rosettes in <span class="smcaps">*Taranto*
+    1995</span>, pl. VIII, no. 3; and <span
+    class="smcaps">Herdejürger</span> 1982, pp. 66–67,
+    no. 121. For the headgear, see also <span
+    class="smcaps">Fischer-Hansen</span> 1992, p. 80,
+    no. 48 (female head dating from 400–375 <span
+    class="smcaps">BC</span>).
+
+[^2]: In this connection, see <span
+    class="smcaps">Lippolis</span> 1982. On the wreath
+    as an obligatory ornament for participants in the symposium, see P.
+    G. Guzzo, “Corone d’agone tra guerra e morte in Magna Grecia,” in
+    <span class="smcaps">La Regina 2003</span>, pp.
+    92–101, in which the author analyzes the possible and extensive
+    meanings of the wreath in the Italic context and in Magna Graecia.
+
+[^3]: Among other possible comparisons are: C. Belli, *Il tesoro di
+    Taras* (Milan, 1970), p. 208, and the head of a banqueter in the
+    Musei Civici di Trieste, in <span
+    class="smcaps">Poli</span> 2010, cat. 452 (last
+    decades of the fourth century <span
+    class="smcaps">BC</span>); see also a terracotta
+    head in Berlin with an open mouth, previously linked to the figure
+    of Orpheus*,* in <span class="smcaps">Bulle</span>
+    1939, pp. 3–19, no. 15.
+
+[^4]: On the role of music and singing in the ritual of the funerary
+    banquet, see the “Orpheus group,” cat. 1–3, n. 29; F. Lissarrague,
+    *The Aesthetics of the Greek Banquet: Images of Wine and Ritual*
+    (Princeton, 1990), pp. 123–39; G. Lambin*, La chanson grecque dans
+    l’antiquité* (Paris, 1992), pp. 216–19; D. Musti, “Musica greca tra
+    aristocrazia e democrazia,” in A. C. Cassio, D. Musti, and L. E.
+    Rossi, eds., *Synaulía: Cultura musicale in Grecia e contatti
+    mediterranei*, AION Quaderni 5 (Naples, 2000) pp. 7–55; and *<span
+    class="smcaps">Taranto</span>* 1995, pp. 51–53.

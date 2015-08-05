@@ -1,0 +1,86 @@
+**South Italy**
+
+**Taranto**
+
+**16.**
+
+**Bust of a Woman**
+
+82.AD.93.5
+
+<span class="smcaps">Date: 450–350 BC</span>
+
+<span class="smcaps">Fabric</span>: pale pinkish beige
+(Munsell 7.5 yr 8/4), with a friable consistency and a high content of
+small calcareous and micaceous inclusions.
+
+H: 16.2 cm; W: 9.2 cm; H (face): 7 cm
+
+<span class="smcaps">Condition:</span> The head, neck,
+and attachment of the shoulders are preserved. The surface is covered
+with a thick layer of incrustation.
+
+<span class="smcaps">Provenance</span>: – 1982, Antike
+Kunst Palladion (Basel, Switzerland), sold to the J. Paul Getty Museum,
+1982.
+
+<span class="smcaps">Bibliography:</span> Unpublished.
+
+The head, which belonged to a bust or a statue, features an elongated
+oval face with lowered superciliary arches. The eyes are asymmetrical
+and the eyelids are lowered; the upper rims of the eyelids in particular
+are notably thickened. The nose is straight, the mouth small and
+slightly open, with a fleshy lower lip. The hair pushes out from beneath
+the *sakkos*, which has a button on top marked by a raised edge along
+the forehead; the hair is arranged alongside the face in puffy locks,
+rendered by means of deep incisions. The figure wears spherical globular
+earrings.
+
+This piece is comparable to a bust of a banqueter from the votive
+deposit of the Via di Palma in Taranto dating to the second half of the
+fifth century <span class="smcaps">BC.</span>[^1] In
+particular, the stylization of the locks of hair and the sharply lined
+eyelids are recurring elements in the Tarentine coroplastic art, as are
+the lowered gaze and the expression of melancholy found in local plastic
+art from the end of the fifth century to the first half of the fourth
+century <span class="smcaps">BC.</span>[^2] The
+spherical earrings are quite common, as is the *sakkos* with a high
+edge, which is found on some heads of statues found in the *favissae* of
+Saturo.[^3]
+
+[^1]: See <span class="smcaps">Iacobone</span> 1988,
+    pls. 89a–b, p. 93, pertaining to a male bust and attesting to a
+    workshop practice that allowed artisans to adapt a single type of
+    head to both male and female figures; see also <span
+    class="smcaps">Besques</span> 1954, pl. XCIV,
+    C362, from the end of the fifth century <span
+    class="smcaps">BC</span>.
+
+[^2]: See the terracotta head from Taranto discussed by W.
+    Lambrinoudakis, s.v. “Apollon,” *LIMC* 2 (1984), p. 256, no. 580,
+    dating to the mid-fifth century <span
+    class="smcaps">BC.</span> See also the male bronze
+    statuette in P. Kranz, “Ein Zeugnis lokrischer Toreutik im Cleveland
+    Museum of Art,” *RM* 85 (1978**)**, pp. 209–55, no. 143, figs. 101,
+    no. 1, and 107, no. 1, especially for the rendering of the locks of
+    hair around the forehead, the structure of face, and facial
+    features; also <span
+    class="smcaps">Herdejürgen</span> 1978*,* p. 34,
+    A. 25, and the statuette of a banqueter from the late fifth century
+    BC in <span class="smcaps">Herdejürger</span>
+    1982, no. 107, pp. 48–49. For the marked eyebrows, see ibid., no.
+    106, from the end of the fifth century <span
+    class="smcaps">BC.</span> See also the head from
+    420–400 <span class="smcaps">BC</span>, possibly
+    from Taranto, in U. Gehrig, *Antiken aus Berliner Privatbesitz*,
+    exh. cat. (Berlin, Antikenmuseum, 1975), no. 273. For the linear
+    rendering of the hairstyle, compare also nos. 9 and 10 in this
+    catalogue, as well as the head, probably from Taranto and dating
+    from the same chronological range, in C. Vermeule*, Greek, Etruscan
+    and Roman Art: The Classical Collections of the Museum of Fine Arts*
+    (Boston, 1963), fig. 11.
+
+[^3]: For instance, in <span
+    class="smcaps">Fischer-Hansen</span> 1992, nos.
+    54, 56, 58, 60. A head with *sakkos* with hair emerging more freely
+    from the headgear comes from *favissa* 6 in Saturo (crate 1299).

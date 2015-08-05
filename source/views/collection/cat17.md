@@ -1,0 +1,99 @@
+**South Italy**
+
+**Taranto**
+
+**17.**
+
+**Bust of a Woman**
+
+82.AD.93.10
+
+<span class="smcaps">Date: 400–250 BC</span>
+
+<span class="smcaps">Fabric</span>: a light orange
+color (Munsell 7.5 yr 8/4–7/6) with beige in certain points of the front
+section, with numerous calcareous and micaceous inclusions.
+
+H: 15.9 cm; W: 12.3 cm; H (face): 9.4 cm
+
+<span class="smcaps">Condition:</span> The head and
+the beginning of the right shoulder are preserved; a fragment has been
+reattached to the neck; the extremities of the locks of hair have been
+partly lost. The head is covered with incrustations. The ringlets were
+applied before firing.
+
+<span class="smcaps">Provenance</span>: – 1982, Antike
+Kunst Palladion (Basel, Switzerland), sold to the J. Paul Getty Museum,
+1982.
+
+<span class="smcaps">Bibliography:</span> Unpublished.
+
+The head, turned to the left, presents an elongated face with oval eyes
+and thickened eyelids, straight nose and fleshy lips (especially the
+lower one), a full chin, and a short neck. The hair is treated as large
+locks applied to the head, separated by sharp, deep cuts, arranged
+radially around the face, and hanging on either side of the face in
+tubular curls. At the nape of the neck, there is a wide, irregularly
+shaped hole. The physiognomy of the face is reminiscent of Tarentine
+examples dating to the middle and second half of the fourth century
+<span class="smcaps">BC</span> and characterized by a
+somber expression accentuated by the tilt of the head. The hairstyle and
+the tubular ringlets are more unusual. A head in Copenhagen, dating to
+the second half of the fourth century <span
+class="smcaps">BC</span>, presents the same tilt, the
+regular facial features, and the hair treated in molded modules, clumped
+roughly over the forehead, and articulated by a potter’s tool.[^1] In
+central Italy, such so-called Libyan ringlets can be found in a number
+of heads with elongated faces datable between the late fourth and the
+third century centuries <span
+class="smcaps">BC.</span> These heads have been linked
+with a number of Tarentine antefixes dating to the beginning of the
+fourth century <span class="smcaps">BC</span>, as well
+as with funerary sculptures of the second half of the fourth century
+<span class="smcaps">BC</span>, though the ringlets in
+that case are arranged vertically on either side of the face in groups
+of two or three.[^2] In the context of the third century, this type of
+hairstyle seems reminiscent of that of Isis, adopted by Egyptian queens.
+Two terracotta female heads now in the Louvre, similar to the head of
+Demeter Isis on the Farnese Cup (Tazza Farnese) in Naples, offer
+significant comparisons. A high-relief of Aphrodite-Berenice, found in
+the agora of Cyrene and alluding to the marriage between Berenice and
+Ptolemy III Euergetes (performed in 246 <span
+class="smcaps">BC</span>), shows potential affinities
+in the tilt of the head and in the hairstyle.[^3]
+
+The lack of more exact comparisons to the Getty head means that no
+precise dating is possible. In stylistic terms, the head can be
+generically attributed to the fourth century <span
+class="smcaps">BC</span>, the period of most of the
+comparable facial features from the Tarentine area, but the possibility
+that, given the type of hairstyle, this head might date to around the
+middle of the third century <span
+class="smcaps">BC</span> should not be ruled out<span
+class="smcaps">.</span>
+
+[^1]: <span class="smcaps">Fischer-Hansen</span> 1992,
+    p. 87, no. 60 (dating from 350–325 <span
+    class="smcaps">BC</span>). The facial type can
+    already be found in the late fifth century <span
+    class="smcaps">BC</span>, as for instance, a head
+    in a frontal position in <span
+    class="smcaps">Herdejürger</span> 1982, p. 39, no.
+    99.
+
+[^2]: See the examples from Palestrina in <span
+    class="smcaps">Pensabene</span> 2001, pp. 90–91,
+    pl. V, no. 2. For the “Libyan” hairstyle, see M. Papini, *Antichi
+    volti della Repubblica: La ritrattistica in Italia centrale tra IV e
+    II secolo a.C.* (Rome, 2004), pp. 238–40.
+
+[^3]: For relations between Taras and Ptolemaic Egypt, see <span
+    class="smcaps">Morel</span> 2002, pp. 593–601, and
+    N. Bonacasa, ibid., pp. 593–601 in *AttiTaranto 41, 2001* (Taranto,
+    2002). For the hairstyles of the Egyptian queens, see S. Stucchi,
+    “Osservazioni su una phiale reale alessandrina,” in S. Stucchi and
+    M. Aravantinos, *Giornate di studio in onore di Achille Adriani,
+    Roma, 26–27 November 1984* (Rome, 1991), pp. 89–112, figs. 25–27.
+    For the high relief of Aphrodite, see L. Bacchielli, “Berenice II:
+    la regina della riunificazione fra Egitto e Cirenaica,” in idem,
+    *Parole d’oltremare* (Urbino, 2002), pp. 120–25.

@@ -1,0 +1,37 @@
+**South Italy**
+
+**Canosa**
+
+**41.**
+
+**Statue of a Mourning Woman**
+
+85.AD.76.4
+
+<span class="smcaps">Date: 300–275 BC</span>
+
+<span class="smcaps">Fabric</span>: beige in color
+(Munsell 2.5 yr 8/4–5yr 7/6 at the core); white slip and polychromy are
+as the previous piece. Polychromy: vertical organic pink band on the
+proper right side, back, and front of the chiton; iron-based red pigment
+on the hair and feet, and minor traces in the mouth; white pigment
+ground layer.
+
+H: 95.5 cm; W: 32.1 cm; H (face): 12.2 cm; thickness of walls: 2.1–8.4
+cm
+
+<span class="smcaps">Condition:</span> Broken and
+repaired, abraded terracotta surface. The middle, ring, and pinky
+fingers of the right hand are broken and repaired. The figure is covered
+in a heavy layer of burial accretion over the white ground.
+
+<span class="smcaps">Provenance</span>: – 1985,
+Galerie Hydra (Geneva, Switzerland), sold to the J. Paul Getty Museum,
+1985.
+
+The figure is similar in its general characteristics to cat. 40, though
+the leg is not drawn as far back; in both the slight hollow and
+undulation in the fold of the drapery over the right breast is evident.
+There are two marks incised into the himation: two parallel lines on the
+proper left, and a mark like a *lambda* on the proper right. There is a
+circular hole on the lower edge of the chiton in the figure’s back.

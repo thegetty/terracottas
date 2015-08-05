@@ -1,0 +1,178 @@
+**Sicily**
+
+**58.**
+
+**Mask of a Satyr**
+
+96.AD.305
+
+<span class="smcaps">Date:</span> 200<span
+class="smcaps">–</span>100 BC
+
+<span class="smcaps">Fabric</span>: pinkish in color
+(Munsell 5 yr 8/4), very porous, with numerous reflective and carbonous
+inclusions. Polychromy: brownish red (hair and face), orange red
+(orbital arch and mouth), white (interior of the orbital arch,
+dentition, and wreath), black (eyebrows), pink (ears); and sky blue
+(leaves of the wreath).
+
+H: 12 cm; W: 15.5 cm
+
+<span class="smcaps">Condition:</span> Reassembled
+from about fifteen fragments, gaps on the nape of the neck, traces of
+repainting over the original polychromy.
+
+<span class="smcaps">Provenance</span>: – 1994–1995,
+Barbara and Lawrence Fleischman (New York, New York), donated to the J.
+Paul Getty Museum, 1996.
+
+<span class="smcaps">Bibliography: *Passion for
+antiquities*</span>1994, no. 291, p. 356; “Museum Acquisitions Between
+July 1, 1996, and June 30, 1998.” *The Report of the J. Paul Getty
+Trust*, 1997–1998, p. 67.
+
+The mask depicts a young satyr wearing a wreath, with strongly
+emphasized facial features and a stern, somewhat threatening expression.
+The face is round, with a powerful jaw, full cheeks, a short, rounded
+chin with a dimple in the center, and a wide-open mouth with fleshy,
+prominent lips; the upper dental arch is visible. The robust nose has
+enlarged nostrils and an upturned tip with two incisions, one at the
+base and one in the upper part of the septum. The eyes are staring and
+hollowed out with convex eyeballs and perforated irises, surrounded by
+heavy, distinctly marked eyelids; the eyebrows are thick and furrowed;
+the forehead has a bump in the upper portion and is furrowed by a
+horizontal crease; the ears are feral and pointed. The hairstyle, which
+is rendered in the back with fine incisions, rises up over the forehead,
+where a voluminous wreath, decorated with six ivy leaves and two round
+pieces of fruit at the center, was applied. There are two suspension
+holes in the lower part of the nape of the neck.
+
+The mask is configured as a full-fledged scale model of originals that
+were worn onstage by actors.[^1] The wreath was worked by hand and
+applied before firing. The polychromy, in keeping with tradition, was
+used to express or emphasize the distinctive character details, such as
+the red of the male complexion, the white of the eyeballs, or the black
+of the eyebrows.
+
+The mask seems to echo the general characteristics of the beardless
+satyr type from New Comedy (*satyros ageneios*, or beardless satyr)
+described in the *Onomastikon* by Pollux, though in this case the facial
+features were interpreted with a certain creative license with respect
+to the Attic prototypes.[^2] The type, however, shows notable affinities
+with the masks of the so-called Vollmer Group of terracottas, according
+to T. B. L. Webster’s classification, datable between the middle of the
+second century <span class="smcaps">BC</span> and 50
+<span class="smcaps">BC</span>; those masks are
+distinguished by powerfully plastic modeling with marked chiaroscuro
+effects and expressive emphasis, accentuated by staring eyes and
+wide-open mouths. Examples of this group have been found in various
+centers of the Aegean, southern Italy, and Sicily, but it is likely that
+the type originates from Campania.
+
+The masks related to the Vollmer Group find parallels also in the
+production of Myrina and Priene: for example, a mask, possibly depicting
+a parasite and dating back to the second century <span
+class="smcaps">BC</span>, presents similar
+characteristics. This means that, especially in the Late Hellenistic
+period, distinctive elements peculiar to one type might in some cases be
+transmitted to and used in other typologies as well, since the serial
+production of masks had increasingly little to do with actual theatrical
+performances; the iconography, therefore, tended to move toward the
+generic.[^3] In Sicily, examples that could be assignable to this group
+and which depict various characters from New Comedy were found in
+Agrigento, San Fratello, and Centuripe.[^4]
+
+In other centers, as well, masks have been found that refer to
+characters other than the one represented by the Getty mask, but which
+are comparable on the basis of stylistic peculiarities and especially
+the emphasis on plasticity. At Lipari, for instance, there are a number
+of small masks, datable to the first half of the third century <span
+class="smcaps">BC,</span> with a convivial wreath,
+large staring eyes, and round eyeballs, which exhibit the distinctive
+characteristics of the group. A female mask found in Adrano is datable
+by stratigraphic evidence to the third century <span
+class="smcaps">BC</span> and is characterized by
+powerful plastic modeling; another mask with the same characteristics at
+the British Museum, possibly depicting a parasite and datable to the
+second century <span class="smcaps">BC</span>, has
+tentatively been assigned to Sicily.[^5] As for the possible
+archaeological context, it should be emphasized that, according to the
+current state of research in Sicily, in particular at Adrano and
+Morgantina, the most substantial group of theatrical materials comes
+from the settlement areas; in Lipari, by contrast, theatrical
+terracottas are documented almost exclusively in funerary contexts. Such
+is the case also at Centuripe, where, between the third and the second
+century <span class="smcaps">BC</span>, masks are a
+recurring feature in funerary deposits, expressing most clearly the
+intimate relationship between the cult of the dead and Dionysian
+rituals.[^6] Moreover, masks and statuettes of actors are attested in
+the sanctuaries of Demeter and Kore, deities linked with Dionysos in
+cult practices; thus one finds evidence of several cults within a single
+sanctuary, in keeping with a syncretistic approach attested in the
+Hellenistic period.[^7] Hypothetically, the Getty mask can be assigned
+to Sicily and is most closely comparable with the production of
+Centuripe in the second century <span
+class="smcaps">BC.</span>[^8]
+
+[^1]: On the use of masks in theatrical practice, see U. Albini, *Nel
+    nome di Dioniso: Vita teatrale nell’Atene classica* (Milan, 1991),
+    pp. 75–77. For the masks at Lipari and Centuripe, see <span
+    class="smcaps">Bernabò Brea</span> 2002, pp. 9–12.
+
+[^2]: For a description of the mask of a beardless satyr, see J. Pollux,
+    *Onomastikon* 4.1.42; and L. Bernabò Brea and M. Cavalier, *Maschere
+    e personaggi del teatro greco nelle terrecotte liparesi* (Rome,
+    2001), p. 52, fig. 40. On local interpretations of the Attic
+    prototypes in a number of centers in Sicily, such as Morgantina and
+    Lipari, see <span class="smcaps">Bell</span> 1981,
+    pp. 67–69.
+
+[^3]: For an analysis of the Vollmer Group, see <span
+    class="smcaps">Webster</span> 1995, vol. 1, p. 63;
+    vol. 2, pp. 236–38.
+
+[^4]: <span class="smcaps">Webster</span> 1995, vol.
+    2, pp. 236–37, 3NT 2a/b, 3NT 3a/b, 3 NT 4; see also the two examples
+    of *satyros ageneios,* of which one is certainly originally from
+    Centuripe, in <span class="smcaps">Bernabò
+    Brea</span> 2002, figs. 109*–*10, with facial features similar to
+    this one. See the masks of New Comedy male characters, probably from
+    Sicily, in <span
+    class="smcaps">Breitenstein</span> 1941, pl. 86,
+    nos. 719–20; and the theatrical mask, perhaps originally from
+    Caltavuturo, in C. Angela Di Stefano, “Nuove accessioni al Museo
+    Nazionale di Palermo,” *SicArch* 12 (1970), pp. 25–30, esp. p. 30,
+    fig. 10.
+
+[^5]: <span class="smcaps">Bernabò Brea</span> 1981,
+    pp. 127–29, H 6; also <span class="smcaps">Burn
+    and Higgins</span> 2001, no. 2246; for the female theatrical mask
+    from Adrano, see G. Lamagna, “Terracotte di argomento teatrale da
+    Adrano,” *SicArch* 33 (2000), pp. 221–46.
+
+[^6]: On the function of theatrical masks at Lipari, see <span
+    class="smcaps">Bernabò Brea</span> 1981, pp.
+    21–27; for Centuripe, <span
+    class="smcaps">Musumeci</span> 2010, pp. 104–6;
+    <span class="smcaps">Webster</span> 1995, vol. 2,
+    pp. 60–64; and <span class="smcaps">Bernabò
+    Brea</span> 1971–74. On the presence of theatrical terracottas in
+    funerary deposits, see also the finds in Taranto: <span
+    class="smcaps">Graepler</span> 1997, pp. 231–34.
+
+[^7]: In this connection, see the observations of L. Todisco, “Teatro e
+    *theatra* nelle immagini e nell’edilizia monumentale della Magna
+    Grecia,” in <span class="smcaps">Pugliese
+    Carratelli 1990</span>*,* pp. 103–58; also J. R. Green, “Dedication
+    of Masks,” *Revue Archeologique* 2 (1982), pp. 237–48. Performances
+    and playful behavior must have played a major role in the practice
+    of the Demeter cult; in this connection, see <span
+    class="smcaps">Portale</span> 2008, pp. 33–37;
+    <span class="smcaps">Hinz</span> 1998, pp. 47–48,
+    229–30; and <span class="smcaps">Bell</span> 1981,
+    pp. 97–98 and 67–73.
+
+[^8]: On masks originally from Centuripe, see <span
+    class="smcaps">Bernabò Brea</span> 2002, pp.
+    103–6, and <span class="smcaps">Musumeci</span>
+    2010, pp. 94, 100–101.

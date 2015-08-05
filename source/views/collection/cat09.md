@@ -1,0 +1,131 @@
+**South Italy**
+
+**Taranto**
+
+**9.**
+
+**Head of a Woman**
+
+82.AD.93.3
+
+<span class="smcaps">Date:</span> About 350 <span
+class="smcaps">BC</span>
+
+<span class="smcaps">Fabric</span>: pinkish orange in
+color (Munsell 5 yr 7/6–7/8), purified and friable, with tiny reflective
+particles.
+
+H: 17.8; W: 14.1 cm; H (face): 11.1 cm
+
+<span class="smcaps">Condition:</span> Missing left
+earlobe, some scratches. The surface is covered with incrustations and
+is deteriorated.
+
+<span class="smcaps">Provenance</span>: – 1982, Antike
+Kunst Palladion (Basel, Switzerland), sold to the J. Paul Getty Museum,
+1982.
+
+<span class="smcaps">Bibliography:</span> Unpublished.
+
+The head is set on a powerful neck that is slightly tapered and marked
+by two Venus rings. The face is oval; the forehead is high; the eyes are
+asymmetrical, set on two different planes, and slightly sunken. The
+eyelids are thick and the outer corners are twisted downward. The lips
+are fleshy, the chin is full and rounded with a dimple at the beginning
+of the lower lip; the nose is straight with a flattened ridge. The hair,
+parted in the middle, is arranged in long, parallel, serpentine locks
+with sharp ridges; it puffs out on either side of the face and is
+gathered in a roll behind the neck, leaving the earlobes uncovered. In
+the middle of the hair is a flattened triangular space, suggesting that
+a diadem may have been inserted there. On the nape of the neck, the hair
+is depicted with wavy, parallel incisions. The ears are pierced for the
+insertion of earrings. The chin is quite pronounced. On the left side of
+the nape of the neck, there is a small hole.[^1]
+
+The head shows considerable stylistic and iconographic affinities with
+the head at cat. 10, especially in the rendering of the hairstyle and
+the general treatment of the facial features, though the workmanship is
+less precise and the hair shows a looser style in front. Like the
+previous head, this type can be compared with the Sicilian busts which
+in Magna Graecia were modified in keeping with local stylistic
+preferences and preserved, in some cases, the frontal appearance and
+features from Classical models. All the same, the absence of the *polos*
+and comparison with the types of banqueters could link the bust to the
+image of an offerer or a deceased woman.[^2] This hairstyle with linear,
+serpentine locks, the eyes with raised-band eyelids, and the sinuous
+line of the mouth characterize many fictile Tarentine heads from the
+first half of the fifth century through the fourth century <span
+class="smcaps">BC.</span>[^3]
+
+A very close comparison, in terms of both the hairstyle and the
+rendering of facial features, can be made with a number of female heads
+probably belonging to statues originally from Saturo. Comparison can be
+made with another head, smaller in format, seen alongside a reclining
+figure and dating to the middle of the fourth century <span
+class="smcaps">BC,</span> and with a female head
+antefix from the sanctuary of Persephone in Contrada Mannella at Locri,
+dating to the middle of the fourth century <span
+class="smcaps">BC.</span>[^4] Tarentine influence
+seems evident as well in the seated female figure in a terracotta slab
+that decorated the interior of a chamber tomb in Centuripe in the third
+century <span class="smcaps">BC</span>, which is
+similar to the Getty head in its hairstyle and in the facial features
+that bespeak a Classical model.[^5] This hairstyle is also found in a
+soft-stone head that can be dated between the last quarter of the fourth
+century and the first quarter of the third century <span
+class="smcaps">BC</span>, which attests to the
+presence of a single stylistic approach among both coroplasts and
+sculptors.[^6] These comparisons suggest the dating of this type to
+approximately the middle of the fourth century <span
+class="smcaps">BC.</span>
+
+[^1]: This hole is ancient and was made in the wet or pre-fired clay. A
+    number of busts from Morgantina feature a small hole on the neck,
+    probably intended for the insertion of ornaments. See <span
+    class="smcaps">Bell</span> 1981, no. 116.
+
+[^2]: See cat. 11, esp. nn. 2 and 3.
+
+[^3]: For some of these characteristics of Tarentine coroplastics also
+    present in marble and stone sculpture of the same period, see <span
+    class="smcaps">Belli Pasqua</span> 1995, pp.
+    70–71. For the hairstyle, see the comparable female head in
+    terracotta belonging to a statue from Taranto from the first half of
+    the fourth century <span class="smcaps">BC,</span>
+    in <span class="smcaps">Pugliese Carratelli
+    1996</span>, p. 723*,* no. 284. Also note the so-called head of
+    Apollo in a private collection in Berlin, discussed in M. Borda,
+    “Lineamenti e problemi dell’arte tarantina del V secolo a.C.,” in
+    *Studi triestini in onore di Luigia Achillea Stella* (Trieste,
+    1975), pp. 271–309, no. 16; the terracotta head in the Musei Civici
+    di Trieste, <span class="smcaps">Poli</span> 2010,
+    cat. 179, inv. 5216; a statue head from Taranto from the first half
+    of the fourth century <span
+    class="smcaps">BC</span> in <span
+    class="smcaps">Orlandini</span> 1983, fig. 546;
+    and the head in <span
+    class="smcaps">Herdejürger</span> 1982, no. 121,
+    pp. 66–67, from the first half of the fourth century <span
+    class="smcaps">BC.</span> See also a female head
+    from Fratte di Salerno that has the same treatment of the locks
+    (broad and wavy on the forehead), discussed in <span
+    class="smcaps">Greco and Pontrandolfo</span> 1990,
+    fig. 151; and the piece in *Important Antiquities*, Sotheby’s New
+    York, sale cat. December 17, 1992, lot 106.
+
+[^4]: From Saturo comes a piece from Favissa 6 (crate 1292) and also,
+    from the same *favissa*, another head with “flame-shaped” locks of
+    hair (crate 1290); see the head of the banqueter in <span
+    class="smcaps">Iacobone</span> 1988, pl. 76 a, p.
+    82, dating from the first half of the fourth century <span
+    class="smcaps">BC.</span> For the antefix from
+    Locri, see <span class="smcaps">Pugliese
+    Carratelli 1996</span>, no. 347, p. 740.
+
+[^5]: A. Pautasso, “Rilievi da una tomba d’età ellenistica di
+    Centuripe,” in G. Rizza, ed.*, Scavi e ricerche a Centuripe*
+    (Catania, 2002), pp. 115–26, figs. 2, 11.
+
+[^6]: In <span class="smcaps">Carter</span> 1975, p.
+    41, pl. 4d; for relations between coroplasts and sculptors working
+    with soft stone, see pp. 28–29.

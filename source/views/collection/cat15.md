@@ -1,0 +1,103 @@
+**South Italy**
+
+**Taranto**
+
+**15.**
+
+**Bust of a Woman**
+
+82.AD.93.4
+
+<span class="smcaps">Date:</span> Late fifth<span
+class="smcaps">–</span>first half of the fourth
+centuries <span class="smcaps">BC</span>
+
+<span class="smcaps">Fabric</span>: pinkish beige
+color (Munsell 7.5 yr 8/3), lighter in at a few points, porous, with a
+friable consistency and micaceous inclusions; the surface is covered
+with a thick slip of diluted clay.
+
+H: 16.9 cm; W: 13.2 cm; H (face): 9.4 cm
+
+<span class="smcaps">Condition: T</span>he head and
+the attachment of the right shoulder are preserved, along with the edge
+of a dress at the shoulder; there are various incrustations over the
+entire surface.
+
+<span class="smcaps">Provenance</span>: – 1982, Antike
+Kunst Palladion (Basel, Switzerland), sold to the J. Paul Getty Museum,
+1982.
+
+<span class="smcaps">Bibliography:</span> Unpublished.
+
+The head, which must have belonged to a bust or statue, is set on a
+massive neck marked by a single “Venus ring.” The face is broad, with a
+rounded chin and full cheeks, almond-shaped eyes with heavy eyelids,
+well-defined eyebrows, a straight nose, and a slightly open mouth with
+fleshy lips and a more prominent lower lip. The hair is drawn up under a
+*sakkos* (hair covering) with a banded edge and emerges on either side
+of the face in thick, wavy locks that bulge outward, leaving the
+earlobes visible. The figure is probably dressed in a chiton fastened at
+the shoulder by a round button. On the top of the head, corresponding to
+the button of the *sakkos*, we can see a hole marked by radial
+incisions.
+
+This type is well attested in Tarentine coroplastic art and can be dated
+between the end of the fifth and the first half of the fourth century
+BC<span class="smcaps">.</span>[^1] The traits it
+displays—a big face with a rounded jaw, small nose, mouth with sinuous
+lips, all largely derived from Attic Classical prototypes—are also found
+in the local sculptural tradition.[^2] Even the type of hairstyle is
+influenced by echoes of the post-Phidian school, which influenced not
+only the plastic arts but also a number of coin types in Magna Graecia,
+such as the female head found on staters from Terina after 420 BC<span
+class="smcaps">.</span>[^3]
+
+[^1]: There are some unpublished comparisons from *favissa* 6 of Saturo
+    (crate 1290), in particular a statue head with a *sakkos* featuring
+    the same radial detail indicating the folds around the button on top
+    of the head covering; see also a piece in <span
+    class="smcaps">Herdejürger</span> 1982, p. 65, no.
+    120 (dated 375–350 <span
+    class="smcaps">BC</span>); <span
+    class="smcaps">Iacobone</span> 1988, pl. 128 d*,*
+    p. 135, dating from the middle of the fourth century <span
+    class="smcaps">BC.</span> Further, a small female
+    bust is reminiscent of the head in terms of hairstyle and heavy
+    facial features: <span class="smcaps">Letta</span>
+    1971*,* pl. XV, no. 1, p. 93–95; see also <span
+    class="smcaps">Higgins</span> 1954, pl. 175 (late
+    fifth century <span class="smcaps">BC</span>);
+    <span class="smcaps">Fischer-Hansen</span> 1992,
+    no. 54, p. 84, as the beginning of the fourth century <span
+    class="smcaps">BC.</span> For the type of chiton
+    closed by “buttons,” see <span
+    class="smcaps">D’Ercole</span> 1990, p. 95, pl.
+    33b.
+
+[^2]: On the Attic influence in Tarentine sculpture between the fifth
+    and fourth century <span class="smcaps">BC</span>,
+    see the previous entry and <span
+    class="smcaps">Belli Pasqua</span> 1995, pp. 5–6;
+    and for a female marble head of the fourth century <span
+    class="smcaps">BC,</span> pp. 70–71. This female
+    type could be reminiscent of Phidian models, such as the head of the
+    “Kore Albani,” known only in copies dated to 440 <span
+    class="smcaps">BC</span> on the basis of
+    comparison with a similar figure in the South Metope XIX of the
+    Parthenon: <span class="smcaps">La Rocca</span>*,*
+    1985, fig. 6. See also, for this type of face and hairstyle, the
+    head from the Athenian Agora (Agora S2354): <span
+    class="smcaps">Boardman</span> 1985, fig. 105.
+
+[^3]: For the coin types, see A. Stazio, “Monete e scambio,” in <span
+    class="smcaps">Pugliese Carratelli 1983</span>, p.
+    164, figs. 139–42. For the hairstyle with *sakkos* and separate
+    locks of hair on the forehead, there are also some comparisons in
+    red-figured Attic vases, i.e., the female bust that decorates one
+    extremity of the *epinetron* (thigh protector worn while weaving) of
+    Eretria (425 <span class="smcaps">BC</span>): see
+    R. Kousser, “The World of Aphrodite in the Late Fifth Century in
+    Greek Vases,” in C. Marconi, ed., *Greek Vases: Images, Contexts and
+    Controversies,* Columbia Studies in the Classical Tradition 25
+    (Boston, 2004), pp. 97–112.
