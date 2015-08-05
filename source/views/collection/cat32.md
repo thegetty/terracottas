@@ -1,0 +1,114 @@
+**South Italy**
+
+**Taranto and the Apulian Region**
+
+**32.**
+
+**Statuette of Eros with a Deer**
+
+71.AD.137
+
+<span class="smcaps">Date: 325–250</span> BC
+
+<span class="smcaps">Fabric</span>: light beige in
+color (Munsell 10 yr 8/4), porous and friable, with small and
+intermittent reflective inclusions; in a number of points, the fabric
+presents an orange color (Munsell 5 yr 7/8), with calcareous inclusions.
+The polychromy has been preserved in a number of areas, laid over a
+layer of white slip: pink (wings), purple (hair, complexion, and animal
+fur), and black (sections of background). The front part was made with a
+simple mold; the back part, not modeled, features a circular vent hole.
+The wings and tail were applied to the figure before firing; a number of
+details, such as the deer’s rear hoof, were retouched by hand.
+
+H: 14.3 cm; W (base): 11 cm
+
+<span class="smcaps">Condition:</span> Partially
+reassembled from numerous fragments; there are many gaps in both the
+back and the front sections.
+
+<span class="smcaps">Provenance</span>: – Robert Hecht
+(Rome, Italy); 1971, Royal Athena Galleries (New York, New York), sold
+to the J. Paul Getty Museum, 1971.
+
+<span class="smcaps">Bibliography:</span> *<span
+class="smcaps">Selected Works</span>* 1971, no. 61;
+<span class="smcaps">Hermary and Cassimatis</span>
+1986, p. 873, no. 236.
+
+The little Eros is resting its weight on its bent left leg while its
+right leg is extended to one side; with both arms it embraces the neck
+of a deer, which rests its muzzle on the Eros’s left cheek. The Eros’s
+head is tilted slightly while its shoulders are turned toward the
+animal. The face is plump; the eyes are round with indications of
+pupils; the mouth is fleshy; the hair cascades down onto the shoulders
+in wavy locks and is woven into a braid from the center of the forehead
+backward. The Eros is dressed only in a chlamys fastened on the right
+shoulder with a circular clasp; his feet are shod with sandals. The
+Eros’s wings are spread. The front of the fat body is naked and folds of
+flesh are indicated on the inner thighs and abdomen. The figures are set
+upon a low, hollow, parallelepiped-shaped base.
+
+The child Eros is found throughout coroplastic production in southern
+Italy mostly from the second half of the fourth century <span
+class="smcaps">BC.</span> It was probably derived from
+Greek models and adapted for the needs of local worship.[^1] The type
+covered only with a chlamys, which is quite common, is accompanied by
+attributes that allude to the multiplicity of functions that the figure
+of the Eros could perform. When found accompanied by an animal in South
+Italy, this type is primarily associated with funerary deposits, as is
+the case in Taranto and Metaponto.[^2] The subject can also take on
+other meanings in connection with the sphere of Aphrodite, mystery and
+Dionysian cults, or rites of passage from childhood to youth. In the
+absence of a specific context, however, these references must remain
+merely speculative.[^3]
+
+The type can be dated between the end of the fourth century and the
+first half of the third century <span
+class="smcaps">BC</span> on the basis of stylistic
+comparisons with statuettes originating from datable contexts. Although
+a Sicilian findspot has been proposed, the type also has affinities with
+Tarentine pieces.[^4]
+
+[^1]: On the iconography of the Eros and the multiple meanings attached
+    to the image, see <span class="smcaps">Hermary and
+    Cassimatis</span> 1986, pp. 939–41*.*
+
+[^2]: In terracotta figurines, Eros is more commonly accompanied by
+    piglets, dolphins, or birds. For the association of Eros with
+    cervids, see <span class="smcaps">Hermary and
+    Cassimatis</span> 1986, pp. 872–73. For the type of an Eros
+    embracing the neck of an animal, see <span
+    class="smcaps">Bell</span> 1981, no. 322, pl. 70
+    (a late example dated to the middle of the first century <span
+    class="smcaps">BC</span>). On the presence of Eros
+    statuettes in tombs, see <span
+    class="smcaps">Hermary and Cassimatis</span> 1986,
+    p. 941, and the examples in <span
+    class="smcaps">Graepler</span> 1997, pp. 210–12,
+    228–231, figs. 216, 218, 261; in this funerary context, Erotes with
+    kitharae and amphorae can be associated with other statuettes that
+    have links to the Dionysian sphere, such as maenads<span
+    class="smcaps">.</span> For Metaponto, see F. G.
+    Lo Porto, “Metaponto: Rinvenimenti nella città antica e nel suo
+    territorio,” *NSc* 42–43 (1988–89), pp. 374–75 (child’s tombs,
+    datable to the second half of the fourth century <span
+    class="smcaps">BC</span>).
+
+[^3]: For the association between Eros and mystery cults, see D. B.
+    Thompson, *Troy: The Terracotta Figurines of the Hellenistic
+    Period*, Suppl. Monograph 3 (Princeton, 1963), pp. 137–39; A.
+    Bottini, “Appunti sulla presenza di Dionysos nel mondo italico,” in
+    <span class="smcaps">Berti</span> 1991, pp.
+    157–70; and see, in more general terms, C. Beer, “Comparative Votive
+    Religion: The Evidence of Children in Cyprus, Greece and Etruria,”
+    in <span class="smcaps">Linders and
+    Nordquist</span> 1987, pp. 21–29.
+
+[^4]: See <span class="smcaps">Graepler</span> 1997,
+    esp. fig. 261; there are other significant comparisons in <span
+    class="smcaps">Breitenstein</span> 1941, no. 725,
+    pl. 87*;* for the pose, see also the Eros with a cart, originally
+    from Nola and datable to the third century <span
+    class="smcaps">BC,</span> in <span
+    class="smcaps">Besques</span> 1986, pl. 14e.

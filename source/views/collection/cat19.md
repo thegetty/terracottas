@@ -1,0 +1,96 @@
+**South Italy**
+
+**Taranto**
+
+**19.**
+
+**Head of a Youth**
+
+82.AD.93.6
+
+<span class="smcaps">Date:</span> Third<span
+class="smcaps">–</span>second century <span
+class="smcaps">BC</span>
+
+<span class="smcaps">Fabric</span>: beige color on the
+front (Munsell 7.5 yr 8/4), orange on the interior and in the back (5 yr
+8/4), with reflective inclusions, and a slip consisting of diluted clay.
+
+H: 17.4 cm; W: 9.2 cm; H (face): 9.3 cm
+
+<span class="smcaps">Condition:</span> The head
+evidences the detachment of a number of locks of hair and chips off the
+neck. There are diffuse incrustations on the surface, especially on the
+back.
+
+<span class="smcaps">Provenance</span>: – 1982, Antike
+Kunst Palladion (Basel, Switzerland), sold to the J. Paul Getty Museum,
+1982.
+
+<span class="smcaps">Bibliography:</span> Unpublished.
+
+The head of a young man is characterized by a long neck that broadens
+toward the base and an elongated oval face with finely defined features.
+The eyebrows are lowered, the eyes are small and regularly shaped, with
+sharply outlined eyelids; the nose is straight; the mouth is nicely
+designed with half-open lips. The smooth hair is parted in the center of
+a broad forehead; the hair is combed forward in small, sparse tufts
+defined by small incisions; the hair leaves the ears uncovered.
+
+On the back of the neck, in contrast, the hair is rendered in broad,
+flattened locks by simple parallel grooves. There is a regular-shaped
+circular hole in the back, where the neck attaches to the head. The
+face, which presents a number of distinctive features, is characterized
+by a vaguely languid expression emphasized by the half-open lips. This
+type does not appear to be particularly common in the Tarentine area of
+the Hellenistic period. It is possible, however, to make some comparison
+with a head from Taranto now in Musei Civici di Trieste, characterized
+by an especially lean adolescent face, but with a somewhat different
+rendering of the hairstyle; and with two other statuette heads from the
+votive deposits of the Borgo Arsenale Militare and the Via Duca degli
+Abruzzi.[^1] The type of hairstyle, in particular, can be found in
+numerous terracotta heads belonging to the central Italic area and
+datable between the end of the fourth and the third century <span
+class="smcaps">BC.</span>[^2] The long, tubular neck,
+the elongated face, and the hairstyle characterized by flattened locks
+can be linked to some heads from the third and second centuries <span
+class="smcaps">BC</span> found in Campania.[^3]
+
+[^1]: See the piece in the Musei Civici di Trieste, inv. 4008; also the
+    head from the Borgo Arsenale Militare, inv. 200112; and the head
+    from the votive deposit of the Via Duca degli Abruzzi, inv. 162845
+    in the Museo Nazionale Archeologico di Taranto.
+
+[^2]: Compare with the terracotta head of a young man in the Museo
+    Gregoriano Etrusco Vaticano: S. Ensoli, “Alessandro: L’immagine del
+    principe,” in <span class="smcaps">Moreno</span>
+    1995, pp. 331–37, fig. 4; for the scheme of the elongated face, see
+    also the bust from Lucera discussed in <span
+    class="smcaps">D’Ercole</span> 1990, pp. 90–91,
+    103, pl. 27b, from the end of the fourth and the third centuries
+    <span class="smcaps">BC.</span> The lean face,
+    half-open lips, and rapt gaze are also reminiscent of the votive
+    terracotta head from the Portonaccio Sanctuary at Veii dating to the
+    end of the fifth century <span
+    class="smcaps">BC</span>, an early example of a
+    typological portrait of an adolescent: F. Roncalli, “L’arte,” in G.
+    Pugliese Carratelli and M. Pallottino, eds., *Rasenna: Storia e
+    civiltà degli Etruschi* (Milan, 1986), pp. 533–676, esp, p. 655,
+    fig. 573.
+
+[^3]: See the type of the young male head from Capua rendered with less
+    exacting workmanship, short hair, and slender, tubular neck,
+    discussed in M. Bonghi Jovino, *Terrecotte votive: Catalogo del
+    Museo provinciale campano*, 1. *Teste isolate e mezzeteste*, *Capua
+    preromana* (Florence, 1965), pl. XLIV, nos. 2–3. From the votive
+    deposit of the sanctuary of Minerva Medica in Rome comes a later
+    head that can be dated between 100 and 70 <span
+    class="smcaps">BC</span> and which is reminiscent
+    of the Getty piece: see L. Gatti Lo Guzzo, *Il deposito votivo
+    dell’Esquilino detto di Minerva Medica* (Florence, 1978), pl. XLI,
+    pp. 99–100. For relations between the production in Taras and that
+    in southern Etruria and the Italic centers consider the observations
+    of S. Ciaghi, “Sulle formazione di un tipologia di teste votive
+    etrusco-italiche con particolare riferimento alla produzione
+    calena,” in <span class="smcaps">Bonghi
+    Jovino</span> 1990, pp. 127–45.

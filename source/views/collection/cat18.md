@@ -1,0 +1,95 @@
+**South Italy**
+
+**Taranto**
+
+**18.**
+
+**Head of a Youth**
+
+82.AD.93.17
+
+<span class="smcaps">Date: 300–250 BC</span>
+
+<span class="smcaps">Fabric</span>: pinkish orange in
+color in the back (Munsell 5 yr 7/6) and a lighter orange in the front
+(Munsell 7.5 yr 8/6), friable and porous, with reflective particles.
+
+H: 16.5 cm; W: 13.1 cm; H (face): 11.3 cm
+
+<span class="smcaps">Condition:</span> The front of
+neck and chin are chipped; there are diffuse incrustations on the
+surface.
+
+<span class="smcaps">Provenance</span>: – 1982, Antike
+Kunst Palladion (Basel, Switzerland), sold to the J. Paul Getty Museum,
+1982.
+
+<span class="smcaps">Bibliography:</span> Unpublished.
+
+This head, depicting a young male, is tilted toward the left. The face
+is lean and elongated, and the eyes are almond-shaped, irregular, and
+asymmetrical, with thick eyelids. The nose is straight and wide at the
+base; the lips are well shaped; the lower lip is fleshier than the
+upper. The low forehead is framed by flame-shaped locks of hair that are
+defined by narrow, deep incisions; the locks begin in the center of the
+forehead and spread out on either side of the face, leaving the ears
+uncovered. An incised line divides the nape of the neck into two parts,
+and the locks in the back are rendered only through roughly molded
+shapes. The hairstyle, with the wavy hair pushed back as if the figure
+were in motion, is reminiscent of the head of Pyrrhus in the limestone
+metope depicting a battle scene from the Doric frieze of a *naiskos*
+datable to around 270 <span class="smcaps">BC</span>—a
+readaptation of the motif of a horseman striking from a rearing horse,
+formerly on the monument commemorating the Battle of the Granicus fought
+between Alexander the Great and the Persian Empire in 334 <span
+class="smcaps">BC</span>, carved by Lysippos.[^1] This
+type of hairstyle seems to link to the portraiture of Alexander, a
+source of inspiration for coroplasts in the Tarentine area and diffused
+through various versions in Magna Graecia and Etruria in the third
+century <span class="smcaps">BC.</span> Close
+analogies to this wavy hair can be found in a Tarentine antefix. The
+method of rendering the hair through deeply incised curly locks is also
+present, though in more rigid form, in other iconographies that were
+widespread in the Tarentine area between the middle of the fourth and
+the third century <span class="smcaps">BC</span>, as
+can be seen, for example, in a Gorgon-head antefix now in the British
+Museum and in a fragment of a mask depicting Pan from Monte Sannace.[^2]
+The expression of pathos, the low forehead, the fine, low eyebrows, and
+the accentuated tilt of the head are also reminiscent of a male head
+dating to the beginning of the third century <span
+class="smcaps">BC</span> and assignable to the
+pediment decoration of the sanctuary at Lo Scasato in Falerii, in which
+a Tarentine component has been acknowledged.[^3] The Getty head might
+date from around the first half of the third century <span
+class="smcaps">BC.</span>
+
+[^1]: For the influence of Lysippos in Taras, see P. Moreno, *Scultura
+    ellenistica* (Rome, 1994), pp. 55–60, 115–23.
+
+[^2]: For the antefix fragment, see C. Drago, “Taranto: Rinvenimenti e
+    scavi 24 agosto–17 novembre 1934,” *NSc*, ser. 7, no. 1 (1940), p.
+    329, fig. 20; for the antefix in the British Museum from the first
+    half of the fourth century <span
+    class="smcaps">BC</span>, see <span
+    class="smcaps">Higgins</span> 1954, no. 1335
+    *bis*, pl. 185; for the mask of Pan from the end of the fourth
+    century <span class="smcaps">BC</span>, see A.
+    Ciancio, “Una tomba gentilizia sull’acropoli di Monte Sannace (Gioia
+    del Colle),” *Taras* 9, nos. 1–2 (1987), pp. 99–104, pl. XXXIV, no.
+    1; for other comparisons, see the head in <span
+    class="smcaps">Poli</span> 2010, cat. 611, from
+    the last decades of the fourth century <span
+    class="smcaps">BC</span>; an unpublished head of a
+    banqueter from the votive deposit of Fondo D’Ayala, inv. 3406; a
+    head of a statuette from the Via di Palma votive deposit, inv.
+    200264. For the type of clearly defined locks of hair, see also the
+    pieces in <span class="smcaps">Herdejürgen</span>
+    1982, no. 132, from the third quarter of the fourth century <span
+    class="smcaps">BC</span>; the heads from Lucera in
+    <span class="smcaps">D’Ercole</span> 1990, pl. 7,
+    pp. 28–29; and the male bust from Lavello of the third century <span
+    class="smcaps">BC</span> in A. Bottini and P. G.
+    Guzzo, “Busti divini da Lavello,” *BdA* 72 (1992), pp. 1–10.
+
+[^3]: In A. Comella, *Le terrecotte architettoniche del Santuario dello
+    Scasato a Falerii: Scavi 1886–1887* (Naples, 1993), pp. 107–10.
