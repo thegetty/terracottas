@@ -2,6 +2,10 @@ body {
   background-color: $base-background-color;
 }
 
+.hidden {
+  display: none;
+}
+
 %inverse-link {
   color: $inverse-color;
   text-decoration: none;
@@ -17,4 +21,14 @@ body {
   &:focus {
     outline: none;
   }
+}
+
+.smcaps {
+  text-transform: lowercase;
+  font-variant: small-caps;
+  letter-spacing: 1px;
+}
+
+.footnotes ol {
+  @extend %default-ol;
 }
