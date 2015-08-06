@@ -1,3 +1,7 @@
+---
+title: Head of a Man
+---
+
 **South Italy**
 
 **Taranto**

@@ -1,6 +1,7 @@
 body {
-  @include font-feature-settings("kern", "liga", "pnum");
+  @include font-feature-settings("kern", "liga", "pnum", "smcp");
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   color: $base-font-color;
   font-family: $base-font-family;
   font-size: $base-font-size;

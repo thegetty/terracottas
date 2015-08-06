@@ -9,9 +9,10 @@
 }
 
 .panel {
+  @include transition($base-transition);
   @include media($small-screen) {
     width: 100%;
-    min-height: 50vh;
+    // min-height: 50vh;
   }
   @include media($medium-screen-up) {
     float: left;
@@ -20,6 +21,10 @@
     overflow: auto;
   }
   position: relative;
+}
+
+.panel > * {
+  @include transition($base-transition);
 }
 
 .panel--right {
@@ -31,12 +36,38 @@
       z-index: 50;
     }
   }
+  &.panel--collapse {
+    @include transform(translateX(50vw));
+    width: 0%;
+  }
 }
 
 .panel__header {
   @include display(flex);
   @include flex-direction(row);
   @include justify-content(space-between);
+  @include transition($base-transition);
+
+  a {
+    cursor: pointer;
+  }
+}
+
+// Expand/collapse classes
+.panel--expand {
+  width: 100%;
+
+  .panel__header {
+    width: 100%;
+  }
+}
+
+.panel--collapse {
+  // @include transform(scale(0));
+  // @include transform-origin(center left);
+  @include transform(translateX(-50vw));
+  width: 0%;
+  //height: 0;
 }
 
 // Transparent overlay header is absolutely positioned.
@@ -48,6 +79,7 @@
   text-align: right;
 
   a {
+    cursor: pointer;
     @extend %inverse-link;
   }
 }
@@ -75,10 +107,10 @@
 .panel__inner {
   padding: $small-spacing;
   @include media($medium-screen-up) {
-    padding: $base-spacing * 2;
+    padding: $base-spacing * 3;
   }
   @include media($large-screen-up) {
-    max-width: 750px;
+    max-width: 800px;
     margin: 0 auto;
   }
 }
