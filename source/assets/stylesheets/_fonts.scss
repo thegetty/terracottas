@@ -7,3 +7,24 @@
 $asset-pipeline: true;
 
 // ionicons are imported in their own scss file (see vendor folder)
+
+// Merriweather
+@include font-face("Merriweather", "../fonts/merriweather-light", 300);
+@include font-face("Merriweather", "../fonts/merriweather-regular", 400);
+@include font-face("Merriweather", "../fonts/merriweather-bold", 700);
+@include font-face("Merriweather", "../fonts/merriweather-black", 900);
+
+@include font-face("Merriweather", "../fonts/merriweather-lightitalic", 300, italic);
+@include font-face("Merriweather", "../fonts/merriweather-italic", 400, italic);
+@include font-face("Merriweather", "../fonts/merriweather-bolditalic", 700, italic);
+
+// Montreal (based on Montserrat but without weird Q)
+@include font-face("Montreal", "../fonts/montreal-regular", 400);
+@include font-face("Montreal", "../fonts/montreal-bold", 700);
+
+// Karla (similar to trade gothic)
+@include font-face("Karla", "../fonts/karla-regular", 400);
+@include font-face("Karla", "../fonts/karla-bold", 700);
+
+@include font-face("Karla", "../fonts/karla-italic", 400, italic);
+@include font-face("Karla", "../fonts/karla-bolditalic", 700, italic);
