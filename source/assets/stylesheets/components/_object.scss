@@ -1,13 +1,28 @@
 .object__title {
-  font-size: $base-font-size * 2;
-  font-weight: 400;
+  font-size: $base-font-size * 2.5;
+  font-weight: 600;
   text-align: center;
 
   @include media($medium-screen-up) {
-    font-size: $base-font-size * 3;
   }
 }
 
+.object__section-head {
+  border-bottom: $base-border;
+  font-size: $base-font-size * 1.5;
+  font-weight: 400;
+}
+
 .object__content {
-  font-size: 1.25em;
+  font-size: $base-font-size * 1.25;
+  line-height: 1.7;
+
+  @include media($large-screen-up) {
+    font-size: $base-font-size * 1.35;
+  }
+
+  p {
+    margin: 0;
+    + p { text-indent: $base-spacing; }
+  }
 }
