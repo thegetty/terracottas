@@ -3,6 +3,7 @@ require "extensions/views"
 activate :views
 activate :directory_indexes
 
+# Global site settings
 set :relative_links, true
 set :css_dir, 'assets/stylesheets'
 set :js_dir, 'assets/javascripts'
@@ -10,6 +11,9 @@ set :images_dir, 'assets/images'
 set :fonts_dir, 'assets/fonts'
 set :layout, 'layouts/application'
 set :partials_dir, 'partials'
+set :markdown_engine, :kramdown
+set :markdown, :parse_block_html => true
+set :site_title, "Ancient Terracottas"
 
 configure :development do
  activate :livereload
@@ -38,4 +42,4 @@ helpers do
   end
 end
 
-page "/collection/*", :layout => :detail
+page "/collection/*", :layout => :object

@@ -1,0 +1,66 @@
+= wrap_layout :panels do
+  - current_item = data.terracottas.select { |item| item[:cat] == current_page.data.cat}.first
+  %article
+    %h2.object__meta.mt2= current_item.cat.to_s unless current_item.cat.nil?
+    %h1.object__title.mt1.mb3= current_page.data.title
+    %h3.object__meta.mt2.mb3= current_item.date unless current_item.date.nil?
+    .object__content.mt2
+      .object__content__section.expander
+        %a{:href => "javascript:void(0);", | 
+          :class => "expander__trigger expander--hidden"}
+          %h3.pb1.mt3 Object Info
+        .expander__content
+          .object__info
+            %ul
+              %li.object__attr.mb1
+                %strong Inventory Number: 
+                %span= current_item.acc unless current_item.acc.nil?
+              %li.object__attr.mb1
+                %strong Grouping:
+                = current_item.group unless current_item.group.nil?
+              %li.object__attr.mb1
+                %strong Region: 
+                %span= current_item.region
+                %span= ", #{current_item.city}" unless current_item.city.nil?
+              %li
+                %ul.object__attr.mb1 
+                  %strong Dimensions:
+                  - current_item.dimensions.each do |dimension|
+                    %li
+                      %span= "#{dimension.desc}:" unless dimension.desc.nil?
+                      %br
+                      %span.pl1= "W: #{dimension.width}" unless dimension.width.nil?
+                      %span.pl1= "H: #{dimension.height}" unless dimension.height.nil?
+                      %span.pl1= "D: #{dimension.depth}" unless dimension.depth.nil?
+
+      .object__content__section.expander
+        %a{:href => "javascript:void(0);", | 
+          :class => "expander__trigger expander--hidden"}
+          %h3.pb1.mt3 Fabric
+        .expander__content
+          %p= current_page.data.fabric
+      .object__content__section.expander
+        %a{:href => "javascript:void(0);", | 
+          :class => "expander__trigger expander--hidden"}
+          %h3.pb1.mt3 Condition
+        .expander__content
+          %p= current_page.data.condition
+      .object__content__section.expander
+        %a{:href => "javascript:void(0);", |
+          :class => "expander__trigger expander--hidden"}
+          %h3.pb1.mt3 Provenance
+        .expander__content
+          %p= current_item.provenance unless current_item.nil?
+      .object__content__section.expander
+        %a{:href => "javascript:void(0);", | 
+          :class => "expander__trigger expander--hidden"}
+          %h3.pb1.mt3 Bibliography
+        .expander__content
+          %p= current_page.data.bibliography
+      .object__content__section.expander
+        %a{:href => "javascript:void(0);", |
+          :class => "expander__trigger expander--hidden"}
+          %h3.pb1.mt3 Description
+        .expander__content
+          = yield
+

@@ -4,13 +4,22 @@
   group: Group of a Seated Poet and Sirens
   region: South Italy
   city: Taranto
-  typology: Statues and Busts
-  date: 330-300 BC
-  munsell: 7.5 yr 8/3-8/5
-  dimensions: 
-    H: 104cm 
-    W: 56.8cm 
-    D: 100.6cm
+  date: 330–300 BC
+  munsell: "Munsell 7.5 yr 8/3–8/5"
+  dimensions:
+  - desc: "Orpheus with chair, footstool, and slab (overall)"
+    height: 104 cm
+    width: 56.8 cm
+    depth: 100 cm
+  - desc: "Footstool rest"
+    height: 6.7 cm
+    width: 29.7 cm
+    depth: 24 cm
+  - desc: "Footstool rest, flat slab"
+    height: 3 cm
+    width: 44.9 cm
+    depth: 34.1 cm
+  provenance: "1976 Bank Leu A. G. (Zurich, Switzerland), sold to the J. Paul Getty Museum, 1976."
 
 - cat: 2
   acc: 76.AD.11.2

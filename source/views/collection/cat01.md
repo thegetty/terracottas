@@ -1,50 +1,20 @@
 ---
 title: Statue of a Seated Poet (Orpheus?)
 cat: 1
+fabric: >
+  Light orange in color, slightly purified with more intense shade (Munsell 7.5 yr 8/3–8/5); the surface is covered by a white slip of calcium carbonate. Preserved pigments. <br /><br />
+  <strong>Footstool (76.AD.11.4):</strong> Upper surface, sparse orange-gold pigment. The sides of the footstool show a greater preservation of the orange-gold pigment layer as well as some black pigment. The base (76.AD.11.5) has a reddish tone. <br /><br />
+  <strong>Chair:</strong> Little pigment preservation on the sides; the legs were brightly colored in a gold-yellow pigment; the center panel of the chair back is also a gold color, similar to the legs, while the areas between the upper posts of the chair and the panel were red, indicating Orpheus’s garment. <br /><br />
+  <strong>Orpheus:</strong> The head reveals traces of two colors in two layers: a red color layer partially covered with a layer of brown pigment. The drapery area is covered with a red pigment. The skin is pink.
+condition: >
+  The musical instrument and the middle finger of the left hand are missing. The figure was reassembled from a number of fragments prior to its acquisition by the J. Paul Getty Museum. The legs, the head, and several sections of the himation were reattached. Missing sections were filled in, especially on the chair in the area of the backrest and the rear portion of the torso. During this interval, for which no specific documentation exists, it is likely that invasive cleaning also damaged some of the ancient polychromy. Recent investigations have helped clarify that the obscuring encrustations were probably added at this time, especially on the body and the head, in order to conceal break lines and areas of fill, and to give the figure a more uniform appearance overall. The interior of the statue was also widely consolidated and reinforced with an added material, except in several sections where the clay is still visible. As a result, there are only a few places where the original marks of the modeling and the fingerprints of the coroplast can be observed. In 1983, exploratory cleaning on a limited portion of the footstool and chair was performed by the Getty’s Antiquities Conservation Department, revealing some of the original polychromy and the presence of footprints on the upper surface of the footstool.
+bibliography: >
+  Unpublished.
 ---
-<!-- **South Italy**
-
-**Taranto**
-
-**1.**
-
-**Statue of a Seated Poet (Orpheus?)**
-
-**Group of a Seated Poet and Sirens**
-
-76.AD.11.1
-
-<span class="smcaps">Date: 330–300 BC</span>
-
-<span class="smcaps">Fabric</span>: light orange in
-color, slightly purified with more intense shade (Munsell 7.5 yr 8/3–8/5); the surface is covered by a white slip of calcium carbonate. Preserved pigments. -->
-
-Footstool (76.AD.11.4): upper surface, sparse orange-gold pigment. The sides of the footstool show a greater preservation of the orange-gold pigment layer as well as some black pigment. The base (76.AD.11.5) has a reddish tone.
-<br />
-<br />
-Chair: little pigment preservation on the sides; the legs were brightly colored in a gold-yellow pigment; the center panel of the chair back is also a gold color, similar to the legs, while the areas between the upper posts of the chair and the panel were red, indicating Orpheus’s garment.
-<br />
-<br />
-Orpheus: The head reveals traces of two colors in two layers: a red color layer partially covered with a layer of brown pigment. The drapery area is covered with a red pigment. The skin is pink.
-<br />
-<br />
-Orpheus with chair, footstool, and slab (overall): H: 104 cm; W: 56.8 cm; D: 100.6 cm Footstool rest: H: 6.7 cm; W: 29.7 cm; D: 24 cm
-<br />
-<br />
-Footstool rest, flat slab: H: 3.0 cm; W: 44.9 cm; D: 34.1 cm
-<br />
-<br />
-<span class="smcaps">Condition:</span> The musical
-instrument and the middle finger of the left hand are missing. The figure was reassembled from a number of fragments prior to its acquisition by the J. Paul Getty Museum. The legs, the head, and several sections of the himation were reattached. Missing sections were filled in, especially on the chair in the area of the backrest and the rear portion of the torso. During this interval, for which no specific documentation exists, it is likely that invasive cleaning also damaged some of the ancient polychromy. Recent investigations have helped clarify that the obscuring encrustations were probably added at this time, especially on the body and the head, in order to conceal break lines and areas of fill, and to give the figure a more uniform appearance overall. The interior of the statue was also widely consolidated and reinforced with an added material, except in several sections where the clay is still visible. As a result, there are only a
-few places where the original marks of the modeling and the fingerprints of the coroplast can be observed. In 1983, exploratory cleaning on a limited portion of the footstool and chair was performed by the Getty’s Antiquities Conservation Department, revealing some of the original polychromy and the presence of footprints on the upper surface of the footstool.
-
-<span class="smcaps">Provenance</span>: – 1976 Bank Leu A. G. (Zurich, Switzerland), sold to the J. Paul Getty Museum, 1976.
-
 The male figure is shown sitting on a *klismos* (seat). The seat, with a broad, rounded backrest, is set on a low rectangular platform composed of two distinct sections. The first section has a concave outer edge and is an integral part of the chair, serving as its base; the second section is composed of a movable element with a convex edge that fits flush and snug against the first section. The rectangular openings on either side of the chair may have been used either to lift the figure or to provide ventilation during firing.
 
 The body is wrapped in a mantle that covers his left shoulder and part of his left arm, leaving his chest bare and showing wrinkles around the navel and the armpit. The mantle drops on either side with deep folds, covering the figure’s legs to the calves. The legs are slightly spread,
-so that the clay of the garment forms thin, deep folds. The right foot rests on the footstool, while only the tip of the left foot touches it. The figure is wearing flat sandals with thongs that cross on the top of the feet. The footstool is made of a rectangular slab with moldings and
-two lateral elements with a rounded shape, terminating in four corbels.
+so that the clay of the garment forms thin, deep folds. The right foot rests on the footstool, while only the tip of the left foot touches it. The figure is wearing flat sandals with thongs that cross on the top of the feet. The footstool is made of a rectangular slab with moldings and two lateral elements with a rounded shape, terminating in four corbels.
 
 The figure’s head is erect and turned toward the right. The face is rounded; the mouth, with its fleshy, carefully modeled lips, is partially open, revealing the upper dental arch; a dimple marks the point where the lower lip meets the prominent chin. The curling of the lower lip and the half-open mouth are both signs that this character was probably portrayed in the act of singing. The nose is straight, thenostrils are rounded, and the almond-shaped eyes have distinctly portrayed eyelids, with clearly depicted tear glands. The supraorbital arch, broad and close to the eye, runs directly into the upper part of the nose. The hair must have been painted, as was determined by a careful analysis of the nape of the neck, but it is possible that the head was partially covered by a headdress, as the modeling of the upper part of the forehead seems to suggest. The ears are well modeled.
 
