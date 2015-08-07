@@ -3,21 +3,29 @@
   - if current_page.data.cat == object.cat
     %hr
     %ul.object__info
-      %li.object_attr.mb1= "Cat." + object.cat.to_s unless object.cat.nil?
+      %li.object_attr.mb1= "Cat. " + object.cat.to_s unless object.cat.nil?
       %li.object_attr.mb1= object.acc unless object.acc.nil?
-      %li.object_attr.mb1= object.title unless object.title.nil?
       %li.object_attr.mb1= object.group unless object.group.nil?
       %li.object_attr.mb1= object.region unless object.region.nil?
       %li.object_attr.mb1= object.city unless object.city.nil?
-      %li.object_attr.mb1= object.typology unless object.typology.nil?
       %li.object_attr.mb1= object.date unless object.date.nil?
       %li.object_attr.mb1= object.munsell unless object.munsell.nil?
-      %li.object_attr.mb1= object.dimensions unless object.dimensions.nil?
+      %ul.object_attr.mby Dimensions:
+      - object.dimensions.each do |dimension|
+        %li
+          %span= "#{dimension.desc}:" unless dimension.desc.nil?
+          %span= "W: #{dimension.width}" unless dimension.width.nil?
+          %span= "H: #{dimension.height}" unless dimension.height.nil?
+          %span= "D: #{dimension.depth}" unless dimension.depth.nil?
     %hr
 %h2.object__section-head.pb3.mt3 Fabric
+= current_page.data.fabric
 %h2.object__section-head.pb3.mt3 Condition
+= current_page.data.condition
 %h2.object__section-head.pb3.mt3 Provenance
+- current_item = data.terracottas.select { |item| item[:cat] == current_page.data.cat}.first
+= current_item.provenance
 %h2.object__section-head.pb3.mt3 Bibliography
-%h2.object__section-head.pb3.mt3 Description
+
 
 
