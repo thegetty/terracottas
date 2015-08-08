@@ -56,6 +56,11 @@ $(document).ready(function() {
     event.preventDefault();
   });
 
+  $("#leftPanelToggle").click(function (event) {
+    leftPanelToggle();
+    event.preventDefault();
+  });
+
   $(".expander__trigger").click(function () {
     $(this).toggleClass("expander--hidden");
   });

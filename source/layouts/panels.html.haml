@@ -5,8 +5,13 @@
 
   .panel.panel--left
     .panel__header--overlay.p1
-      .panel__inner
-        #map
+      .panel__header__left
+      .panel__header__center
+      .panel__header__right
+        %a{:id => 'leftPanelToggle'}
+          %i.ion-arrow-expand.h2.ml2.mt1
+    .panel__inner
+      #map
 
   .panel.panel--right
     - if current_item.nil?
