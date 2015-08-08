@@ -1,3 +1,9 @@
+.object__header {
+  @include media($large-screen-up) {
+    margin-top: $base-spacing * 2;
+    margin-bottom: $base-spacing * 2;
+  }
+}
 .object__title {
   font-weight: 600;
   text-align: center;
@@ -8,8 +14,11 @@
 
 .object__info {
   font-family: $heading-font-family;
-  //font-size: $base-font-size * 1.25;
   line-height: 1.3;
+
+  tbody tr:last-child {
+    td { border-bottom: 0px; }
+  }
 }
 
 .object__meta {
@@ -19,30 +28,17 @@
   text-align: center;
 }
 
-.object__attr {
-
-}
-
-.object__content {
-}
-
 .object__content__section {
   border-bottom: $base-border;
-  font-size: $base-font-size * 1.25;
+  font-size: $base-font-size * 1.125;
   margin: 0 0 $base-spacing 0;
   + p { text-indent: $base-spacing; }
+
+  @include media($large-screen-up) { font-size: $base-font-size * 1.25; }
 }
 
 .expander {  
-  .expander__trigger {
-    display: block;
-  }
-
-  .expander__content {
-    margin-bottom: $base-spacing;
-  }
-
-  .expander--hidden + .expander__content {
-    display: none;
-  }
+  .expander__trigger { display: block; }
+  .expander__content { margin-bottom: $base-spacing; }
+  .expander--hidden + .expander__content { display: none; }
 }

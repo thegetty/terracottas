@@ -30,10 +30,13 @@
   typology: Statues and Busts
   date: 330-300 BC
   munsell: 7.5 yr 8/3
-  dimensions: 
-    H: 140cm 
-    W: 35.8cm 
-    D: 55.2cm2
+  dimensions:
+  - desc: "Overall"
+    height: 140 cm
+    width: 35.8 cm
+    depth: 55.2 cm
+  - desc: "From center of belly to tail"
+    width: 49.1 cm
 
 - cat: 3
   acc: 76.AD.11.3

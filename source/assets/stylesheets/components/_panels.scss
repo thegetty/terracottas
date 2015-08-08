@@ -1,90 +1,34 @@
-// Mapbox map needs to be given height
-#map {
-  @include media($small-screen) {
-    height: 50vh;
-  }
-  @include media($medium-screen-up) {
-    height: 100vh;
-  }
-}
-
+// Panel Base
+// =============================================
 .panel {
   @include transition($base-transition);
-  @include media($small-screen) {
-    width: 100%;
-    // min-height: 50vh;
-  }
+  position: relative;
+
+  @include media($small-screen) { width: 100%; }
   @include media($medium-screen-up) {
     float: left;
     height: 100vh;
     width: 50%;
     overflow: auto;
-  }
-  position: relative;
-}
-
-.panel > * {
-  @include transition($base-transition);
-}
-
-.panel--right {
-  @include media($medium-screen-up) {
-    .panel__header {
-      background-color: $base-background-color;
-      position: fixed;
-      width: 50%;
-      z-index: 50;
-    }
-  }
-  &.panel--collapse {
-    @include transform(translateX(50vw));
-    width: 0%;
+    -webkit-overflow-scrolling: touch;
   }
 }
 
+// Animate transitions on all children
+.panel > * { @include transition($base-transition); }
+
+// Panel Header div
+// =============================================
 .panel__header {
   @include display(flex);
   @include flex-direction(row);
   @include justify-content(space-between);
   @include transition($base-transition);
-
-  a {
-    cursor: pointer;
-  }
+  a { cursor: pointer; }
 }
 
-// Expand/collapse classes
-.panel--expand {
-  width: 100%;
-
-  .panel__header {
-    width: 100%;
-  }
-}
-
-.panel--collapse {
-  // @include transform(scale(0));
-  // @include transform-origin(center left);
-  @include transform(translateX(-50vw));
-  width: 0%;
-  //height: 0;
-}
-
-// Transparent overlay header is absolutely positioned.
-// Sizes are relative to panels, which have relative position 
-.panel__header--overlay {
-  position: absolute;
-  width: 100%;
-  z-index: 50;
-  text-align: right;
-
-  a {
-    cursor: pointer;
-    @extend %inverse-link;
-  }
-}
-
-
+// Panel Header components (left, right, center)
+// ---------------------------------------------
 .panel__header__left {
   @include flex(0 0 25%);
   @include display(flex);
@@ -104,13 +48,82 @@
   text-align: center;
 }
 
-.panel__inner {
-  padding: $small-spacing;
-  @include media($medium-screen-up) {
-    padding: $base-spacing * 3;
+// Transparent overlay header is absolutely positioned.
+// Sizes are relative to panels, which have relative position 
+.panel__header--overlay {
+  position: absolute;
+  width: 100%;
+  z-index: 50;
+  text-align: right;
+
+  a {
+    cursor: pointer;
+    @extend %inverse-link;
   }
-  @include media($large-screen-up) {
-    max-width: 825px;
-    margin: 0 auto;
+}
+
+// Panel States (--expand, --collapse)
+// =============================================
+.panel--expand { width: 100%; }
+
+.panel--collapse {
+  // @include transform(scale(0));
+  // @include transform-origin(center left);
+  @include transform(translateX(-50vw));
+  width: 0%;
+  //height: 0;
+}
+
+// Left panel (image/map panel)
+// =============================================
+.panel--left {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.panel__image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+// Mapbox map and image div need to have height applied
+#map, .panel__image {
+  background-color: #333;
+  @include media($small-screen) { height: 50vh; }
+  @include media($medium-screen-up) { height: 100vh; }
+}
+
+
+// Right panel (text panel)
+// =============================================
+.panel--right {
+  @include media($medium-screen-up) {
+    .panel__header {
+      background-color: $base-background-color;
+      position: fixed;
+      width: 50%;
+      z-index: 50;
+    }
+  }
+  
+  &.panel--expand {
+    .panel__header { width: 100%; }
+    .panel__inner { max-width: 1400px; margin: 0 auto; }
+  }
+
+  // Push away from center of page when collapsing, so override
+  &.panel--collapse {
+    @include transform(translateX(50vw));
+    width: 0%;
+  }
+
+  .panel__inner {
+    padding: $small-spacing;
+    @include media($medium-screen-up) { padding: $base-spacing * 2; }
+    @include media($large-screen-up) {
+      max-width: 825px;
+      margin: 0 auto;
+    }
   }
 }

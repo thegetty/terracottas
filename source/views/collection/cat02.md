@@ -1,34 +1,13 @@
-**South Italy**
-
-**Taranto**
-
-**2.**
-
-**Statue of a Standing Siren A**
-
-**Group of a Seated Poet and Sirens**
-
-76.AD.11.2
-
-<span class="smcaps">Date: 330–300 BC</span>
-
-<span class="smcaps">Fabric</span>: light orange in
-color, and in certain places a slightly more intense shade (Munsell 7.5
-yr 8/3); covered by a white slip (*latte di calce*). Traces of red are
-preserved on the claws.
-
-H: 140 cm; W: 35.8 cm; D: 55.2 cm; L (from center of belly to tail):
-49.1 cm
-
-<span class="smcaps">Condition:</span> This statue was
-reconstructed from several fragments; gaps can be seen in the short
-chiton and in the right claw. In the sections where the layer of white
-pigment has been preserved, the surface appears very smooth, especially
-in the hands and face.
-
-<span class="smcaps">Provenance</span>: – 1976 Bank
-Leu A. G. (Zurich, Switzerland), sold to the J. Paul Getty Museum, 1976.
-
+---
+title: Statue of a Standing Siren A
+cat: 2
+fabric: >
+  Light orange incolor, and in certain places a slightly more intense shade (Munsell 7.5 yr 8/3); covered by a white slip (<em>latte di calce</em>). Traces of red are preserved on the claws.
+condition: >
+  This statue was reconstructed from several fragments; gaps can be seen in the short chiton and in the right claw. In the sections where the layer of white pigment has been preserved, the surface appears very smooth, especially in the hands and face.
+bibliography: >
+  Unpublished.
+---
 The Siren stands in a meditative pose. She is resting her long, slender
 legs, which terminate in four long talons, atop a rounded, rocky base
 marked by a series of protuberances. The upper part of her body is human
