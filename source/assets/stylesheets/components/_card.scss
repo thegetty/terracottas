@@ -32,4 +32,6 @@
   border-bottom-left-radius: $base-border-radius;
   border-bottom-right-radius: $base-border-radius;
 
+  a { @extend %inverse-link; }
+
 }
