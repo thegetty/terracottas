@@ -120,7 +120,7 @@
 
   .panel__inner {
     padding: $small-spacing;
-    @include media($medium-screen-up) { padding: $base-spacing * 2; }
+    @include media($medium-screen-up) { padding: $base-spacing * 3; }
     @include media($large-screen-up) {
       max-width: 825px;
       margin: 0 auto;
