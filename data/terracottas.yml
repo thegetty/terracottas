@@ -20,6 +20,9 @@
     width: 44.9 cm
     depth: 34.1 cm
   provenance: "1976 Bank Leu A. G. (Zurich, Switzerland), sold to the J. Paul Getty Museum, 1976."
+  pixel_width: 6551
+  pixel_height: 8189
+  max_zoom: 5
 
 - cat: 2
   acc: 76.AD.11.2
@@ -37,6 +40,9 @@
     depth: 55.2 cm
   - desc: "From center of belly to tail"
     width: 49.1 cm
+  pixel_width: 6947
+  pixel_height: 8684
+  max_zoom: 6
 
 - cat: 3
   acc: 76.AD.11.3
@@ -47,7 +53,7 @@
   typology: Statues and Busts
   date: 330-300 BC
   munsell: 7.5 yr 8/3
-  dimensions: 
+  dimensions:
     H: 140 cm
     W: W:48 cm
     D: D:68 cm
@@ -61,8 +67,8 @@
   date: 330-300 BC
   munsell: 7.5 yr 8/4;5 yr 7/6
   dimensions:
-    H: 13.5 cm 
-    W: 13.8 cm 
+    H: 13.5 cm
+    W: 13.8 cm
     face: 10.4 cm
 
 - cat: 5
@@ -74,8 +80,8 @@
   date: Late fourth-early third centuries BC
   munsell: 2.5 yy 8/3
   dimensions:
-    H: 17.1 cm 
-    W: 14.3 cm 
+    H: 17.1 cm
+    W: 14.3 cm
     face: 11.3 cm
 
 - cat: 10
@@ -87,8 +93,8 @@
   date: About 350 BC
   munsell: 10 yr 8/3
   dimensions:
-    H: 23.5 cm 
-    W: 17.2 cm 
+    H: 23.5 cm
+    W: 17.2 cm
 
 - cat: 26
   acc: 78.AD.294.1
@@ -99,8 +105,8 @@
   date: Late fourth-third centuries BC
   munsell: 7.5 yr 8/6
   dimensions:
-    H: 16.4 cm 
-    W: 5.9 cm 
+    H: 16.4 cm
+    W: 5.9 cm
 
 - cat: 27
   acc: 96.AD.164
@@ -111,8 +117,8 @@
   date: Fourth-third centuries BC
   munsell: 10yr 8/3
   dimensions:
-    H: 10.3 cm 
-    W: 4.1 cm 
+    H: 10.3 cm
+    W: 4.1 cm
 
 - cat: 43
   acc: 81.AD.158
@@ -123,8 +129,8 @@
   date: Late fourth-early third centuries BC
   munsell: 7.5 yr 7/4
   dimensions:
-    H: 23.5 cm 
-    W: 7.3 cm 
+    H: 23.5 cm
+    W: 7.3 cm
 
 - cat: 44
   acc: 96.AD.266
@@ -135,8 +141,8 @@
   date: 200-100 BC
   munsell: 5 yr 8/4
   dimensions:
-    H: 21.8 cm 
-    W: 10.9 cm 
+    H: 21.8 cm
+    W: 10.9 cm
 
 - cat: 46
   acc: 96.AD.265.2
@@ -148,8 +154,8 @@
   date: Late fourth-third centuries BC
   munsell: 7.5 yr 8/6
   dimensions:
-    H: 10.2 cm cm 
-    W: 5.9 cm 
+    H: 10.2 cm cm
+    W: 5.9 cm
 
 - cat: 49
   acc: 71.AD.148
@@ -161,7 +167,7 @@
   munsell: 2.5 yr 7/8-7.5 yr 8/6
   dimensions:
     H: 8.7 cm
-    W: 10 cm 
+    W: 10 cm
     D: 10.7 cm
 
 - cat: 50
@@ -186,7 +192,7 @@
   munsell: 2.5 yr 7/6-7/8
   dimensions:
     H: 28.8 cm
-    W: 19.1 cm 
+    W: 19.1 cm
     D: 12.2 cm (polos)
 
 - cat: 53
@@ -197,7 +203,7 @@
   date: 500-475 BC
   munsell: 10 yr 8/3
   dimensions:
-    H: 44.6 cm 
+    H: 44.6 cm
     D: 7 cm (incense cup)
 
 - cat: 54
@@ -208,7 +214,7 @@
   date: 525–500 BC
   munsell: 2.5 yr 7/6
   dimensions:
-    H: 14.2 cm 
+    H: 14.2 cm
     W: 16.17 cm
 
 - cat: 55
@@ -219,7 +225,7 @@
   date: Late third-early second centuries BC
   munsell: 5 yr 7/4
   dimensions:
-    H: 19.8 cm 
+    H: 19.8 cm
     D: 8.3 cm (base)
 
 - cat: 58
@@ -230,7 +236,7 @@
   date: 200-100 BC
   munsell: 5 yr 8/4
   dimensions:
-    H: 12 cm 
+    H: 12 cm
     D: 15.5 cm (base)
 
 - cat: 59
