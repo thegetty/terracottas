@@ -5,28 +5,51 @@ function initializeMap () {
   L.mapbox.map('map', 'egardner.n1p8bjh1');
 }
 
-function initLeaflet() {
+function initLeaflet(catalogueNumber, pixelWidth, pixelHeight, objectMaxZoom) {
   var mapMinZoom = 2;
-  var mapMaxZoom = 5;
+  var mapMaxZoom = objectMaxZoom;
   var map = L.map('map', {
     maxZoom: mapMaxZoom,
     minZoom: mapMinZoom,
     crs: L.CRS.Simple
   }).setView([0, 0], mapMaxZoom);
-  
+
   var mapBounds = new L.LatLngBounds(
-      map.unproject([0, 8192], mapMaxZoom),
-      map.unproject([6656, 0], mapMaxZoom));
+      map.unproject([0, pixelHeight], mapMaxZoom),
+      map.unproject([pixelWidth, 0], mapMaxZoom));
 
   map.fitBounds(mapBounds);
-  L.tileLayer('../assets/tiles/1/{z}/{x}/{y}.png', {
-    minZoom: mapMinZoom, maxZoom: mapMaxZoom,
-    bounds: mapBounds,
-    //maxBoundsViscosity: 1.0,
-    //attribution: 'Rendered with <a href="http://www.maptiler.com/">MapTiler</a>',
-    noWrap: true          
+  L.tileLayer('../assets/tiles/' + catalogueNumber + '/{z}/{x}/{y}.png', {
+    noWrap: true
+    //minZoom: mapMinZoom, maxZoom: mapMaxZoom,
+    //bounds: mapBounds,
+    //maxBoundsViscosity: 1.0
   }).addTo(map);
 }
+
+
+// function initLeaflet() {
+//   var mapMinZoom = 2;
+//   var mapMaxZoom = 5;
+//   var map = L.map('map', {
+//     maxZoom: mapMaxZoom,
+//     minZoom: mapMinZoom,
+//     crs: L.CRS.Simple
+//   }).setView([0, 0], mapMaxZoom);
+//
+//   var mapBounds = new L.LatLngBounds(
+//       map.unproject([0, 8192], mapMaxZoom),
+//       map.unproject([6656, 0], mapMaxZoom));
+//
+//   map.fitBounds(mapBounds);
+//   L.tileLayer('../assets/tiles/1/{z}/{x}/{y}.png', {
+//     minZoom: mapMinZoom, maxZoom: mapMaxZoom,
+//     bounds: mapBounds,
+//     //maxBoundsViscosity: 1.0,
+//     //attribution: 'Rendered with <a href="http://www.maptiler.com/">MapTiler</a>',
+//     noWrap: true
+//   }).addTo(map);
+// }
 
 
 function rightPanelToggle () {
@@ -48,8 +71,13 @@ function expandSection() {
 }
 
 $(document).ready(function() {
-  
-  initLeaflet();
+
+  var catalogueNumber = $(".object__content").data("catalogue");
+  var pixelWidth = $(".object__content").data("dimensions-width");
+  var pixelHeight = $(".object__content").data("dimensions-height");
+  var objectMaxZoom = $(".object__content").data("dimensions-max-zoom");
+
+  initLeaflet(catalogueNumber, pixelWidth, pixelHeight, objectMaxZoom);
 
   $("#rightPanelToggle").click(function (event) {
     rightPanelToggle();
