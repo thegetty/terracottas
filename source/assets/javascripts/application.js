@@ -11,7 +11,8 @@ function initLeaflet(catalogueNumber, pixelWidth, pixelHeight, objectMaxZoom) {
   var map = L.map('map', {
     maxZoom: mapMaxZoom,
     minZoom: mapMinZoom,
-    crs: L.CRS.Simple
+    crs: L.CRS.Simple,
+    attributionControl: false
   }).setView([0, 0], mapMaxZoom);
 
   var mapBounds = new L.LatLngBounds(
@@ -25,6 +26,9 @@ function initLeaflet(catalogueNumber, pixelWidth, pixelHeight, objectMaxZoom) {
     //bounds: mapBounds,
     //maxBoundsViscosity: 1.0
   }).addTo(map);
+
+
+  return map;
 }
 
 
@@ -66,9 +70,6 @@ function leftPanelToggle() {
   right.toggleClass("panel--collapse");
 }
 
-function expandSection() {
-
-}
 
 $(document).ready(function() {
 
@@ -77,15 +78,17 @@ $(document).ready(function() {
   var pixelHeight = $(".object__content").data("dimensions-height");
   var objectMaxZoom = $(".object__content").data("dimensions-max-zoom");
 
-  initLeaflet(catalogueNumber, pixelWidth, pixelHeight, objectMaxZoom);
+  map = initLeaflet(catalogueNumber, pixelWidth, pixelHeight, objectMaxZoom);
 
   $("#rightPanelToggle").click(function (event) {
     rightPanelToggle();
+    setTimeout(map.invalidateSize.bind(map), 1000);
     event.preventDefault();
   });
 
   $("#leftPanelToggle").click(function (event) {
     leftPanelToggle();
+    setTimeout(map.invalidateSize.bind(map), 1000);
     event.preventDefault();
   });
 
