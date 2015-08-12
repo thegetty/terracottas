@@ -8,7 +8,7 @@
       .panel__header__left
       .panel__header__center
       .panel__header__right
-        %a{:id => 'leftPanelToggle'}
+        %a.no-smoothState{:id => 'leftPanelToggle'}
           %i.ion-arrow-expand.h2.ml2.mt1
     .panel__inner
       #map
@@ -17,9 +17,9 @@
     - if current_item.nil?
       .panel__header.pt1.pb2
         .panel__header__left
-          %a{:id => 'rightPanelToggle'}
+          %a.no-smoothState{:id => 'rightPanelToggle'}
             %i.ion-arrow-expand.h2.ml2.mt1
-        .panel__header__center 
+        .panel__header__center
           %h4.mt2.h6= site_title
         .panel__header__right
           %a
@@ -32,7 +32,7 @@
         .panel__header__left
           %a{:href => "/collection"}
             %i.ion-grid.h2.ml2.mt1
-        .panel__header__center 
+        .panel__header__center
           %h4.mt2.h6= site_title
         .panel__header__right
           %a

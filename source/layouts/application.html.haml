@@ -9,7 +9,8 @@
     %link{href: "http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css", rel: "stylesheet"}
 
 
-  %body{class: page_classes}
-    = yield
+  %body
+    #main
+      = yield
     = javascript_include_tag "http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js", |
       "https://code.jquery.com/jquery-2.1.1.min.js", "application"

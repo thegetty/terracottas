@@ -8,7 +8,7 @@
     .object__content.mt2{:data => {:catalogue => current_item.cat.to_s, :dimensions => { :width => current_item.pixel_width, :height => current_item.pixel_height, :max_zoom => current_item.max_zoom}}}
       .object__content__section.expander
         %a{:href => "javascript:void(0);", |
-          :class => "expander__trigger expander--hidden"}
+          :class => "expander__trigger"}
           %h3.pb1.mt1 Object Details
         .expander__content
           %table.object__info
@@ -43,31 +43,31 @@
 
       .object__content__section.expander
         %a{:href => "javascript:void(0);", |
-          :class => "expander__trigger expander--hidden"}
+          :class => "expander__trigger"}
           %h3.pb1.mt1 Fabric
         .expander__content
           %p= current_page.data.fabric
       .object__content__section.expander
         %a{:href => "javascript:void(0);", |
-          :class => "expander__trigger expander--hidden"}
+          :class => "expander__trigger"}
           %h3.pb1.mt1 Condition
         .expander__content
           %p= current_page.data.condition
       .object__content__section.expander
         %a{:href => "javascript:void(0);", |
-          :class => "expander__trigger expander--hidden"}
+          :class => "expander__trigger"}
           %h3.pb1.mt1 Provenance
         .expander__content
           %p= current_item.provenance unless current_item.nil?
       .object__content__section.expander
         %a{:href => "javascript:void(0);", |
-          :class => "expander__trigger expander--hidden"}
+          :class => "expander__trigger"}
           %h3.pb1.mt1 Bibliography
         .expander__content
           %p= current_page.data.bibliography
       .object__content__section.expander
         %a{:href => "javascript:void(0);", |
-          :class => "expander__trigger expander--hidden"}
+          :class => "expander__trigger"}
           %h3.pb1.mt1 Description
         .expander__content
           = yield
