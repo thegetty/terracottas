@@ -49,7 +49,7 @@
 }
 
 // Transparent overlay header is absolutely positioned.
-// Sizes are relative to panels, which have relative position 
+// Sizes are relative to panels, which have relative position
 .panel__header--overlay {
   position: absolute;
   width: 100%;
@@ -94,6 +94,13 @@
   @include media($medium-screen-up) { height: 100vh; }
 }
 
+#future__panel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  z-index: 100;
+}
 
 // Right panel (text panel)
 // =============================================
@@ -106,7 +113,7 @@
       z-index: 50;
     }
   }
-  
+
   &.panel--expand {
     .panel__header { width: 100%; }
     .panel__inner { max-width: 1400px; margin: 0 auto; }

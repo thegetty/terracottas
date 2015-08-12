@@ -1,6 +1,7 @@
 //= require jquery.smoothState.min
 //= require velocity.min
 //= require velocity.ui.min
+//= require ramjet.min
 
 // =============================================================================
 // Basic UI Control functions
@@ -120,6 +121,22 @@ function setUpPage(){
   }
 }
 
+function ramjetTest(a, b){
+  // set the stage so ramjet copies the right styles...
+  b.classList.remove('hidden');
+
+  ramjet.transform( a, b, {
+    done: function () {
+      // this function is called as soon as the transition completes
+      b.classList.remove('hidden');
+    }
+  });
+
+  // ...then hide the original elements for the duration of the transition
+  a.classList.add('hidden');
+  b.classList.add('hidden');
+}
+
 // =============================================================================
 // Document.ready and smoothState.onAfter events
 
@@ -127,7 +144,6 @@ $(document).ready(function() {
   // Set up the UI
   setUpPage();
 
-  // SmoothState
   $("#main").smoothState({
     // Triggered when user clicks a link
     // Good place to animate removal of old content.
@@ -148,6 +164,8 @@ $(document).ready(function() {
           delay: 0
         });
         $container.html($newContent);
+        console.log("New Content: ");
+        console.log($newContent);
       }
     },
     // Triggered when the transition has completed.
