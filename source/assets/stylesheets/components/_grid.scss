@@ -1,5 +1,10 @@
 .grid-container {
   @include outer-container;
+  padding: $base-spacing;
+
+  @include media($large-screen-up) {
+    padding: 0;
+  }
 }
 
 .grid {
@@ -46,9 +51,21 @@
   }
 }
 
+.grid-cell-med--1of3 {
+  @include media($medium-screen-up) {
+    @include flex(0 0 33%);
+  }
+}
+
 .grid-cell-large--1of3 {
   @include media($large-screen-up) {
     @include flex(0 0 33%);
+  }
+}
+
+.grid-cell-large--1of4 {
+  @include media($large-screen-up) {
+    @include flex(0 0 25%);
   }
 }
 
