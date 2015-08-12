@@ -20,6 +20,14 @@ function leftPanelToggle() {
   right.toggleClass("panel--collapse");
 }
 
+function isHidden($el) {
+  if ($el.hasClass("expander--hidden")) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
 
 function addPanelControls() {
   $("#rightPanelToggle").click(function (event) {
@@ -33,8 +41,25 @@ function addPanelControls() {
   });
 
   $(".expander__trigger").click(function () {
-    $(this).toggleClass("expander--hidden");
-    //$(this).parent().find(".expander__content").slideToggle());
+    $section = $(this).parent().find(".expander__content");
+    if (isHidden($section)) {
+      $section.velocity("transition.slideDownIn", {
+        duration: 300,
+        complete: function () {
+          $section.toggleClass("expander--hidden");
+        }
+      });
+    } else {
+      $section.velocity("transition.slideUpOut", {
+        duration: 300,
+        complete: function () {
+          $section.toggleClass("expander--hidden");
+        }
+      });
+    }
+
+    //$(this).toggleClass("expander--hidden");
+    //$(this).parent().find(".expander__content").velocity("transition.slideUpIn");
   });
 }
 
@@ -111,7 +136,7 @@ function addMapResizeListener(map) {
 function setUpPage(){
   addPanelControls();
   if (isCatalogueItem($(".object__content"))) {
-    $(".expander__trigger").addClass("expander--hidden");
+    $(".expander__content").addClass("expander--hidden");
     var map = deepZoomSetup();
     // need to call this on map set up because using smoothState means that the
     // map element may be loaded asynchronously. setTimeout is needed because

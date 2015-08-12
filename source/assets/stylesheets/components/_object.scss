@@ -1,9 +1,11 @@
 .object__header {
+  @include transition($base-transition);
   @include media($large-screen-up) {
     margin-top: $base-spacing * 2;
     margin-bottom: $base-spacing * 2;
   }
 }
+
 .object__title {
   font-weight: 600;
   text-align: center;
@@ -28,7 +30,12 @@
   text-align: center;
 }
 
+.object__content {
+  @include transition($base-transition);
+}
+
 .object__content__section {
+  @include transition($base-transition);
   border-bottom: $base-border;
   font-size: $base-font-size * 1.125;
   margin: 0 0 $base-spacing 0;
@@ -40,5 +47,6 @@
 .expander {
   .expander__trigger { display: block; }
   .expander__content { margin-bottom: $base-spacing; }
-  .expander--hidden + .expander__content { display: none; }
+  //.expander--hidden + .expander__content { display: none; }
+  .expander--hidden { display: none;}
 }
