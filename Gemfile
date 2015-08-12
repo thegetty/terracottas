@@ -19,4 +19,4 @@ gem "turbolinks", require: false
 # Rakefile
 gem 'rake'
 gem 'nokogiri'
-gem 'rmagick'
+# gem 'rmagick'
