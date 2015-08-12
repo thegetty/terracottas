@@ -11,7 +11,7 @@
         %a.no-smoothState{:id => 'leftPanelToggle'}
           %i.ion-arrow-expand.h2.ml2.mt1
     .panel__inner
-      #map
+      #map{:data => {:catalogue => current_item.cat.to_s}}
 
   .panel.panel--right
     - if current_item.nil?
