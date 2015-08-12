@@ -37,9 +37,16 @@
                   %strong Dimensions
                 %td
               - current_item.dimensions.each do |dimension|
-                %tr
-                  %td.pr2= "#{dimension.desc}:" unless dimension.desc.nil?
-                  %td.pr2= "Width: #{dimension.width}, Height: #{dimension.height}, Depth: #{dimension.depth}"
+                - dimension.each_pair do |key, value|
+                  %tr
+                    - if key == "desc"
+                      %td.pr2{:colspan => 2}= value.capitalize
+                    - else
+                      %td.pr2= key.capitalize
+                      %td.pr2= value.capitalize
+                -# %tr
+                -#   %td.pr2= "#{dimension.desc}:" unless dimension.desc.nil?
+                -#   %td.pr2= "Width: #{dimension.width}, Height: #{dimension.height}, Depth: #{dimension.depth}"
 
       .object__content__section.expander
         %a{:href => "javascript:void(0);", |

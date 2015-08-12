@@ -20,3 +20,229 @@
     width: 44.9 cm
     depth: 34.1 cm
   provenance: "1976 Bank Leu A. G. (Zurich, Switzerland), sold to the J. Paul Getty Museum, 1976."
+  pixel_width: 6551
+  pixel_height: 8189
+  max_zoom: 5
+
+- cat: 2
+  acc: 76.AD.11.2
+  title: Statue of a Standing Siren A
+  group: Group of a Seated Poet and Sirens
+  region: South Italy
+  city: Taranto
+  typology: Statues and Busts
+  date: 330-300 BC
+  munsell: 7.5 yr 8/3
+  dimensions:
+  - desc: "Overall"
+    height: 140 cm
+    width: 35.8 cm
+    depth: 55.2 cm
+  - desc: "From center of belly to tail"
+    width: 49.1 cm
+  pixel_width: 6947
+  pixel_height: 8684
+  max_zoom: 6
+
+- cat: 3
+  acc: 76.AD.11.3
+  title: Statue of a Standing Siren B
+  group: Group of a Seated Poet and Sirens
+  region: South Italy
+  city: Taranto
+  typology: Statues and Busts
+  date: 330-300 BC
+  munsell: 7.5 yr 8/3
+  dimensions:
+    H: 140 cm
+    W: W:48 cm
+    D: D:68 cm
+
+- cat: 4
+  acc: 82.AD.93.12
+  title: Head of a Man
+  region: South Italy
+  city: Taranto
+  typology: Statues and Busts
+  date: 330-300 BC
+  munsell: 7.5 yr 8/4;5 yr 7/6
+  dimensions:
+    H: 13.5 cm
+    W: 13.8 cm
+    face: 10.4 cm
+
+- cat: 5
+  acc: 82.AD.93.13
+  title: Head of a Man
+  region: South Italy
+  city: Taranto
+  typology: Statues and Busts
+  date: Late fourth-early third centuries BC
+  munsell: 2.5 yy 8/3
+  dimensions:
+    H: 17.1 cm
+    W: 14.3 cm
+    face: 11.3 cm
+
+- cat: 10
+  acc: 82.AD.93.2
+  title: Head of a Woman
+  region: South Italy
+  city: Taranto
+  typology: Statues and Busts
+  date: About 350 BC
+  munsell: 10 yr 8/3
+  dimensions:
+    H: 23.5 cm
+    W: 17.2 cm
+
+- cat: 26
+  acc: 78.AD.294.1
+  title: Plaque with a Woman
+  region: South Italy
+  city: Taranto and the Apulian Region
+  typology: "Statuettes, Mask, and Appliques"
+  date: Late fourth-third centuries BC
+  munsell: 7.5 yr 8/6
+  dimensions:
+    H: 16.4 cm
+    W: 5.9 cm
+
+- cat: 27
+  acc: 96.AD.164
+  title: Statuette of a Seated Comic Actor
+  region: South Italy
+  city: Taranto and the Apulian Region
+  typology: "Statuettes, Mask, and Appliques"
+  date: Fourth-third centuries BC
+  munsell: 10yr 8/3
+  dimensions:
+    H: 10.3 cm
+    W: 4.1 cm
+
+- cat: 43
+  acc: 81.AD.158
+  title: Statuette of a Standing Woman
+  region: South Italy
+  city: Canosa
+  typology: "Statuettes, Mask, and Appliques"
+  date: Late fourth-early third centuries BC
+  munsell: 7.5 yr 7/4
+  dimensions:
+    H: 23.5 cm
+    W: 7.3 cm
+
+- cat: 44
+  acc: 96.AD.266
+  title: Statuette of Apollo
+  region: South Italy
+  city: Canosa
+  typology: "Statuettes, Mask, and Appliques"
+  date: 200-100 BC
+  munsell: 5 yr 8/4
+  dimensions:
+    H: 21.8 cm
+    W: 10.9 cm
+
+- cat: 46
+  acc: 96.AD.265.2
+  title: Seated Eros B
+  group: Statuettes of a Seated Eros
+  region: South Italy
+  city: Canosa
+  typology: "Statuettes, Mask, and Appliques"
+  date: Late fourth-third centuries BC
+  munsell: 7.5 yr 8/6
+  dimensions:
+    H: 10.2 cm cm
+    W: 5.9 cm
+
+- cat: 49
+  acc: 71.AD.148
+  title: Altar with Animals
+  region: South Italy
+  city: Unidentified Workshop
+  typology: Altars
+  date: 350-300BC
+  munsell: 2.5 yr 7/8-7.5 yr 8/6
+  dimensions:
+    H: 8.7 cm
+    W: 10 cm
+    D: 10.7 cm
+
+- cat: 50
+  acc: 77.AD.122
+  title: Minature Altar with Animal Combat
+  region: South Italy
+  city: Unidentified Workshop
+  typology: Altars
+  date: Late sixth-early fifth centuries BC
+  munsell: 2.5 yr 7/6
+  dimensions:
+    H: 4.9 cm
+    L: 14.1 cm
+    D: 6.4 cm
+
+- cat: 51
+  acc: 76.AD.34
+  title: Head of a Woman
+  region: Sicily
+  typology: Head
+  date: 350–300 BC
+  munsell: 2.5 yr 7/6-7/8
+  dimensions:
+    H: 28.8 cm
+    W: 19.1 cm
+    D: 12.2 cm (polos)
+
+- cat: 53
+  acc: 86.AD.681
+  title: Thymiaterion Supported by a Statuette of Nike
+  region: Sicily
+  typology: Statuettes
+  date: 500-475 BC
+  munsell: 10 yr 8/3
+  dimensions:
+    H: 44.6 cm
+    D: 7 cm (incense cup)
+
+- cat: 54
+  acc: 79.AD.37
+  title: Statuette of Odysseus under a Ram
+  region: Sicily
+  typology: Statuettes
+  date: 525–500 BC
+  munsell: 2.5 yr 7/6
+  dimensions:
+    H: 14.2 cm
+    W: 16.17 cm
+
+- cat: 55
+  acc: 73.AD.151
+  title: Statuette of a Woman with a Kithara
+  region: Sicily
+  typology: Statuettes
+  date: Late third-early second centuries BC
+  munsell: 5 yr 7/4
+  dimensions:
+    H: 19.8 cm
+    D: 8.3 cm (base)
+
+- cat: 58
+  acc: 96.AD.305
+  title: Mask of a Satyr
+  region: Sicily
+  typology: Mask
+  date: 200-100 BC
+  munsell: 5 yr 8/4
+  dimensions:
+    H: 12 cm
+    D: 15.5 cm (base)
+
+- cat: 59
+  acc: 71.AD.255
+  title: Clipeus with the Head of Medusa
+  region: Sicily
+  typology: Clipeus
+  date: 300-11 BC
+  munsell: 10 yr 8/3 and 7.5 yr 8/4
