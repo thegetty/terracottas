@@ -37,7 +37,7 @@
   @include media($large-screen-up) { font-size: $base-font-size * 1.25; }
 }
 
-.expander {  
+.expander {
   .expander__trigger { display: block; }
   .expander__content { margin-bottom: $base-spacing; }
   .expander--hidden + .expander__content { display: none; }

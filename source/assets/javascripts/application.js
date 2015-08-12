@@ -1,8 +1,59 @@
-//= require_tree .
-//= require turbolinks
+//= require jquery.smoothState.min
+//= require velocity.min
+//= require velocity.ui.min
 
+// =============================================================================
+// Basic UI Control functions
+
+function rightPanelToggle () {
+  var left = $(".panel--left");
+  var right = $(".panel--right");
+  left.toggleClass("panel--collapse");
+  right.toggleClass("panel--expand");
+}
+
+function leftPanelToggle() {
+  var left = $(".panel--left");
+  var right = $(".panel--right");
+  left.toggleClass("panel--expand");
+  right.toggleClass("panel--collapse");
+}
+
+
+function addPanelControls() {
+  $("#rightPanelToggle").click(function (event) {
+    rightPanelToggle();
+    event.preventDefault();
+  });
+
+  $("#leftPanelToggle").click(function (event) {
+    leftPanelToggle();
+    event.preventDefault();
+  });
+
+  $(".expander__trigger").click(function () {
+    $(this).toggleClass("expander--hidden");
+    //$(this).parent().find(".expander__content").slideToggle());
+  });
+}
+
+// =============================================================================
+// Determine whether the current page needs a deep zoom image
+
+function isCatalogueItem($el) {
+  if (!isNaN($el.data("catalogue"))) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+// =============================================================================
+// Set up Leaflet.js for deep zoom images
+
+// General leaflet setup
 function initLeaflet(catalogueNumber, pixelWidth, pixelHeight, objectMaxZoom) {
-  var mapMinZoom = 1;
+  var mapMinZoom = (objectMaxZoom - 3);
   var mapMaxZoom = objectMaxZoom;
   var map = L.map('map', {
     maxZoom: mapMaxZoom,
@@ -23,24 +74,8 @@ function initLeaflet(catalogueNumber, pixelWidth, pixelHeight, objectMaxZoom) {
   return map;
 }
 
-function rightPanelToggle () {
-  var left = $(".panel--left");
-  var right = $(".panel--right");
-  left.toggleClass("panel--collapse");
-  right.toggleClass("panel--expand");
-}
-
-function leftPanelToggle() {
-  var left = $(".panel--left");
-  var right = $(".panel--right");
-  left.toggleClass("panel--expand");
-  right.toggleClass("panel--collapse");
-}
-
-
-$(document).ready(function() {
-
-  // Initialize
+// DOM-specific setup code (where to find object info)
+function deepZoomSetup(){
   var catalogueNumber = $(".object__content").data("catalogue");
   var pixelWidth      = $(".object__content").data("dimensions-width");
   var pixelHeight     = $(".object__content").data("dimensions-height");
@@ -48,29 +83,78 @@ $(document).ready(function() {
   var map             = initLeaflet(
                           catalogueNumber, pixelWidth, pixelHeight, objectMaxZoom
                         );
+  // Returns a map object for use by other functions
+  return map;
+}
 
-  // Set up event listeners
+// =============================================================================
+// Fix Leaflet cropping bug after dynamically re-sizing the map area by
+// calling invalidateSize() whenever map region changes. Requires an already-
+// initialized map object passed in as argument.
+
+function addMapResizeListener(map) {
   $("#rightPanelToggle").click(function (event) {
-    rightPanelToggle();
-    setTimeout(map.invalidateSize.bind(map), 1000);
+    setTimeout(map.invalidateSize.bind(map), 350);
     event.preventDefault();
   });
 
   $("#leftPanelToggle").click(function (event) {
-    leftPanelToggle();
-    setTimeout(map.invalidateSize.bind(map), 1000);
+    setTimeout(map.invalidateSize.bind(map), 350);
     event.preventDefault();
   });
+}
 
-  $(".expander__trigger").click(function () {
-    $(this).toggleClass("expander--hidden");
+// =============================================================================
+// Set up all the things!
+
+function setUpPage(){
+  addPanelControls();
+  if (isCatalogueItem($(".object__content"))) {
+    $(".expander__trigger").addClass("expander--hidden");
+    var map = deepZoomSetup();
+    // need to call this on map set up because using smoothState means that the
+    // map element may be loaded asynchronously. setTimeout is needed because
+    // content must render first, then map size can be recalculated.
+    setTimeout(map.invalidateSize.bind(map), 100);
+    addMapResizeListener(map);
+  }
+}
+
+// =============================================================================
+// Document.ready and smoothState.onAfter events
+
+$(document).ready(function() {
+  // Set up the UI
+  setUpPage();
+
+  // SmoothState
+  $("#main").smoothState({
+    // Triggered when user clicks a link
+    // Good place to animate removal of old content.
+    onStart: {
+      duration: 500,
+      render: function ($container) {
+        $(".card").velocity({translateX: "200vw"},{duration: 400});
+        $container.velocity('fadeOut', {duration: 400, delay: 100});
+      },
+    },
+    // Triggered when new content has been loaded via AJAX.
+    // Good place to animate the insertion of new content.
+    onReady: {
+      duration: 500,
+      render: function ($container, $newContent) {
+        $container.velocity('fadeIn', {
+          duration: 500,
+          delay: 0
+        });
+        $container.html($newContent);
+      }
+    },
+    // Triggered when the transition has completed.
+    // Make sure to reinitialize any JS elements on the page at this point.
+    onAfter: function ($container, $newContent) {
+      setUpPage();
+    }
   });
-
-  $(".panel__image-trigger").click(function() {
-    $(this).toggleClass("active");
-    $(".panel__image").fadeToggle("fast", "linear");
-    $("#map").fadeToggle("fast", "linear");
-  });
-
 
 });
