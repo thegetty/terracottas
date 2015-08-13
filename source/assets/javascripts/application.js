@@ -172,11 +172,23 @@ $(document).ready(function() {
   $("#main").smoothState({
     // Triggered when user clicks a link
     // Good place to animate removal of old content.
+
+    // Example options when using the Velocity UI pack:
+    // $(".card").velocity("transition.slideRightOut", {
+    //   duration: 800,
+    //   stagger: 200,
+    //   drag: true
+    // });
+
     onStart: {
       duration: 500,
       render: function ($container) {
-        $(".card").velocity({translateX: "200vw"},{duration: 400});
-        $container.velocity('fadeOut', {duration: 400, delay: 100});
+        $container.velocity({
+          translateX: "-100vw"
+        }, {
+          duration: 500,
+        });
+        //$container.velocity('fadeOut', {duration: 400, delay: 100});
       },
     },
     // Triggered when new content has been loaded via AJAX.
@@ -184,11 +196,20 @@ $(document).ready(function() {
     onReady: {
       duration: 500,
       render: function ($container, $newContent) {
-        $container.velocity('fadeIn', {
+        $container.html($newContent);
+        $container.velocity({
+          translateX: "100vw"
+        }, {
+          duration: 0,
+          delay: 0
+        });
+        $container.velocity({
+          translateX: "0"
+        }, {
           duration: 500,
           delay: 0
         });
-        $container.html($newContent);
+
         console.log("New Content: ");
         console.log($newContent);
       }
