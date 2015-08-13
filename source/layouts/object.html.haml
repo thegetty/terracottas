@@ -78,13 +78,3 @@
           %h3.pb1.mt1 Description
         .expander__content
           = yield
-
-
-
-/ - current_item.dimensions.each do |dimension|
-/   %li
-/     %span= "#{dimension.desc}:" unless dimension.desc.nil?
-/     %br
-/     %span.pl1= "W: #{dimension.width}" unless dimension.width.nil?
-/     %span.pl1= "H: #{dimension.height}" unless dimension.height.nil?
-/     %span.pl1= "D: #{dimension.depth}" unless dimension.depth.nil?

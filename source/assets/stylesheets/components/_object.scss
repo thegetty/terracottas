@@ -45,6 +45,7 @@
 }
 
 .expander {
+  @include transition($base-transition);
   .expander__trigger { display: block; }
   .expander__content { margin-bottom: $base-spacing; }
   //.expander--hidden + .expander__content { display: none; }
