@@ -449,6 +449,9 @@
   - desc: Overall
     height: 11.5 cm
     width: 8.2 cm
+  pixel_width: 4096
+  pixel_height: 3584
+  max_zoom: 4
 
 - cat: 25
   acc: 78.AD.294.2
@@ -533,7 +536,6 @@
 - cat: 30
   acc: 96.AD.246
   title: Statuette of a Dancer
-  group:
   region: South Italy
   city: Taranto and the Apulian Region
   date: 400-200 BC
@@ -549,7 +551,6 @@
 - cat: 31
   acc: 96.AD.247
   title: Comic Mask
-  group:
   region: South Italy
   city: Taranto and the Apulian Region
   date: 300-200 BC
@@ -565,7 +566,6 @@
 - cat: 32
   acc: 71.AD.137
   title: Statuette of Eros with a Deer
-  group:
   region: South Italy
   city: Taranto and the Apulian Region
   date: 325-250 BC
@@ -584,7 +584,6 @@
 - cat: 33
   acc: 71.AD.138.1 and 71.AD.138.2
   title: Statuette of an Amazon
-  group:
   region: South Italy
   city: Taranto and the Apulian Region
   date: 300-200 BC
@@ -600,7 +599,6 @@
 - cat: 34
   acc: 71.AD.222
   title: Relief with Two Maenads
-  group:
   region: South Italy
   city: Taranto and the Apulian Region
   date: 350-300 BC
@@ -613,7 +611,6 @@
 - cat: 35
   acc: 71.AD.221
   title: Relief with a Fighting Arimasp
-  group:
   region: South Italy
   city: Taranto and the Apulian Region
   date: 350-300 BC
@@ -626,7 +623,6 @@
 - cat: 36
   acc: 71.AD.220
   title: Relief with a Bull
-  group:
   region: South Italy
   city: Taranto and the Apulian Region
   date: 350-300 BC
@@ -656,7 +652,6 @@
 - cat: 37
   acc: 80.AD.39.2
   title: Relief with Two Griffins Attacking a Deer
-  group:
   region: South Italy
   city: Taranto and the Apulian Region
   date: 350-300 BC
@@ -750,7 +745,6 @@
 - cat: 42
   acc: 79.AD.194
   title: Statue of a Mourning Woman
-  group:
   region: South Italy
   city: Canosa
   date: 300-250 BC
@@ -766,7 +760,6 @@
 - cat: 43
   acc: 81.AD.158
   title: Statuette of a Standing Woman
-  group:
   region: South Italy
   city: Canosa
   date: Late fourth-third centuries BC
@@ -782,7 +775,6 @@
 - cat: 44
   acc: 96.AD.266
   title: Statuette of Apollo
-  group:
   region: South Italy
   city: Canosa
   date: 200-100 BC
@@ -830,7 +822,6 @@
 - cat: 47
   acc: 86.AD.598.1
   title: Pair of Altars with the Myth of Adonis
-  group:
   region: South Italy
   city: Medma
   date: Late fifth-early fourth century BC
@@ -854,7 +845,6 @@
 - cat: 48
   acc: 86.AD.598.2
   title: Pair of Altars with the Myth of Adonis
-  group:
   region: South Italy
   city: Medma
   date: Late fifth-early fourth century BC
@@ -879,7 +869,6 @@
 - cat: 49
   acc: 71.AD.148
   title: Altar with Animals
-  group:
   region: South Italy
   city: "Unidentified Workshop, Metaponto"
   date: 350-300 BC
@@ -899,7 +888,6 @@
 - cat: 50
   acc: 77.AD.122
   title: Miniature Altar with Animal Combat
-  group:
   region: South Italy
   city: "Unidentified Workshop, Caulonia"
   date: Late sixth-early fifth centuries BC
@@ -916,7 +904,6 @@
 - cat: 51
   acc: 76.AD.34
   title: Head of a Woman
-  group:
   region: Sicily
   city: Selinunte/Agrigento
   date: 350-300 BC
@@ -944,10 +931,13 @@
   - desc: Back
     number: 5 yr 7/6
   dimensions:
-   desc: Overall
-   height: 26.4 cm
-   width: 35.5 cm
-   depth: 8.4-9.0
+  - desc: Overall
+    height: 26.4 cm
+    width: 35.5 cm
+    depth: 8.4-9.0
+  max_zoom: 5
+  pixel_width: 4608
+  pixel_height: 3328
 
 - cat: 53
   acc: 86.AD.681
@@ -964,11 +954,13 @@
     height: 44.6 cm
   - desc: Incense cup
     depth: 7 cm
+  pixel_width: 3328
+  pixel_height: 4352
+  max_zoom: 5
 
 - cat: 54
   acc: 79.AD.37
   title: Statuette of Odysseus under a Ram
-  group:
   region: Sicily
   city: Barrafranca
   date: 525-500 BC
@@ -980,11 +972,13 @@
   - desc: Overall
     height: 14.2 cm
     width: 16.7 cm
+  pixel_width: 7424
+  pixel_height: 5888
+  max_zoom: 5
 
 - cat: 55
   acc: 73.AD.151
   title: Statuette of a Woman with a Kithara
-  group:
   region: Sicily
   city: Centuripe
   date: Late third-early second centuries BC
@@ -998,11 +992,13 @@
   dimensions:
   - desc: Base
     depth: 8.3 cm
+  pixel_width: 3072
+  pixel_height: 4864
+  max_zoom: 5
 
 - cat: 56
   acc: 71.AD.131
   title: Statuette of Aphrodite
-  group:
   region: Sicily
   city: Centuripe
   date: Late fourth-third centuries BC
@@ -1014,11 +1010,13 @@
   - desc: Overall
     height: 28.7 cm
     width: 10.7 cm
+  pixel_width: 3328
+  pixel_height: 4352
+  max_zoom: 5
 
 - cat: 57
   acc: 71.AD.130
   title: Statuette of Eros
-  group:
   region: Sicily
   city: Centuripe
   date: 150-125 BC
@@ -1030,11 +1028,13 @@
   - desc: Overall
     height: 22.5 cm
     width: 8 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 58
   acc: 96.AD.305
   title: Mask of a Satyr
-  group:
   region: Sicily
   city: Centuripe
   date: 200-100 BC
@@ -1050,7 +1050,6 @@
 - cat: 59
   acc: 71.AD.255
   title: Clipeus with the Head of Medusa
-  group:
   region: Sicily
   city: Centuripe
   date: Third-second centuries BC
@@ -1061,14 +1060,15 @@
   dimensions:
   - desc: Overall
     depth: 1.9 cm
-    length:
     diam: 18.6 cm
+  pixel_width: 3840
+  pixel_height: 3840
+  max_zoom: 4
 
 #Could put "sicily" under region (morgantina is in sicily) but the texts just states it is deaccessioned/went with text.
 - cat: 60
   acc: 85.AD.105
   title: Head of Hades
-  group:
   region: Deaccessioned
   city: Morgantina
   date: 400-300 BC

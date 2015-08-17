@@ -209,6 +209,7 @@ $(document).ready(function() {
           duration: 500,
           delay: 0
         });
+        $(".expander__content").addClass("expander--hidden");
 
         console.log("New Content: ");
         console.log($newContent);
