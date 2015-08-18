@@ -129,8 +129,11 @@
     padding: $small-spacing;
     @include media($medium-screen-up) { padding: $base-spacing * 3; }
     @include media($large-screen-up) {
-      max-width: 825px;
+      max-width: 700px;
       margin: 0 auto;
+    }
+    @include media($x-large-screen-up) {
+      max-width: 850px;
     }
   }
 }
