@@ -5,7 +5,6 @@
 
 // =============================================================================
 // Basic UI Control functions
-
 function rightPanelToggle () {
   var left = $(".panel--left");
   var right = $(".panel--right");
@@ -26,6 +25,10 @@ function isHidden($el) {
   } else {
     return false;
   }
+}
+
+function scrollDown() {
+  
 }
 
 
