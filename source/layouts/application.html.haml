@@ -10,7 +10,12 @@
 
 
   %body
-    #main
+    #nav-primary.nav-primary
+      = partial "nav"
+    %header.mobile-helper-bar
+      %button.hamburger#off-canvas-toggle
+        &#9776
+    #main.page-content
       = yield
     = javascript_include_tag "http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js", |
       "https://code.jquery.com/jquery-2.1.1.min.js", "application"

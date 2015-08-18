@@ -6,8 +6,11 @@
       %a.no-smoothState.scroll-down{:href => '#toc'}
         %i.ion-chevron-down.h1.ml2.mt1
   .container.toc#toc
-    = yield
+    /= yield
+    = partial "nav"
   .container.explore.mb2.mt4
     %h2 Explore the Collection
     = partial(:selection_grid, :locals => {:chosen_type => "Statue"})
+  %br
+  %br
   = partial "footer"

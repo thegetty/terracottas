@@ -28,11 +28,22 @@ function isHidden($el) {
 }
 
 function scrollDown() {
-  
+
 }
 
 
 function addPanelControls() {
+  // Show the off-canvas navigation
+  $('#off-canvas-toggle').click(function() {
+  	$('#nav-primary').toggleClass('visible');
+  });
+
+
+  // Hide the off-canvas nav when clicking a link
+  $('#nav-primary').find('a').on('click', function(e) {
+  	$('#nav-primary').removeClass('visible');
+  });
+
   $("#rightPanelToggle").click(function (event) {
     rightPanelToggle();
     event.preventDefault();
@@ -184,38 +195,39 @@ $(document).ready(function() {
     // });
 
     onStart: {
-      duration: 500,
+      duration: 200,
       render: function ($container) {
-        $container.velocity({
-          translateX: "-100vw"
-        }, {
-          duration: 500,
-        });
-        //$container.velocity('fadeOut', {duration: 400, delay: 100});
+        // $container.velocity({
+        //   translateX: "-100vw"
+        // }, {
+        //   duration: 500,
+        // });
+        $container.velocity('fadeOut', {duration: 200});
       },
     },
     // Triggered when new content has been loaded via AJAX.
     // Good place to animate the insertion of new content.
     onReady: {
-      duration: 500,
+      duration: 200,
       render: function ($container, $newContent) {
         $container.html($newContent);
-        $container.velocity({
-          translateX: "100vw"
-        }, {
-          duration: 0,
-          delay: 0
-        });
-        $container.velocity({
-          translateX: "0"
-        }, {
-          duration: 500,
-          delay: 0
-        });
+        // $container.velocity({
+        //   translateX: "100vw"
+        // }, {
+        //   duration: 0,
+        //   delay: 0
+        // });
+        // $container.velocity({
+        //   translateX: "0"
+        // }, {
+        //   duration: 500,
+        //   delay: 0
+        // });
         $(".expander__content").addClass("expander--hidden");
-
-        console.log("New Content: ");
-        console.log($newContent);
+        //
+        // console.log("New Content: ");
+        // console.log($newContent);
+        $container.velocity('fadeIn', {duration: 200});
       }
     },
     // Triggered when the transition has completed.
