@@ -1,0 +1,19 @@
+.nav-primary {
+  @include transform(translateX(-100%));
+  @include transition(all .2s ease-in-out);
+  @include display(flex);
+	@include flex-direction(column);
+  @include align-items(space-between);
+  @include justify-content(center);
+
+  background-color: $action-color;
+  font-family: $heading-font-family;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 20%;
+  z-index: 50;
+
+  // Add/remove this class with JS
+  &.visible { @include transform(translateY(0%)); overflow: auto; }
+}
