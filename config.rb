@@ -17,6 +17,7 @@ set :site_title, "Ancient Terracottas"
 
 configure :development do
  activate :livereload
+ set :debug_assets, true
 end
 
 configure :build do
