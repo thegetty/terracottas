@@ -1,0 +1,99 @@
+.OVERLAY_NAV {
+  @include transform(translateY(-100%));
+  @include transition($base-animation-duration);
+  @include display(flex);
+  @include align-items(center);
+  @include justify-content(center);
+
+  background-color: $action-color;
+  font-family: $heading-font-family;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 50;
+
+  // Add/remove this class with JS
+  &.visible { @include transform(translateY(0%)); overflow: auto; }
+}
+
+// Table of Contents links
+.OVERLAY_NAV__toc {
+  margin: 10% auto;
+  width: 80%;
+
+  @include media($small-screen) {
+    font-size: $base-font-size * 1;
+    margin: 5% auto;
+    width: 90%;
+  }
+
+  @include media($large-screen-up) {
+    margin: 15% auto;
+    max-width: 36rem;
+    width: 60%;
+  }
+
+  .site-title {
+    float: left;
+    font-size: $base-font-size * 1.25;
+    @include media($medium-screen-up) { font-size: $base-font-size * 2; }
+    @include media($large-screen-up) { font-size: $base-font-size * 3; }
+  }
+
+  // Basic TOC list elements
+  a { @extend %inverse-link; }
+  li { border-bottom: 1px solid $inverse-color;}
+  ul {
+    // clear both since site title floats left
+    clear: both;
+    line-height: 3;
+    @include media($medium-screen-up) { font-size: $base-font-size * 1.5; }
+    @include media($large-screen-up) { font-size: $base-font-size * 2.5; line-height: 2; }
+  }
+
+  // Dropdown icons
+  .OVERLAY__NAV_dropdown {
+    // @include transition(all 2s ease-in-out);
+    float: right;
+    @include media($small-screen-up) { font-size: 1.5em; line-height: 2; }
+    @include media($medium-screen-up) { font-size: 1.5em; line-height: 1; margin-top: .5em; }
+    @include media($large-screen-up) { font-size: 1.25em; margin-top: .35em; }
+  }
+
+  // Nested content lists; by default they are hidden
+  .submenu {
+    display: none;
+    margin-bottom: 1rem;
+
+    > li {
+      border-bottom: 0;
+      font-size: .85em;
+      @include media($small-screen) { line-height: 1.85; }
+      @include media($medium-screen-up) { font-size: .75em; }
+      @include media($large-screen-up) { font-size: .5em; }
+    }
+  }
+
+  // Add/remove this class with JS
+  .is-expanded {
+    display: block;
+    > a { color: $dark-gray; }
+    i { @include transform(rotate(180deg)); }
+  }
+}
+
+// "X" button
+.OVERLAY_NAV__close {
+  float: right;
+  font-size: 1.85rem;
+  line-height: .5;
+  margin-top: -4px;
+
+  @include media($medium-screen-up) {
+    font-size: 2.5rem;
+    position: absolute;
+    right: 25px;
+    top: 15px;
+  }
+}
