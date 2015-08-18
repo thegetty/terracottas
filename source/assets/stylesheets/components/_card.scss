@@ -7,14 +7,18 @@
   box-shadow: $base-box-shadow;
   height: 320px;
   overflow: hidden;
-  
+
   background-color: $light-gray;
-  background-position: center center;
+  background-position: center top;
   background-size: cover;
 
-  -webkit-background-clip: padding-box; 
-  -moz-background-clip:    padding; 
+  -webkit-background-clip: padding-box;
+  -moz-background-clip:    padding;
   background-clip:         padding-box;
+
+  @include media($large-screen-up) {
+    background-position: center center;
+  }
 
 }
 

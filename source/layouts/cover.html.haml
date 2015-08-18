@@ -1,0 +1,13 @@
+= wrap_layout :application do
+  .cover
+    .cover__inner
+      %h1.cover__title= current_page.data.title
+      %h2.cover__subtitle= current_page.data.subtitle
+      %a.no-smoothState.scroll-down{:href => '#toc'}
+        %i.ion-chevron-down.h1.ml2.mt1
+  .container.toc#toc
+    = yield
+  .container.explore.mb2.mt4
+    %h2 Explore the Collection
+    = partial(:selection_grid, :locals => {:chosen_type => "Statue"})
+  = partial "footer"

@@ -1,0 +1,9 @@
+.container
+  .grid.grid--gutters
+    - group = data.terracottas.select { |item| item[:typology] == chosen_type }
+    - group.each do |object|
+      .grid-cell.grid-cell--1of2.grid-cell-med--1of3.grid-cell-large--1of4
+        .card{:data => {:catalogue => object.cat.to_s}, |
+          :style => "background-image: url(#{image_path(object.cat)}.jpg)"}
+          %h5.card__title
+            %a{:href =>"collection/#{object.cat}"}= object.title
