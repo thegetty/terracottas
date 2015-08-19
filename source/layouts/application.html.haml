@@ -12,9 +12,8 @@
   %body
     #nav-primary.nav-primary
       = partial "nav"
-    %header.mobile-helper-bar
-      %button.hamburger#off-canvas-toggle
-        &#9776
+    %a.nav-primary__trigger.no-smoothState#off-canvas-toggle
+      %i.ion-navicon.mr2.mt1
     #main.page-content
       = yield
     = javascript_include_tag "http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js", |

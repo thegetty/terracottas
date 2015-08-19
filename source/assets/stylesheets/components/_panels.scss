@@ -53,7 +53,7 @@
 .panel__header--overlay {
   position: absolute;
   width: 100%;
-  z-index: 50;
+  z-index: 100;
   text-align: right;
 
   a {
@@ -64,7 +64,7 @@
 
 // Panel States (--expand, --collapse)
 // =============================================
-.panel--expand { width: 100%; }
+.panel--expand { width: 100%; z-index: 100; }
 
 .panel--collapse {
   // @include transform(scale(0));

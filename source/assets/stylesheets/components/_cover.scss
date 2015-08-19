@@ -4,7 +4,7 @@
   @include justify-content(center);
   @include flex-wrap(wrap);
   background-image: url("1.jpg");
-  background-position: center top;
+  background-position: center 15%;
   background-size: cover;
   background-color: $dark-gray;
   height: 100vh;
@@ -17,7 +17,7 @@
     hsla(0, 0%, 0%, 0.5) 100%));
 
   color: $inverse-color;
-  height: 50vh;
+  height: 60vh;
   padding-top: 2rem;
   text-align: center;
   width: 100%;
@@ -53,17 +53,6 @@
 
   h1,h2,h3,h4,h5,h6 {
     margin-top: 1rem;
-  }
-
-  ul {
-    @extend %default-ul;
-  }
-
-  ol {
-    @extend %default-ol;
-    li {
-      margin-bottom: 1rem;
-    }
   }
 
 }

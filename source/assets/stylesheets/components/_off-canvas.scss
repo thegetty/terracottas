@@ -1,19 +1,46 @@
+$nav-width: 30vw;
+
 .nav-primary {
-  @include transform(translateX(-100%));
-  @include transition(all .2s ease-in-out);
+  // Mobile first
+  @include transition($base-transition);
   @include display(flex);
-	@include flex-direction(column);
+  @include flex-direction(column);
   @include align-items(space-between);
   @include justify-content(center);
-
-  background-color: $action-color;
+  @include transform(translateX(100vw));
+  background-color: $dark-gray;
   font-family: $heading-font-family;
-  height: 100%;
+  height: 100vh;
   overflow: hidden;
+  padding: 2rem;
   position: fixed;
-  width: 20%;
-  z-index: 50;
+  width: 100vw;
+  z-index: 90;
+
+  // Sidebar nav links
+  a { @extend %inverse-link; }
 
   // Add/remove this class with JS
-  &.visible { @include transform(translateY(0%)); overflow: auto; }
+  &.visible {
+    @include transform(translateX(0)); overflow: auto;
+    ~ a.nav-primary__trigger { @extend %inverse-link; }
+  }
+
+  // Large size
+  @include media($large-screen-up) {
+    width: $nav-width;
+    &.visible {
+      @include transform(translateX(100vw - $nav-width));
+      overflow: auto;
+    }
+  }
+}
+
+
+a.nav-primary__trigger {
+  font-size: 2.125rem;
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 100;
 }

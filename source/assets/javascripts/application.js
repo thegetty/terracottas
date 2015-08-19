@@ -33,16 +33,6 @@ function scrollDown() {
 
 
 function addPanelControls() {
-  // Show the off-canvas navigation
-  $('#off-canvas-toggle').click(function() {
-  	$('#nav-primary').toggleClass('visible');
-  });
-
-
-  // Hide the off-canvas nav when clicking a link
-  $('#nav-primary').find('a').on('click', function(e) {
-  	$('#nav-primary').removeClass('visible');
-  });
 
   $("#rightPanelToggle").click(function (event) {
     rightPanelToggle();
@@ -182,6 +172,18 @@ function ramjetTest(a, b){
 $(document).ready(function() {
   // Set up the UI
   setUpPage();
+  // Show the off-canvas navigation
+  $("#off-canvas-toggle").find("i").addClass("ion-navicon");
+  $('#off-canvas-toggle').click(function() {
+    $(this).find('i').toggleClass("ion-navicon");
+    $(this).find('i').toggleClass("ion-ios-close-empty pr1");
+    $('#nav-primary').toggleClass('visible');
+  });
+
+  // Hide the off-canvas nav when clicking a link
+  $('#nav-primary').find('a').on('click', function(e) {
+    $('#nav-primary').removeClass('visible');
+  });
 
   $("#main").smoothState({
     // Triggered when user clicks a link
@@ -202,6 +204,13 @@ $(document).ready(function() {
         // }, {
         //   duration: 500,
         // });
+        
+        // reset navigation on transition
+        $('#nav-primary').removeClass('visible');
+        $("#off-canvas-toggle").find("i")
+          .removeClass("ion-ios-close-empty pr1")
+          .addClass("ion-navicon");
+
         $container.velocity('fadeOut', {duration: 200});
       },
     },
