@@ -6,4 +6,4 @@
         .card{:data => {:catalogue => object.cat.to_s}, |
           :style => "background-image: url(#{image_path(object.cat)}.jpg)"}
           %h5.card__title
-            %a{:href =>"collection/#{object.cat}"}= object.title
+            %a{:href =>"catalogue/#{object.cat}"}= object.title

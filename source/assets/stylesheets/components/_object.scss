@@ -1,7 +1,7 @@
 .object__header {
   @include transition($base-transition);
   @include media($x-large-screen-up) {
-    margin-top: $base-spacing * 2;
+    //margin-top: $base-spacing * 2;
     margin-bottom: $base-spacing * 2;
   }
 }

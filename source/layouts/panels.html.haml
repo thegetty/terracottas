@@ -2,40 +2,50 @@
   - catalogue = data.terracottas
   - if current_page.data.cat
     - current_item = catalogue.select { |item| item[:cat] == current_page.data.cat}.first
-
-  .panel.panel--left
-    .panel__header--overlay.p1
-      .panel__header__left
-      .panel__header__center
-      .panel__header__right
-        %a.no-smoothState{:id => 'leftPanelToggle'}
-          %i.ion-arrow-expand.h2.ml2.mt1
-    .panel__inner
-      #map{:data => {:catalogue => current_item.cat.to_s}}
-
-  .panel.panel--right
-    - if current_item.nil?
-      .panel__header.pt1.pb2
+    / Left Panel
+    .panel.panel--left
+      .panel__header--overlay.p1
         .panel__header__left
-          %a.no-smoothState{:id => 'rightPanelToggle'}
-            %i.ion-arrow-expand.h2.ml2.mt1
         .panel__header__center
-          %h4.mt2.h6= site_title
         .panel__header__right
-          %a.no-smoothState
-            %i.ion-navicon-round.h2.mr2.mt1
+          %a.no-smoothState{:id => 'leftPanelToggle'}
+            %i.ion-arrow-expand.h2.ml2.mt1
       .panel__inner
-        = yield
-
-    - else
+        #map{:data => {:catalogue => current_item.cat.to_s}}
+    / Right Panel
+    .panel.panel--right
       .panel__header.pt1.pb2
         .panel__header__left
-          %a{:href => "/collection"}
+          %a{:href => "/catalogue"}
             %i.ion-grid.h2.ml2.mt1
         .panel__header__center
           %h4.mt2.h6= site_title
         .panel__header__right
-          %a.no-smoothState
-            %i.ion-navicon-round.h2.mr2.mt1
+          -# %a.no-smoothState
+          -#   %i.ion-navicon-round.h2.mr2.mt1
+      .panel__inner
+        = yield
+  - else
+    / Left Panel
+    .panel.panel--left
+      .panel__header--overlay.p1
+        .panel__header__left
+        .panel__header__center
+        .panel__header__right
+          %a.no-smoothState{:id => 'leftPanelToggle'}
+            %i.ion-arrow-expand.h2.ml2.mt1
+      .panel__inner
+        #map
+    / Right Panel
+    .panel.panel--right
+      .panel__header.pt1.pb2
+        .panel__header__left
+          %a{:href => "/catalogue"}
+            %i.ion-grid.h2.ml2.mt1
+        .panel__header__center
+          %h4.mt2.h6= site_title
+        .panel__header__right
+          -# %a.no-smoothState
+          -#   %i.ion-navicon-round.h2.mr2.mt1
       .panel__inner
         = yield

@@ -43,4 +43,4 @@ helpers do
   end
 end
 
-page "/collection/*", :layout => :object
+page "/catalogue/*", :layout => :object
