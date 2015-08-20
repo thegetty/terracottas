@@ -1,5 +1,8 @@
 .object__header {
   @include transition($base-transition);
+  @include media($medium-screen-up) {
+    padding: $base-spacing;
+  }
   @include media($x-large-screen-up) {
     //margin-top: $base-spacing * 2;
     margin-bottom: $base-spacing * 2;
@@ -32,18 +35,16 @@
 
 .object__content {
   @include transition($base-transition);
+  @include media($medium-screen-up) { padding: $base-spacing; }
+  @include media($large-screen-up) { padding: $base-spacing * 2; }
 }
 
 .object__content__section {
   @include transition($base-transition);
   border-bottom: $base-border;
-  font-size: $base-font-size;
   margin: 0 0 $base-spacing 0;
-  + p { text-indent: $base-spacing; }
 
-  @include media($x-large-screen-up) {
-    font-size: $base-font-size * 1.25;
-  }
+  @extend %body-text;
 }
 
 .expander {

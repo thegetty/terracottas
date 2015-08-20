@@ -1,0 +1,11 @@
+= wrap_layout :application do
+  %header.running-head
+    %h4.h6= site_title
+  .container
+    %h1.page__title= current_page.data.title
+    .page__content.pb4
+      - if current_page.data.group
+        = partial(:selection_grid, :locals => {:key => "group", :value => current_page.data.group})
+        .pb4
+      = yield
+  = partial "footer"

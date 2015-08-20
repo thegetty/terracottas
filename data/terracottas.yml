@@ -25,6 +25,7 @@
   pixel_width: 6551
   pixel_height: 8189
   max_zoom: 5
+  featured: true
 
 - cat: 2
   acc: 76.AD.11.2
@@ -452,6 +453,7 @@
   pixel_width: 4096
   pixel_height: 3584
   max_zoom: 4
+  featured: true
 
 - cat: 25
   acc: 78.AD.294.2
@@ -502,7 +504,6 @@
 - cat: 28
   acc: 78.AD.295
   title: Statuette of a Seated Old Woman
-  group:
   region: South Italy
   city: Taranto and the Apulian Region
   date: 400-200 BC
@@ -518,7 +519,6 @@
 - cat: 29
   acc: 96.AD.166
   title: Statuette of a Mime
-  group:
   region: South Italy
   city: Taranto and the Apulian Region
   date: 225-175 BC
@@ -938,6 +938,7 @@
   max_zoom: 5
   pixel_width: 4608
   pixel_height: 3328
+  featured: true
 
 - cat: 53
   acc: 86.AD.681
@@ -957,6 +958,7 @@
   pixel_width: 3328
   pixel_height: 4352
   max_zoom: 5
+  featured: true
 
 - cat: 54
   acc: 79.AD.37

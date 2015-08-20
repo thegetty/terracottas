@@ -1,17 +1,16 @@
-**Discussion**
+---
+title: Group of Heads and Busts from the Taranto Region
+---
+## Cat. 4–23
 
-**Cat. 4–23**
-
-**Group of Heads and Busts from the Taranto Region**
+### Discussion
 
 The group of twenty heads and busts (cat. 4–23) that were acquired by
 the Getty Museum in 1982 share a number of technical characteristics,
 despite the fact that they can be assigned to differing typologies and
 very probably come from the same Tarentine workshop. Chronologically
 they span a period from the second half of the fifth century <span
-class="smcaps">BC</span> to the third and second
-centuries <span class="smcaps">BC</span>, and seem to
-be linked by a shared history.
+class="smcaps">BC</span> to the third and second centuries <span class="smcaps">BC</span>, and seem to be linked by a shared history.
 
 In the documentation about this acquisition, the group of terracottas
 was said to be connected to the extensive collection of Jacob Hirsch, a
@@ -34,7 +33,9 @@ been exhibited, along with other privately owned terracottas, in 1978.
 The twenty examples published here show close parallels with the
 material from Basel.[^1]
 
-The Saturo Hypothesis
+<br />
+
+#### The Saturo Hypothesis
 
 In the same documentation held by the Getty Museum, this group is said
 to come “from Satyrion,” (modern Saturo), which stood on a promontory to
@@ -114,7 +115,9 @@ statues and heads, might yield important new findings regarding the
 prototypes to which they might be linked through variants and molds of
 various generations.
 
-The Typologies
+<br />
+
+#### The Typologies
 
 The Getty group of terracottas comprises both busts and heads. The heads
 can be assigned to statues and busts of medium and large format probably
@@ -204,7 +207,9 @@ roles, some of which were mentioned above: military protection of the
 territory, assurance of fertility, safeguarding of children from
 illness, and chthonic and funerary rites.
 
-The Female Busts
+<br />
+
+#### The Female Busts
 
 In the case of the busts (cat. 9–10), the similarity to Sicilian
 prototypes is reasonably straightforward. The typology, however, was
@@ -222,7 +227,9 @@ to the actual portrayal of the offerers, shown with progressively
 individuated facial features. In statuary, this phenomenon would become
 increasingly marked as Roman influence grew.[^15]
 
-Children
+<br />
+
+#### Children
 
 The head of a child (cat. 23), characterized by a cheerful expression
 and a sentimental pose conveyed by the slight tilt of the head, displays
@@ -240,7 +247,9 @@ practices and patronage. As regards Saturo, there may be links with
 kourotrophic cults as well as with the presence of the spring, or with
 rites of passage from infancy to adulthood.[^16]
 
-The Banqueters
+<br />
+
+#### The Banqueters
 
 The heads at cat. 7, 8, 20, and 21 are certainly linked to reclining
 figures or banqueters. Many unanswered questions remain regarding the
@@ -288,7 +297,9 @@ reclining figure may be connected to specific ritual functions within
 the necropolis and that it was intended to codify the new status of the
 deceased with reference to a specific otherworldly collocation.[^19]
 
-Technical Aspects
+<br />
+
+#### Technical Aspects
 
 The fronts of pieces were produced with a mold; so, probably, were the
 backs, though the latter are only rounded off and not detailed. The hair
@@ -336,6 +347,10 @@ hair was attached, or at the base of the neck, where decorations could
 be inserted. The fact that the backs of the heads were not properly
 finished would indicate that the pieces were to be viewed only from the
 front.
+
+<br />
+
+### Notes
 
 [^1]: The history of the Hirsch-Virzì collection, with specific
     reference to material from Medma, now in the collection of the Basel

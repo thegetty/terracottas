@@ -1,4 +1,6 @@
-Classification
+---
+title: Classification
+---
 
 The catalogue includes sixty terracottas, presented according to
 presumed origins from two major areas: South Italy and Sicily. Within

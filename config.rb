@@ -15,6 +15,11 @@ set :markdown_engine, :kramdown
 set :markdown, :parse_block_html => true
 set :site_title, "Ancient Terracottas"
 
+page "/catalogue/*", :layout => :object
+page "/frontmatter/*", :layout => :page
+page "/discussion/*", :layout => :page
+
+
 configure :development do
  activate :livereload
  set :debug_assets, true
@@ -41,6 +46,8 @@ helpers do
     options[:class] << " active" if page_url == current_url
     link_to(link_text, page_url, options)
   end
-end
 
-page "/catalogue/*", :layout => :object
+  def markdown(text)
+    concat Tilt['markdown'].new { text }.render
+  end
+end

@@ -1,7 +1,6 @@
 .grid.grid--gutters
-  - group = data.terracottas.select { |item| item[key] == value }
-  - group.each do |object|
-    .grid-cell.grid-cell--1of2.grid-cell-med--1of2.grid-cell-large--1of3.grid-cell-x-large--1of4
+  - data.terracottas.each do |object|
+    .grid-cell.grid-cell--1of2.grid-cell-x-large--1of3
       %a{:href =>"/catalogue/#{object.cat}"}
         .card{:data => {:catalogue => object.cat.to_s}, |
           :style => "background-image: url(#{image_path(object.cat)}.jpg)"}

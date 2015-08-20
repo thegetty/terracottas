@@ -1,0 +1,33 @@
+.running-head {
+  position: absolute;
+  top: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+.page__title {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  max-width: 48rem;
+  margin: 0 auto;
+
+  @include media($medium-screen-up) {
+    padding-top: 6rem;
+    padding-bottom: 4rem;
+  };
+}
+
+.page__content {
+  max-width: 48rem;
+  margin: 0 auto;
+
+  @extend %body-text;
+}
+
+.page__content {
+  .grid {
+    .card {
+      font-size: 1rem;
+    }
+  }
+}

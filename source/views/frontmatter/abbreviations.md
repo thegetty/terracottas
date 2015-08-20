@@ -1,4 +1,6 @@
-Abbreviations
+---
+title: Abbreviations
+---
 
 ca. circa
 
