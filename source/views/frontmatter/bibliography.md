@@ -1,5 +1,6 @@
-Bibliography
-
+---
+title: Bibliography
+---
 <span class="smcaps">Abruzzese Calabrese</span> 1987
 
 Abruzzese Calabrese, G. “Un’attestazione del culto di Hyakinthos a

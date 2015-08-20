@@ -32,7 +32,8 @@ $base-border-color: $light-gray;
 $base-border: 1px solid $base-border-color;
 
 // Shadow
-$base-box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.15);
+$base-box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .15);
+$hover-box-shadow: 0 10px 25px 5px rgba(0, 0, 0, .35);
 
 // Transitions
 $base-transition: all .2s ease-in-out;

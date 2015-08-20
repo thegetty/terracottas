@@ -1,4 +1,6 @@
-Acknowledgments
+---
+title: Acknowledgments
+---
 
 I extend my sincere and affectionate gratitude to the staff of the J.
 Paul Getty Museum, particularly to Claire Lyons, curator of Antiquities,

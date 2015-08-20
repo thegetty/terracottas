@@ -1,8 +1,11 @@
-**Group of a Seated Poet (Orpheus?) and Sirens**
+---
+title: Group of a Seated Poet (Orpheus?) and Sirens
+group: Group of a Seated Poet and Sirens
+---
 
-Cat. 1–3
+## Cat. 1–3
 
-Discussion
+### Discussion
 
 An investigation conducted with endoscopic instruments revealed a great
 deal about the execution of this sculptural group.[^1] The figures must
@@ -508,36 +511,40 @@ style alone may well be misleading, given the persistence of
 Late-Classical traits even into the middle of the fourth century <span
 class="smcaps">BC</span>.
 
-Appendix
+<br />
+
+### Appendix
 
 Thermoluminescence of the clay body, X-ray fluorescence, polarized light
 microscopy, and ultraviolet–visible spectroscopy analysis of the
 polychromy were performed. They all attest to the group’s authenticity.
 
+<br />
 Results of the pigment analysis:
 
-*Orpheus figure*
+<br />
 
-1\. Yellow/gold: yellow ocher, lead white, chalk
+#### Orpheus figure
 
-2\. Red: yellow ocher, burnt sienna
+1. **Yellow/gold:** yellow ocher, lead white, chalk
+2. **Red:** yellow ocher, burnt sienna
+3. **White ground:** chalk (or lead white)
+4. **Pink:** cinnabar, lead white, chalk
+5. **Red/brown:** iron earth red, chalk
 
-3\. White ground: chalk (or lead white)
+<br />
 
-4\. Pink: cinnabar, lead white, chalk
+#### Orpheus footstool
 
-5\. Red/brown: iron earth red, chalk
+6. **Orange:** yellow ocher red ocher
+7. **Black:** lampblack
+8. **Pink:** red ocher, chalk
 
-*Orpheus footstool*
+<br />
 
-6\. Orange: yellow ocher red ocher
+### Bibliography
 
-7\. Black: lampblack
-
-8\. Pink: red ocher, chalk
-
-<span class="smcaps">Bibliography</span>: <span
-class="smcaps">Getty</span> 1978, pp. 48–49; <span
+<span class="smcaps">Getty</span> 1978, pp. 48–49; <span
 class="smcaps">Frel 1979</span>, pp. 25–26, nos.
 99–101; <span class="smcaps">Getty</span> 1980, p. 34;
 C. C. Vermeule, *Greek and Roman Sculpture in America: Masterpieces in
@@ -578,6 +585,10 @@ class="smcaps">Getty</span> 2010, p. 114; C. A.
 Faraone and D. Obbink, eds., *The Getty Hexameters. Poetry, Magic, and
 Mystery in Ancient Selinous* (Oxford, 2013) p. 176, pl. 5; <span
 class="smcaps">Getty</span> 2015, p. 26.
+
+<br />
+
+### Notes
 
 [^1]: See the report by the Antiquities Conservation Department in the
     appendix to this entry. Detached curls and other fragmentary
@@ -914,7 +925,7 @@ class="smcaps">Getty</span> 2015, p. 26.
 
 [^35]: On the supposed *heroön* of Orpheus, see <span
     class="smcaps">Lippolis</span> 1982, esp.
-    126–28**.**
+    126–28**.
 
 [^36]: In this connection, see <span
     class="smcaps">Lippolis 1994,</span> pp. 41–66.

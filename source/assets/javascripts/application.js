@@ -3,135 +3,20 @@
 //= require velocity.ui.min
 //= require ramjet.min
 
-// =============================================================================
-// Basic UI Control functions
-function rightPanelToggle () {
-  var left = $(".panel--left");
-  var right = $(".panel--right");
-  left.toggleClass("panel--collapse");
-  right.toggleClass("panel--expand");
-}
-
-function leftPanelToggle() {
-  var left = $(".panel--left");
-  var right = $(".panel--right");
-  left.toggleClass("panel--expand");
-  right.toggleClass("panel--collapse");
-}
-
-function isHidden($el) {
-  if ($el.hasClass("expander--hidden")) {
-    return true;
-  } else {
-    return false;
-  }
-}
-
-function scrollDown() {
-
-}
-
-
-function addPanelControls() {
-
-  $("#rightPanelToggle").click(function (event) {
-    rightPanelToggle();
-    event.preventDefault();
-  });
-
-  $("#leftPanelToggle").click(function (event) {
-    leftPanelToggle();
-    event.preventDefault();
-  });
-
-  $(".expander__trigger").click(function () {
-    $section = $(this).parent().find(".expander__content");
-    if (isHidden($section)) {
-      $section.velocity("transition.slideDownIn", {
-        duration: 300,
-        complete: function () {
-          $section.toggleClass("expander--hidden");
-        }
-      });
-    } else {
-      $section.velocity("transition.slideUpOut", {
-        duration: 300,
-        complete: function () {
-          $section.toggleClass("expander--hidden");
-        }
-      });
-    }
-
-    //$(this).toggleClass("expander--hidden");
-    //$(this).parent().find(".expander__content").velocity("transition.slideUpIn");
-  });
-}
+//= require ui-functions
+//= require map-functions
 
 // =============================================================================
 // Determine whether the current page needs a deep zoom image
 
-function isCatalogueItem($el) {
+function mapCheck($el) {
   if (!isNaN($el.data("catalogue"))) {
     return true;
+  } else if ($el.data("map") == true ) {
+    return true;
   } else {
-    return false;
+    return false
   }
-}
-
-// =============================================================================
-// Set up Leaflet.js for deep zoom images
-
-// General leaflet setup
-function initLeaflet(catalogueNumber, pixelWidth, pixelHeight, objectMaxZoom) {
-  var mapMinZoom = (objectMaxZoom - 3);
-  var mapMaxZoom = objectMaxZoom;
-  var map = L.map('map', {
-    maxZoom: mapMaxZoom,
-    minZoom: mapMinZoom,
-    crs: L.CRS.Simple,
-    attributionControl: false
-  }).setView([0, 0], mapMaxZoom);
-
-  var mapBounds = new L.LatLngBounds(
-      map.unproject([0, pixelHeight], mapMaxZoom),
-      map.unproject([pixelWidth, 0], mapMaxZoom));
-
-  map.fitBounds(mapBounds);
-  L.tileLayer('../assets/tiles/' + catalogueNumber + '/{z}/{x}/{y}.png', {
-    noWrap: true
-  }).addTo(map);
-
-  return map;
-}
-
-// DOM-specific setup code (where to find object info)
-function deepZoomSetup(){
-  var catalogueNumber = $(".object__content").data("catalogue");
-  var pixelWidth      = $(".object__content").data("dimensions-width");
-  var pixelHeight     = $(".object__content").data("dimensions-height");
-  var objectMaxZoom   = $(".object__content").data("dimensions-max-zoom");
-  var map             = initLeaflet(
-                          catalogueNumber, pixelWidth, pixelHeight, objectMaxZoom
-                        );
-  // Returns a map object for use by other functions
-  return map;
-}
-
-// =============================================================================
-// Fix Leaflet cropping bug after dynamically re-sizing the map area by
-// calling invalidateSize() whenever map region changes. Requires an already-
-// initialized map object passed in as argument.
-
-function addMapResizeListener(map) {
-  $("#rightPanelToggle").click(function (event) {
-    setTimeout(map.invalidateSize.bind(map), 350);
-    event.preventDefault();
-  });
-
-  $("#leftPanelToggle").click(function (event) {
-    setTimeout(map.invalidateSize.bind(map), 350);
-    event.preventDefault();
-  });
 }
 
 // =============================================================================
@@ -139,12 +24,16 @@ function addMapResizeListener(map) {
 
 function setUpPage(){
   addPanelControls();
-  if (isCatalogueItem($(".object__content"))) {
-    $(".expander__content").addClass("expander--hidden");
+  $(".expander__content").addClass("expander--hidden");
+  if (mapCheck($(".object__content"))) {
     var map = deepZoomSetup();
     // need to call this on map set up because using smoothState means that the
     // map element may be loaded asynchronously. setTimeout is needed because
     // content must render first, then map size can be recalculated.
+    setTimeout(map.invalidateSize.bind(map), 100);
+    addMapResizeListener(map);
+  } else if ($("#map").length == true) {
+    var map = initLeafletMap();
     setTimeout(map.invalidateSize.bind(map), 100);
     addMapResizeListener(map);
   }
@@ -197,27 +86,27 @@ $(document).ready(function() {
     // });
 
     onStart: {
-      duration: 200,
+      duration: 300,
       render: function ($container) {
         // $container.velocity({
         //   translateX: "-100vw"
         // }, {
         //   duration: 500,
         // });
-        
+
         // reset navigation on transition
         $('#nav-primary').removeClass('visible');
         $("#off-canvas-toggle").find("i")
           .removeClass("ion-ios-close-empty pr1")
           .addClass("ion-navicon");
 
-        $container.velocity('fadeOut', {duration: 200});
+        $container.velocity('fadeOut', {duration: 300});
       },
     },
     // Triggered when new content has been loaded via AJAX.
     // Good place to animate the insertion of new content.
     onReady: {
-      duration: 200,
+      duration: 300,
       render: function ($container, $newContent) {
         $container.html($newContent);
         // $container.velocity({
@@ -236,7 +125,7 @@ $(document).ready(function() {
         //
         // console.log("New Content: ");
         // console.log($newContent);
-        $container.velocity('fadeIn', {duration: 200});
+        $container.velocity('fadeIn', {duration: 300});
       }
     },
     // Triggered when the transition has completed.

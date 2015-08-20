@@ -1,8 +1,9 @@
-**Four Statues of Mourning Women from Canosa**
+---
+title: Four Statues of Mourning Women from Canosa
+---
+## Cat. 38–41
 
-**Cat. 38–41**
-
-**Discussion**
+### Discussion
 
 This group of mourning women, often understood as orantes (female
 figures in prayer), likely comes from a chamber tomb in the Canosa area,
@@ -69,12 +70,13 @@ numerous examples are the orantes that decorate an *askos* in the Museo
 Nazionale Archeologico di Taranto, with the same type of clothing and
 raised arms, and an *askos* from the Varrese hypogeum (rock-cut funerary
 complex) of Canosa, with similar statuettes, equine protomes, and a head
-of Medusa datable to the third century <span class="smcaps">BC.</span>[^8] Likewise, the figures
-painted on the wall of the chamber tomb in the Sant’Aloia area of
-Canosa, dating from the first half of the third century <span class="smcaps">BC</span>, are characterized by facial
-features and a general compositional structure reminiscent of the Getty
-statues; they also seem to point to models from the Campanian area, such
-as the figure from “Tomb X” of Paestum.[^9]
+of Medusa datable to the third century <span class="smcaps">BC.</span>[^8]
+Likewise, the figures painted on the wall of the chamber tomb in the Sant’Aloia
+area of Canosa, dating from the first half of the third century
+<span class="smcaps">BC</span>, are characterized by facial features and a
+general compositional structure reminiscent of the Getty statues; they also seem
+to point to models from the Campanian area, such as the figure from “Tomb X” of
+Paestum.[^9]
 
 The statues, which were intended to be placed around a funerary *kline*,
 constituted an especially costly funerary offering and were thus
@@ -82,14 +84,14 @@ probably intended for a fairly prestigious client who, in the context of
 Romanization in the area, aspired to underscore his economic prosperity,
 personal identity, and native traditions, in part through emphasis on
 funerary rituals.[^10] In Canosa between the second half of the fourth
-century and the first half of the third century <span class="smcaps">BC</span>, there was a culturally
-advanced aristocracy that was anxious to affirm its status and more open
-to the influence of the Greek regions of Magna Graecia and Macedonia, in
-part due to the political and military relations established with
-Alexander I of Molossia (r. 362–330/329 <span class="smcaps">BC</span>). Links with and influences
-from the Macedonian world can be identified, for instance, in the
-funerary architectural models that were absorbed and adapted to local
-cultural traditions.[^11] Although it is possible to note considerable
+century and the first half of the third century <span class="smcaps">BC</span>,
+there was a culturally advanced aristocracy that was anxious to affirm its
+status and more open to the influence of the Greek regions of Magna Graecia and
+Macedonia, in part due to the political and military relations established with
+Alexander I of Molossia (r. 362–330/329 <span class="smcaps">BC</span>).
+Links with and influences from the Macedonian world can be identified, for
+instance, in the funerary architectural models that were absorbed and adapted
+to local cultural traditions.[^11] Although it is possible to note considerable
 differences among the various examples of statues, both in terms of
 clothing and in poses and hairstyles, the statues do seem to depict one
 type of youthful female figure, probably envisioned as one of the female
@@ -130,25 +132,29 @@ have come from this context.[^17]
 The problem of dating the Getty figures is bound up with the
 reexamination of funerary deposits belonging to the Canosa hypogea. For
 the Scocchera B tomb, dates have been suggested between the end of the
-third century and the second century centuries <span class="smcaps">BC</span>; but the statues are thought
-to date from the first half of the third century <span class="smcaps">BC</span>, since the hypogeum remained
+third century and the second century centuries <span class="smcaps">BC</span>;
+but the statues are thought to date from the first half of the third century <span class="smcaps">BC</span>, since the hypogeum remained
 in use for about a century following its construction, as attested,
 among other things, by the presence of glass vases.[^18] For the
 Barbarossa hypogeum, the same chronological discrepancy exists, given
 the presence—alongside red-figure vases from the end of the fourth
-century <span class="smcaps">BC</span> and the statues
-of orantes—of glass pieces and goldwork as well that can be dated to the
-second century <span class="smcaps">BC</span>; once
-again, these discrepancies are due to the continued use of the hypogeum
-over several generations.[^19] In the Lagrasta hypogeum, too, alongside
-the red-figured vases, there have been finds of glass pieces and a Latin
-inscription from 67 <span class="smcaps">BC.</span>[^20] For the Tomb of the
-Gold Ornaments, on the other hand, the end of the third century <span class="smcaps">BC</span> seems to be a date widely
+century <span class="smcaps">BC</span> and the statues of orantes—of glass
+pieces and goldwork as well that can be dated to the second century
+<span class="smcaps">BC</span>; once again, these discrepancies are due to the
+continued use of the hypogeum over several generations.[^19] In the Lagrasta
+hypogeum, too, alongside the red-figured vases, there have been finds of glass
+pieces and a Latin inscription from 67 <span class="smcaps">BC.</span>[^20]
+For the Tomb of the Gold Ornaments, on the other hand, the end of the third century
+ <span class="smcaps">BC</span> seems to be a date widely
 accepted by scholars.[^21] In the absence of reliable excavation
 contexts, it seems advisable to date the group of orantes to the early
 third century <span class="smcaps">BC.</span>
 
-<span class="smcaps">BIBLIOGRAPHY:</span> *<span class="smcaps">Acquisitions</span>* 1986; M. Mazzei,
+<br />
+
+### Bibliography
+
+*<span class="smcaps">Acquisitions</span>* 1986; M. Mazzei,
 “L’ipogeo Monterisi Rossignoli di Canosa,” *AION* 12 (1990), pp. 123–67,
 esp. pp. 138–39; M. Mazzei, “Ipogeo Barbarossa,” In R. Cassano, ed.,
 *Principi imperatori vescovi: Duemila anni di storia a Canosa* (Venice,
@@ -158,6 +164,10 @@ Museum* 1 (1993), pp. 71–82; F. van der Wielen-van Ommeren, “Orantes
 canosines,” *Genève et l’Italie: Mélanges de la Societé génevoise
 d’études italiennes* 3 (Geneva, 1999), pp. 43–65, nos. 14–17; <span class="smcaps">Jeammet</span> 2003a, pp. 271 and 291,
 nos. 43–46.
+
+<br />
+
+### Notes
 
 [^1]: For the technical working of the statue and the hypothetical use
     of bivalve molds, see <span class="smcaps">Jeammet

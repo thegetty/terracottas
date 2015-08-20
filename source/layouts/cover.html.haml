@@ -3,14 +3,17 @@
     .cover__inner
       %h1.cover__title= current_page.data.title
       %h2.cover__subtitle= current_page.data.subtitle
-      %a.no-smoothState.scroll-down{:href => '#toc'}
+      %br
+      %h2.cover__author Maria Lucia Ferruzza
+      %a.scroll-down{:href => '#toc'}
         %i.ion-chevron-down.h1.ml2.mt1
-  .container.toc#toc
-    /= yield
-    = partial "nav"
-  .container.explore.mb2.mt4
-    %h2 Explore the Collection
-    = partial(:selection_grid, :locals => {:chosen_type => "Statue"})
-  %br
-  %br
+  .container.cover__content
+    .toc#toc
+      %h2.centered Contents
+      = partial "nav"
+    .explore.mb2.mt4
+      %h2.centered Explore the Collection
+      = partial(:selection_grid, :locals => {:key => "featured", :value => true})
+    %br
+    %br
   = partial "footer"

@@ -69,6 +69,12 @@
   }
 }
 
+.grid-cell-x-large--1of3 {
+  @include media($x-large-screen-up) {
+    @include flex(0 0 33%);
+  }
+}
+
 .grid-cell-x-large--1of4 {
   @include media($x-large-screen-up) {
     @include flex(0 0 25%);

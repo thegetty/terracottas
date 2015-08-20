@@ -1,5 +1,6 @@
-Introduction
-
+---
+title: Introduction
+---
 This catalogue, which features a selection of terracottas from South
 Italy and Sicily now in the collection of the J. Paul Getty Museum, was
 born from a preliminary study of the coroplastic collection carried out

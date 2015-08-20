@@ -1,4 +1,6 @@
-Production Techniques
+---
+title: Production Techniques
+---
 
 The production process for terracotta statuettes and statues has been
 thoroughly described in many publications, so only a brief summary of
