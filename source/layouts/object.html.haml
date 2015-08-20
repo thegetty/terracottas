@@ -42,7 +42,7 @@
                   %td= "Grouping"
                   %td
                     - if current_item.group == "Group of a Seated Poet and Sirens"
-                      %a{href: "/discussion/discussion-a"}= current_item.group
+                      =link_to current_item.group, "/discussion/discussion-a"
                     - else
                       = current_item.group
               / Region, City
@@ -50,7 +50,7 @@
                 %tr
                   %td Region
                   %td
-                    %a{href: "/catalogue/#{current_item.region.downcase.gsub(" ", "-")}"}= current_item.region
+                    =link_to current_item.region, "/catalogue/#{current_item.region.downcase.gsub(" ", "-")}"
                     %span= ", #{current_item.city}" unless current_item.city.nil?
               / Dimensions
               - unless current_item.dimensions.nil?

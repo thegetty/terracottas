@@ -1,6 +1,7 @@
 = wrap_layout :application do
   %header.running-head
-    %h4.h6= site_title
+    %h4.h5
+      =link_to site_title, "/"
   .container
     %h1.page__title= current_page.data.title
     .page__content.pb4

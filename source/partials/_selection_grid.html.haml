@@ -2,7 +2,7 @@
   - group = data.terracottas.select { |item| item[key] == value }
   - group.each do |object|
     .grid-cell.grid-cell--1of2.grid-cell-med--1of2.grid-cell-large--1of3.grid-cell-x-large--1of4
-      %a{:href =>"/catalogue/#{object.cat}"}
+      =link_to "/catalogue/#{object.cat}" do
         .card{:data => {:catalogue => object.cat.to_s}, |
           :style => "background-image: url(#{image_path(object.cat)}.jpg)"}
           %h5.card__title
