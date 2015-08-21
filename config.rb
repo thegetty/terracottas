@@ -14,7 +14,7 @@ set :partials_dir, 'partials'
 set :markdown_engine, :kramdown
 set :markdown, :parse_block_html => true
 set :site_title, "Ancient Terracottas"
-set :site_url, "/Terracottas"
+set :site_url, ""
 
 page "/catalogue/*", :layout => :object
 page "/frontmatter/*", :layout => :page
@@ -29,6 +29,7 @@ end
 configure :build do
   # Relative assets needed to deploy to Github Pages
   activate :relative_assets
+  set :site_url, "/Terracottas"
 end
 
 activate :deploy do |deploy|

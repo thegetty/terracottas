@@ -3,7 +3,7 @@
   //@include align-items(center);
   @include justify-content(center);
   @include flex-wrap(wrap);
-  background-image: url("1.jpg");
+  background-image: url(image-path("1.jpg"));
   background-position: center 15%;
   background-size: cover;
   background-color: $dark-gray;
