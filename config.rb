@@ -14,7 +14,7 @@ set :partials_dir, 'partials'
 set :markdown_engine, :kramdown
 set :markdown, :parse_block_html => true
 set :site_title, "Ancient Terracottas"
-set :site_url, "terracottas"
+set :site_url, "/Terracottas"
 
 page "/catalogue/*", :layout => :object
 page "/frontmatter/*", :layout => :page
