@@ -16,11 +16,11 @@
     .panel.panel--right
       .panel__header.pt1.pb2
         .panel__header__left
-          %a{:href => "/catalogue"}
+          %a{:href => "#{site_url}/catalogue"}
             %i.ion-grid.h2.ml2.mt1
         .panel__header__center
           %h4.mt2.h5
-            =link_to site_title, "/"
+            =link_to site_title, site_url
         .panel__header__right
           -# %a.no-smoothState
           -#   %i.ion-navicon-round.h2.mr2.mt1
