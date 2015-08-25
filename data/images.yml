@@ -1,0 +1,22 @@
+- cat: 1
+  pixel_width: 6551
+  pixel_height: 8189
+  max_zoom: 5
+  360_view: false
+  views:  # available views will vary per image
+    - label: Main Image
+      path: ""  #local or http url
+    - label: 3/4 Left Front
+      path: ""
+    - label: Left Profile
+      path: ""
+    - label: 3/4 Left Back
+      path: ""
+    - label: Back
+      path: ""
+    - label: 3/4 Right Back
+      path: ""
+    - label: Right Profile
+      path: ""
+    - label: 3/4 Right Front
+      path: ""
