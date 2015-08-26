@@ -4,6 +4,7 @@ activate :views
 activate :directory_indexes
 
 # Global site settings
+set :relative_links, true
 set :css_dir, 'assets/stylesheets'
 set :js_dir, 'assets/javascripts'
 set :images_dir, 'assets/images'
@@ -13,7 +14,7 @@ set :partials_dir, 'partials'
 set :markdown_engine, :kramdown
 set :markdown, :parse_block_html => true
 set :site_title, "Ancient Terracottas"
-# set :site_url, ""
+set :site_url, ""
 
 page "/catalogue/*", :layout => :object
 page "/frontmatter/*", :layout => :page
@@ -21,10 +22,8 @@ page "/discussion/*", :layout => :page
 
 
 configure :development do
-  set :relative_links, true
-  activate :livereload
-  # activate :relative_assets
-  set :debug_assets, true
+ activate :livereload
+ set :debug_assets, true
 end
 
 configure :build do
