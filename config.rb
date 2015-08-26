@@ -28,8 +28,9 @@ end
 
 configure :build do
   # Relative assets needed to deploy to Github Pages
-  activate :relative_assets
+  # activate :relative_assets
   set :site_url, "/Terracottas"
+  set :http_prefix, "/Terracottas"
 end
 
 activate :deploy do |deploy|
