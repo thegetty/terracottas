@@ -64,7 +64,7 @@
 
 // Panel States (--expand, --collapse)
 // =============================================
-.panel--expand { width: 100%; z-index: 100; }
+.panel--expand { width: 100%; z-index: 2500; }
 
 .panel--collapse {
   // @include transform(scale(0));
