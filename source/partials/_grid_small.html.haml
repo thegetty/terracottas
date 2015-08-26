@@ -1,7 +1,7 @@
 .grid.grid--gutters
   - data.terracottas.each do |object|
     .grid-cell.grid-cell--1of2.grid-cell-x-large--1of3
-      =link_to "#{site_url}/catalogue/#{object.cat}" do
+      =link_to "/catalogue/#{object.cat}" do
         .card{:data => {:catalogue => object.cat.to_s}, |
           :style => "background-image: url(#{image_path(object.cat)}.jpg)"}
           %h5.card__title
