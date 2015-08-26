@@ -1,0 +1,36 @@
+.toc {
+  font-family: $heading-font-family;
+  font-size: $base-font-size * 1.125;
+  margin: 0 auto;
+  max-width: 48rem;
+}
+
+
+.toc__title {
+
+}
+
+.toc__submenu {
+}
+
+.toc__section {
+  //border-top: $base-border;
+  border-bottom: $base-border;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.toc__subsection {
+  border-top: $base-border;
+  padding-top: 1rem;
+  margin-bottom: 0.5rem;
+  margin-top: 1rem;
+
+  .toc__entry {
+  }
+}
+
+.toc__entry__author {
+  display: block;
+}

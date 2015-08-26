@@ -1,51 +1,29 @@
-%ul
+%ul.toc
   %li
-    %h3
-      =link_to "South Italian Terracottas", site_url
-  %li
-    =link_to "Director's Forward", site_url
-  %li
-    =link_to "Introduction", "#{site_url}/frontmatter/introduction"
-  %li
-    =link_to "Acknowledgements", "#{site_url}/frontmatter/acknowledgements"
-  %li
-    =link_to "Classification", "#{site_url}/frontmatter/classification"
-  %li
-    =link_to "Production Techniques", "#{site_url}/frontmatter/production_techniques"
-  %li
-    =link_to "Abbreviations", "#{site_url}/frontmatter/abbreviations"
-  %li
-    =link_to "Bibliography", "#{site_url}/frontmatter/bibliography"
-  %li
-    %br
-    %h4
-      =link_to "Catalogue", "#{site_url}/catalogue"
-  %li
-    %h5
-      =link_to "South Italy", "#{site_url}/catalogue/south-italy"
-  %li
-    %h5
-      =link_to "Sicily", "#{site_url}/catalogue/sicily"
-  %li
-    %h5
-      =link_to "Deaccessioned", site_url
-  %li
-    %br
-    %h4
-      =link_to "Discussion", site_url
-  %li
-    %h5
-      =link_to "Discussion A (Cat 1–3)", "#{site_url}/discussion/discussion-a"
-  %li
-    %h5
-      =link_to "Discussion B (Cat 4–23)", "#{site_url}/discussion/discussion-b"
-  %li
-    %h5
-      =link_to "Discussion C (Cat 38-41)", "#{site_url}/discussion/discussion-c"
-  %li
-    %h5
-      =link_to "Discussion D (Cat 45-46)", "#{site_url}/discussion/discussion-d"
-  %li
-    %br
-      %h4
-        =link_to "Guide to the Collection", site_url
+    %h3.toc__title.mb1
+      =link_to data.book.short_title || data.book.title, site_url
+    %h4.toc__entry__author.mb3= data.book.author
+  - data.book.contents.each do |item|
+    %li.toc__entry{:class => item.section? && "toc__section"}
+      - if item.section?
+        %h3
+          = link_to item.title, item.link
+      - else
+        = link_to item.title, item.link
+      - if item.author?
+        %span.toc__entry__author= item.author
+        %br
+      - if item.contents
+        %ul.toc__submenu
+          - item.contents.each do |child|
+            %li.toc__entry{:class => child.subsection? && "toc__subsection"}
+              - if child.subsection?
+                %h5
+                  = link_to child.title, child.link
+              - else
+                = link_to child.title, child.link
+              - if child.contents
+                %ul.toc__submenu
+                  - child.contents.each do |grandchild|
+                    %li.toc__entry
+                      = link_to grandchild.title, grandchild.link
