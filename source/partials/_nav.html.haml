@@ -1,15 +1,15 @@
 %ul.toc
   %li
     %h3.toc__title.mb1
-      =link_to data.book.short_title || data.book.title, site_url
+      =link_to data.book.short_title || data.book.title, "#{site_url}/"
     %h4.toc__entry__author.mb3= data.book.author
   - data.book.contents.each do |item|
     %li.toc__entry{:class => item.section? && "toc__section"}
       - if item.section?
         %h3
-          = link_to item.title, item.link
+          = link_to item.title, "#{site_url}/#{item.link}"
       - else
-        = link_to item.title, item.link
+        = link_to item.title, "#{site_url}/#{item.link}"
       - if item.author?
         %span.toc__entry__author= item.author
         %br
@@ -19,11 +19,11 @@
             %li.toc__entry{:class => child.subsection? && "toc__subsection"}
               - if child.subsection?
                 %h5
-                  = link_to child.title, child.link
+                  = link_to child.title, "#{site_url}/#{child.link}"
               - else
-                = link_to child.title, child.link
+                = link_to child.title, "#{site_url}/#{child.link}"
               - if child.contents
                 %ul.toc__submenu
                   - child.contents.each do |grandchild|
                     %li.toc__entry
-                      = link_to grandchild.title, grandchild.link
+                      = link_to grandchild.title, "#{site_url}/#{grandchild.link}"
