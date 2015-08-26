@@ -13,13 +13,14 @@ $nav-width: 25vw;
   @include justify-content(center);
   @include transform(translateX(100vw));
   background-color: $dark-gray;
+  color: $medium-gray;
   font-family: $heading-font-family;
   height: 100vh;
   overflow: hidden;
   padding: 2rem;
   position: fixed;
   width: 100vw;
-  z-index: 90;
+  z-index: 1500;
 
   // Sidebar nav links
   a { @extend %inverse-link; }
@@ -51,5 +52,5 @@ a.nav-primary__trigger {
   position: fixed;
   top: 0;
   right: 0;
-  z-index: 100;
+  z-index: 2000;
 }

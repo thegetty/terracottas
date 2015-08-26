@@ -2,15 +2,16 @@
 @import "vendor/gravitons";
 
 @import "bourbon";
-@import 'base/grid-settings';
+@import "base/grid-settings";
 @import "neat";
 
-@import 'fonts';
-@import 'vendor/ionicons/ionicons';
+@import "fonts";
+@import "vendor/ionicons/ionicons";
 @import "base/base";
 
 
 @import "global";
+@import "components/toc";
 @import "components/off-canvas";
 @import "components/grid";
 @import "components/page";
