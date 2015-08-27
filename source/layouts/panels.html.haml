@@ -8,8 +8,6 @@
         .panel__header__left
         .panel__header__center
         .panel__header__right
-          %a.no-smoothState{:id => 'leftPanelToggle'}
-            %i.ion-arrow-expand.h2.ml2.mt1
       .panel__inner
         #map{:data => {:catalogue => current_item.cat.to_s}}
     / Right Panel
@@ -22,8 +20,6 @@
           %h4.mt1.h5
             =link_to site_title, "#{site_url}/"
         .panel__header__right
-          -# %a.no-smoothState
-          -#   %i.ion-navicon-round.h2.mr2.mt1
       .panel__inner
         = yield
   - else
@@ -33,22 +29,16 @@
         .panel__header__left
         .panel__header__center
         .panel__header__right
-          %a.no-smoothState{:id => 'leftPanelToggle'}
-            %i.ion-arrow-expand.h2.ml2.mt1
       .panel__inner
         #map
     / Right Panel
     .panel.panel--right
       .panel__header.pt1.pb2
         .panel__header__left
-          -# %a{:href => "/catalogue"}
-          -#   %i.ion-grid.h2.ml2.mt1
         .panel__header__center
           %h4.mt1.h5
             =link_to site_title, "#{site_url}/"
         .panel__header__right
-          -# %a.no-smoothState
-          -#   %i.ion-navicon-round.h2.mr2.mt1
       .panel__inner
         %h1.object__title.mt1.mb3= current_page.data.title
         = yield
