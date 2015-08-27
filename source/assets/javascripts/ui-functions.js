@@ -3,6 +3,21 @@
 
 // Code for basic interface components lives here. Everything should be wrapped
 // up as individual functions that can be called from the main app.js file.
+function offCanvasSetup(){
+  // Show the off-canvas navigation
+  $("#off-canvas-toggle").find("i").addClass("ion-navicon");
+  $('#off-canvas-toggle').click(function() {
+    $(this).find('i').toggleClass("ion-navicon");
+    $(this).find('i').toggleClass("ion-ios-close-empty pr1");
+    $('#nav-primary').toggleClass('visible');
+  });
+
+  // Hide the off-canvas nav when clicking a link
+  $('#nav-primary a').on('click', function(e) {
+    $('#nav-primary').removeClass('visible');
+  });
+}
+
 
 
 function rightPanelToggle () {
@@ -42,6 +57,7 @@ function addPanelControls() {
   $(".scroll-down").click(function (event) {
     target = $(this).attr("href");
     $(target).velocity("scroll");
+    event.preventDefault();
   });
 
   $(".expander__trigger").click(function () {
