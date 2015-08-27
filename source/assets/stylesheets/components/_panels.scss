@@ -105,6 +105,7 @@
 // Right panel (text panel)
 // =============================================
 .panel--right {
+  background-color: $base-background-color;
   @include media($medium-screen-up) {
     .panel__header {
       background-color: $base-background-color;
