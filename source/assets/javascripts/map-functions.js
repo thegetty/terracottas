@@ -95,7 +95,6 @@ function addMapResizeListener(map) {
 
   $(".easy-button-button").click(function (event) {
     setTimeout(map.invalidateSize.bind(map), 350);
-    //event.preventDefault();
   });
 
   // Detect orientation change on mobile devices
