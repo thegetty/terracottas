@@ -29,6 +29,11 @@ $nav-width: 25vw;
   &.visible {
     @include transform(translateX(0)); overflow: auto;
     ~ a.nav-primary__trigger { @extend %inverse-link; }
+
+    .toc {
+      height: 100%;
+      //overflow: auto;
+    }
   }
 
   // Large size
