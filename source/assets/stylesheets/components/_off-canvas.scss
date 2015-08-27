@@ -31,8 +31,7 @@ $nav-width: 25vw;
     ~ a.nav-primary__trigger { @extend %inverse-link; }
 
     .toc {
-      height: 100%;
-      //overflow: auto;
+      max-height: 100%;
     }
   }
 
