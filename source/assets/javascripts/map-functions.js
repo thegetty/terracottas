@@ -1,4 +1,5 @@
 //= require geojson
+//= require leaflet-easy-button
 
 // =============================================================================
 // Map Functions
@@ -23,6 +24,9 @@ function initLeafletMap() {
 
   L.geoJson(geojsonFeature).addTo(map);
 
+  L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle)
+    .addTo(map);
+
   return map
 }
 
@@ -46,6 +50,9 @@ function initLeafletDeepZoom(catalogueNumber, pixelWidth, pixelHeight, objectMax
   L.tileLayer('../assets/tiles/' + catalogueNumber + '/{z}/{x}/{y}.png', {
     noWrap: true
   }).addTo(map);
+
+  L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle)
+    .addTo(map);
 
   // Use this procedure to place elements on a map
   // see here:
@@ -85,4 +92,14 @@ function addMapResizeListener(map) {
     setTimeout(map.invalidateSize.bind(map), 350);
     event.preventDefault();
   });
+
+  $(".easy-button-button").click(function (event) {
+    setTimeout(map.invalidateSize.bind(map), 350);
+    //event.preventDefault();
+  });
+
+  // Detect orientation change on mobile devices
+  window.addEventListener("orientationchange", function (map) {
+    map.invalidateSize;
+  })
 }
