@@ -4,10 +4,6 @@
     - current_item = catalogue.select { |item| item[:cat] == current_page.data.cat}.first
     / Left Panel
     .panel.panel--left
-      .panel__header--overlay.p1
-        .panel__header__left
-        .panel__header__center
-        .panel__header__right
       .panel__inner
         #map{:data => {:catalogue => current_item.cat.to_s}}
     / Right Panel
@@ -17,18 +13,13 @@
           %a{:href => "#{site_url}/catalogue"}
             %i.ion-grid.h2.ml2.mt1
         .panel__header__center
-          %h4.mt1.h5
+          %h4.mt2.h5
             =link_to site_title, "#{site_url}/"
-        .panel__header__right
       .panel__inner
         = yield
   - else
     / Left Panel
     .panel.panel--left
-      .panel__header--overlay.p1
-        .panel__header__left
-        .panel__header__center
-        .panel__header__right
       .panel__inner
         #map
     / Right Panel
@@ -36,9 +27,8 @@
       .panel__header.pt1.pb2
         .panel__header__left
         .panel__header__center
-          %h4.mt1.h5
+          %h4.mt2.h5
             =link_to site_title, "#{site_url}/"
-        .panel__header__right
       .panel__inner
         %h1.object__title.mt1.mb3= current_page.data.title
         = yield

@@ -17,51 +17,6 @@
 // Animate transitions on all children
 .panel > * { @include transition($base-transition); }
 
-// Panel Header div
-// =============================================
-.panel__header {
-  @include display(flex);
-  @include flex-direction(row);
-  @include justify-content(space-between);
-  @include transition($base-transition);
-  a { cursor: pointer; }
-}
-
-// Panel Header components (left, right, center)
-// ---------------------------------------------
-.panel__header__left {
-  @include flex(0 0 25%);
-  @include display(flex);
-  @include justify-content(flex-start);
-}
-
-.panel__header__right {
-  @include flex(0 0 25%);
-  @include display(flex);
-  @include justify-content(flex-end);
-}
-
-.panel__header__center {
-  @include flex(0 1 50%);
-  @include display(flex);
-  @include justify-content(center);
-  text-align: center;
-}
-
-// Transparent overlay header is absolutely positioned.
-// Sizes are relative to panels, which have relative position
-.panel__header--overlay {
-  position: absolute;
-  width: 100%;
-  z-index: 100;
-  text-align: right;
-
-  a {
-    cursor: pointer;
-    @extend %inverse-link;
-  }
-}
-
 // Panel States (--expand, --collapse)
 // =============================================
 .panel--expand { width: 100%; z-index: 2500; }
@@ -102,18 +57,20 @@
   z-index: 100;
 }
 
+// Panel Header (now only on right panel)
+// =============================================
+.panel__header {
+  width: 100%;
+  font-size: 1.125em;
+}
+
+.panel__header__left { position: fixed; }
+.panel__header__center { text-align: center; }
+
 // Right panel (text panel)
 // =============================================
 .panel--right {
   background-color: $base-background-color;
-  @include media($medium-screen-up) {
-    .panel__header {
-      background-color: $base-background-color;
-      position: fixed;
-      width: 50%;
-      z-index: 50;
-    }
-  }
 
   &.panel--expand {
     .panel__header { width: 100%; }

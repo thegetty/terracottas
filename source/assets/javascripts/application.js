@@ -74,17 +74,24 @@ $(document).ready(function() {
         $("#off-canvas-toggle").find("i")
           .removeClass("ion-ios-close-empty pr1")
           .addClass("ion-navicon");
-        $container.velocity('fadeOut', {duration: 200, delay: 200});
+        $(".panel--left").velocity({translateX: "-50vw"}, {duration: 200});
+        $(".panel--right").velocity({translateX: "50vw"}, {duration: 200});
+        $container.velocity('fadeOut', {duration: 200});
+
       },
     },
     // Triggered when new content has been loaded via AJAX.
     // Good place to animate the insertion of new content.
     onReady: {
-      duration: 200,
+      duration: 400,
       render: function ($container, $newContent) {
         $container.html($newContent);
+        $(".panel--left").velocity({translateX: "-50vw"}, {duration: 0});
+        $(".panel--right").velocity({translateX: "50vw"}, {duration: 0});
         $(".expander__content").addClass("expander--hidden");
-        $container.velocity('fadeIn', {duration: 200});
+        $container.velocity('fadeIn', {duration: 100});
+        $(".panel--left").velocity({translateX: "0vw"}, {duration: 200});
+        $(".panel--right").velocity({translateX: "0vw"}, {duration: 200});
       }
     },
     // Triggered when the transition has completed.
