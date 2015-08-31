@@ -1,33 +1,31 @@
+// Page class
+//
+// .running-head    - Appears top center above content area, links back to home
+// .page-title      - Global page title styles
+// .page-conent     - Container class; applies body-text placeholder
+
+
 .running-head {
   position: absolute;
-  top: 20px;
   text-align: center;
+  top: 20px;
   width: 100%;
 }
 
 .page-title {
-  padding-top: 4rem;
-  padding-bottom: 2rem;
-  max-width: 48rem;
   margin: 0 auto;
+  max-width: 48rem;
+  padding-bottom: 2rem;
+  padding-top: 4rem;
 
   @include media($medium-screen-up) {
-    padding-top: 6rem;
     padding-bottom: 4rem;
+    padding-top: 6rem;
   };
 }
 
 .page-content {
-  max-width: 48rem;
-  margin: 0 auto;
-
   @extend %body-text;
-}
-
-.page-content {
-  .grid {
-    .card {
-      font-size: 1rem;
-    }
-  }
+  margin: 0 auto;
+  max-width: 48rem;
 }

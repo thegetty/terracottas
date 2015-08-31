@@ -1,12 +1,21 @@
+// Cover Class
+// Styles specific to the cover page layout live here.
+//
+// .cover           - Full-bleed background image
+// .cover-inner     - Starts half-way down cover, contains transparent overlay
+// .cover-title     - Sits on top of cover-overlay for legibility; centered
+// .cover-subtitle  - Same as above
+// .cover-content   - White background, sits below cover image region
+// .centered        - single text column inside .cover-content; centered
+
 .cover {
   @include display(flex);
-  //@include align-items(center);
   @include justify-content(center);
   @include flex-wrap(wrap);
+  background-color: $dark-gray;
   background-image: url(image-path("1.jpg"));
   background-position: center 15%;
   background-size: cover;
-  background-color: $dark-gray;
   height: 100vh;
 }
 
@@ -22,14 +31,12 @@
   text-align: center;
   width: 100%;
 
-  a {
-    @extend %inverse-link;
-  }
-
   @include media($small-screen) {
     padding-left: 1rem;
     padding-right: 1rem;
   }
+
+  a { @extend %inverse-link; }
 }
 
 .cover-title {
@@ -54,5 +61,5 @@
 }
 
 .cover-content {
-  .centered {text-align: center;}
+  .centered { text-align: center; }
 }

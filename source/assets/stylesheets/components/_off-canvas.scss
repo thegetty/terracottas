@@ -1,19 +1,18 @@
-// Off Canvas Navigation
-//
-// Originally based on:
-// https://github.com/freshyill/Responsive-Off-Canvas-Navigation
+// Off Canvas Nav
+// Originally based on: https://github.com/freshyill/Responsive-Off-Canvas-Navigation
+// This component also includes a rule that paints the <body> element with a bg-color
+// the same as that of the off-canvas-nav, to hide flashes of white in some browsers
+
+// .nav-primary           - Off Canvas nav region
+// .main-content          - Everything that's *not* the off-canvas nav area
+// .nav-primary-trigger   - Link that shows/hides the off-canvas nav
+
 $nav-width:       20rem;
 $nav-color:       $medium-gray;
 $nav-background:  $dark-gray;
 $nav-font:        $heading-font-family;
+$nav-position:     right;                  // left or right; default is right
 
-// Nav Position accepts values of "left" and "right"
-// Default is right
-$nav-position:     right;
-
-body {
-  background-color: $nav-background;
-}
 
 @mixin off-canvas-nav($nav-position) {
   // Mobile first
@@ -26,7 +25,7 @@ body {
 
   &.visible {
     @include transform(translateX(0)); overflow: auto;
-    ~ a.nav-primary-trigger { @extend %inverse-link; }
+    ~ .nav-primary-trigger { @extend %inverse-link; }
   }
 
   background-color: $nav-background;
@@ -53,17 +52,16 @@ body {
   @include media($large-screen-up) {
     &.visible {
       ~ .main-content {
-        @if $nav-position == "left" {
-          @include transform(translateX($nav-width));
-        } @else {
-          @include transform(translateX(-$nav-width));
-        }
+        @if $nav-position == "left" { @include transform(translateX($nav-width));
+        } @else { @include transform(translateX(-$nav-width)); }
       }
     }
   }
 }
 
 // Template styles
+
+body { background-color: $nav-background; }
 
 .main-content {
   @include transition($base-transition);
@@ -72,21 +70,16 @@ body {
 
 .nav-primary {
   @include off-canvas-nav(right);
-  // Sidebar nav links
   a { @extend %inverse-link; }
-
-  .toc {
-    max-height: 100%;
-  }
-
+  .toc { max-height: 100%; }
 }
 
 
-a.nav-primary-trigger {
+.nav-primary-trigger {
   cursor: pointer;
   font-size: 2.125rem;
   position: fixed;
-  top: 0;
   right: 0;
+  top: 0;
   z-index: 2000;
 }
