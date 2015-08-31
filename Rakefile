@@ -1,11 +1,11 @@
 # == Dependencies ==============================================================
-require 'rake'
-require 'yaml'
-require 'nokogiri'
-require 'fileutils'
-require 'zip'
-require 'pathname'
-require 'rmagick'
+require "rake"
+require "yaml"
+require "nokogiri"
+require "fileutils"
+require "zip"
+require "pathname"
+require "rmagick"
 
 # == Helpers ===================================================================
 
@@ -32,11 +32,11 @@ task :markdown_convert do
 
   input_path = Pathname.new("#{input}")
   output_path = Pathname.new("#{output}")
-  source_files = Pathname.glob "#{input_path.to_s}/*.docx"
+  source_files = Pathname.glob "#{input_path}/*.docx"
 
   source_files.each do |file|
     base = file.basename.to_s.split("#{file.extname}").first
-    execute("pandoc --from=docx --to=markdown --smart --normalize --output=#{output_path.to_s}/#{base}.md #{file.to_s}")
+    execute("pandoc --from=docx --to=markdown --smart --normalize --output=#{output_path}/#{base}.md #{file}")
   end
 end
 
@@ -46,7 +46,7 @@ end
 # based on: http://www.calebwoods.com/2015/02/01/batch-resizing-images-ruby/
 #-------------------------------------------------------------------------------
 desc "Batch resize images"
-task :resize, [:target, :size] do |t, args|
+task :resize, [:target, :size] do |_t, args|
   @directory = Pathname(File.expand_path(args[:target]))
   @size      = args[:size] || 1025
 
@@ -54,7 +54,7 @@ task :resize, [:target, :size] do |t, args|
     img = Magick::Image.read(file).first
     resized = img.resize_to_fit(@size)
 
-    resized_path = @directory.join('resized', File.basename(file))
+    resized_path = @directory.join("resized", File.basename(file))
     resized.write(resized_path) do
       self.quality = 100
     end
