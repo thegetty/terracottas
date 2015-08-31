@@ -1,3 +1,7 @@
+.object__data {
+  visibility: hidden;
+}
+
 .object__header {
   @include transition($base-transition);
   @include media($medium-screen-up) {

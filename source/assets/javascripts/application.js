@@ -44,7 +44,7 @@ function setUpPage(){
   offCanvasSetup();
   addPanelControls();
   $(".expander__content").addClass("expander--hidden");
-  if (mapCheck($(".object__content"))) {
+  if (mapCheck($(".object__data"))) {
     var map = deepZoomSetup();
     // must bind map resize asynchronously
     setTimeout(map.invalidateSize.bind(map), 100);

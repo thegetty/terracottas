@@ -69,10 +69,10 @@ function initLeafletDeepZoom(catalogueNumber, pixelWidth, pixelHeight, objectMax
 
 // DOM-specific setup code (where to find object info)
 function deepZoomSetup(){
-  var catalogueNumber = $(".object__content").data("catalogue");
-  var pixelWidth      = $(".object__content").data("dimensions-width");
-  var pixelHeight     = $(".object__content").data("dimensions-height");
-  var objectMaxZoom   = $(".object__content").data("dimensions-max-zoom");
+  var catalogueNumber = $(".object__data").data("catalogue");
+  var pixelWidth      = $(".object__data").data("dimensions-width");
+  var pixelHeight     = $(".object__data").data("dimensions-height");
+  var objectMaxZoom   = $(".object__data").data("dimensions-max-zoom");
   var map             = initLeafletDeepZoom(
                           catalogueNumber, pixelWidth, pixelHeight, objectMaxZoom
                         );

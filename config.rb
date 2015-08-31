@@ -5,12 +5,12 @@ activate :directory_indexes
 
 # Global site settings
 set :relative_links, true
-set :css_dir, 'assets/stylesheets'
-set :js_dir, 'assets/javascripts'
-set :images_dir, 'assets/images'
-set :fonts_dir, 'assets/fonts'
-set :layout, 'layouts/application'
-set :partials_dir, 'partials'
+set :css_dir, "assets/stylesheets"
+set :js_dir, "assets/javascripts"
+set :images_dir, "assets/images"
+set :fonts_dir, "assets/fonts"
+set :layout, "layouts/application"
+set :partials_dir, "partials"
 set :markdown_engine, :kramdown
 set :markdown, :parse_block_html => true
 set :site_title, "Ancient Terracottas"
@@ -20,10 +20,9 @@ page "/catalogue/*", :layout => :object
 page "/frontmatter/*", :layout => :page
 page "/discussion/*", :layout => :page
 
-
 configure :development do
- activate :livereload
- set :debug_assets, true
+  activate :livereload
+  set :debug_assets, true
 end
 
 configure :build do
@@ -36,7 +35,7 @@ end
 activate :deploy do |deploy|
   deploy.build_before = true
   deploy.method = :git
-  deploy.branch = 'gh-pages'
+  deploy.branch = "gh-pages"
 end
 
 helpers do
@@ -52,6 +51,18 @@ helpers do
   end
 
   def markdown(text)
-    Tilt['markdown'].new { text }.render
+    Tilt["markdown"].new { text }.render
+  end
+
+  def object_data(id)
+    object = data.terracottas.find { |item| item[:cat] == id }
+    haml_tag :div, :class => "object__data", :data => {
+      :catalogue  => object.cat.to_s,
+      :dimensions => {
+        :width    => object.pixel_width,
+        :height   => object.pixel_height,
+        :max_zoom => object.max_zoom
+      }
+    }
   end
 end

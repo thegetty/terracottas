@@ -1,12 +1,11 @@
 !!!
 %html
   %head
-    %meta{charset: "utf-8"}
-    %meta{content: "IE=edge,chrome=1", http: {equiv: "X-UA-Compatible"}}
-    %meta{name: "viewport",  |
-      content: "width=device-width, initial-scale=1, max-scale=1, user-scalable=no"}
-    %meta{name: "apple-mobile-web-app-capable", content: "yes"}
-    %meta{name: "apple-mobile-web-app-status-bar-style", content: "black"}
+    %meta{ charset: "utf-8" }
+    %meta{ content: "IE=edge,chrome=1", http: { equiv: "X-UA-Compatible" }}
+    %meta{ name: "viewport", content: "width=device-width, initial-scale=1, max-scale=1, user-scalable=no" }
+    %meta{ name: "apple-mobile-web-app-capable", content: "yes" }
+    %meta{ name: "apple-mobile-web-app-status-bar-style", content: "black" }
     %title= current_page.data.title || "The Middleman"
     = stylesheet_link_tag "application"
     = stylesheet_link_tag "http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css"
@@ -14,7 +13,7 @@
 
   %body
     #main
-      #nav-primary.nav-primary
+      .nav-primary#nav-primary
         = partial "nav"
       %a.nav-primary__trigger.no-smoothState#off-canvas-toggle
         %i.ion-navicon.mr2.mt1
