@@ -51,8 +51,8 @@ function initLeafletDeepZoom(catalogueNumber, pixelWidth, pixelHeight, objectMax
   // Temporarily hard-code these to Github
   // Pull them from CDN once this is up
   L.tileLayer('http://gettypubs.github.io/Terracottas/assets/tiles/'
-    + catalogueNumber + '/{z}/{x}/{y}.png',
-    { noWrap: true }).addTo(map);
+    + catalogueNumber + '/{z}/{x}/{y}.png', { noWrap: true })
+    .addTo(map);
 
   L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle)
     .addTo(map);
