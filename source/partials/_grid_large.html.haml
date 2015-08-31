@@ -4,5 +4,5 @@
       =link_to "#{site_url}/catalogue/#{object.cat}" do
         .card{:data => {:catalogue => object.cat.to_s}, |
           :style => "background-image: url(#{image_path(object.cat)}.jpg)"}
-          %h5.card__title
+          %h5.card-title
             = object.title

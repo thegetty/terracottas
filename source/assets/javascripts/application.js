@@ -43,8 +43,8 @@ function mapCheck($el) {
 function setUpPage(){
   offCanvasSetup();
   addPanelControls();
-  $(".expander__content").addClass("expander--hidden");
-  if (mapCheck($(".object__data"))) {
+  $(".expander-content").addClass("expander--hidden");
+  if (mapCheck($(".object-data"))) {
     var map = deepZoomSetup();
     // must bind map resize asynchronously
     setTimeout(map.invalidateSize.bind(map), 100);
@@ -88,7 +88,7 @@ $(document).ready(function() {
         $container.html($newContent);
         $(".panel--left").velocity({translateX: "-50vw"}, {duration: 0});
         $(".panel--right").velocity({translateX: "50vw"}, {duration: 0});
-        $(".expander__content").addClass("expander--hidden");
+        $(".expander-content").addClass("expander--hidden");
         $container.velocity('fadeIn', {duration: 100});
         $(".panel--left").velocity({translateX: "0vw"}, {duration: 200});
         $(".panel--right").velocity({translateX: "0vw"}, {duration: 200});

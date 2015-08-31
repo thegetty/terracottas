@@ -1,13 +1,13 @@
 = wrap_layout :application do
   .cover
-    .cover__inner
-      %h1.cover__title= current_page.data.title
-      %h2.cover__subtitle= current_page.data.subtitle
+    .cover-inner
+      %h1.cover-title= current_page.data.title
+      %h2.cover-subtitle= current_page.data.subtitle
       %br
-      %h2.cover__author Maria Lucia Ferruzza
+      %h2.cover-author Maria Lucia Ferruzza
       %a.scroll-down.no-smoothState{ :href => '#toc' }
         %i.ion-chevron-down.h1.ml2.mt1
-  .container.cover__content
+  .container.cover-content
     .toc#toc
       %h2.centered.mt3 Contents
       = partial "nav"

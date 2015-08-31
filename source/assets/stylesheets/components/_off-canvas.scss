@@ -26,7 +26,7 @@ body {
 
   &.visible {
     @include transform(translateX(0)); overflow: auto;
-    ~ a.nav-primary__trigger { @extend %inverse-link; }
+    ~ a.nav-primary-trigger { @extend %inverse-link; }
   }
 
   background-color: $nav-background;
@@ -52,7 +52,7 @@ body {
 
   @include media($large-screen-up) {
     &.visible {
-      ~ .page-content {
+      ~ .main-content {
         @if $nav-position == "left" {
           @include transform(translateX($nav-width));
         } @else {
@@ -65,7 +65,7 @@ body {
 
 // Template styles
 
-.page-content {
+.main-content {
   @include transition($base-transition);
   background-color: $base-background-color;
 }
@@ -82,7 +82,7 @@ body {
 }
 
 
-a.nav-primary__trigger {
+a.nav-primary-trigger {
   cursor: pointer;
   font-size: 2.125rem;
   position: fixed;

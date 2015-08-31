@@ -1,22 +1,25 @@
+// Card class
+// Cards have full-bleed image backgrounds, subtle shadows, and labels
+// anchored to the bottom. They have a fixed height and fluid width. Suitable
+// for displaying results in a grid.
+//
+// :hover         - "Raise" the element with increase in box-shadow
+// .card-title    - The label component anchored to bottom of card
+
 .card {
   @include transition($base-transition);
   @include display(flex);
   @include flex-direction(column);
   @include align-items(stretch);
   @include justify-content(flex-end);
-  border-radius: $base-border-radius;
-  box-shadow: $base-box-shadow;
-  height: 320px;
-  overflow: hidden;
-
   background-color: $light-gray;
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
-
-  -webkit-background-clip: padding-box;
-  -moz-background-clip:    padding;
-  background-clip:         padding-box;
+  border-radius: $base-border-radius;
+  box-shadow: $base-box-shadow;
+  height: 320px;
+  overflow: hidden;
 
   @include media($large-screen-up) {
     background-position: center center;
@@ -25,29 +28,24 @@
   &:hover {
     box-shadow: $hover-box-shadow;
 
-    .card__title {
-      //background-color: #000;
-      color: #fff;
+    .card-title {
+      color: $inverse-color;
     }
   }
 
 }
 
-.card__title {
+.card-title {
   @include flex(0 0 20%);
   @include transition($base-transition);
   background-color: transparentize(#000, 0.5);
-  color: transparentize(#fff, 0.4);
-  margin-bottom: 0;
-  padding: $small-spacing;
-  text-align: left;
-  display: block;
-  z-index: 10;
-  overflow: hidden;
-
   border-bottom-left-radius: $base-border-radius;
   border-bottom-right-radius: $base-border-radius;
-
-  // a { @extend %inverse-link; }
-
+  color: transparentize($inverse-color, 0.4);
+  display: block;
+  margin-bottom: 0;
+  overflow: hidden;
+  padding: $small-spacing;
+  text-align: left;
+  z-index: 10;
 }

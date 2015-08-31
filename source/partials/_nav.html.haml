@@ -1,29 +1,29 @@
 %ul.toc
   %li
-    %h3.toc__title.mb1
+    %h3.toc-title.mb1
       =link_to data.book.short_title || data.book.title, "#{site_url}/"
-    %h4.toc__entry__author.mb3= data.book.author
+    %h4.toc-entry-author.mb3= data.book.author
   - data.book.contents.each do |item|
-    %li.toc__entry{:class => item.section? && "toc__section"}
+    %li.toc-entry{:class => item.section? && "toc-section"}
       - if item.section?
         %h3
           = link_to item.title, "#{site_url}#{item.link}/"
       - else
         = link_to item.title, "#{site_url}#{item.link}/"
       - if item.author?
-        %span.toc__entry__author= item.author
+        %span.toc-entry-author= item.author
         %br
       - if item.contents
-        %ul.toc__submenu
+        %ul.toc-submenu
           - item.contents.each do |child|
-            %li.toc__entry{:class => child.subsection? && "toc__subsection"}
+            %li.toc-entry{:class => child.subsection? && "toc-subsection"}
               - if child.subsection?
                 %h5
                   = link_to child.title, "#{site_url}#{child.link}/"
               - else
                 = link_to child.title, "#{site_url}#{child.link}/"
               - if child.contents
-                %ul.toc__submenu
+                %ul.toc-submenu
                   - child.contents.each do |grandchild|
-                    %li.toc__entry
+                    %li.toc-entry
                       = link_to grandchild.title, "#{site_url}#{grandchild.link}/"

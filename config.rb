@@ -56,7 +56,7 @@ helpers do
 
   def object_data(id)
     object = data.terracottas.find { |item| item[:cat] == id }
-    haml_tag :div, :class => "object__data", :data => {
+    haml_tag :div, :class => "object-data", :data => {
       :catalogue  => object.cat.to_s,
       :dimensions => {
         :width    => object.pixel_width,
