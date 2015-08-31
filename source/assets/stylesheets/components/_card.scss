@@ -39,13 +39,11 @@
   @include flex(0 0 20%);
   @include transition($base-transition);
   background-color: transparentize(#000, 0.5);
-  border-bottom-left-radius: $base-border-radius;
-  border-bottom-right-radius: $base-border-radius;
   color: transparentize($inverse-color, 0.4);
   display: block;
+  font-size: 1rem;
   margin-bottom: 0;
   overflow: hidden;
   padding: $small-spacing;
-  text-align: left;
   z-index: 10;
 }
