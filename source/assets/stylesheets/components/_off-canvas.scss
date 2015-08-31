@@ -11,7 +11,7 @@ $nav-width:       20rem;
 $nav-color:       $medium-gray;
 $nav-background:  $dark-gray;
 $nav-font:        $heading-font-family;
-$nav-position:     right;                  // left or right; default is right
+$nav-position:    right;                  // left or right; default is right
 
 
 @mixin off-canvas-nav($nav-position) {
