@@ -25,18 +25,18 @@ $inverse-color: #fff;
 // Font Colors
 $base-background-color: #f6f6f6; //#f0f0f0;
 $base-font-color: $dark-gray;
-$action-color: #617D8C;
+$action-color: #617d8c;
 
 // Border
 $base-border-color: $light-gray;
 $base-border: 1px solid $base-border-color;
 
 // Shadow
-$base-box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .15);
-$hover-box-shadow: 0 10px 25px 5px rgba(0, 0, 0, .35);
+$base-box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.15);
+$hover-box-shadow: 0 10px 25px 5px rgba(0, 0, 0, 0.35);
 
 // Transitions
-$base-transition: all .2s ease-in-out;
+$base-transition: all 0.2s ease-in-out;
 
 // Forms
 $form-box-shadow: inset 0 1px 3px rgba(#000, 0.06);
