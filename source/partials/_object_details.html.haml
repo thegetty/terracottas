@@ -1,0 +1,55 @@
+/ Object Details table (expandible section)
+.object__content__section.expander
+  %a{:href => "javascript:void(0);", |
+    :class => "expander__trigger"}
+    %h3.pb1.mt1 Object Details
+  .expander__content
+    %table.object__info
+      %tbody
+        - # Catalogue number
+        - if current_item.cat
+          %tr
+            %td
+              %strong Catalogue Number
+            %td
+              %strong= current_item.cat
+        - # Accession number
+        - if current_item.acc
+          %tr
+            %td Inventory Number
+            %td= current_item.acc
+        - # Typology
+        - if current_item.typology
+          %tr
+            %td Typology
+            %td= current_item.typology || "Statue"
+        - # Grouping
+        - if current_item.group
+          %tr
+            %td= "Grouping"
+            %td
+              - if current_item.group == "Group of a Seated Poet and Sirens"
+                =link_to current_item.group, "#{site_url}/discussion/discussion-a"
+              - else
+                = current_item.group
+        - # Region, City
+        - if current_item.region
+          %tr
+            %td Region
+            %td
+              =link_to current_item.region, "#{site_url}/catalogue/#{current_item.region.downcase.gsub(" ", "-")}"
+              %span= ", #{current_item.city}" unless current_item.city.nil?
+        - # Dimensions
+        - if current_item.dimensions
+          %tr
+            %td
+              %strong Dimensions
+            %td
+          - current_item.dimensions.each do |dimension|
+            - dimension.each_pair do |key, value|
+              %tr
+                - if key == "desc"
+                  %td.pr2{:colspan => 2}= value.capitalize
+                - else
+                  %td.pr2= key.capitalize
+                  %td.pr2= value.capitalize

@@ -1,108 +1,45 @@
 = wrap_layout :panels do
-  - current_item = data.terracottas.select { |item| item[:cat] == current_page.data.cat}.first
-  %article
-    / Page Heading
-    .object__header
-      %h2.object__meta.mt2= current_item.cat.to_s unless current_item.cat.nil?
-      %h1.object__title.mt1.mb3= current_page.data.title
-      %h3.object__meta.mt2.mb3= current_item.date unless current_item.date.nil?
-    / Page Contents
-    .object__content.mt2{:data => {:catalogue => current_item.cat.to_s, |
-      :dimensions => { :width => current_item.pixel_width, |
-      :height => current_item.pixel_height, |
-      :max_zoom => current_item.max_zoom }}}
-      / Object Details table (expandible section)
-      .object__content__section.expander
-        %a{:href => "javascript:void(0);", |
-          :class => "expander__trigger"}
-          %h3.pb1.mt1 Object Details
-        .expander__content
-          %table.object__info
-            %tbody
-              / Catalogue number
-              - unless current_item.cat.nil?
-                %tr
-                  %td
-                    %strong Catalogue Number
-                  %td
-                    %strong= current_item.cat
-              / Accession number
-              - unless current_item.acc.nil?
-                %tr
-                  %td Inventory Number
-                  %td= current_item.acc
-              / Typology
-              - unless current_item.typology.nil?
-                %tr
-                  %td Typology
-                  %td= current_item.typology || "Statue"
-              / Grouping
-              - unless current_item.group.nil?
-                %tr
-                  %td= "Grouping"
-                  %td
-                    - if current_item.group == "Group of a Seated Poet and Sirens"
-                      =link_to current_item.group, "#{site_url}/discussion/discussion-a"
-                    - else
-                      = current_item.group
-              / Region, City
-              - unless current_item.region.nil?
-                %tr
-                  %td Region
-                  %td
-                    =link_to current_item.region, "#{site_url}/catalogue/#{current_item.region.downcase.gsub(" ", "-")}"
-                    %span= ", #{current_item.city}" unless current_item.city.nil?
-              / Dimensions
-              - unless current_item.dimensions.nil?
-                %tr
-                  %td
-                    %strong Dimensions
-                  %td
-                - current_item.dimensions.each do |dimension|
-                  - dimension.each_pair do |key, value|
-                    %tr
-                      - if key == "desc"
-                        %td.pr2{:colspan => 2}= value.capitalize
-                      - else
-                        %td.pr2= key.capitalize
-                        %td.pr2= value.capitalize
-      / Fabric
-      - unless current_page.data.fabric.nil?
+  - current_item = data.terracottas.find { |item| item[:cat] == current_page.data.cat}
+  - if current_item.cat
+    %article
+      - object_data(current_item.cat)
+      .object__header
+        %h2.object__meta.mt2= current_item.cat.to_s
+        %h1.object__title.mt1.mb3= current_page.data.title
+        %h3.object__meta.mt2.mb3= current_item.date
+      .object__content
+        = partial(:object_details, :locals => { :current_item => current_item })
+        - # Fabric
+        - if current_page.data.fabric
+          .object__content__section.expander
+            %a{:href => "javascript:void(0);", :class => "expander__trigger"}
+              %h3.pb1.mt1 Fabric
+            .expander__content
+              = markdown(current_page.data.fabric)
+        - # Condition
+        - if current_page.data.condition
+          .object__content__section.expander
+            %a{:href => "javascript:void(0);", :class => "expander__trigger"}
+              %h3.pb1.mt1 Condition
+            .expander__content
+              = markdown(current_page.data.condition)
+        - # Provenance
+        - if current_page.data.provenance
+          .object__content__section.expander
+            %a{:href => "javascript:void(0);", :class => "expander__trigger"}
+              %h3.pb1.mt1 Provenance
+            .expander__content
+              = markdown(current_page.data.provenance)
+        - # Bibliography
+        - if current_page.data.bibliography
+          .object__content__section.expander
+            %a{:href => "javascript:void(0);", :class => "expander__trigger"}
+              %h3.pb1.mt1 Bibliography
+            .expander__content
+              = markdown(current_page.data.bibliography)
+        / Main Content
         .object__content__section.expander
-          %a{:href => "javascript:void(0);", |
-            :class => "expander__trigger"}
-            %h3.pb1.mt1 Fabric
+          %a{:href => "javascript:void(0);", :class => "expander__trigger"}
+            %h3.pb1.mt1 Description
           .expander__content
-            = markdown(current_page.data.fabric)
-      / Condition
-      - unless current_page.data.condition.nil?
-        .object__content__section.expander
-          %a{:href => "javascript:void(0);", |
-            :class => "expander__trigger"}
-            %h3.pb1.mt1 Condition
-          .expander__content
-            = markdown(current_page.data.condition)
-      / Provenance
-      - unless current_page.data.provenance.nil?
-        .object__content__section.expander
-          %a{:href => "javascript:void(0);", |
-            :class => "expander__trigger"}
-            %h3.pb1.mt1 Provenance
-          .expander__content
-            = markdown(current_page.data.provenance) unless current_item.nil?
-      / Bibliography
-      - unless current_page.data.bibliography.nil?
-        .object__content__section.expander
-          %a{:href => "javascript:void(0);", |
-            :class => "expander__trigger"}
-            %h3.pb1.mt1 Bibliography
-          .expander__content
-            = markdown(current_page.data.bibliography)
-
-      / Main Content
-      .object__content__section.expander
-        %a{:href => "javascript:void(0);", |
-          :class => "expander__trigger"}
-          %h3.pb1.mt1 Description
-        .expander__content
-          = yield
+            = yield
