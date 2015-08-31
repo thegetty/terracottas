@@ -3,8 +3,8 @@
     %h4.h5
       =link_to site_title, "#{site_url}/"
   .container
-    %h1.page__title= current_page.data.title
-    .page__content.pb4
+    %h1.page-title= current_page.data.title
+    .page-content.pb4
       - if current_page.data.group
         = partial(:selection_grid, :locals => {:key => "group", :value => current_page.data.group})
         .pb4

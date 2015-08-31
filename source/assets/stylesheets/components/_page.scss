@@ -5,7 +5,7 @@
   width: 100%;
 }
 
-.page__title {
+.page-title {
   padding-top: 4rem;
   padding-bottom: 2rem;
   max-width: 48rem;
@@ -17,14 +17,14 @@
   };
 }
 
-.page__content {
+.page-content {
   max-width: 48rem;
   margin: 0 auto;
 
   @extend %body-text;
 }
 
-.page__content {
+.page-content {
   .grid {
     .card {
       font-size: 1rem;

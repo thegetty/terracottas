@@ -15,9 +15,9 @@
     #main
       .nav-primary#nav-primary
         = partial "nav"
-      %a.nav-primary__trigger.no-smoothState#off-canvas-toggle
+      %a.nav-primary-trigger.no-smoothState#off-canvas-toggle
         %i.ion-navicon.mr2.mt1
-      .page-content
+      .main-content
         = yield
     = javascript_include_tag "http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js", |
       "https://code.jquery.com/jquery-2.1.1.min.js", "application"

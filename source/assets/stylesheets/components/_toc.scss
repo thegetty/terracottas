@@ -6,14 +6,14 @@
 }
 
 
-.toc__title {
+.toc-title {
 
 }
 
-.toc__submenu {
+.toc-submenu {
 }
 
-.toc__section {
+.toc-section {
   //border-top: $base-border;
   border-bottom: $base-border;
   padding-top: 1rem;
@@ -21,16 +21,16 @@
   margin-bottom: 1rem;
 }
 
-.toc__subsection {
+.toc-subsection {
   border-top: $base-border;
   padding-top: 1rem;
   margin-bottom: 0.5rem;
   margin-top: 1rem;
 
-  .toc__entry {
+  .toc-entry {
   }
 }
 
-.toc__entry__author {
+.toc-entry-author {
   display: block;
 }

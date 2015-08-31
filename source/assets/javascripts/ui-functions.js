@@ -60,14 +60,14 @@ function addPanelControls() {
     event.preventDefault();
   });
 
-  $(".expander__trigger").click(function () {
+  $(".expander-trigger").click(function () {
     // Velocity JS options object
     var options = {
       duration: 300,
       complete: function () { $section.toggleClass("expander--hidden"); }
     }
 
-    $section = $(this).parent().find(".expander__content");
+    $section = $(this).parent().find(".expander-content");
 
     if (isHidden($section)) {
       $section.velocity("transition.slideDownIn", options);

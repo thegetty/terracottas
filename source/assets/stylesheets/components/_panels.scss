@@ -36,20 +36,20 @@
   background-color: #333;
 }
 
-.panel__image {
+.panel-image {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
 }
 
 // Mapbox map and image div need to have height applied
-#map, .panel__image {
+#map, .panel-image {
   background-color: #333;
   @include media($small-screen) { height: 50vh; }
   @include media($medium-screen-up) { height: 100vh; }
 }
 
-#future__panel {
+#future-panel {
   position: absolute;
   top: 0;
   left: 0;
@@ -59,13 +59,13 @@
 
 // Panel Header (now only on right panel)
 // =============================================
-.panel__header {
+.panel-header {
   width: 100%;
   font-size: 1.125em;
 }
 
-.panel__header__left { position: fixed; }
-.panel__header__center { text-align: center; }
+.panel-header-left { position: fixed; }
+.panel-header-center { text-align: center; }
 
 // Right panel (text panel)
 // =============================================
@@ -73,8 +73,8 @@
   background-color: $base-background-color;
 
   &.panel--expand {
-    .panel__header { width: 100%; }
-    .panel__inner { max-width: 1400px; margin: 0 auto; }
+    .panel-header { width: 100%; }
+    .panel-inner { max-width: 1400px; margin: 0 auto; }
   }
 
   // Push away from center of page when collapsing, so override
@@ -83,7 +83,7 @@
     width: 0%;
   }
 
-  .panel__inner {
+  .panel-inner {
     padding: $base-spacing;
     padding-top: 3rem;
     //@include media($medium-screen-up) { padding: $base-spacing; }
