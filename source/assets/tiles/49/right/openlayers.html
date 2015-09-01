@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>007698F2V1</title>
+<meta http-equiv="imagetoolbar" content="no"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<style type="text/css">
+html, body { margin:0; padding: 0; height: 100%; width: 100%; }
+body { width:100%; height:100%; background: #ffffff; }
+#map { position: absolute; height: 100%; width: 100%; background-color: #FFFFFF; }
+.olImageLoadError {  display: none !important; }
+</style>
+<script src="http://openlayers.org/api/2.13/OpenLayers.js" type="text/javascript"></script>
+<script type="text/javascript">
+var map, layer;
+var mapBounds = new OpenLayers.Bounds(0.000000, -3716.000000, 4658.000000, 0.000000);
+var mapMinZoom = 0;
+var mapMaxZoom = 5;
+var mapMaxResolution = 1.000000;
+var gridBounds = new OpenLayers.Bounds(0.000000, -3716.000000, 4658.000000, 0.000000);
+function init() {
+  var options = {
+    controls: [],
+    maxExtent : gridBounds,
+    minResolution: mapMaxResolution,
+    numZoomLevels: mapMaxZoom+1
+  };
+  map = new OpenLayers.Map('map', options);
+  layer = new OpenLayers.Layer.XYZ( "MapTiler layer", "${z}/${x}/${y}.png", {
+    transitionEffect: 'resize',
+    tileSize: new OpenLayers.Size(256, 256),
+    tileOrigin: new OpenLayers.LonLat(gridBounds.left, gridBounds.top)
+  });
+  map.addLayer(layer);
+  map.zoomToExtent(mapBounds);
+  map.addControl(new OpenLayers.Control.Navigation());
+  map.addControl(new OpenLayers.Control.PanZoom());
+  map.addControl(new OpenLayers.Control.MousePosition({  numDigits: 0 }));
+  map.addControl(new OpenLayers.Control.Permalink());
+}
+</script>
+</head>
+<body onload="init();">
+<div id="map"></div>
+</body>
+</html>

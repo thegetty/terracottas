@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>008414F14V1</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
+    <![endif]-->
+    <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+    <script>
+      function init() {
+        var mapMinZoom = 0;
+        var mapMaxZoom = 5;
+        var map = L.map('map', {
+          maxZoom: mapMaxZoom,
+          minZoom: mapMinZoom,
+          crs: L.CRS.Simple
+        }).setView([0, 0], mapMaxZoom);
+        
+        var mapBounds = new L.LatLngBounds(
+            map.unproject([0, 4608], mapMaxZoom),
+            map.unproject([3840, 0], mapMaxZoom));
+            
+        map.fitBounds(mapBounds);
+        L.tileLayer('{z}/{x}/{y}.png', {
+          minZoom: mapMinZoom, maxZoom: mapMaxZoom,
+          bounds: mapBounds,
+          attribution: 'Rendered with <a href="http://www.maptiler.com/">MapTiler</a>',
+          noWrap: true          
+        }).addTo(map);
+      }
+    </script>
+    <style>
+      html, body, #map { width:100%; height:100%; margin:0; padding:0; }
+    </style>
+  </head>
+  <body onload="init()">
+    <div id="map"></div>
+  </body>
+</html>
