@@ -37,9 +37,17 @@
               %h3.pb1.mt1 Bibliography
             .expander-content
               = markdown(current_page.data.bibliography)
-        / Main Content
+        / Description
         .object-content-section.expander
           %a{:href => "javascript:void(0);", :class => "expander-trigger"}
             %h3.pb1.mt1 Description
           .expander-content
             = yield
+        / Discussion
+        .object-content-section.expander
+          %a{:href => "javascript:void(0);", :class => "expander-trigger"}
+            %h3.pb1.mt1 Discussion
+          .expander-content
+            = discussion_text(current_item.cat)
+            -# - essay = sitemap.find_resource_by_path("discussion/discussion-a.html")
+            -# = essay.render(:layout => false)

@@ -65,4 +65,20 @@ helpers do
       }
     }
   end
+
+  def discussion_text(id)
+    case id
+    when 1..3
+      essay = sitemap.find_resource_by_path("discussion/discussion-a.html")
+    when 4..23
+      essay = sitemap.find_resource_by_path("discussion/discussion-b.html")
+    when 38..41
+      essay = sitemap.find_resource_by_path("discussion/discussion-c.html")
+    when 45..46
+      essay = sitemap.find_resource_by_path("discussion/discussion-d.html")
+    else
+      puts "No Discussion Found"
+    end
+    essay.render(:layout => false) unless essay.nil?
+  end
 end
