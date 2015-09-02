@@ -79,6 +79,7 @@ helpers do
     else
       puts "No Discussion Found"
     end
-    essay.render(:layout => false) unless essay.nil?
+    html = essay.render(:layout => false) unless essay.nil?
+    html.gsub("fn:", "fn-discussion:").gsub("fnref:", "fnref-discussion:")
   end
 end
