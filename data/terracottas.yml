@@ -157,6 +157,9 @@
     width: 14.5 cm
   - desc: Face
     height: 10.3 cm
+  pixel_width: 4864
+  pixel_height: 5888
+  max_zoom: 5
 
 - cat: 9
   acc: 82.AD.93.3
@@ -175,6 +178,9 @@
     width: 14.1 cm
   - desc: Face
     height: 11.1 cm
+  pixel_width: 4864
+  pixel_height: 5632
+  max_zoom: 5
 
 - cat: 10
   acc: 82.AD.93.2
@@ -229,6 +235,9 @@
     width: 11.5 cm
   - desc: Face
     height: 10.2 cm
+  pixel_width: 4352
+  pixel_height: 4864
+  max_zoom: 5
 
 - cat: 13
   acc: 82.AD.93.16
@@ -247,6 +256,7 @@
     width: 12.6 cm
   - desc: Face
     height: 11.7 cm
+
 
 - cat: 14
   acc: 82.AD.93.14
@@ -302,6 +312,9 @@
   dimensions:
   - desc: Face
     height: 7 cm
+  pixel_width: 4352
+  pixel_height: 5120
+  max_zoom: 5
 
 - cat: 17
   acc: 82.AD.93.10
@@ -321,6 +334,9 @@
   dimensions:
   - desc: Face
     height: 9.4 cm
+  pixel_width: 5120
+  pixel_height: 5632
+  max_zoom: 5
 
 - cat: 18
   acc: 82.AD.93.17
@@ -364,6 +380,9 @@
   dimensions:
   - desc: Face
     height: 9.3 cm
+  pixel_width: 4352
+  pixel_height: 5376
+  max_zoom: 5
 
 - cat: 20
   acc: 82.AD.93.19
@@ -416,6 +435,9 @@
   - desc: Overall
     height: 14.2 cm
     width: 14 cm
+  pixel_width: 4608
+  pixel_height: 5888
+  max_zoom: 5
 
 - cat: 23
   acc: 82.AD.93.20
@@ -470,6 +492,9 @@
     height: 16.8 cm
     width: 7.5 cm
     diam: (vent hole) 2.3 cm
+  pixel_width: 5632
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 26
   acc: 78.AD.294.1
@@ -595,6 +620,9 @@
   - desc: Overall
     height: 11.4 cm
     width: 8 cm
+  pixel_width: 5120
+  pixel_height: 5888
+  max_zoom: 5
 
 - cat: 34
   acc: 71.AD.222
@@ -607,6 +635,9 @@
   - desc: Overall
     height: 6.4 cm
     width: 15.2 cm
+  pixel_width: 6656
+  pixel_height: 4864
+  max_zoom: 5
 
 - cat: 35
   acc: 71.AD.221
@@ -619,6 +650,9 @@
   - desc: Overall
     height: 6.5 cm
     width: 8 cm
+  pixel_width: 4352
+  pixel_height: 5632
+  max_zoom: 5
 
 - cat: 36
   acc: 71.AD.220
@@ -631,6 +665,9 @@
   - desc: Overall
     height: 5.8 cm
     width: 8 cm
+  pixel_width: 5888
+  pixel_height: 4608
+  max_zoom: 5
 
 # I made two entries for this catalog number because each item has its own metadata. (As opposed to cat. 33 that is also two acc numbers but one set of metadata)
 # - cat: 37
@@ -660,6 +697,9 @@
   - desc: Overall
     height: 4.7 cm
     width: 6.6 cm
+  pixel_width: 6656
+  pixel_height: 4864
+  max_zoom: 5
 
 - cat: 38
   acc: 85.AD.76.1
@@ -884,6 +924,9 @@
   - desc: Inscription panel
     width: 1.7 cm
     length: 3.4 cm
+  pixel_width: 4864
+  pixel_height: 3840
+  max_zoom: 5
 
 - cat: 50
   acc: 77.AD.122
@@ -900,6 +943,9 @@
     height: 4.9 cm
     depth: 6.4 cm
     length: 14.1 cm
+  pixel_width: 5376
+  pixel_height: 3328
+  max_zoom: 5
 
 - cat: 51
   acc: 76.AD.34
@@ -916,8 +962,34 @@
     height: 28.8 cm
     width: 19.1 cm
     diam: (polos) 12.2 cm
+  pixel_width: 3840
+  pixel_height: 4608
+  max_zoom: 5
 
 - cat: 52
+  acc: 86.AD.681
+  title: Thymiaterion Supported by a Statuette of Nike
+  region: Sicily
+  city: Gela
+  date: 500-475 BC
+  typology: Thymiaterion
+  munsell:
+  - desc: Overall
+    number: 10 yr 8/3
+  dimensions:
+  - desc: Overall
+    height: 44.6 cm
+  - desc: Incense cup
+    depth: 7 cm
+  pixel_width: 3328
+  pixel_height: 4352
+  max_zoom: 5
+  featured: true
+  pixel_width: 5120
+  pixel_height: 7168
+  max_zoom: 5
+
+- cat: 53
   acc: 81.AD.12
   title: Relief with Orestes and Clytemnestra
   region: Sicily
@@ -935,28 +1007,8 @@
     height: 26.4 cm
     width: 35.5 cm
     depth: 8.4-9.0
-  max_zoom: 5
-  pixel_width: 4608
-  pixel_height: 3328
-  featured: true
-
-- cat: 53
-  acc: 86.AD.681
-  title: Thymiaterion Supported by a Statuette of Nike
-  region: Sicily
-  city: Gela
-  date: 500-475 BC
-  typology: Thymiaterion
-  munsell:
-  - desc: Overall
-    number: 10 yr 8/3
-  dimensions:
-  - desc: Overall
-    height: 44.6 cm
-  - desc: Incense cup
-    depth: 7 cm
-  pixel_width: 3328
-  pixel_height: 4352
+  pixel_width: 7168
+  pixel_height: 5120
   max_zoom: 5
   featured: true
 
@@ -1012,8 +1064,8 @@
   - desc: Overall
     height: 28.7 cm
     width: 10.7 cm
-  pixel_width: 3328
-  pixel_height: 4352
+  pixel_width: 5376
+  pixel_height: 6912
   max_zoom: 5
 
 - cat: 57
@@ -1063,9 +1115,9 @@
   - desc: Overall
     depth: 1.9 cm
     diam: 18.6 cm
-  pixel_width: 3840
-  pixel_height: 3840
-  max_zoom: 4
+  pixel_width: 5376
+  pixel_height: 5888
+  max_zoom: 5
 
 #Could put "sicily" under region (morgantina is in sicily) but the texts just states it is deaccessioned/went with text.
 - cat: 60
