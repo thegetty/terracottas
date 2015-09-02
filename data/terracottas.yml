@@ -85,6 +85,9 @@
     width: 13.8 cm
   - desc: Face
     height: 10.4 cm
+  pixel_width: 4608
+  pixel_height: 4864
+  max_zoom: 5
 
 - cat: 5
   acc: 82.AD.93.13
@@ -103,6 +106,9 @@
     width: 14.3 cm
   - desc: Face
     height: 11.3 cm
+  pixel_width: 5376
+  pixel_height: 5632
+  max_zoom: 5
 
 - cat: 6
   acc: 82.AD.93.18
@@ -121,6 +127,9 @@
     width: 9.1 cm
   - desc: Face
     height: 8.2 cm
+  pixel_width: 4352
+  pixel_height: 4864
+  max_zoom: 5
 
 - cat: 7
   acc: 82.AD.93.11
@@ -256,7 +265,9 @@
     width: 12.6 cm
   - desc: Face
     height: 11.7 cm
-
+  pixel_width: 4864
+  pixel_height: 5632
+  max_zoom: 5
 
 - cat: 14
   acc: 82.AD.93.14
@@ -275,6 +286,9 @@
     width: 10.3 cm
   - desc: Face
     height: 8 cm
+  pixel_width: 4864
+  pixel_height: 5376
+  max_zoom: 5
 
 - cat: 15
   acc: 82.AD.93.4
@@ -358,6 +372,9 @@
   dimensions:
   - desc: Face
     height: 11.3 cm
+  pixel_width: 5120
+  pixel_height: 5888
+  max_zoom: 5
 
 - cat: 19
   acc: 82.AD.93.6
@@ -403,6 +420,9 @@
     width: 12.2 cm
   - desc: Face
     height: 10.4 cm
+  pixel_width: 4864
+  pixel_height: 5376
+  max_zoom: 5
 
 - cat: 21
   acc: 82.AD.93.15
@@ -456,6 +476,9 @@
     width: 11.5 cm
   - desc: Face
     height: 11 cm
+  pixel_width: 4864
+  pixel_height: 5376
+  max_zoom: 5
 
 - cat: 24
   acc: 96.AD.243
@@ -472,9 +495,9 @@
   - desc: Overall
     height: 11.5 cm
     width: 8.2 cm
-  pixel_width: 4096
-  pixel_height: 3584
-  max_zoom: 4
+  pixel_width: 4864
+  pixel_height: 5376
+  max_zoom: 5
   featured: true
 
 - cat: 25
@@ -557,6 +580,9 @@
   - desc: Overall
     height: 18.9 cm
     diam: (vent hole) 2 cm
+  pixel_width: 5376
+  pixel_height: 6912
+  max_zoom: 5
 
 - cat: 30
   acc: 96.AD.246
@@ -572,6 +598,9 @@
   - desc: Overall
     height: 23.7 cm
     width: 10.4 cm
+  pixel_width: 5632
+  pixel_height: 7168
+  max_zoom: 5
 
 - cat: 31
   acc: 96.AD.247
@@ -620,8 +649,8 @@
   - desc: Overall
     height: 11.4 cm
     width: 8 cm
-  pixel_width: 5120
-  pixel_height: 5888
+  pixel_width: 5888
+  pixel_height: 5120
   max_zoom: 5
 
 - cat: 34
@@ -650,8 +679,8 @@
   - desc: Overall
     height: 6.5 cm
     width: 8 cm
-  pixel_width: 4352
-  pixel_height: 5632
+  pixel_width: 5632
+  pixel_height: 4352
   max_zoom: 5
 
 - cat: 36
@@ -761,6 +790,9 @@
     height: 12.5 cm
   - desc: Thickness of walls
     depth: 1.4-6.4 cm
+  pixel_width: 3328
+  pixel_height: 5120
+  max_zoom: 5
 
 - cat: 41
   acc: 85.AD.76.4
@@ -842,6 +874,9 @@
   - desc: Overall
     height: 10.5 cm
     width: 5.8 cm
+  pixel_width: 5632
+  pixel_height: 6400
+  max_zoom: 5
 
 - cat: 46
   acc: 96.AD.265.2
@@ -858,6 +893,9 @@
   - desc: Overall
     height: 10.2 cm
     width: 5.9 cm
+  pixel_width: 5632
+  pixel_height: 6400
+  max_zoom: 5
 
 - cat: 47
   acc: 86.AD.598.1
@@ -881,6 +919,9 @@
   - desc: Hollow
     width: 2 cm
     depth: 1.6 cm
+  pixel_width: 5632
+  pixel_height: 6400
+  max_zoom: 5
 
 - cat: 48
   acc: 86.AD.598.2
@@ -904,6 +945,9 @@
   - desc: Hollow
     width: 1.7 cm
     depth: 2.7 cm
+  pixel_width: 5632
+  pixel_height: 6400
+  max_zoom: 5
 
 
 - cat: 49
@@ -981,13 +1025,10 @@
     height: 44.6 cm
   - desc: Incense cup
     depth: 7 cm
-  pixel_width: 3328
-  pixel_height: 4352
+  pixel_width: 5376
+  pixel_height: 6912
   max_zoom: 5
   featured: true
-  pixel_width: 5120
-  pixel_height: 7168
-  max_zoom: 5
 
 - cat: 53
   acc: 81.AD.12
@@ -1100,6 +1141,9 @@
   - desc: Overall
     height: 12 cm
     width: 15.5 cm
+  pixel_width: 5888
+  pixel_height: 5376
+  max_zoom: 5
 
 - cat: 59
   acc: 71.AD.255
