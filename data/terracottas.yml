@@ -22,9 +22,6 @@
     height: 3 cm
     width: 44.9 cm
     depth: 34.1 cm
-  pixel_width: 6551
-  pixel_height: 8189
-  max_zoom: 5
   featured: true
 
 - cat: 2
@@ -45,9 +42,6 @@
     depth: 55.2 cm
   - desc: From center of belly to tail
     length: 49.1 cm
-  pixel_width: 6947
-  pixel_height: 8684
-  max_zoom: 6
 
 - cat: 3
   acc: 76.AD.11.3
