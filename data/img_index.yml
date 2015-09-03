@@ -1,0 +1,461 @@
+---
+- cat: 12
+  layers:
+  - name: Back
+    path: terracottas/12/back
+  - name: Left
+    path: terracottas/12/left
+  - name: Main
+    path: terracottas/12/main
+  - name: Right
+    path: terracottas/12/right
+- cat: 13
+  layers:
+  - name: Back
+    path: terracottas/13/back
+  - name: Left
+    path: terracottas/13/left
+  - name: Main
+    path: terracottas/13/main
+  - name: Right
+    path: terracottas/13/right
+- cat: 14
+  layers:
+  - name: Back
+    path: terracottas/14/back
+  - name: Left
+    path: terracottas/14/left
+  - name: Main
+    path: terracottas/14/main
+  - name: Right
+    path: terracottas/14/right
+- cat: 16
+  layers:
+  - name: Back
+    path: terracottas/16/back
+  - name: Left
+    path: terracottas/16/left
+  - name: Main
+    path: terracottas/16/main
+  - name: Right
+    path: terracottas/16/right
+- cat: 17
+  layers:
+  - name: Back
+    path: terracottas/17/back
+  - name: Left
+    path: terracottas/17/left
+  - name: Main
+    path: terracottas/17/main
+  - name: Right
+    path: terracottas/17/right
+- cat: 18
+  layers:
+  - name: Back
+    path: terracottas/18/back
+  - name: Left
+    path: terracottas/18/left
+  - name: Main
+    path: terracottas/18/main
+  - name: Right
+    path: terracottas/18/right
+- cat: 19
+  layers:
+  - name: Back
+    path: terracottas/19/back
+  - name: Left
+    path: terracottas/19/left
+  - name: Main
+    path: terracottas/19/main
+  - name: Right
+    path: terracottas/19/right
+- cat: 20
+  layers:
+  - name: Back
+    path: terracottas/20/back
+  - name: Left
+    path: terracottas/20/left
+  - name: Main
+    path: terracottas/20/main
+  - name: Right
+    path: terracottas/20/right
+- cat: 22
+  layers:
+  - name: Back
+    path: terracottas/22/back
+  - name: Bottom
+    path: terracottas/22/bottom
+  - name: Front proper
+    path: terracottas/22/front-proper
+  - name: Front
+    path: terracottas/22/front
+  - name: Interior
+    path: terracottas/22/interior
+  - name: Main
+    path: terracottas/22/main
+  - name: Right
+    path: terracottas/22/right
+  - name: Top
+    path: terracottas/22/top
+- cat: 23
+  layers:
+  - name: Back
+    path: terracottas/23/back
+  - name: Left
+    path: terracottas/23/left
+  - name: Main
+    path: terracottas/23/main
+  - name: Right
+    path: terracottas/23/right
+- cat: 24
+  layers:
+  - name: Back
+    path: terracottas/24/back
+  - name: Left
+    path: terracottas/24/left
+  - name: Main
+    path: terracottas/24/main
+  - name: Right
+    path: terracottas/24/right
+- cat: 25
+  layers:
+  - name: Back
+    path: terracottas/25/back
+  - name: Left
+    path: terracottas/25/left
+  - name: Main
+    path: terracottas/25/main
+  - name: Right
+    path: terracottas/25/right
+- cat: 29
+  layers:
+  - name: Back
+    path: terracottas/29/back
+  - name: Left
+    path: terracottas/29/left
+  - name: Main
+    path: terracottas/29/main
+  - name: Right front
+    path: terracottas/29/right-front
+  - name: Right
+    path: terracottas/29/right
+- cat: 30
+  layers:
+  - name: Back
+    path: terracottas/30/back
+  - name: Left back
+    path: terracottas/30/left-back
+  - name: Left front
+    path: terracottas/30/left-front
+  - name: Left
+    path: terracottas/30/left
+  - name: Main
+    path: terracottas/30/main
+  - name: Right back
+    path: terracottas/30/right-back
+  - name: Right front
+    path: terracottas/30/right-front
+  - name: Right
+    path: terracottas/30/right
+- cat: 33
+  layers:
+  - name: Back
+    path: terracottas/33/back
+  - name: Front alt
+    path: terracottas/33/front-alt
+  - name: Front
+    path: terracottas/33/front
+  - name: Left
+    path: terracottas/33/left
+  - name: Main
+    path: terracottas/33/main
+  - name: Right front
+    path: terracottas/33/right-front
+  - name: Right
+    path: terracottas/33/right
+- cat: 34
+  layers:
+  - name: Back
+    path: terracottas/34/back
+  - name: Main
+    path: terracottas/34/main
+- cat: 35
+  layers:
+  - name: Back
+    path: terracottas/35/back
+  - name: Main
+    path: terracottas/35/main
+- cat: 36
+  layers:
+  - name: Back
+    path: terracottas/36/back
+  - name: Main
+    path: terracottas/36/main
+- cat: 37
+  layers:
+  - name: Back
+    path: terracottas/37/back
+  - name: Main
+    path: terracottas/37/main
+  - name: Second_back
+    path: terracottas/37/second_back
+  - name: Second_main
+    path: terracottas/37/second_main
+- cat: 4
+  layers:
+  - name: Back
+    path: terracottas/4/back
+  - name: Left
+    path: terracottas/4/left
+  - name: Main
+    path: terracottas/4/main
+  - name: Right
+    path: terracottas/4/right
+- cat: 40
+  layers:
+  - name: Back
+    path: terracottas/40/back
+  - name: Left back
+    path: terracottas/40/left-back
+  - name: Left front
+    path: terracottas/40/left-front
+  - name: Left
+    path: terracottas/40/left
+  - name: Main
+    path: terracottas/40/main
+  - name: Right back
+    path: terracottas/40/right-back
+  - name: Right front
+    path: terracottas/40/right-front
+  - name: Right
+    path: terracottas/40/right
+- cat: 45
+  layers:
+  - name: Back
+    path: terracottas/45/back
+  - name: Group
+    path: terracottas/45/group
+  - name: Left
+    path: terracottas/45/left
+  - name: Main
+    path: terracottas/45/main
+  - name: Right
+    path: terracottas/45/right
+- cat: 46
+  layers:
+  - name: Back
+    path: terracottas/46/back
+  - name: Group
+    path: terracottas/46/group
+  - name: Left
+    path: terracottas/46/left
+  - name: Main
+    path: terracottas/46/main
+  - name: Right
+    path: terracottas/46/right
+- cat: 47
+  layers:
+  - name: Back
+    path: terracottas/47/back
+  - name: Bottom
+    path: terracottas/47/bottom
+  - name: Left
+    path: terracottas/47/left
+  - name: Main
+    path: terracottas/47/main
+  - name: Right
+    path: terracottas/47/right
+  - name: Top
+    path: terracottas/47/top
+- cat: 48
+  layers:
+  - name: Back
+    path: terracottas/48/back
+  - name: Bottom
+    path: terracottas/48/bottom
+  - name: Left
+    path: terracottas/48/left
+  - name: Main
+    path: terracottas/48/main
+  - name: Right
+    path: terracottas/48/right
+  - name: Top
+    path: terracottas/48/top
+- cat: 49
+  layers:
+  - name: Back
+    path: terracottas/49/back
+  - name: Left
+    path: terracottas/49/left
+  - name: Main
+    path: terracottas/49/main
+  - name: Right
+    path: terracottas/49/right
+- cat: 5
+  layers:
+  - name: Back
+    path: terracottas/5/back
+  - name: Left
+    path: terracottas/5/left
+  - name: Main
+    path: terracottas/5/main
+  - name: Right
+    path: terracottas/5/right
+  - name: Top
+    path: terracottas/5/top
+- cat: 50
+  layers:
+  - name: Back
+    path: terracottas/50/back
+  - name: Left
+    path: terracottas/50/left
+  - name: Main
+    path: terracottas/50/main
+  - name: Right
+    path: terracottas/50/right
+- cat: 51
+  layers:
+  - name: Back
+    path: terracottas/51/back
+  - name: Left back
+    path: terracottas/51/left-back
+  - name: Left front
+    path: terracottas/51/left-front
+  - name: Left
+    path: terracottas/51/left
+  - name: Main
+    path: terracottas/51/main
+  - name: Right back
+    path: terracottas/51/right-back
+  - name: Right front
+    path: terracottas/51/right-front
+  - name: Right
+    path: terracottas/51/right
+- cat: 52
+  layers:
+  - name: Back
+    path: terracottas/52/back
+  - name: Left back
+    path: terracottas/52/left-back
+  - name: Left front
+    path: terracottas/52/left-front
+  - name: Left
+    path: terracottas/52/left
+  - name: Main
+    path: terracottas/52/main
+  - name: Right back
+    path: terracottas/52/right-back
+  - name: Right front
+    path: terracottas/52/right-front
+  - name: Right
+    path: terracottas/52/right
+- cat: 53
+  layers:
+  - name: Back
+    path: terracottas/53/back
+  - name: Left front
+    path: terracottas/53/left-front
+  - name: Left
+    path: terracottas/53/left
+  - name: Main
+    path: terracottas/53/main
+  - name: Right front
+    path: terracottas/53/right-front
+  - name: Right
+    path: terracottas/53/right
+- cat: 56
+  layers:
+  - name: Back
+    path: terracottas/56/back
+  - name: Left back
+    path: terracottas/56/left-back
+  - name: Left front
+    path: terracottas/56/left-front
+  - name: Left
+    path: terracottas/56/left
+  - name: Main
+    path: terracottas/56/main
+  - name: Right back
+    path: terracottas/56/right-back
+  - name: Right front
+    path: terracottas/56/right-front
+  - name: Right
+    path: terracottas/56/right
+- cat: 58
+  layers:
+  - name: Back
+    path: terracottas/58/back
+  - name: Left front
+    path: terracottas/58/left-front
+  - name: Left
+    path: terracottas/58/left
+  - name: Main
+    path: terracottas/58/main
+  - name: Right front
+    path: terracottas/58/right-front
+  - name: Right
+    path: terracottas/58/right
+- cat: 59
+  layers:
+  - name: Back
+    path: terracottas/59/back
+  - name: Left
+    path: terracottas/59/left
+  - name: Main
+    path: terracottas/59/main
+  - name: Right
+    path: terracottas/59/right
+  - name: Top
+    path: terracottas/59/top
+- cat: 6
+  layers:
+  - name: Back
+    path: terracottas/6/back
+  - name: Left
+    path: terracottas/6/left
+  - name: Main
+    path: terracottas/6/main
+  - name: Right
+    path: terracottas/6/right
+- cat: 8
+  layers:
+  - name: Back
+    path: terracottas/8/back
+  - name: Left
+    path: terracottas/8/left
+  - name: Main
+    path: terracottas/8/main
+  - name: Right
+    path: terracottas/8/right
+- cat: 9
+  layers:
+  - name: Back
+    path: terracottas/9/back
+  - name: Left
+    path: terracottas/9/left
+  - name: Main
+    path: terracottas/9/main
+  - name: Right
+    path: terracottas/9/right
+- cat: 0
+  layers:
+  - name: '1'
+    path: terracottas/old/1
+  - name: '2'
+    path: terracottas/old/2
+  - name: '24'
+    path: terracottas/old/24
+  - name: '52'
+    path: terracottas/old/52
+  - name: '53'
+    path: terracottas/old/53
+  - name: '54'
+    path: terracottas/old/54
+  - name: '55'
+    path: terracottas/old/55
+  - name: '56'
+    path: terracottas/old/56
+  - name: '57'
+    path: terracottas/old/57
+  - name: '59'
+    path: terracottas/old/59
