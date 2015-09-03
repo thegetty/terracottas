@@ -23,6 +23,9 @@
     width: 44.9 cm
     depth: 34.1 cm
   featured: true
+  pixel_width: 6656
+  pixel_height: 8192
+  max_zoom: 5
 
 - cat: 2
   acc: 76.AD.11.2
@@ -42,6 +45,9 @@
     depth: 55.2 cm
   - desc: From center of belly to tail
     length: 49.1 cm
+  pixel_width: 7168
+  pixel_height: 8704
+  max_zoom: 6
 
 - cat: 3
   acc: 76.AD.11.3
@@ -61,6 +67,9 @@
     depth: 68 cm
   - desc: From center of belly to tail
     length: 56.2 cm
+  pixel_width: 4352
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 4
   acc: 82.AD.93.12
@@ -142,6 +151,9 @@
     width: 13.9 cm
   - desc: Face
     height: 12.2 cm
+  pixel_width: 5888
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 8
   acc: 82.AD.93.9
@@ -200,6 +212,9 @@
   - desc: Overall
     height: 23.5 cm
     width: 17.2 cm
+  pixel_width: 5888
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 11
   acc: 82.AD.93.7
@@ -218,6 +233,9 @@
     width: 12.3 cm
   - desc: Face
     height: 8.9 cm
+  pixel_width: 5888
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 12
   acc: 82.AD.93.8
@@ -301,6 +319,9 @@
     width: 13.2 cm
   - desc: Face
     height: 9.4 cm
+  pixel_width: 5888
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 16
   acc: 82.AD.93.5
@@ -433,6 +454,9 @@
   - desc: Overall
     height: 26.8 cm
     width: 15.5 cm
+  pixel_width: 5888
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 22
   acc: 82.AD.93.1
@@ -477,7 +501,6 @@
 - cat: 24
   acc: 96.AD.243
   title: Head of a Bearded Man
-  group:
   region: South Italy
   city: Taranto and the Apulian Region
   date: 300-250 BC
@@ -509,7 +532,7 @@
     height: 16.8 cm
     width: 7.5 cm
     diam: (vent hole) 2.3 cm
-  pixel_width: 5632
+  pixel_width: 4864
   pixel_height: 7424
   max_zoom: 5
 
@@ -527,6 +550,9 @@
   - desc: Overall
     height: 16.4 cm
     width: 5.9 cm
+  pixel_width: 5632
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 27
   acc: 96.AD.164
@@ -542,6 +568,9 @@
   - desc: Overall
     height: 10.3 cm
     width: 4.1 cm
+  pixel_width: 4864
+  pixel_height: 6144
+  max_zoom: 5
 
 - cat: 28
   acc: 78.AD.295
@@ -557,6 +586,9 @@
   - desc: Overall
     height: 11.5 cm
     width: 5 cm
+  pixel_width: 5376
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 29
   acc: 96.AD.166
@@ -610,6 +642,9 @@
   - desc: Overall
     height: 9 cm
     width: 8.4 cm
+  pixel_width: 4864
+  pixel_height: 6144
+  max_zoom: 5
 
 - cat: 32
   acc: 71.AD.137
@@ -628,6 +663,9 @@
     height: 14.3 cm
   - desc: Base
     width: 11 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 33
   acc: 71.AD.138.1 and 71.AD.138.2
@@ -743,6 +781,9 @@
     height: 12.3 cm
   - desc: Thickness of walls
     depth: 1.9-6.5 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 39
   acc: 85.AD.76.2
@@ -764,6 +805,9 @@
     height: 11.6 cm
   - desc: Thickness of walls
     depth: 1.4-9.5 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 40
   acc: 85.AD.76.3
@@ -807,6 +851,9 @@
     height: 12.2 cm
   - desc: Thickness of walls
     depth: 2.1-8.4 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 42
   acc: 79.AD.194
@@ -822,6 +869,9 @@
   - desc: Overall
     height: 96.5 cm
     width: 31 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 43
   acc: 81.AD.158
@@ -837,6 +887,9 @@
   - desc: Overall
     height: 23.5 cm
     width: 7.3 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 44
   acc: 96.AD.266
@@ -852,6 +905,9 @@
   - desc: Overall
     height: 21.8 cm
     width: 10.9 cm
+  pixel_width: 4864
+  pixel_height: 6144
+  max_zoom: 5
 
 - cat: 45
   acc: 96.AD.265.1
@@ -942,7 +998,6 @@
   pixel_width: 5632
   pixel_height: 6400
   max_zoom: 5
-
 
 - cat: 49
   acc: 71.AD.148
@@ -1081,8 +1136,8 @@
   dimensions:
   - desc: Base
     depth: 8.3 cm
-  pixel_width: 3072
-  pixel_height: 4864
+  pixel_width: 5120
+  pixel_height: 7424
   max_zoom: 5
 
 - cat: 56
@@ -1174,3 +1229,6 @@
   - desc: Overall
     height: 26.7 cm
     width: 20.4 cm
+  pixel_width: 5376
+  pixel_height: 5376
+  max_zoom: 5
