@@ -20,6 +20,38 @@ end
 task :default => :markdown_convert
 
 #-------------------------------------------------------------------------------
+# rake image_index
+# generate an image index YAML file based on the various views available in the
+# gettypubs/maptiles repo on Github.
+# Credentials should be stored in a secrets.yml file that is not in version control
+desc "Generate a master list of image deep zoom views"
+task :image_index do
+  require "octokit"
+
+  secrets = YAML::load_file(File.join(__dir__, "secrets.yml"))
+  client  = Octokit::Client.new(
+    :login => secrets["github_user"],
+    :password => secrets["github_pw"]
+  )
+  repo    = "gettypubs/maptiles"
+  images  = []
+
+  client.contents(repo, :path => "terracottas").each do |item|
+    image = { "cat" => item.name.to_i, "layers" => [] }
+    views = client.contents(repo, :path => item.path)
+
+    views.each do |view|
+      layer = { "name" => view.name.capitalize.gsub("-", " "), "path" => view.path }
+      image["layers"] << layer
+    end
+    images << image
+
+    f = File.new("img_index.yml", "w")
+    f.puts images.to_yaml
+  end
+end
+
+#-------------------------------------------------------------------------------
 # rake markdown_convert
 # rake markdown_convert INPUT=path OUTPUT=path
 # This is just a shortcut to batch-process files via PanDoc CLI
