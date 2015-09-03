@@ -1,4 +1,5 @@
 require "extensions/views"
+require "yaml"
 
 activate :views
 activate :directory_indexes
@@ -56,13 +57,15 @@ helpers do
 
   def object_data(id)
     object = data.terracottas.find { |item| item[:cat] == id }
+    layers = data.img_index.find { |item| item[:cat] == id }
     haml_tag :div, :class => "object-data", :data => {
       :catalogue  => object.cat.to_s,
       :dimensions => {
         :width    => object.pixel_width,
         :height   => object.pixel_height,
         :max_zoom => object.max_zoom
-      }
+      },
+      :views => layers.to_json
     }
   end
 
@@ -79,7 +82,8 @@ helpers do
     else
       puts "No Discussion Found"
     end
-    html = essay.render(:layout => false) unless essay.nil?
+    return false if essay.nil?
+    html = essay.render(:layout => false)
     html.gsub("fn:", "fn-discussion:").gsub("fnref:", "fnref-discussion:")
   end
 end

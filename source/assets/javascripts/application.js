@@ -50,7 +50,7 @@ function setUpPage(){
     setTimeout(map.invalidateSize.bind(map), 100);
     addMapResizeListener(map);
   } else if ($("#map").length == true) {
-    var map = initLeafletMap();
+    var map = initMap();
     setTimeout(map.invalidateSize.bind(map), 100);
     addMapResizeListener(map);
   }
