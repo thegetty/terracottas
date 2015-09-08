@@ -74,8 +74,6 @@ $(document).ready(function() {
         $("#off-canvas-toggle").find("i")
           .removeClass("ion-ios-close-empty pr1")
           .addClass("ion-navicon");
-        $(".panel--left").velocity({translateX: "-50vw"}, {duration: 200});
-        $(".panel--right").velocity({translateX: "50vw"}, {duration: 200});
         $container.velocity('fadeOut', {duration: 200});
 
       },
@@ -86,12 +84,8 @@ $(document).ready(function() {
       duration: 400,
       render: function ($container, $newContent) {
         $container.html($newContent);
-        $(".panel--left").velocity({translateX: "-50vw"}, {duration: 0});
-        $(".panel--right").velocity({translateX: "50vw"}, {duration: 0});
         $(".expander-content").addClass("expander--hidden");
         $container.velocity('fadeIn', {duration: 100});
-        $(".panel--left").velocity({translateX: "0vw"}, {duration: 200});
-        $(".panel--right").velocity({translateX: "0vw"}, {duration: 200});
       }
     },
     // Triggered when the transition has completed.
