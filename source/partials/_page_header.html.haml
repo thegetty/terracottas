@@ -1,10 +1,18 @@
 %nav.page-header
   .page-header-left
     %a.no-smoothState#search
-      %i.ion-search.ml2.mt2
-    %input.search-input
+      %i.ion-search
   .page-header-center
-    = link_to site_title, "#{site_url}/"
+    - page_title = ""
+    - if current_page.data.cat
+      - page_title = "Cat. " + current_page.data.cat.to_s
+    - else
+      - page_title = current_page.data.title
+    = link_to "#{site_title} | #{page_title}", "#{site_url}/"
   .page-header-right
     %a.nav-primary-trigger.no-smoothState#off-canvas-toggle
-      %i.ion-navicon.mr2.mt1
+      %i.ion-navicon
+  .search-input
+    %input{ :placeholder => "search", :name => "search" }
+    %button{ :type => "submit" }
+      %i.ion-arrow-right-c

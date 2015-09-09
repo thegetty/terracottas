@@ -3,39 +3,12 @@
   border-bottom: solid 1px rgba(0, 0, 0, 0.1);
   font-family: $heading-font-family;
   height: 60px;
-  padding-top: 15px;
+  //padding-top: 15px;
   position: fixed;
-  top: 0;
   right: 0;
+  top: 0;
   width: 100%;
   z-index: 1100;
-
-  // When search input is active, do the following:
-  &.search-active {
-    background-color: #333;
-    color: $inverse-color;
-
-    a {
-      @extend %inverse-link;
-    }
-
-    .page-header-center,
-    .page-header-right {
-      display: none;
-    }
-
-    .search-input {
-      background-color: #333;
-      border: none;
-      color: $inverse-color;
-      display: block;
-      font-family: $heading-font-family;
-      font-size: 1.5rem;
-      position: absolute;
-      left: 50px;
-      top: 2px;
-    }
-  }
 }
 
 // If page has panel layout, header only covers right panel
@@ -43,6 +16,15 @@
   width: 50%;
   @include media($small-screen) {
     width: 100%;
+  }
+}
+
+.panel-left ~ .page-header {
+  .page-header-left {
+    width: 50%;
+    @include media($small-screen) {
+      width: 100%;
+    }
   }
 }
 
@@ -57,9 +39,12 @@
   }
 }
 
-
 .page-header-center {
+  margin: 0 auto;
+  position: relative;
+  padding-top: 15px;
   text-align: center;
+  width: 50%;
 }
 
 .page-header-left,
@@ -67,9 +52,11 @@
   cursor: pointer;
   position: fixed;
   top: 0;
+  width: 25%;
 }
 
 .page-header-left {
+  margin-left: 15px;
   top: 10px;
   font-size: 1.5rem;
 }
@@ -77,8 +64,7 @@
 .page-header-right {
   font-size: 2.125rem;
   right: 0;
-}
-
-.search-input {
-  display: none;
+  top: 0px;
+  margin-right: 15px;
+  text-align: right;
 }
