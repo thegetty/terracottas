@@ -43,6 +43,7 @@ function mapCheck($el) {
 function setUpPage(){
   offCanvasSetup();
   addPanelControls();
+  searchSetup();
   $(".expander-content").addClass("expander--hidden");
   if (mapCheck($(".object-data"))) {
     var map = deepZoomSetup();
