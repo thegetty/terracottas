@@ -1,0 +1,57 @@
+$search-bg: darken($base-background-color, 10%);
+$search-text-color: $base-font-color;
+
+
+// Do not display search box unless search is active
+
+.search-input {
+  display: none;
+}
+
+// When search input is active, do the following:
+.search-active {
+  background-color: $search-bg;
+  color: $search-text-color;
+
+  // .page-header-left {
+  //   width: 50%;
+  // }
+
+  .page-header-center,
+  .page-header-right {
+    display: none;
+  }
+
+  .search-input {
+    color: $search-text-color;
+    display: block;
+    font-family: $heading-font-family;
+    z-index: 1400;
+
+    input {
+      background-color: $search-bg;
+      border: none;
+      font-size: 1.25rem;
+      font-family: $heading-font-family;
+      float: left;
+      outline: none;
+      position: relative;
+      top: 0.875rem;
+      left: 50px;
+      width: 80%;
+    }
+
+    button {
+      background-color: transparent;
+      color: $action-color;
+      padding: 0;
+      margin: 0;
+      font-size: 2rem;
+      float: right;
+      position: relative;
+      outline: none;
+      top: 0.75rem;
+      right: 20px;
+    }
+  }
+}
