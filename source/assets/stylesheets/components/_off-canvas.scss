@@ -33,7 +33,7 @@ $nav-font:        $heading-font-family;
   right: 0;
   top: 0;
   width: 100vw;  // nav is fullscreen on small sizes
-  z-index: 1100; // Leaflet ui has z-index of 1000
+  z-index: 1200; // Leaflet ui has z-index of 1000
 
   &.visible {
     @include transform(translateX(0));
