@@ -25,10 +25,9 @@ body {
 }
 
 .smcaps {
-  // font-variant: small-caps;
-  text-transform: uppercase;
   font-size: 0.8em;
   letter-spacing: 1px;
+  text-transform: uppercase;
 }
 
 .footnotes ol {
@@ -37,8 +36,6 @@ body {
 
 %body-text {
   font-size: $base-font-size;
-  p { margin-bottom: 0;}
-  p + p { text-indent: $base-spacing; }
 
   @include media($large-screen-up) {
     font-size: $base-font-size * 1.125;
@@ -46,5 +43,10 @@ body {
 
   @include media($x-large-screen-up) {
     font-size: $base-font-size * 1.25;
+  }
+
+  p {
+    margin-bottom: 0;
+    + p { text-indent: $base-spacing; }
   }
 }
