@@ -1,0 +1,28 @@
+<%
+pages = sitemap.resources.find_all{ |p| p.source_file.match(/\.md/) }
+entries = []
+
+pages.each do |page|
+  object = {}
+
+  if page.data.cat?
+    type = "Catalogue Entry"
+    object = data.terracottas.find { |item| item[:cat] == page.data.cat }
+  else
+    type = "Section"
+  end
+
+  entry = {
+    :title    => page.data.title,
+    :url      => page.url,
+    :type     => type,
+    :group    => object["group"] || nil,
+    :typology => object["typology"] || nil,
+    :region   => object["region"] || nil,
+    :city     => object["city"] || nil,
+    :path     => page.destination_path
+  }
+
+  entries << entry
+end
+%><%= entries.to_json %>
