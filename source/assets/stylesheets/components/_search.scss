@@ -3,7 +3,6 @@ $search-text-color: $base-font-color;
 
 
 // Do not display search box unless search is active
-
 .search-input {
   display: none;
 }
@@ -12,10 +11,6 @@ $search-text-color: $base-font-color;
 .search-active {
   background-color: $search-bg;
   color: $search-text-color;
-
-  // .page-header-left {
-  //   width: 50%;
-  // }
 
   .page-header-center,
   .page-header-right {
@@ -31,27 +26,27 @@ $search-text-color: $base-font-color;
     input {
       background-color: $search-bg;
       border: none;
-      font-size: 1.25rem;
-      font-family: $heading-font-family;
       float: left;
+      font-family: $heading-font-family;
+      font-size: 1.25rem;
+      left: 50px;
       outline: none;
       position: relative;
       top: 0.875rem;
-      left: 50px;
       width: 80%;
     }
 
     button {
       background-color: transparent;
       color: $action-color;
-      padding: 0;
-      margin: 0;
-      font-size: 2rem;
       float: right;
-      position: relative;
+      font-size: 2rem;
+      margin: 0;
       outline: none;
-      top: 0.75rem;
+      padding: 0;
+      position: relative;
       right: 20px;
+      top: 0.75rem;
     }
   }
 }

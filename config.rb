@@ -20,6 +20,7 @@ set :site_url, ""
 page "/catalogue/*", :layout => :object
 page "/frontmatter/*", :layout => :page
 page "/discussion/*", :layout => :page
+page "/search.json", :layout => false
 
 configure :development do
   activate :livereload
