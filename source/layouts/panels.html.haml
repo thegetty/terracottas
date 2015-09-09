@@ -1,34 +1,14 @@
 = wrap_layout :application do
   - catalogue = data.terracottas
-  - if current_page.data.cat
-    - current_item = catalogue.select { |item| item[:cat] == current_page.data.cat}.first
-    / Left Panel
-    .panel.panel--left
-      .panel-inner
-        #map{:data => {:catalogue => current_item.cat.to_s}}
-    / Right Panel
-    .panel.panel--right
-      .panel-header.pt1.pb2
-        .panel-header-left
-          %a{:href => "#{site_url}/catalogue"}
-            %i.ion-grid.h2.ml2.mt1
-        .panel-header-center
-          %h4.mt2.h5
-            =link_to site_title, "#{site_url}/"
-      .panel-inner
-        = yield
-  - else
-    / Left Panel
-    .panel.panel--left
-      .panel-inner
+  - current_item = catalogue.find { |item| item[:cat] == current_page.data.cat }
+  / Left Panel
+  .panel.panel-left
+    .panel-inner
+      - if current_page.data.cat
+        #map{ :data => { :catalogue => current_item.cat.to_s } }
+      - else
         #map
-    / Right Panel
-    .panel.panel--right
-      .panel-header.pt1.pb2
-        .panel-header-left
-        .panel-header-center
-          %h4.mt2.h5
-            =link_to site_title, "#{site_url}/"
-      .panel-inner
-        %h1.object-title.mt1.mb3= current_page.data.title
-        = yield
+  / Right Panel
+  .panel.panel-right
+    .panel-inner
+      = yield

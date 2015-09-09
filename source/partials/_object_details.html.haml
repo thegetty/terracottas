@@ -1,30 +1,29 @@
 / Object Details table (expandible section)
 .object-content-section.expander
-  %a{:href => "javascript:void(0);", |
-    :class => "expander-trigger"}
+  %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
     %h3.pb1.mt1 Object Details
   .expander-content
     %table.object-info
       %tbody
-        - # Catalogue number
         - if current_item.cat
+          -# Catalogue Number
           %tr
             %td
               %strong Catalogue Number
             %td
               %strong= current_item.cat
-        - # Accession number
         - if current_item.acc
+          -# Accession Number
           %tr
             %td Inventory Number
             %td= current_item.acc
-        - # Typology
         - if current_item.typology
+          -# Typology
           %tr
             %td Typology
             %td= current_item.typology || "Statue"
-        - # Grouping
         - if current_item.group
+          -# Grouping
           %tr
             %td= "Grouping"
             %td
@@ -32,15 +31,17 @@
                 =link_to current_item.group, "#{site_url}/discussion/discussion-a"
               - else
                 = current_item.group
-        - # Region, City
         - if current_item.region
+          -# Region
           %tr
             %td Region
             %td
-              =link_to current_item.region, "#{site_url}/catalogue/#{current_item.region.downcase.gsub(" ", "-")}"
-              %span= ", #{current_item.city}" unless current_item.city.nil?
-        - # Dimensions
+              - region_path = current_item.region.downcase.tr(" ", "-")
+              = link_to current_item.region, "#{site_url}/catalogue/#{region_path}"
+              %span
+                = ", #{current_item.city}" unless current_item.city.nil?
         - if current_item.dimensions
+          -# Dimensions table
           %tr
             %td
               %strong Dimensions
@@ -49,7 +50,7 @@
             - dimension.each_pair do |key, value|
               %tr
                 - if key == "desc"
-                  %td.pr2{:colspan => 2}= value.capitalize
+                  %td.pr2{ :colspan => 2 }= value.capitalize
                 - else
                   %td.pr2= key.capitalize
                   %td.pr2= value.capitalize

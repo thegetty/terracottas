@@ -1,5 +1,6 @@
 = wrap_layout :panels do
-  - current_item = data.terracottas.find { |item| item[:cat] == current_page.data.cat}
+  - catalogue = data.terracottas
+  - current_item = catalogue.find { |item| item[:cat] == current_page.data.cat }
   - if current_item.cat
     %article
       - object_data(current_item.cat)
@@ -9,45 +10,43 @@
         %h3.object-meta.mt2.mb3= current_item.date
       .object-content
         = partial(:object_details, :locals => { :current_item => current_item })
-        - # Fabric
         - if current_page.data.fabric
+          -# Fabric
           .object-content-section.expander
-            %a{:href => "javascript:void(0);", :class => "expander-trigger"}
+            %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
               %h3.pb1.mt1 Fabric
             .expander-content
               = markdown(current_page.data.fabric)
-        - # Condition
         - if current_page.data.condition
+          -# Condition
           .object-content-section.expander
-            %a{:href => "javascript:void(0);", :class => "expander-trigger"}
+            %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
               %h3.pb1.mt1 Condition
             .expander-content
               = markdown(current_page.data.condition)
-        - # Provenance
         - if current_page.data.provenance
+          -# Provenance
           .object-content-section.expander
-            %a{:href => "javascript:void(0);", :class => "expander-trigger"}
+            %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
               %h3.pb1.mt1 Provenance
             .expander-content
               = markdown(current_page.data.provenance)
-        - # Bibliography
         - if current_page.data.bibliography
+          -# Bibliography
           .object-content-section.expander
-            %a{:href => "javascript:void(0);", :class => "expander-trigger"}
+            %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
               %h3.pb1.mt1 Bibliography
             .expander-content
               = markdown(current_page.data.bibliography)
         / Description
         .object-content-section.expander
-          %a{:href => "javascript:void(0);", :class => "expander-trigger"}
+          %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
             %h3.pb1.mt1 Description
           .expander-content
             = yield
         / Discussion
         .object-content-section.expander
-          %a{:href => "javascript:void(0);", :class => "expander-trigger"}
+          %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
             %h3.pb1.mt1 Discussion
           .expander-content
             = discussion_text(current_item.cat)
-            -# - essay = sitemap.find_resource_by_path("discussion/discussion-a.html")
-            -# = essay.render(:layout => false)
