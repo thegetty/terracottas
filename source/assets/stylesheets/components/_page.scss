@@ -4,48 +4,6 @@
 // .page-title      - Global page title styles
 // .page-conent     - Container class; applies body-text placeholder
 
-.page-header {
-  background-color: $base-background-color;
-  font-family: $heading-font-family;
-  height: 60px;
-  padding-top: 15px;
-  position: fixed;
-  top: 0;
-  right: 0;
-  width: 100%;
-  z-index: 1100;
-}
-
-.panel-left ~ .page-header {
-  width: 50%;
-  @include media($small-screen) {
-    width: 100%;
-  }
-}
-
-
-
-.page-header-center {
-  text-align: center;
-}
-
-.page-header-left,
-.page-header-right {
-  cursor: pointer;
-  position: fixed;
-  top: 0;
-}
-
-.page-header-left {
-  top: 10px;
-  font-size: 1.5rem;
-}
-
-.page-header-right {
-  font-size: 2.125rem;
-  right: 0;
-}
-
 .page-title {
   margin: 0 auto;
   max-width: 48rem;

@@ -17,14 +17,6 @@
         = partial "nav"
       .main-content
         = yield
-        %nav.page-header
-          .page-header-left
-            %a.no-smoothState#search
-              %i.ion-search.ml2.mt2
-          .page-header-center
-            = link_to site_title, "#{site_url}/"
-          .page-header-right
-            %a.nav-primary-trigger.no-smoothState#off-canvas-toggle
-              %i.ion-navicon.mr2.mt1
+        = partial "page_header"
     = javascript_include_tag "http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js", |
       "https://code.jquery.com/jquery-2.1.1.min.js", "application"
