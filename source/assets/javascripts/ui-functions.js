@@ -5,10 +5,10 @@
 // up as individual functions that can be called from the main app.js file.
 function offCanvasSetup(){
   // Show the off-canvas navigation
-  $("#off-canvas-toggle").find("i").addClass("ion-navicon");
+  // $("#off-canvas-toggle").find("i").addClass("ion-navicon");
   $('#off-canvas-toggle').click(function() {
-    $(this).find('i').toggleClass("ion-navicon");
-    $(this).find('i').toggleClass("ion-ios-close-empty pr1");
+    $(this).find('i').toggle
+    // $(this).find('i').toggleClass("ion-ios-close-empty pr1");
     $('#nav-primary').toggleClass('visible');
   });
 
@@ -21,15 +21,15 @@ function offCanvasSetup(){
 
 
 function rightPanelToggle () {
-  var left = $(".panel--left");
-  var right = $(".panel--right");
+  var left = $(".panel-left");
+  var right = $(".panel-right");
   left.toggleClass("panel--collapse");
   right.toggleClass("panel--expand");
 }
 
 function leftPanelToggle() {
-  var left = $(".panel--left");
-  var right = $(".panel--right");
+  var left = $(".panel-left");
+  var right = $(".panel-right");
   left.toggleClass("panel--expand");
   right.toggleClass("panel--collapse");
 }

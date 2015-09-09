@@ -11,49 +11,48 @@ $nav-width:       20rem;
 $nav-color:       $medium-gray;
 $nav-background:  $dark-gray;
 $nav-font:        $heading-font-family;
-$nav-position:    right;                  // left or right; default is right
 
 
-@mixin off-canvas-nav($nav-position) {
+@mixin off-canvas-nav {
   // Mobile first
   @include transition($base-transition);
+  @include transform(translateX(100%));
+
   @include display(flex);
   @include flex-direction(column);
   @include align-items(space-between);
   @include justify-content(center);
-  @include media($large-screen-up) { width: $nav-width; }
-
-  &.visible {
-    @include transform(translateX(0)); overflow: auto;
-    ~ .nav-primary-trigger { @extend %inverse-link; }
-  }
 
   background-color: $nav-background;
   color: $nav-color;
   font-family: $nav-font;
-
   height: 100vh;
   overflow: hidden;
   padding: 2rem;
   position: fixed;
-
+  right: 0;
+  top: 0;
   width: 100vw;  // nav is fullscreen on small sizes
-  z-index: 2000; // probably overkill
+  z-index: 1100; // Leaflet ui has z-index of 1000
 
-  // Conditionally assign position based on left or right option
-  @if $nav-position == "left" {
-    @include transform(translateX(-100%));
-    left: 0;
-  } @else {
-    @include transform(translateX(100%));
-    right: 0;
+  &.visible {
+    @include transform(translateX(0));
+    overflow: auto;
+
+    ~ .nav-primary-trigger {
+      @extend %inverse-link;
+    }
   }
 
   @include media($large-screen-up) {
+    width: $nav-width;
+
     &.visible {
       ~ .main-content {
-        @if $nav-position == "left" { @include transform(translateX($nav-width));
-        } @else { @include transform(translateX(-$nav-width)); }
+        @include transform(translateX(-$nav-width));
+        .page-header-right {
+          display: none;
+        }
       }
     }
   }
@@ -61,7 +60,9 @@ $nav-position:    right;                  // left or right; default is right
 
 // Template styles
 
-body { background-color: $nav-background; }
+body {
+  background-color: $nav-background;
+}
 
 .main-content {
   @include transition($base-transition);
@@ -69,17 +70,15 @@ body { background-color: $nav-background; }
 }
 
 .nav-primary {
-  @include off-canvas-nav(right);
+  @include off-canvas-nav;
   a { @extend %inverse-link; }
   .toc { max-height: 100%; }
 }
 
-
-.nav-primary-trigger {
+.menu-close-trigger {
   cursor: pointer;
   font-size: 2.125rem;
   position: fixed;
   right: 0;
   top: 0;
-  z-index: 2000;
 }
