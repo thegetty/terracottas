@@ -2,8 +2,10 @@
 //= require velocity.min
 //= require velocity.ui.min
 //= require ramjet.min
+//= require lunr.min
 //= require ui-functions
 //= require map-functions
+//= require search-functions
 
 
 // Come back to this later
@@ -59,6 +61,21 @@ function setUpPage(){
 
 // =============================================================================
 // Document.ready and smoothState.onAfter events
+var idx = lunr(function(){
+  this.field('title', { boost: 10 });
+  this.field('city');
+  this.field('typology');
+  this.field('region');
+  this.field('group');
+  this.ref('id');
+});
+
+// Make an AJAX request for the JSON search data and feed this to Lunr's index
+list = $.getJSON("/search.json", function (data) {
+  data.forEach(function(item){
+    idx.add(item);
+  });
+});
 
 $(document).ready(function() {
   // Set up the UI
