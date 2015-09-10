@@ -6,19 +6,13 @@
 function offCanvasSetup(){
   // Show the off-canvas navigation
   $('#off-canvas-toggle').click(function() {
-    $(this).find('i').toggle
+    $(this).find('i').toggle();
     $('#nav-primary').toggleClass('visible');
   });
 
   // Hide the off-canvas nav when clicking a link
   $('#nav-primary a').on('click', function(e) {
     $('#nav-primary').removeClass('visible');
-  });
-}
-
-function searchSetup(){
-  $("#search").click(function () {
-    $(this).closest(".page-header").toggleClass("search-active");
   });
 }
 
@@ -67,7 +61,7 @@ function addPanelControls() {
     var options = {
       duration: 300,
       complete: function () { $section.toggleClass("expander--hidden"); }
-    }
+    };
 
     $section = $(this).parent().find(".expander-content");
 

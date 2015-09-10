@@ -1,8 +1,9 @@
 <%
-pages = sitemap.resources.find_all{ |p| p.source_file.match(/\.md/) }
+pages = sitemap.resources.find_all { |p| p.source_file.match(/\.md/) }
+pages.delete_if { |p| p.destination_path.include?("views") }
 entries = []
 
-pages.each do |page|
+pages.each_with_index do |page, index|
   object = {}
 
   if page.data.cat?
@@ -13,6 +14,7 @@ pages.each do |page|
   end
 
   entry = {
+    :id       => index,
     :title    => page.data.title,
     :url      => page.url,
     :type     => type,
@@ -22,7 +24,7 @@ pages.each do |page|
     :city     => object["city"] || nil,
     :path     => page.destination_path
   }
-
   entries << entry
+
 end
 %><%= entries.to_json %>
