@@ -50,3 +50,18 @@ $search-text-color: $base-font-color;
     }
   }
 }
+
+.search-results {
+  display: none;
+
+  &.search-active {
+    display: block;
+    height: 100vh;
+    overflow: auto;
+    padding: 2rem;
+    position: fixed;
+    top: 60px;
+    width: 100%;
+    z-index: 200;
+  }
+}

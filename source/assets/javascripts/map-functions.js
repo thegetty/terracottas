@@ -56,7 +56,7 @@ function initMap() {
   // geoJson placeholder is currently loaded from geojson.js
   L.geoJson(geojsonFeature).addTo(map);
   L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle).addTo(map);
-  return map
+  return map;
 }
 
 // -----------------------------------------------------------------------------
@@ -85,8 +85,9 @@ function initDeepZoom(options) {
   map.fitBounds(mapBounds);
 
   // Add default layer to map
-  L.tileLayer(CONFIG.imageTileURL + "terracottas/"
-    + options.catNum + '/main/{z}/{x}/{y}.png', { noWrap: true }).addTo(map);
+  L.tileLayer(CONFIG.imageTileURL +
+    "terracottas/" + options.catNum +
+    "/main/{z}/{x}/{y}.png", { noWrap: true }).addTo(map);
 
   // Set up alternate view layers
   var baseMaps = {};
@@ -139,6 +140,6 @@ function addMapResizeListener(map) {
 
   // Detect orientation change on mobile devices
   window.addEventListener("orientationchange", function (map) {
-    map.invalidateSize;
-  })
+    map.invalidateSize();
+  });
 }

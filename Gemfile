@@ -12,7 +12,6 @@ gem "neat"
 # Use pry for console
 gem "middleman-pry"
 
-
 # Front end
 gem "turbolinks", require: false
 
