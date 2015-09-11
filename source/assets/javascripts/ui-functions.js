@@ -3,6 +3,9 @@
 
 // Code for basic interface components lives here. Everything should be wrapped
 // up as individual functions that can be called from the main app.js file.
+
+
+// -----------------------------------------------------------------------------
 function offCanvasSetup(){
   // Show the off-canvas navigation
   $('#off-canvas-toggle').click(function() {
@@ -15,7 +18,7 @@ function offCanvasSetup(){
     $('#nav-primary').removeClass('visible');
   });
 }
-
+// -----------------------------------------------------------------------------
 function rightPanelToggle () {
   var left = $(".panel-left");
   var right = $(".panel-right");
@@ -23,6 +26,7 @@ function rightPanelToggle () {
   right.toggleClass("panel--expand");
 }
 
+// -----------------------------------------------------------------------------
 function leftPanelToggle() {
   var left = $(".panel-left");
   var right = $(".panel-right");
@@ -30,6 +34,7 @@ function leftPanelToggle() {
   right.toggleClass("panel--collapse");
 }
 
+// -----------------------------------------------------------------------------
 function isHidden($el) {
   if ($el.hasClass("expander--hidden")) {
     return true;
@@ -38,7 +43,7 @@ function isHidden($el) {
   }
 }
 
-
+// -----------------------------------------------------------------------------
 function addPanelControls() {
   $("#rightPanelToggle").click(function (event) {
     rightPanelToggle();

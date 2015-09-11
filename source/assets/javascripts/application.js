@@ -2,6 +2,7 @@
 //= require velocity.min
 //= require velocity.ui.min
 //= require ramjet.min
+//= require handlebars.min
 //= require lunr.min
 //= require ui-functions
 //= require map-functions
@@ -32,10 +33,10 @@
 function mapCheck($el) {
   if (!isNaN($el.data("catalogue"))) {
     return true;
-  } else if ($el.data("map") == true ) {
+  } else if ($el.data("map") === true ) {
     return true;
   } else {
-    return false
+    return false;
   }
 }
 
@@ -45,14 +46,13 @@ function mapCheck($el) {
 function setUpPage(){
   offCanvasSetup();
   addPanelControls();
-  searchSetup();
   $(".expander-content").addClass("expander--hidden");
   if (mapCheck($(".object-data"))) {
     var map = deepZoomSetup();
     // must bind map resize asynchronously
     setTimeout(map.invalidateSize.bind(map), 100);
     addMapResizeListener(map);
-  } else if ($("#map").length == true) {
+  } else if ($("#map")) {
     var map = initMap();
     setTimeout(map.invalidateSize.bind(map), 100);
     addMapResizeListener(map);
@@ -61,56 +61,51 @@ function setUpPage(){
 
 // =============================================================================
 // Document.ready and smoothState.onAfter events
-var idx = lunr(function(){
-  this.field('title', { boost: 10 });
-  this.field('city');
-  this.field('typology');
-  this.field('region');
-  this.field('group');
-  this.ref('id');
-});
-
-// Make an AJAX request for the JSON search data and feed this to Lunr's index
-list = $.getJSON("/search.json", function (data) {
-  data.forEach(function(item){
-    idx.add(item);
-  });
-});
 
 $(document).ready(function() {
   // Set up the UI
   setUpPage();
+  // set up search
+  // This is an asynchronous function and we want search to be available
+  // at all times. So all other event-based functions (smoothstate, etc.)
+  // happen _after_ the results of the AJAX request are available.
+  // Don't forget to re-initialize the search UI after each page load though.
+  $.getJSON("/contents.json", function(data){
+    var index = populateIndex(data);
+    var contents = contentList(data);
+    searchSetup(index, contents);
 
-  // Smoothstate Choreography
-  $("#main").smoothState({
-    // Triggered when user clicks a link
-    onStart: {
-      duration: 400,
-      render: function ($container) {
-        // reset navigation on transition
-        $('#nav-primary').removeClass('visible');
-        $("#off-canvas-toggle").find("i")
-          .removeClass("ion-ios-close-empty pr1")
-          .addClass("ion-navicon");
-        $container.velocity('fadeOut', {duration: 200});
+    // Smoothstate Choreography
+    $("#main").smoothState({
+      // Triggered when user clicks a link
+      onStart: {
+        duration: 400,
+        render: function ($container) {
+          // reset navigation on transition
+          $('#nav-primary').removeClass('visible');
+          $("#off-canvas-toggle").find("i")
+            .removeClass("ion-ios-close-empty pr1")
+            .addClass("ion-navicon");
+          $container.velocity('fadeOut', {duration: 200});
 
+        },
       },
-    },
-    // Triggered when new content has been loaded via AJAX.
-    // Good place to animate the insertion of new content.
-    onReady: {
-      duration: 400,
-      render: function ($container, $newContent) {
-        $container.html($newContent);
-        $(".expander-content").addClass("expander--hidden");
-        $container.velocity('fadeIn', {duration: 100});
+      // Triggered when new content has been loaded via AJAX.
+      // Good place to animate the insertion of new content.
+      onReady: {
+        duration: 400,
+        render: function ($container, $newContent) {
+          $container.html($newContent);
+          $(".expander-content").addClass("expander--hidden");
+          $container.velocity('fadeIn', {duration: 100});
+        }
+      },
+      // Triggered when the transition has completed.
+      // Make sure to reinitialize any JS elements on the page at this point.
+      onAfter: function ($container, $newContent) {
+        setUpPage();
+        searchSetup(index, contents);
       }
-    },
-    // Triggered when the transition has completed.
-    // Make sure to reinitialize any JS elements on the page at this point.
-    onAfter: function ($container, $newContent) {
-      setUpPage();
-    }
+    });
   });
-
 });
