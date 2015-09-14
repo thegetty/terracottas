@@ -31,10 +31,14 @@
 // Determine whether the current page needs a deep zoom image
 
 function mapCheck($el) {
-  if (!isNaN($el.data("catalogue"))) {
-    return true;
-  } else if ($el.data("map") === true ) {
-    return true;
+  if ($el.length) {
+    if (!isNaN($el.data("catalogue"))) {
+      return true;
+    } else if ($el.data("map") === true ) {
+      return true;
+    } else {
+      return false;
+    }
   } else {
     return false;
   }
@@ -52,7 +56,7 @@ function setUpPage(){
     // must bind map resize asynchronously
     setTimeout(map.invalidateSize.bind(map), 100);
     addMapResizeListener(map);
-  } else if ($("#map")) {
+  } else if ($("#map").length) {
     var map = initMap();
     setTimeout(map.invalidateSize.bind(map), 100);
     addMapResizeListener(map);
