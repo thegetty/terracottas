@@ -78,3 +78,15 @@ $search-text-color: $base-font-color;
     z-index: 1200;
   }
 }
+
+.result-item {
+  border-bottom: solid 1px rgba(0, 0, 0, 0.05);
+  color: lighten($base-font-color, 15%);
+  font-family: $heading-font-family;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+
+  a {
+    font-size: 1.25rem;
+  }
+}

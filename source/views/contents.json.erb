@@ -7,7 +7,7 @@ pages.each_with_index do |page, index|
   object = {}
 
   if page.data.cat?
-    type = "Catalogue Entry"
+    type = "Catalogue Entry #{page.data.cat}"
     object = data.terracottas.find { |item| item[:cat] == page.data.cat }
     fabric = markdown(page.data.fabric).gsub( %r{</?[^>]+?>}, '' ) unless page.data.fabric.nil?
     condition = markdown(page.data.condition).gsub( %r{</?[^>]+?>}, '' ) unless page.data.condition.nil?
