@@ -1,5 +1,4 @@
 .page-header {
-  @include transition($base-transition);
   background-color: $base-background-color;
   border-bottom: solid 1px rgba(0, 0, 0, 0.1);
   font-family: $heading-font-family;
@@ -9,10 +8,6 @@
   top: 0;
   width: 100%;
   z-index: 1100;
-
-  * {
-    @include transition($base-transition);
-  }
 }
 
 // If page has panel layout, header only covers right panel
