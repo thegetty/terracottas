@@ -76,6 +76,13 @@ function searchSetup(index, contents){
   $("#search").click(function () {
     $(this).closest(".page-header").toggleClass("search-active");
     $(".search-results").toggleClass("search-active");
+    rightPanelToggle();
+  });
+
+  $("#search-close").click(function() {
+    $(this).closest(".page-header").toggleClass("search-active");
+    $(".search-results").toggleClass("search-active");
+    rightPanelToggle();
   });
 
   $("#search-field").bind("keyup", debounce(function(){
