@@ -75,7 +75,7 @@ $(document).ready(function() {
   // at all times. So all other event-based functions (smoothstate, etc.)
   // happen _after_ the results of the AJAX request are available.
   // Don't forget to re-initialize the search UI after each page load though.
-  $.getJSON("/contents.json", function(data){
+  $.getJSON("/Terracottas/contents.json", function(data){
     var index = populateIndex(data);
     var contents = contentList(data);
     searchSetup(index, contents);
