@@ -20,7 +20,7 @@ pages.each_with_index do |page, index|
   entry = {
     :id           => index,
     :title        => page.data.title,
-    :url          => page.url,
+    :url          => site_url + page.url,
     :type         => type,
     :group        => object["group"] || nil,
     :typology     => object["typology"] || nil,
