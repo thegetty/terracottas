@@ -8,8 +8,9 @@
 // -----------------------------------------------------------------------------
 function offCanvasSetup(){
   // Show the off-canvas navigation
-  $('#off-canvas-toggle').click(function() {
+  $('#off-canvas-toggle').on("click", function(e) {
     $(this).find('i').toggle();
+    console.log("Just clicked off-canvas-toggle");
     $('#nav-primary').toggleClass('visible');
   });
 

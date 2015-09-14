@@ -22,8 +22,6 @@
 .panel--expand { width: 100%;}
 
 .panel--collapse {
-  // @include transform(scale(0));
-  // @include transform-origin(center left);
   @include transform(translateX(-50vw));
   width: 0%;
   //height: 0;
@@ -75,7 +73,6 @@
   .panel-inner {
     padding: $base-spacing;
     padding-top: 3rem;
-    //@include media($medium-screen-up) { padding: $base-spacing; }
     @include media($large-screen-up) {
       max-width: 700px;
       margin: 0 auto;
