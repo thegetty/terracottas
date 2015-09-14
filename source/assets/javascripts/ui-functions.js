@@ -16,6 +16,7 @@ function offCanvasSetup(){
   // Hide the off-canvas nav when clicking a link
   $('#nav-primary a').on('click', function(e) {
     $('#nav-primary').removeClass('visible');
+    $("#off-canvas-toggle").find('i').show();
   });
 }
 // -----------------------------------------------------------------------------

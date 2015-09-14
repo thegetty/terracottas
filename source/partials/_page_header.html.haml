@@ -6,6 +6,8 @@
     - page_title = ""
     - if current_page.data.cat
       - page_title = "Cat. " + current_page.data.cat.to_s
+    - elsif current_page.data.layout == "cover"
+      - page_title = "The J. Paul Getty Museum"
     - else
       - page_title = current_page.data.title
     = link_to "#{site_title} | #{page_title}", "#{site_url}/"
@@ -14,7 +16,7 @@
       %i.ion-navicon
   .search-input
     %input#search-field{ :placeholder => "search", :name => "search" }
-    %button.search-submit{ :type => "submit" }
-      %i.ion-arrow-right-c
+    %a.no-smoothState.search-close#search-close
+      %i.ion-close
 %ul.search-results
   = partial "results"

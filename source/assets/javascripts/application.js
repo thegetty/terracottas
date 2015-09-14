@@ -48,16 +48,17 @@ function mapCheck($el) {
 // Set up all the things!
 
 function setUpPage(){
+  var map;
   offCanvasSetup();
   addPanelControls();
   $(".expander-content").addClass("expander--hidden");
   if (mapCheck($(".object-data"))) {
-    var map = deepZoomSetup();
+    map = deepZoomSetup();
     // must bind map resize asynchronously
     setTimeout(map.invalidateSize.bind(map), 100);
     addMapResizeListener(map);
   } else if ($("#map").length) {
-    var map = initMap();
+    map = initMap();
     setTimeout(map.invalidateSize.bind(map), 100);
     addMapResizeListener(map);
   }

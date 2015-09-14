@@ -7,6 +7,15 @@ $search-text-color: $base-font-color;
   display: none;
 }
 
+.search-close {
+  cursor: pointer;
+  font-size: 1.5rem;
+  position: absolute;
+  top: 11px;
+  right: 15px;
+
+}
+
 // When search input is active, do the following:
 .search-active {
   background-color: $search-bg;
@@ -52,16 +61,20 @@ $search-text-color: $base-font-color;
 }
 
 .search-results {
+  @include transition($base-transition);
+  opacity: 0;
   display: none;
+
 
   &.search-active {
     display: block;
     height: 100vh;
+    opacity: 1;
     overflow: auto;
     padding: 2rem;
     position: fixed;
     top: 60px;
     width: 100%;
-    z-index: 200;
+    z-index: 1200;
   }
 }
