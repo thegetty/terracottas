@@ -94,7 +94,8 @@ function searchSetup(index, contents){
       //console.log(JSON.stringify(contents[result.ref]));
       $(".search-results").append(resultsTemplate({
         title: contents[result.ref].title,
-        url: contents[result.ref].url
+        url: contents[result.ref].url,
+        type: contents[result.ref].type
       }));
     });
   }));
