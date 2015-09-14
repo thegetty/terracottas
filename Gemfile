@@ -19,3 +19,6 @@ gem "turbolinks", require: false
 gem 'rake'
 gem 'nokogiri'
 # gem 'rmagick'
+
+# Production
+gem "middleman-minify-html"
