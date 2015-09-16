@@ -13,7 +13,6 @@
   @include align-items(stretch);
   @include justify-content(space-between);
   background-color: $light-gray;
-  background-position: center 40%;
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: $base-border-radius;
@@ -23,6 +22,14 @@
 
   @include media($small-screen) {
     background-position: center 75%;
+  }
+
+  @include media($medium-screen-up) {
+    background-position: center 10%;
+  }
+
+  @include media($large-screen-up) {
+    background-position: center 40%;
   }
 
   &:hover {

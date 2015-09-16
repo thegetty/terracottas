@@ -1,5 +1,6 @@
 ---
 title: Introduction
+cover: 82.AD.93.1.detail_1
 ---
 This catalogue, which features a selection of terracottas from South
 Italy and Sicily now in the collection of the J. Paul Getty Museum, was
@@ -72,6 +73,10 @@ this catalogue and the accompanying Guide to the Collection of South
 Italian and Sicilian Terracottas, which indexes over a thousand other
 statuettes and molds at the Getty, will encourage wider comparison and
 connections to materials of more certain archaeological contexts.[^3]
+
+<br />
+
+### Notes
 
 [^1]: The manuscript was mostly completed in 2008 in a new context of
     cultural and scientific collaboration between the J. Paul Getty
