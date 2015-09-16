@@ -11,7 +11,7 @@
   background-color: $dark-gray;
   background-position: center center;
   background-size: cover;
-  height: 60vh;
+  height: 75vh;
 
   @include media($small-screen) {
     height: 400px;
