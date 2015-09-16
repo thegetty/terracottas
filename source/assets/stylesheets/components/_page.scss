@@ -9,9 +9,10 @@
   @include justify-content(center);
   @include flex-wrap(wrap);
   background-color: $dark-gray;
-  background-position: center center;
+  background-position: center 70%;
   background-size: cover;
   height: 75vh;
+  margin-top: 60px;
 
   @include media($small-screen) {
     height: 400px;
