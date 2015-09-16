@@ -3,5 +3,5 @@ title: Sicily
 layout: panels
 map: true
 ---
-= partial(:selection_grid, :locals => { :key => "region", :value => "Sicily" })
+= partial(:grid, :locals => { :collection => find_in_catalogue("region", "Sicily") })
 .panel.panel-left.hidden#future-panel
