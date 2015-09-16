@@ -13,7 +13,7 @@
   @include align-items(stretch);
   @include justify-content(space-between);
   background-color: $light-gray;
-  background-position: center top;
+  background-position: center 40%;
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: $base-border-radius;
