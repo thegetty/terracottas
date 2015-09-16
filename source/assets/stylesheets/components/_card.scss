@@ -21,8 +21,8 @@
   height: 300px;
   overflow: hidden;
 
-  @include media($large-screen-up) {
-    background-position: center center;
+  @include media($small-screen) {
+    background-position: center 75%;
   }
 
   &:hover {
@@ -36,7 +36,7 @@
 }
 
 .card-title {
-  @include flex(0 0 30%);
+  @include flex(0 0 24%);
   @include transition($base-transition);
   background-color: transparentize(#000, 0.5);
   color: transparentize($inverse-color, 0.2);
@@ -46,6 +46,10 @@
   overflow: hidden;
   padding: $small-spacing;
   z-index: 10;
+
+  @include media($small-screen) {
+    @include flex(0 0 30%);
+  }
 }
 
 .card-number {
