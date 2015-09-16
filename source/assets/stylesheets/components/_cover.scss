@@ -13,8 +13,8 @@
   @include justify-content(center);
   @include flex-wrap(wrap);
   background-color: $dark-gray;
-  background-image: url(image-path("large/76.AD.11.1.jpg"));
-  background-position: center 15%;
+  background-image: url(image-path("large/86.AD.681.jpg"));
+  background-position: center 40%;
   background-size: cover;
   height: 100vh;
 }
@@ -26,13 +26,13 @@
     hsla(0, 0%, 0%, 0.5) 100%));
 
   color: $inverse-color;
-  height: 60vh;
+  height: 40vh;
   padding-top: 2rem;
   text-align: center;
   width: 100%;
 
   @include media($small-screen) {
-    height: 75vh;
+    height: 50vh;
     padding-left: 1rem;
     padding-right: 1rem;
   }
