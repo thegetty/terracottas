@@ -1,9 +1,16 @@
 = wrap_layout :application do
-  .container
-    %h1.page-title= current_page.data.title
-    .page-content.pb4
-      - if current_page.data.group
-        = partial(:grid, :locals => {:key => "group", :value => current_page.data.group})
-        .pb4
-      = yield
-  = partial "footer"
+  - if current_page.data.cover?
+    .page-cover{ :style => "background-image: url(#{image_path(current_page.data.cover)}.jpg)"}
+    .container
+      .page-content.pb4#content
+        %h1.page-title= current_page.data.title
+        = yield
+  - else
+    .container
+      %h1.page-title= current_page.data.title
+      .page-content.pb4
+        - if current_page.data.group
+          = partial(:grid, :locals => {:key => "group", :value => current_page.data.group})
+          .pb4
+        = yield
+    = partial "footer"
