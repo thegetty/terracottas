@@ -97,6 +97,10 @@ wood; a number of parts were then added, some cast from molds and others
 hand-worked. The figures were then assembled and finished by rendering
 details with careful tool work during the retouching phase.[^6]
 
+<br />
+
+### Notes
+
 [^1]: The use of these terms is not necessarily consistent in the
     literature on the subject, inasmuch as they imply varying degrees of
     resemblance to the finished product. On the use of the terms
