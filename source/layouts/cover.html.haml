@@ -13,7 +13,8 @@
       = partial "nav"
     .explore.mb2.mt4
       %h2.centered Explore the Collection
-      = partial(:selection_grid, :locals => { :key => "featured", :value => true })
+      = partial(:grid, :locals => { :collection => find_in_catalogue("featured", true) })
+
     %br
     %br
   = partial "footer"

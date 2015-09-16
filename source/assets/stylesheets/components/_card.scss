@@ -18,7 +18,7 @@
   background-size: cover;
   border-radius: $base-border-radius;
   box-shadow: $base-box-shadow;
-  height: 320px;
+  height: 300px;
   overflow: hidden;
 
   @include media($large-screen-up) {
@@ -36,10 +36,10 @@
 }
 
 .card-title {
-  @include flex(0 0 20%);
+  @include flex(0 0 30%);
   @include transition($base-transition);
   background-color: transparentize(#000, 0.5);
-  color: transparentize($inverse-color, 0.4);
+  color: transparentize($inverse-color, 0.2);
   display: block;
   font-size: 1rem;
   margin-bottom: 0;
