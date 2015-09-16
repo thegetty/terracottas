@@ -11,7 +11,7 @@
   @include display(flex);
   @include flex-direction(column);
   @include align-items(stretch);
-  @include justify-content(flex-end);
+  @include justify-content(space-between);
   background-color: $light-gray;
   background-position: center top;
   background-repeat: no-repeat;
@@ -46,4 +46,12 @@
   overflow: hidden;
   padding: $small-spacing;
   z-index: 10;
+}
+
+.card-number {
+  @include flex(0 0 10%);
+  color: transparentize($inverse-color, 0.7);
+  padding: $small-spacing;
+  text-align: right;
+  z-index: 100;
 }
