@@ -1,9 +1,8 @@
-**Statuettes of a Seated Eros**
-
-**Cat. 45–46**
-
-**Discussion**
-
+---
+title: Statuettes of a Seated Eros
+group: Statuettes of a Seated Eros
+objects: 45-46
+---
 These musician Erotes must originally have been mounted on animals:
 beneath the buttocks, there are no traces of slip or polychromy. The
 typology is reminiscent of Daunian examples from Canosa in the third
@@ -36,6 +35,8 @@ documented by images on gems.[^4] Similar Erotes from the region of
 Daunia are now found in many major museum collections and frequently
 appear on the antiquities market, often in pairs and groups of four, as
 they must have originally been found in their source contexts.[^5]
+
+### Notes
 
 [^1]: M. Mazzei, *Arpi: L’ipogeo della Medusa e la necropoli* (Arpi,
     1995), pp. 140–41, nos. 142–48, and pp. 261–70, with bibliography.

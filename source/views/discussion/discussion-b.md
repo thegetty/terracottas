@@ -1,10 +1,7 @@
 ---
 title: Group of Heads and Busts from the Taranto Region
+objects: 4..23
 ---
-## Cat. 4–23
-
-### Discussion
-
 The group of twenty heads and busts (cat. 4–23) that were acquired by
 the Getty Museum in 1982 share a number of technical characteristics,
 despite the fact that they can be assigned to differing typologies and
