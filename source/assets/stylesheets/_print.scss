@@ -1,0 +1,108 @@
+@page {
+  size: 8.5in 11in;
+  margin: 1in;
+}
+
+@media print {
+  body {
+    background-color: #fff;
+    margin: 1rem;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+  }
+
+  ul, img {
+    page-break-inside: avoid;
+  }
+
+  .main-content {
+    background-color: #fff;
+    color: #000;
+    margin: 0 auto;
+  }
+
+  .panel-left {
+    display: none;
+    width: 0;
+  }
+
+  .panel-right {
+    width: 100%;
+  }
+
+  .page-cover {
+    background-color: #fff;
+    background-size: contain;
+    background-repeat: no-repeat;
+    max-height: 5in;
+    margin: auto;
+  }
+
+  .nav-primary {
+    display: none;
+  }
+
+  .page-header-left,
+  .page-header-right {
+    display: none;
+    width: 0;
+  }
+
+  .page-header,
+  .panel-left ~ .page-header {
+    background-color: #fff;
+    border: none;
+    color: #000;
+    position: absolute;
+    width: 100%;
+  }
+
+  .page-title {
+    padding: 0;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .page-header-center {
+    background-color: #fff;
+    color: #000;
+    width: 100%;
+    text-align: center;
+  }
+
+  .page-content,
+  .object-content {
+    font-size: 10pt;
+  }
+
+  .page-title,
+  .object-title {
+    font-size: 30pt;
+  }
+
+  .object-content-section {
+    border: 0;
+    margin-bottom: 0.25in;
+
+    h3 {
+      font-size: 18pt;
+      page-break-after: avoid;
+    }
+  }
+
+  .expander {
+    .expander--hidden,
+    .expander--content {
+      display: block;
+    }
+  }
+
+  .reversefootnote {
+    display: none;
+  }
+
+
+
+}
