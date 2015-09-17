@@ -63,7 +63,7 @@ function addPanelControls() {
 
   $(".scroll-down").click(function (event) {
     target = $(this).attr("href");
-    $(target).velocity("scroll");
+    $(target).velocity("scroll", { offset: "-60px" });
     event.preventDefault();
   });
 
