@@ -1,9 +1,9 @@
-//= require jquery.smoothState.min
-//= require velocity.min
-//= require velocity.ui.min
-//= require ramjet.min
-//= require handlebars.min
-//= require lunr.min
+//= require lib/jquery.smoothState.min
+//= require lib/velocity.min
+//= require lib/velocity.ui.min
+//= require lib/handlebars.min
+//= require lib/lunr.min
+//= require lib/isotope.pkgd.js
 //= require ui-functions
 //= require map-functions
 //= require search-functions

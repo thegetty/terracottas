@@ -1,5 +1,5 @@
 //= require geojson
-//= require leaflet-easy-button
+//= require lib/leaflet-easy-button
 
 // =============================================================================
 // Map Functions
