@@ -15,17 +15,32 @@
 }
 
 .toc-section {
-  border-bottom: $base-border;
+  // border-top: solid 1px transparentize($inverse-color, 0.5);
   margin-bottom: 1rem;
   margin-top: 1rem;
   padding-top: 1rem;
 }
 
 .toc-subsection {
-  border-top: $base-border;
+  border-top: solid 3px transparentize($inverse-color, 0.85);
   margin-bottom: 0.5rem;
   margin-top: 1rem;
   padding-top: 1rem;
+
+  &:last-of-type {
+    border-bottom: solid 3px transparentize($inverse-color, 0.85);
+    margin-bottom: 2rem;
+  }
 }
 
 .toc-entry-author { display: block; }
+.toc-logo { display: none; }
+
+.nav-primary {
+  .toc-logo {
+    display: block;
+    margin-top: 3rem;
+    max-height: 3rem;
+    opacity: 0.75;
+  }
+}

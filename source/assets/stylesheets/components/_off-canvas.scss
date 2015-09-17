@@ -8,8 +8,8 @@
 // .nav-primary-trigger   - Link that shows/hides the off-canvas nav
 
 $nav-width:       20rem;
-$nav-color:       $medium-gray;
-$nav-background:  $dark-gray;
+$nav-color:       shade($action-color, 40%);
+$nav-background:  $action-color;
 $nav-font:        $heading-font-family;
 
 
@@ -37,6 +37,7 @@ $nav-font:        $heading-font-family;
 
   &.visible {
     @include transform(translateX(0));
+    box-shadow: -3px 0px 6px 0px rgba(0, 0, 0, 0.3);
     overflow: auto;
 
     ~ .nav-primary-trigger {
@@ -64,11 +65,6 @@ $nav-font:        $heading-font-family;
 }
 
 // Template styles
-
-body {
-  background-color: $nav-background;
-}
-
 .main-content {
   @include transition($base-transition);
   background-color: $base-background-color;
