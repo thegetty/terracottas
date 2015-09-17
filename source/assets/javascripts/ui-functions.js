@@ -5,6 +5,10 @@
 // up as individual functions that can be called from the main app.js file.
 
 
+function jq(myid) {
+  return myid.replace( /(:|\.|\[|\]|,)/g, "\\$1" );
+}
+
 // -----------------------------------------------------------------------------
 function offCanvasSetup(){
   // Show the off-canvas navigation
@@ -62,6 +66,37 @@ function addPanelControls() {
     $(target).velocity("scroll");
     event.preventDefault();
   });
+
+  $(".footnote").click(function (event) {
+    target = $(this).attr("href");
+    if ($(".panel-right").length >= 1) {
+      $(jq(target)).velocity("scroll", {
+        offset: "-60px",
+        container: $(".panel-right")
+      });
+    } else {
+      $(jq(target)).velocity("scroll", {
+        offset: "-60px"
+      });
+    }
+    event.preventDefault();
+  });
+
+  $(".reversefootnote").click(function (event) {
+    target = $(this).attr("href");
+    if ($(".panel-right").length >= 1) {
+      $(jq(target)).velocity("scroll", {
+        offset: "-60px",
+        container: $(".panel-right")
+      });
+    } else {
+      $(jq(target)).velocity("scroll", {
+        offset: "-60px"
+      });
+    }
+    event.preventDefault();
+  });
+
 
   $(".expander-trigger").click(function () {
     // Velocity JS options object
