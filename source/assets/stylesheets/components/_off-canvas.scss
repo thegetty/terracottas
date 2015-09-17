@@ -39,6 +39,7 @@ $nav-font:        $heading-font-family;
     @include transform(translateX(0));
     box-shadow: -3px 0px 6px 0px rgba(0, 0, 0, 0.3);
     overflow: auto;
+    -webkit-overflow-scrolling: touch;
 
     ~ .nav-primary-trigger {
       @extend %inverse-link;
@@ -51,6 +52,7 @@ $nav-font:        $heading-font-family;
     &.visible {
       ~ .main-content {
         @include transform(translateX(-$nav-width));
+        overflow: hidden;
 
         .page-header-right {
           display: none;
