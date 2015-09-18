@@ -8,7 +8,5 @@
                           :region    => object.region,
                           :group     => object.group },
                :style => "background-image: url(#{image_path(object.acc)}.jpg)"}
-          %h6.card-number
-            = object.cat
           %h5.card-title
-            = object.title
+            = "#{object.cat}. #{object.title}"
