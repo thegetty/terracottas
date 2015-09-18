@@ -37,3 +37,25 @@
   margin: 0 auto;
   max-width: 48rem;
 }
+
+.page-content {
+  .reference {
+    -webkit-column-count: 2;
+    -webkit-column-gap: 3rem;
+    -moz-column-count: 2;
+    -moz-column-gap: 2.5rem;
+    column-count: 2;
+    column-gap: 2.5rem;
+
+    p + p {
+      text-indent: 0;
+    }
+
+    li {
+      padding-bottom: 1.5rem;
+      overflow: hidden; /* fix for Firefox */
+      break-inside: avoid-column;
+      -webkit-column-break-inside: avoid;
+    }
+  }
+}
