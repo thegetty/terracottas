@@ -10,18 +10,15 @@
   - desc: Overall
     number: 7.5 yr 8/3-8/5
   dimensions:
-  - desc: "Orpheus with chair, footstool, and slab (overall)"
-    height: 104 cm
-    width: 56.8 cm
-    depth: 100.6 cm
-  - desc: Footstool rest
-    height: 6.7 cm
-    width: 29.7 cm
-    depth: 24 cm
-  - desc: "Footstool rest, flat slab"
-    height: 3 cm
-    width: 44.9 cm
-    depth: 34.1 cm
+  - desc: |-
+      Orpheus with chair, footstool, and slab (overall):
+      H: 104 cm; W: 56.8 cm; D: 100.6 cm
+  - desc: |-
+      Footstool rest:
+      H: 6.7; cm W: 29.7; cm; D: 24 cm
+  - desc: |-
+      Footstool rest, flat slab:
+      H: 3 cm; W: 44.9 cm; D: 34.1 cm
   featured: true
   pixel_width: 6656
   pixel_height: 8192
@@ -39,12 +36,10 @@
   - desc: Overall
     number: 7.5 yr 8/3
   dimensions:
-  - desc: Overall
-    height: 140 cm
-    width: 35.8 cm
-    depth: 55.2 cm
-  - desc: From center of belly to tail
-    length: 49.1 cm
+  - desc: |-
+      H: 140 cm; W: 35.8 cm; D: 55.2 cm
+  - desc: |-
+      L (from center of belly to tail): L: 49.1 cm
   pixel_width: 7168
   pixel_height: 8704
   max_zoom: 6
@@ -61,12 +56,10 @@
   - desc: Overall
     number: 7.5 yr 8/3
   dimensions:
-  - desc: Overall
-    height: 140 cm
-    width: 48 cm
-    depth: 68 cm
-  - desc: From center of belly to tail
-    length: 56.2 cm
+  - desc: |-
+      H: 140 cm; W: 48 cm; D: 68 cm
+  - desc: |-
+      L (from center of belly to tail): 56.2 cm
   pixel_width: 4352
   pixel_height: 7424
   max_zoom: 5
@@ -83,11 +76,10 @@
   - desc: Overall
     number: 7.5 yr 8/4; 5 yr 7/6
   dimensions:
-  - desc: Overall
-    height: 13.5 cm
-    width: 13.8 cm
-  - desc: Face
-    height: 10.4 cm
+  - desc: |-
+      H: 13.5 cm; W: 13.8 cm
+  - desc: |-
+      H (face): 10.4 cm
   pixel_width: 4608
   pixel_height: 4864
   max_zoom: 5
@@ -104,11 +96,10 @@
   - desc: Overall
     number: 2.5 yy 8/3
   dimensions:
-  - desc: Overall
-    height: 17.1 cm
-    width: 14.3 cm
-  - desc: Face
-    height: 11.3 cm
+  - desc: |-
+      H: 17.1 cm; W: 14.3 cm
+  - desc: |-
+      H (Face): 11.3 cm
   pixel_width: 5376
   pixel_height: 5632
   max_zoom: 5
@@ -125,11 +116,10 @@
   - desc: Overall
   - number: 10 yr 8/3-8/4
   dimensions:
-  - desc: Overall
-    height: 13.1 cm
-    width: 9.1 cm
-  - desc: Face
-    height: 8.2 cm
+  - desc: |-
+      H: 13.1 cm; W: 9.1 cm
+  - desc: |-
+      H (Face): 8.2 cm
   pixel_width: 4352
   pixel_height: 4864
   max_zoom: 5
@@ -146,11 +136,10 @@
   - desc: Overall
     number: 2.5 yr 8/3-8/4
   dimensions:
-  - desc: Overall
-    height: 20.3 cm
-    width: 13.9 cm
-  - desc: Face
-    height: 12.2 cm
+  - desc: |-
+      H: 20.3 cm; W: 13.9 cm
+  - desc: |-
+      H (Face): 12.2 cm
   pixel_width: 5888
   pixel_height: 7424
   max_zoom: 5
@@ -167,11 +156,10 @@
   - desc: Overall
     number: 7.5 yr 8/6
   dimensions:
-  - desc: Overall
-    height: 17.2 cm
-    width: 14.5 cm
-  - desc: Face
-    height: 10.3 cm
+  - desc: |-
+      H: 17.2 cm; W: 14.5 cm
+  - desc: |-
+      H (Face): 10.3 cm
   pixel_width: 4864
   pixel_height: 5888
   max_zoom: 5
@@ -188,11 +176,10 @@
   - desc: Overall
     number: 5 yr 7/6-7/8
   dimensions:
-  - desc: Overall
-    height: 17.8 cm
-    width: 14.1 cm
-  - desc: Face
-    height: 11.1 cm
+  - desc: |-
+      H: 17.8 cm; W: 14.1 cm
+  - desc: |-
+      H (Face): 11.1 cm
   pixel_width: 4864
   pixel_height: 5632
   max_zoom: 5
@@ -209,9 +196,8 @@
   - desc: Overall
     number: 10 yr 8/3
   dimensions:
-  - desc: Overall
-    height: 23.5 cm
-    width: 17.2 cm
+  - desc: |-
+      H: 23.5 cm; W: 17.2 cm
   pixel_width: 5888
   pixel_height: 7424
   max_zoom: 5
@@ -228,11 +214,10 @@
   - desc: Overall
     number: 7.5 yr 8/4 8/6
   dimensions:
-  - desc: Overall
-    height: 17.3 cm
-    width: 12.3 cm
-  - desc: Face
-    height: 8.9 cm
+  - desc: |-
+      H: 17.3 cm; W: 12.3 cm
+  - desc: |-
+      H (Face): 8.9 cm
   pixel_width: 5888
   pixel_height: 7424
   max_zoom: 5
@@ -251,11 +236,10 @@
   - desc: Calcareous inclusions
     number: 5 yr 7/6
   dimensions:
-  - desc: Overall
-    height: 14.4 cm
-    width: 11.5 cm
-  - desc: Face
-    height: 10.2 cm
+  - desc: |-
+      H: 14.4 cm; W: 11.5 cm
+  - desc: |-
+      H (Face): 10.2 cm
   pixel_width: 4352
   pixel_height: 4864
   max_zoom: 5
@@ -272,11 +256,10 @@
   - desc: Overall
     number: 5 yr 7/6
   dimensions:
-  - desc: Overall
-    height: 16.5 cm
-    width: 12.6 cm
-  - desc: Face
-    height: 11.7 cm
+  - desc: |-
+      H: 16.5 cm; W: 12.6 cm
+  - desc: |-
+      H (Face): 11.7 cm
   pixel_width: 4864
   pixel_height: 5632
   max_zoom: 5
@@ -293,11 +276,10 @@
   - desc: Overall
     number: 5 yr 8/6
   dimensions:
-  - desc: Overall
-    height: 12 cm
-    width: 10.3 cm
-  - desc: Face
-    height: 8 cm
+  - desc: |-
+      H: 12 cm; W: 10.3 cm
+  - desc: |-
+      H (Face): 8 cm
   pixel_width: 4864
   pixel_height: 5376
   max_zoom: 5
@@ -314,11 +296,10 @@
   - desc: Overall
     number: 7.5 yr 8/3
   dimensions:
-  - desc: Overall
-    height: 16.9 cm
-    width: 13.2 cm
-  - desc: Face
-    height: 9.4 cm
+  - desc: |-
+      H: 16.9 cm; W: 13.2 cm
+  - desc: |-
+      H (Face): 9.4 cm
   pixel_width: 5888
   pixel_height: 7424
   max_zoom: 5
@@ -335,12 +316,11 @@
   - desc: Overall
     number: 7.5 yr 8/4
   dimensions:
-  - desc: Overall
-    height: 16.2 cm
-    width: 9.2 cm
+  - desc: |-
+      H: 16.2 cm; W: 9.2 cm
   dimensions:
-  - desc: Face
-    height: 7 cm
+  - desc: |-
+      H (Face): 7 cm
   pixel_width: 4352
   pixel_height: 5120
   max_zoom: 5
@@ -357,12 +337,11 @@
   - desc: Overall
     number: 7.5 yr 8/4-7/6
   dimensions:
-  - desc: Overall
-    height: 15.9 cm
-    width: 12.3 cm
+  - desc: |-
+      H: 15.9 cm; W: 12.3 cm
   dimensions:
-  - desc: Face
-    height: 9.4 cm
+  - desc: |-
+      H (Face): 9.4 cm
   pixel_width: 5120
   pixel_height: 5632
   max_zoom: 5
@@ -381,12 +360,11 @@
   - desc: Back
     number: 5 yr 7/6
   dimensions:
-  - desc: Overall
-    height: 16.5 cm
-    width: 13.1 cm
+  - desc: |-
+      H: 16.5 cm; W: 13.1 cm
   dimensions:
-  - desc: Face
-    height: 11.3 cm
+  - desc: |-
+      H (Face): 11.3 cm
   pixel_width: 5120
   pixel_height: 5888
   max_zoom: 5
@@ -406,12 +384,11 @@
   - desc: Back
     number: 5 yr 8/4
   dimensions:
-  - desc: Overall
-    height: 17.4 cm
-    width: 9.2 cm
+  - desc: |-
+      H: 17.4 cm; W: 9.2 cm
   dimensions:
-  - desc: Face
-    height: 9.3 cm
+  - desc: |-
+      H (Face): 9.3 cm
   pixel_width: 4352
   pixel_height: 5376
   max_zoom: 5
@@ -430,11 +407,10 @@
   - desc: Back
     number: 5 yr 7/6
   dimensions:
-  - desc: Overall
-    height: 13.4 cm
-    width: 12.2 cm
-  - desc: Face
-    height: 10.4 cm
+  - desc: |-
+      H: 13.4 cm; W: 12.2 cm
+  - desc: |-
+      H (Face): 10.4 cm
   pixel_width: 4864
   pixel_height: 5376
   max_zoom: 5
@@ -451,9 +427,8 @@
   - desc: Overall
     number: 10 yr 8/3
   dimensions:
-  - desc: Overall
-    height: 26.8 cm
-    width: 15.5 cm
+  - desc: |-
+      H: 26.8 cm; W: 15.5 cm
   pixel_width: 5888
   pixel_height: 7424
   max_zoom: 5
@@ -470,9 +445,8 @@
   - desc: Overall
     number: 2.5 yr 8/3
   dimensions:
-  - desc: Overall
-    height: 14.2 cm
-    width: 14 cm
+  - desc: |-
+      H: 14.2 cm; W: 14 cm
   pixel_width: 4608
   pixel_height: 5888
   max_zoom: 5
@@ -489,11 +463,10 @@
   - desc: Overall
     number: 5 yr 7/6
   dimensions:
-  - desc: Overall
-    height: 13.5 cm
-    width: 11.5 cm
-  - desc: Face
-    height: 11 cm
+  - desc: |-
+      H: 13.5 cm; W: 11.5 cm
+  - desc: |-
+      H (Face): 11 cm
   pixel_width: 4864
   pixel_height: 5376
   max_zoom: 5
@@ -509,9 +482,8 @@
   - desc: Overall
     number: 5 y 7/6
   dimensions:
-  - desc: Overall
-    height: 11.5 cm
-    width: 8.2 cm
+  - desc: |-
+      H: 11.5 cm; W: 8.2 cm
   pixel_width: 4864
   pixel_height: 5376
   max_zoom: 5
@@ -528,10 +500,8 @@
   - desc: Overall
     number: 10 yr 8/3
   dimensions:
-  - desc: Overall
-    height: 16.8 cm
-    width: 7.5 cm
-    diam: (vent hole) 2.3 cm
+  - desc: |-
+      H: 16.8 cm; W: 7.5 cm; Diam: (vent hole) 2.3 cm
   pixel_width: 4864
   pixel_height: 7424
   max_zoom: 5
@@ -547,9 +517,8 @@
   - desc: Overall
     number: 7.5 yr 8/6
   dimensions:
-  - desc: Overall
-    height: 16.4 cm
-    width: 5.9 cm
+  - desc: |-
+      H: 16.4 cm; W: 5.9 cm
   pixel_width: 5632
   pixel_height: 7424
   max_zoom: 5
@@ -565,9 +534,8 @@
   - desc: Overall
     number: 10 yr 8/3
   dimensions:
-  - desc: Overall
-    height: 10.3 cm
-    width: 4.1 cm
+  - desc: |-
+      H: 10.3 cm; W: 4.1 cm
   pixel_width: 4864
   pixel_height: 6144
   max_zoom: 5
@@ -583,9 +551,8 @@
   - desc: Overall
     number: 7.5 yr 8/4
   dimensions:
-  - desc: Overall
-    height: 11.5 cm
-    width: 5 cm
+  - desc: |-
+      H: 11.5 cm; W: 5 cm
   pixel_width: 5376
   pixel_height: 7424
   max_zoom: 5
@@ -603,9 +570,8 @@
   - desc: Back
     number: 7.5 yr 7/6
   dimensions:
-  - desc: Overall
-    height: 18.9 cm
-    diam: (vent hole) 2 cm
+  - desc: |-
+      H: 18.9 cm; Diam: (vent hole) 2 cm
   pixel_width: 5376
   pixel_height: 6912
   max_zoom: 5
@@ -621,9 +587,8 @@
   - desc: Overall
     number: 10 yr 8/2-8/3
   dimensions:
-  - desc: Overall
-    height: 23.7 cm
-    width: 10.4 cm
+  - desc: |-
+      H: 23.7 cm; W: 10.4 cm
   pixel_width: 5632
   pixel_height: 7168
   max_zoom: 5
@@ -639,9 +604,8 @@
   - desc: Overall
     number: 7.5 yr 8/3-8/4
   dimensions:
-  - desc: Overall
-    height: 9 cm
-    width: 8.4 cm
+  - desc: |-
+      H: 9 cm; W: 8.4 cm
   pixel_width: 4864
   pixel_height: 6144
   max_zoom: 5
@@ -659,10 +623,10 @@
   - desc: Number of points
     number: 5 yr 7/8
   dimensions:
-  - desc: Overall
-    height: 14.3 cm
-  - desc: Base
-    width: 11 cm
+  - desc: |-
+      H: 14.3 cm
+  - desc: |-
+      W (base): 11 cm
   pixel_width: 5120
   pixel_height: 7424
   max_zoom: 5
@@ -678,9 +642,8 @@
   - desc: Overall
     number: 5 yr 7/8
   dimensions:
-  - desc: Overall
-    height: 11.4 cm
-    width: 8 cm
+  - desc: |-
+      H: 11.4 cm; W: 8 cm
   pixel_width: 5888
   pixel_height: 5120
   max_zoom: 5
@@ -693,9 +656,8 @@
   date: 350-300 BC
   typology: Relief
   dimensions:
-  - desc: Overall
-    height: 6.4 cm
-    width: 15.2 cm
+  - desc: |-
+      H: 6.4 cm; W: 15.2 cm
   pixel_width: 6656
   pixel_height: 4864
   max_zoom: 5
@@ -708,9 +670,8 @@
   date: 350-300 BC
   typology: Relief
   dimensions:
-  - desc: Overall
-    height: 6.5 cm
-    width: 8 cm
+  - desc: |-
+      H: 6.5 cm; W: 8 cm
   pixel_width: 5632
   pixel_height: 4352
   max_zoom: 5
@@ -723,41 +684,25 @@
   date: 350-300 BC
   typology: Relief
   dimensions:
-  - desc: Overall
-    height: 5.8 cm
-    width: 8 cm
+  - desc: |-
+      H: 5.8 cm; W: 8 cm
   pixel_width: 5888
   pixel_height: 4608
   max_zoom: 5
 
-# I made two entries for this catalog number because each item has its own metadata. (As opposed to cat. 33 that is also two acc numbers but one set of metadata)
-# - cat: 37
-#   acc: 80.AD.39.1
-#   title: Relief with Two Griffins Attacking a Deer
-#   group:
-#   region: South Italy
-#   city: Taranto and the Apulian Region
-#   date: 350-300 BC
-#   typology: Relief
-#   dimensions:
-#   - desc: Overall
-#     height: 2.6 cm
-#     width: 4.6 cm
-#     depth:
-#     length:
-#     diam:
-
 - cat: 37
-  acc: 80.AD.39.2
+  acc: 80.AD.39.1
+  acc2: 80.AD.39.2
   title: Relief with Two Griffins Attacking a Deer
   region: South Italy
   city: Taranto and the Apulian Region
   date: 350-300 BC
   typology: Relief
   dimensions:
-  - desc: Overall
-    height: 4.7 cm
-    width: 6.6 cm
+  - desc: |-
+      1. H: 2.6 cm; W: 4.6cm
+  - desc: |-
+      2. H. 4.7cm; W: 6.6cm
   pixel_width: 6656
   pixel_height: 4864
   max_zoom: 5
@@ -774,13 +719,12 @@
   - desc: Overall
     number: 10 yr 8/4
   dimensions:
-  - desc: Overall
-    height: 96.2 cm
-    width: 23.5 cm
-  - desc: Face
-    height: 12.3 cm
-  - desc: Thickness of walls
-    depth: 1.9-6.5 cm
+  - desc: |-
+      H: 96.2 cm; W: 23.5 cm
+  - desc: |-
+      H (Face): 12.3 cm
+  - desc: |-
+      Thickness of walls: 1.9-6.5 cm
   pixel_width: 5120
   pixel_height: 7424
   max_zoom: 5
@@ -797,14 +741,13 @@
   - desc: Overall
     number: 7.5 yr 8/6
   dimensions:
-  - desc: Overall
-    height: 95.6 cm
-    width: 31.9 cm
+  - desc: |-
+      H: 95.6 cm; W: 31.9 cm
   dimensions:
-  - desc: Face
-    height: 11.6 cm
-  - desc: Thickness of walls
-    depth: 1.4-9.5 cm
+  - desc: |-
+      H (Face): 11.6 cm
+  - desc: |-
+      Thickness of walls: 1.4-9.5 cm
   pixel_width: 5120
   pixel_height: 7424
   max_zoom: 5
@@ -821,13 +764,12 @@
   - desc: Overall
     number: 7.57.5 yr 8/4
   dimensions:
-  - desc: Overall
-    height: 93.4 cm
-    width: 31.2 cm
-  - desc: Face
-    height: 12.5 cm
-  - desc: Thickness of walls
-    depth: 1.4-6.4 cm
+  - desc: |-
+      H: 93.4 cm; W: 31.2 cm
+  - desc: |-
+      H (Face): 12.5 cm
+  - desc: |-
+      Thickness of walls: 1.4-6.4 cm
   pixel_width: 3328
   pixel_height: 5120
   max_zoom: 5
@@ -844,13 +786,12 @@
   - desc: At the core
     number: 2.5 yr 8/4-5yr 7/6
   dimensions:
-  - desc: Overall
-    height: 95.5 cm
-    width: 32.1 cm
-  - desc: Face
-    height: 12.2 cm
-  - desc: Thickness of walls
-    depth: 2.1-8.4 cm
+  - desc: |-
+      H: 95.5 cm; W: 32.1 cm
+  - desc: |-
+      H (Face): 12.2 cm
+  - desc: |-
+      Thickness of walls: 2.1-8.4 cm
   pixel_width: 5120
   pixel_height: 7424
   max_zoom: 5
@@ -866,9 +807,8 @@
   - desc: Overall
     number: 2.5 yr 8/4 7/6
   dimensions:
-  - desc: Overall
-    height: 96.5 cm
-    width: 31 cm
+  - desc: |-
+      H: 96.5 cm; W: 31 cm
   pixel_width: 5120
   pixel_height: 7424
   max_zoom: 5
@@ -884,9 +824,8 @@
   - desc: Overall
     number: 7.5 yr 7/4
   dimensions:
-  - desc: Overall
-    height: 23.5 cm
-    width: 7.3 cm
+  - desc: |-
+      H: 23.5 cm; W: 7.3 cm
   pixel_width: 5120
   pixel_height: 7424
   max_zoom: 5
@@ -902,9 +841,8 @@
   - desc: Overall
     number: 5 yr 8/4
   dimensions:
-  - desc: Overall
-    height: 21.8 cm
-    width: 10.9 cm
+  - desc: |-
+      H: 21.8 cm; W: 10.9 cm
   pixel_width: 4864
   pixel_height: 6144
   max_zoom: 5
@@ -921,9 +859,8 @@
   - desc: Overall
     number: 7.5 yr 8/6
   dimensions:
-  - desc: Overall
-    height: 10.5 cm
-    width: 5.8 cm
+  - desc: |-
+      H: 10.5 cm; W: 5.8 cm
   pixel_width: 5632
   pixel_height: 6400
   max_zoom: 5
@@ -940,9 +877,8 @@
   - desc: Overall
     number: 7.5 yr 8/6
   dimensions:
-  - desc: Overall
-    height: 10.2 cm
-    width: 5.9 cm
+  - desc: |-
+      H: 10.2 cm; W: 5.9 cm
   pixel_width: 5632
   pixel_height: 6400
   max_zoom: 5
@@ -958,17 +894,12 @@
   - desc: Overall
     number: 10 r 6/6-8/6
   dimensions:
-  - desc: Overall
-    height: 41.8 cm
-  - desc: Base
-    width: 34.2 cm
-    depth: 29.2 cm
-  - desc: Top
-    width: 31.6 cm
-    depth: 27 cm
-  - desc: Hollow
-    width: 2 cm
-    depth: 1.6 cm
+  - desc: |-
+      H: 41.8 cm; W (Base): 34.2 cm; D (Base): 29.2 cm
+  - desc: |-
+      W (Top): 31.6 cm; D (Top): 27 cm
+  - desc: |-
+      W (Hollow): 2 cm; D (Hollow): 1.6 cm
   pixel_width: 5632
   pixel_height: 6400
   max_zoom: 5
@@ -985,17 +916,12 @@
   - desc: Overall
     number: 10 r 6/6-8/6
   dimensions:
-  - desc: Overall
-    height: 41.8 cm
-  - desc: Base
-    width: 33.4 cm
-    depth: 28.8 cm
-  - desc: Top
-    width: 31.5 cm
-    depth: 27.8 cm
-  - desc: Hollow
-    width: 1.7 cm
-    depth: 2.7 cm
+  - desc: |-
+      H: 41.8 cm; W (Base): 33.4 cm; D (Base): 28.8 cm
+  - desc: |-
+      W (Top): 31.5 cm; D (Top): 27.8 cm
+  - desc: |-
+      W (Hollow): 1.7 cm; D (Hollow): 2.7 cm
   pixel_width: 5632
   pixel_height: 6400
   max_zoom: 5
@@ -1011,13 +937,10 @@
   - desc: Overall
     number: 2.5 yr 7/8-7.5 yr 8/6
   dimensions:
-  - desc: Overall
-    height: 8.7 cm
-    width: 10 cm
-    depth: 10.7 cm
-  - desc: Inscription panel
-    width: 1.7 cm
-    length: 3.4 cm
+  - desc: |-
+      H: 8.7 cm; W: 10 cm; D: 10.7 cm
+  - desc: |-
+      Inscription panel: 3.4 x 1.7 cm
   pixel_width: 4864
   pixel_height: 3840
   max_zoom: 5
@@ -1033,10 +956,8 @@
   - desc: Overall
     number: 2.5 yr 7/6
   dimensions:
-  - desc: Overall
-    height: 4.9 cm
-    depth: 6.4 cm
-    length: 14.1 cm
+  - desc: |-
+      H: 4.9 cm; L: 14.1 cm; D: 6.4 cm
   pixel_width: 5376
   pixel_height: 3328
   max_zoom: 5
@@ -1052,10 +973,9 @@
   - desc: Overall
     number: 2.5 yr 7/6-7/8
   dimensions:
-  - desc: Overall
-    height: 28.8 cm
-    width: 19.1 cm
-    diam: (polos) 12.2 cm
+  - desc: |-
+      H: 28.8 cm; W: 19.1 cm
+    Diam: (polos) 12.2 cm
   pixel_width: 3840
   pixel_height: 4608
   max_zoom: 5
@@ -1071,10 +991,8 @@
   - desc: Overall
     number: 10 yr 8/3
   dimensions:
-  - desc: Overall
-    height: 44.6 cm
-  - desc: Incense cup
-    depth: 7 cm
+  - desc: |-
+      H: 44.6 cm; D (Incense cup): 7 cm
   pixel_width: 5376
   pixel_height: 6912
   max_zoom: 5
@@ -1094,10 +1012,8 @@
   - desc: Back
     number: 5 yr 7/6
   dimensions:
-  - desc: Overall
-    height: 26.4 cm
-    width: 35.5 cm
-    depth: 8.4-9.0
+  - desc: |-
+      H: 26.4 cm; W: 35.5 cm; D: 8.4-9.0
   pixel_width: 7168
   pixel_height: 5120
   max_zoom: 5
@@ -1113,9 +1029,8 @@
   - desc: Overall
     number: 2.5 yr 7/6
   dimensions:
-  - desc: Overall
-    height: 14.2 cm
-    width: 16.7 cm
+  - desc: |-
+      H: 14.2 cm; W: 16.7 cm
   pixel_width: 7424
   pixel_height: 5888
   max_zoom: 5
@@ -1131,11 +1046,8 @@
   - desc: Overall
     number: 5 yr 7/4
   dimensions:
-  - desc: Overall
-    height: 19.8 cm
-  dimensions:
-  - desc: Base
-    depth: 8.3 cm
+  - desc: |-
+      H: 19.8 cm; D (Base): 8.3 cm
   pixel_width: 5120
   pixel_height: 7424
   max_zoom: 5
@@ -1152,9 +1064,8 @@
   - desc: Overall
     number: 10 yr 8/3
   dimensions:
-  - desc: Overall
-    height: 28.7 cm
-    width: 10.7 cm
+  - desc: |-
+      H: 28.7 cm; W: 10.7 cm
   pixel_width: 5376
   pixel_height: 6912
   max_zoom: 5
@@ -1170,9 +1081,8 @@
   - desc: Overall
     number: 7.5 yr 6/8
   dimensions:
-  - desc: Overall
-    height: 22.5 cm
-    width: 8 cm
+  - desc: |-
+      H: 22.5 cm; W: 8 cm
   pixel_width: 5120
   pixel_height: 7424
   max_zoom: 5
@@ -1189,9 +1099,8 @@
   - desc: Overall
     number: 5 yr 8/4
   dimensions:
-  - desc: Overall
-    height: 12 cm
-    width: 15.5 cm
+  - desc: |-
+      H: 12 cm; W: 15.5 cm
   pixel_width: 5888
   pixel_height: 5376
   max_zoom: 5
@@ -1207,9 +1116,8 @@
   - desc: Overall
     number: 10 yr 8/3 and 7.5 yr 8/4
   dimensions:
-  - desc: Overall
-    depth: 1.9 cm
-    diam: 18.6 cm
+  - desc: |-
+      D: 1.9 cm; Diam: 18.6 cm
   pixel_width: 5376
   pixel_height: 5888
   max_zoom: 5
@@ -1228,9 +1136,8 @@
   - desc: Back
     number: 5 yr 8/2
   dimensions:
-  - desc: Overall
-    height: 26.7 cm
-    width: 20.4 cm
+  - desc: |-
+      H: 26.7 cm; W: 20.4 cm
   pixel_width: 5376
   pixel_height: 5376
   max_zoom: 5

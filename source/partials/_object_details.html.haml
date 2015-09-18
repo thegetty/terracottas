@@ -22,15 +22,6 @@
           %tr
             %td Typology
             %td= current_item.typology || "Statue"
-        - if current_item.group
-          -# Grouping
-          %tr
-            %td= "Grouping"
-            %td
-              - if current_item.group == "Group of a Seated Poet and Sirens"
-                =link_to current_item.group, "#{site_url}/discussion/discussion-a"
-              - else
-                = current_item.group
         - if current_item.region
           -# Region
           %tr
@@ -50,7 +41,7 @@
             - dimension.each_pair do |key, value|
               %tr
                 - if key == "desc"
-                  %td.pr2{ :colspan => 2 }= value.capitalize
+                  %td.pr2{ :colspan => 2 }= value
                 - else
-                  %td.pr2= key.capitalize
-                  %td.pr2= value.capitalize
+                  %td.pr2= key
+                  %td.pr2= value

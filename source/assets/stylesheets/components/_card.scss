@@ -6,12 +6,14 @@
 // :hover         - "Raise" the element with increase in box-shadow
 // .card-title    - The label component anchored to bottom of card
 
+// .grid-cell.grid-cell--1of2.grid-cell-med--1of3.grid-cell-large--1of3
+
 .card {
   @include transition($base-transition);
   @include display(flex);
   @include flex-direction(column);
   @include align-items(stretch);
-  @include justify-content(space-between);
+  @include justify-content(flex-end);
   background-color: $light-gray;
   background-repeat: no-repeat;
   background-size: cover;
@@ -20,26 +22,14 @@
   height: 300px;
   overflow: hidden;
 
-  @include media($small-screen) {
-    background-position: center 75%;
-  }
-
-  @include media($medium-screen-up) {
-    background-position: center 10%;
-  }
-
-  @include media($large-screen-up) {
-    background-position: center 40%;
-  }
+  @include media($small-screen) { background-position: center 75%; }
+  @include media($medium-screen-up) { background-position: center 10%; }
+  @include media($large-screen-up) { background-position: center 40%; }
 
   &:hover {
     box-shadow: $hover-box-shadow;
-
-    .card-title {
-      color: $inverse-color;
-    }
+    .card-title { color: $inverse-color; }
   }
-
 }
 
 .card-title {
@@ -57,12 +47,4 @@
   @include media($small-screen) {
     @include flex(0 0 30%);
   }
-}
-
-.card-number {
-  @include flex(0 0 10%);
-  color: transparentize($inverse-color, 0.7);
-  padding: $small-spacing;
-  text-align: right;
-  z-index: 100;
 }

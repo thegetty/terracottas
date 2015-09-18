@@ -16,7 +16,7 @@
             %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
               %h3.pb1.mt1 Fabric
             .expander-content
-              = markdown(current_page.data.fabric)
+              = markdown(current_page.data.fabric.capitalize)
         - if current_page.data.condition
           -# Condition
           .object-content-section.expander
