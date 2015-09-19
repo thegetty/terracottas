@@ -523,16 +523,12 @@
   layers:
   - name: Back
     path: terracottas/52/back
-  - name: Left back
-    path: terracottas/52/left-back
   - name: Left front
     path: terracottas/52/left-front
   - name: Left
     path: terracottas/52/left
   - name: Main
     path: terracottas/52/main
-  - name: Right back
-    path: terracottas/52/right-back
   - name: Right front
     path: terracottas/52/right-front
   - name: Right
