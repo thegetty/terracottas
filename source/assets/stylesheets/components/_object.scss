@@ -1,24 +1,25 @@
-.object-data {
-  visibility: hidden;
-}
+.object-data { visibility: hidden; }
 
 .object-header {
   @include transition($base-transition);
+
   @include media($medium-screen-up) {
-    padding: $base-spacing;
+    margin-bottom: $base-spacing;
+    margin-top: $base-spacing * 2;
   }
-  @include media($x-large-screen-up) {
-    //margin-top: $base-spacing * 2;
+
+  @include media($large-screen-up) {
     margin-bottom: $base-spacing * 2;
+    margin-top: $base-spacing * 2.5;
   }
 }
 
 .object-title {
+  font-size: 2rem;
   font-weight: 600;
+  padding: 0 $base-spacing;
   text-align: center;
-
-  @include media($medium-screen-up) {
-  }
+  @include media($large-screen-up) { font-size: 2.25rem; }
 }
 
 .object-info {
@@ -31,24 +32,30 @@
 }
 
 .object-meta {
-  font-weight: 400;
   color: lighten($base-font-color, 40%);
-  text-transform: uppercase;
+  font-size: 1.5rem;
+  font-weight: 400;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .object-content {
   @include transition($base-transition);
-  @include media($medium-screen-up) { padding: $base-spacing; }
-  @include media($large-screen-up) { padding: $base-spacing * 2; }
+  @include media($medium-screen-up) {
+    padding: $base-spacing / 2;
+  }
+
+  @include media($large-screen-up) {
+    padding: $base-spacing;
+    // padding-top: $base-spacing;
+  }
 }
 
 .object-content-section {
+  @extend %body-text;
   @include transition($base-transition);
   border-bottom: $base-border;
-  margin: 0 0 $base-spacing 0;
-
-  @extend %body-text;
+  margin: 0 0 $base-spacing;
 }
 
 .expander {

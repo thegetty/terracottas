@@ -5,9 +5,9 @@
     %article
       - object_data(current_item.cat)
       .object-header
-        %h2.object-meta.mt2= current_item.cat.to_s
-        %h1.object-title.mt1.mb3= current_page.data.title
-        %h3.object-meta.mt2.mb3= current_item.date
+        %h2.object-meta= current_item.cat.to_s
+        %h1.object-title= current_page.data.title
+        %h3.object-meta= current_item.date
       .object-content
         = partial(:object_details, :locals => { :current_item => current_item })
         - if current_page.data.fabric
