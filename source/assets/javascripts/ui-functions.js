@@ -68,7 +68,27 @@ function addPanelControls() {
   });
 
   $(".footnote").click(function (event) {
+    // Grab parent section of footnote target
     target = $(this).attr("href");
+    $section = $(jq(target)).closest(".expander-content");
+    // expand this section if not aready expanded
+    var options = {
+      duration: 100,
+      delay: 100,
+      complete: function () {
+        $section.removeClass("expander--hidden");
+        $(jq(target)).velocity("scroll", {
+          offset: "-60px",
+          container: $(".panel-right")
+        });
+      }
+    };
+
+    if (isHidden($section)) {
+      $section.velocity("transition.slideDownIn", options);
+    }
+
+    // animate scroll to target
     if ($(".panel-right").length >= 1) {
       $(jq(target)).velocity("scroll", {
         offset: "-60px",
@@ -79,7 +99,7 @@ function addPanelControls() {
         offset: "-60px"
       });
     }
-    event.preventDefault();
+    // event.preventDefault();
   });
 
   $(".reversefootnote").click(function (event) {
@@ -94,7 +114,7 @@ function addPanelControls() {
         offset: "-60px"
       });
     }
-    event.preventDefault();
+    // event.preventDefault();
   });
 
 
