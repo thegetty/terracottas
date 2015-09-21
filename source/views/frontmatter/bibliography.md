@@ -14,11 +14,11 @@ layout: reference
 
 - *<span class="smcaps">Acquisitions</span>* 1985
 
-  “Acquisitions/1985,” *GettyMusJ* 14 (1986).
+  “Acquisitions/1985,” [*GettyMusJ* 14](http://www.getty.edu/publications/virtuallibrary/0892360917.html) (1986).
 
 - *<span class="smcaps">Acquisitions</span>* 1986
 
-  “Acquisitions/1986,” *GettyMusJ* 15 (1987).
+  “Acquisitions/1986,” [*GettyMusJ* 15](http://www.getty.edu/publications/virtuallibrary/0892361336.html) (1987).
 
 - *<span class="smcaps">Acquisitions</span>* 1996–1998
 
@@ -473,8 +473,8 @@ layout: reference
 
 - <span class="smcaps">Grossman</span> 2001
 
-  Grossman, J. B. *Greek Funerary Sculpture: Catalogue of the Collections
-  at the Getty Villa.* Los Angeles, 2001.
+  Grossman, J. B. [*Greek Funerary Sculpture: Catalogue of the Collections
+  at the Getty Villa.*](http://www.getty.edu/publications/virtuallibrary/0892366125.html) Los Angeles, 2001.
 
 - <span class="smcaps">Herdejürgen</span> 1971
 
@@ -570,8 +570,8 @@ layout: reference
 
 - <span class="smcaps">Kingsley</span> 1976
 
-  Kingsley, B. M. *The Terracottas of the Tarantine Greeks: An
-  Introduction to the Collection in the J. Paul Getty Museum*. Malibu, J.
+  Kingsley, B. M. [*The Terracottas of the Tarantine Greeks: An
+  Introduction to the Collection in the J. Paul Getty Museum*](http://www.getty.edu/publications/virtuallibrary/0892360178.html). Malibu, J.
   Paul Getty Museum, 1976.
 
 - <span class="smcaps">Kingsley</span> 1977
@@ -582,7 +582,7 @@ layout: reference
 - <span class="smcaps">kingsley 1981</span>
 
   Kingsley, B. M. “Coroplastic Workshops at Taras: Marked Moulds of the
-  Late Classical Period,” *The J. Paul Getty Museum Journal* 9 (1981), pp.
+  Late Classical Period,” [*GettyMusJ* 9](http://www.getty.edu/publications/virtuallibrary/0892360321.html) (1981), pp.
   41–52.
 
 - <span class="smcaps">Knoepfler</span> 1992
@@ -914,8 +914,8 @@ layout: reference
 - *<span class="smcaps">Passion for Antiquities</span>*
   1994
 
-  *A Passion for Antiquities: Ancient Art from the Collection of Barbara
-  and Lawrence Fleischman*. Exh. cat. Malibu, J. Paul Getty Museum, 1994.
+  [*A Passion for Antiquities: Ancient Art from the Collection of Barbara
+  and Lawrence Fleischman*](http://www.getty.edu/publications/virtuallibrary/0892362235.html). Exh. cat. Malibu, J. Paul Getty Museum, 1994.
 
 - <span class="smcaps">Pautasso</span> 2007
 
@@ -1079,8 +1079,8 @@ layout: reference
 
 - <span class="smcaps">Salapata</span> 2001
 
-  Salapata, G. “Triphiletos Adonis: An Exceptional Pair of Terracotta
-  Arulae from South Italy,” *Studia Varia from the J. Paul Getty Museum* 2
+  Salapata, G. “&Tau;&rho;&iota;&phi;&iota;&lambda;&eta;&tau;&omicron;&sigmaf; &Alpha;&delta;&omega;&nu;&iota;&sigmaf;: An Exceptional Pair of Terracotta
+  Arulae from South Italy,” [*Studia Varia from the J. Paul Getty Museum* 2](http://www.getty.edu/publications/virtuallibrary/0892366346.html)
   (2001), pp. 25–50.
 
 - <span class="smcaps">*Santuari della Magna Grecia in
@@ -1150,7 +1150,7 @@ layout: reference
 - <span class="smcaps">Smithers 1993</span>
 
   Smithers, S. “Images of Piety and Hope: Select Terracotta Votives from
-  West-Central Italy,” *Studia Varia from the J. Paul Getty Museum* 1
+  West-Central Italy,” [*Studia Varia from the J. Paul Getty Museum* 1](http://www.getty.edu/publications/virtuallibrary/0892362030.html)
   (1993), pp. 13–32.
 
 - <span class="smcaps">Sourvinou-Inwood</span> 1978
@@ -1217,7 +1217,7 @@ layout: reference
 
 - <span class="smcaps">Tusa</span> 1984
 
-  Tusa, V*. La scultura in pietra di Selinunte*. Palermo, 1984.
+  Tusa, V. *La scultura in pietra di Selinunte*. Palermo, 1984.
 
 - <span class="smcaps">Uhlenbrock</span> 1990
 
@@ -1229,9 +1229,9 @@ layout: reference
   1985</span>
 
   Van der Wielen-van Ommeren, F. "Polychrome Vases and Terracottas from
-  Southern Italy in the J. Paul Getty Museum*," Greek Vases in the J. Paul
-  Getty Museum* *2. Occasional Papers on Antiquities* 3 (1985), pp.
-  171*–*82.
+  Southern Italy in the J. Paul Getty Museum," [*Greek Vases in the J. Paul
+  Getty Museum* 2. *Occasional Papers on Antiquities* 3](http://www.getty.edu/publications/virtuallibrary/0892360704.html) (1985), pp.
+  171–82.
 
 - <span class="smcaps">Walters 1903</span>
 
