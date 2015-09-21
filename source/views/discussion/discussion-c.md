@@ -164,7 +164,7 @@ nos. 43–46.
 
 <br />
 
-### Notes
+#### Notes
 
 [^1]: For the technical working of the statue and the hypothetical use
     of bivalve molds, see <span class="smcaps">Jeammet

@@ -584,7 +584,7 @@ class="smcaps">Getty</span> 2015, p. 26.
 
 <br />
 
-### Notes
+#### Notes
 
 [^1]: See the report by the Antiquities Conservation Department in the
     appendix to this entry. Detached curls and other fragmentary
