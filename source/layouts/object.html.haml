@@ -16,7 +16,7 @@
             %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
               %h3.pb1.mt1 Fabric
             .expander-content
-              = markdown(current_page.data.fabric.capitalize)
+              = markdown(current_page.data.fabric)
         - if current_page.data.condition
           -# Condition
           .object-content-section.expander
@@ -45,8 +45,10 @@
           .expander-content
             = yield
         / Discussion
-        .object-content-section.expander
-          %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
-            %h3.pb1.mt1 Discussion
-          .expander-content
-            = discussion_text(current_item.cat)
+        - unless find_discussion(current_item.cat).nil?
+          - essay = discussion_text(current_item.cat)
+          .object-content-section.expander
+            %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
+              %h3.pb1.mt1= essay[:title]
+            .expander-content
+              = essay[:text]
