@@ -76,7 +76,7 @@ connections to materials of more certain archaeological contexts.[^3]
 
 <br />
 
-### Notes
+#### Notes
 
 [^1]: The manuscript was mostly completed in 2008 in a new context of
     cultural and scientific collaboration between the J. Paul Getty

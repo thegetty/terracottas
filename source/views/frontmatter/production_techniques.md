@@ -99,7 +99,7 @@ details with careful tool work during the retouching phase.[^6]
 
 <br />
 
-### Notes
+#### Notes
 
 [^1]: The use of these terms is not necessarily consistent in the
     literature on the subject, inasmuch as they imply varying degrees of

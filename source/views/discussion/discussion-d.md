@@ -36,7 +36,7 @@ Daunia are now found in many major museum collections and frequently
 appear on the antiquities market, often in pairs and groups of four, as
 they must have originally been found in their source contexts.[^5]
 
-### Notes
+#### Notes
 
 [^1]: M. Mazzei, *Arpi: L’ipogeo della Medusa e la necropoli* (Arpi,
     1995), pp. 140–41, nos. 142–48, and pp. 261–70, with bibliography.

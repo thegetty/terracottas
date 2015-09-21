@@ -347,7 +347,7 @@ front.
 
 <br />
 
-### Notes
+#### Notes
 
 [^1]: The history of the Hirsch-Virzì collection, with specific
     reference to material from Medma, now in the collection of the Basel

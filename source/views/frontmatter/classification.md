@@ -52,7 +52,7 @@ analogies.[^2]
 
 <br />
 
-### Notes
+#### Notes
 
 [^1]: *Munsell Soil Color Charts*, rev. ed. (New York, 1992). For
     concerns that have been raised about the use of color charts, see N.
