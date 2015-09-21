@@ -975,7 +975,8 @@
   dimensions:
   - desc: |-
       H: 28.8 cm; W: 19.1 cm
-    Diam: (polos) 12.2 cm
+  - desc: |-
+      Diam: (polos) 12.2 cm
   pixel_width: 3840
   pixel_height: 4608
   max_zoom: 5
@@ -995,7 +996,7 @@
     number: 5 yr 7/6
   dimensions:
   - desc: |-
-      H: 26.4 cm; W: 35.5 cm; D: 8.4-9.0
+      H: 26.4 cm; W: 35.5 cm; D: 8.4-9.0 cm
   pixel_width: 7168
   pixel_height: 5120
   max_zoom: 5
