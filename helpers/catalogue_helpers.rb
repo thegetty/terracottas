@@ -17,21 +17,28 @@ module CatalogueHelpers
     data.terracottas.select { |item| item[key] == value }
   end
 
-  def discussion_text(id)
+  def find_discussion(id)
     case id
     when 1..3
-      essay = sitemap.find_resource_by_path("discussion/discussion-a.html")
+      path = "discussion/discussion-a.html"
     when 4..23
-      essay = sitemap.find_resource_by_path("discussion/discussion-b.html")
+      path = "discussion/discussion-b.html"
     when 38..41
-      essay = sitemap.find_resource_by_path("discussion/discussion-c.html")
+      path = "discussion/discussion-c.html"
     when 45..46
-      essay = sitemap.find_resource_by_path("discussion/discussion-d.html")
+      path = "discussion/discussion-d.html"
     else
-      puts "No Discussion Found"
+      return nil
     end
-    return false if essay.nil?
-    html = essay.render(:layout => false)
-    html.gsub("fn:", "fn-discussion:").gsub("fnref:", "fnref-discussion:")
+  end
+
+  def discussion_text(id)
+    path = find_discussion(id)
+    {
+      :title => sitemap.find_resource_by_path(path).metadata[:page]["title"],
+      :text  => sitemap.find_resource_by_path(path).render(:layout => false)
+        .gsub("fn:", "fn-discussion:")
+        .gsub("fnref:", "fnref-discussion:")
+    }
   end
 end
