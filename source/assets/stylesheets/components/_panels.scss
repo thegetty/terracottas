@@ -1,52 +1,42 @@
+.panel-container {
+  @include display(flex);
+  @include media($small-screen) { @include flex-direction(column); }
+}
+
 // Panel Base
 // =============================================
 .panel {
   @include transition($base-transition);
-  position: relative;
-
-  @include media($small-screen) { width: 100%; }
   @include media($medium-screen-up) {
-    float: left;
+    @include flex(0 0 50%);
     height: 100vh;
     overflow: auto;
     -webkit-overflow-scrolling: touch;
-    width: 50%;
   }
-}
-
-// Animate transitions on all children
-// .panel > * { @include transition($base-transition); }
-
-// Panel States (--expand, --collapse)
-// =============================================
-.panel--expand { width: 100%;}
-
-.panel--collapse {
-  @include transform(translateX(-50vw));
-  width: 0%;
-  //height: 0;
 }
 
 // Left panel (image/map panel)
 // =============================================
 .panel-left {
-  background-color: #333;
-  overflow: hidden;
-
   @include media($small-screen) {
-    margin-top: 60px;
+    &.panel--expand { #map { height: 100vh; } }
   }
 
-  &.panel--expand {
-    z-index: 1400;
-  }
+  background-color: $dark-gray;
+  overflow: hidden;
+  &.panel--expand { @include flex(0 0 100%); }
 }
 
 // Mapbox map needs to have height applied
 #map {
-  background-color: #555;
-  height: 50vh;
-  @include media($medium-screen-up) { height: 100vh; }
+  background-color: $dark-gray;
+  height: 500px;
+  margin-top: 60px;
+
+  @include media($medium-screen-up) {
+    height: 100vh;
+    margin-top: 0;
+  }
 }
 
 // Right panel (text panel)
@@ -54,31 +44,13 @@
 .panel-right {
   background-color: $base-background-color;
 
-  &.panel--expand {
-    .panel-header { width: 100%; }
-    .panel-inner { max-width: 1400px; margin: 0 auto; }
-  }
-
-  // Push away from center of page when collapsing, so override
-  &.panel--collapse {
-    @include transform(translateX(50vw));
-    width: 0%;
-
-    &.page-header * {
-      @include transform(translateX(-50vw));
-      width: 0%;
-    }
-  }
-
   .panel-inner {
-    padding: $base-spacing;
-    padding-top: 3rem;
-    @include media($large-screen-up) {
-      max-width: 700px;
-      margin: 0 auto;
-    }
-    @include media($x-large-screen-up) {
-      max-width: 850px;
+    padding: 2rem;
+    @include media($medium-screen-up) {
+      margin-top: 3rem;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 650px;
     }
   }
 }

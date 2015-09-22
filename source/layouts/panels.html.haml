@@ -1,14 +1,15 @@
 = wrap_layout :application do
   - catalogue = data.terracottas
   - current_item = catalogue.find { |item| item[:cat] == current_page.data.cat }
-  / Left Panel
-  .panel.panel-left
-    .panel-inner
-      - if current_page.data.cat
-        #map{ :data => { :catalogue => current_item.cat.to_s } }
-      - else
-        #map
-  / Right Panel
-  .panel.panel-right
-    .panel-inner
-      = yield
+  .panel-container
+    / Left Panel
+    .panel.panel-left
+      .panel-inner
+        - if current_page.data.cat
+          #map{ :data => { :catalogue => current_item.cat.to_s } }
+        - else
+          #map
+    / Right Panel
+    .panel.panel-right
+      .panel-inner
+        = yield
