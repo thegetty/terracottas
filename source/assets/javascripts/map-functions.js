@@ -98,7 +98,7 @@ function initDeepZoom(options) {
   }
 
   // Add map controls
-  L.control.layers(baseMaps).addTo(map).setPosition("bottomleft");
+  L.control.layers(baseMaps).addTo(map).setPosition("topright");
   L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle).addTo(map);
   return map;
 }
