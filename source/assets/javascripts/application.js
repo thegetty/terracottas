@@ -112,5 +112,7 @@ $(document).ready(function() {
         searchSetup(index, contents);
       }
     });
+    // end Smoothstate section
   });
+  // end Callback
 });
