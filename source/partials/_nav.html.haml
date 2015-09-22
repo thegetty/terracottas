@@ -3,13 +3,14 @@
 %ul.toc
   %li
     %h3.toc-title.mb1
-      =link_to data.contents.short_title || data.contents.title, "#{site_url}/"
+      =link_to data.nav.short_title || data.nav.title, "#{site_url}/"
     %h4.toc-entry-author.mb3= data.contents.author
-  - data.contents.contents.each do |item|
+  - data.nav.contents.each do |item|
     %li.toc-entry{:class => item.section? && "toc-section"}
       - if item.section?
-        %h3
-          = link_to item.title, "#{site_url}#{item.link}/"
+        - if item.title?
+          %h3
+            = link_to item.title, "#{site_url}#{item.link}/"
       - else
         = link_to item.title, "#{site_url}#{item.link}/"
       - if item.author?

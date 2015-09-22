@@ -15,22 +15,27 @@
 }
 
 .toc-section {
-  // border-top: solid 1px transparentize($inverse-color, 0.5);
+  border-bottom: solid 3px transparentize($inverse-color, 0.85);
   margin-bottom: 1rem;
   margin-top: 1rem;
-  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .toc-subsection {
+  border-bottom: solid 3px transparentize($inverse-color, 0.85);
   border-top: solid 3px transparentize($inverse-color, 0.85);
   margin-bottom: 0.5rem;
   margin-top: 1rem;
   padding-top: 1rem;
 
-  &:last-of-type {
-    border-bottom: solid 3px transparentize($inverse-color, 0.85);
-    margin-bottom: 2rem;
+  &:first-of-type {
+    border-bottom: none;
   }
+
+  &:last-of-type {
+    border-top: none;
+  }
+
 }
 
 .toc-entry-author { display: block; }
