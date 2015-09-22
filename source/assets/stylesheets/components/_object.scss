@@ -41,14 +41,7 @@
 
 .object-content {
   @include transition($base-transition);
-  @include media($medium-screen-up) {
-    padding: $base-spacing / 2;
-  }
-
-  @include media($large-screen-up) {
-    padding: $base-spacing;
-    // padding-top: $base-spacing;
-  }
+  @include media($large-screen-up) { padding: $base-spacing; }
 }
 
 .object-content-section {

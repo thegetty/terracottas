@@ -36,8 +36,10 @@ function rightPanelToggle () {
 function leftPanelToggle() {
   var left = $(".panel-left");
   var right = $(".panel-right");
+  var header = $(".page-header");
   left.toggleClass("panel--expand");
   right.toggleClass("panel--collapse");
+  header.toggleClass("panel--collapse");
 }
 
 // -----------------------------------------------------------------------------
