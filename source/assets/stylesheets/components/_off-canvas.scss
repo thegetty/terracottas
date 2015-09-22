@@ -37,7 +37,7 @@ $nav-font:        $heading-font-family;
 
   &.visible {
     @include transform(translateX(0));
-    box-shadow: -3px 0px 6px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: -3px 0 6px 0 rgba(0, 0, 0, 0.3);
     overflow: auto;
     -webkit-overflow-scrolling: touch;
 
@@ -80,8 +80,8 @@ $nav-font:        $heading-font-family;
 
 .menu-close-trigger {
   cursor: pointer;
-  opacity: 0;
   font-size: 2.125rem;
+  opacity: 0;
   position: absolute;
   right: 0;
   top: 0;
