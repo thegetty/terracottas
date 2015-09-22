@@ -39,12 +39,12 @@ This type of altar is not especially widespread but is attested in Magna
 Graecia and in Sicily. It could have been used for small votive
 offerings or, as is likely here, to burn perfumes and incense.[^4]
 
-On [cat. 47](47), three female figures, depicted with their faces in profile
+On [cat. 47](../47), three female figures, depicted with their faces in profile
 and their bodies in three-quarter view, walk rapidly to the right over
 rocky ground; the terrain is rendered by protuberances defined through
 light incisions. The hands of the outer women clasp the other about her
 shoulders as they move in apparent procession toward the group depicted
-on [cat. 48](48). Each figure, characterized by a rapt expression, is wearing
+on [cat. 48](../48). Each figure, characterized by a rapt expression, is wearing
 a *peplos* that shows the form of the body beneath in a fluid interplay
 of folds that are ruffled at the ends. The woman in the middle has a
 *sakkos* on her head and she carries an eleven-part sistrum (percussion
@@ -53,7 +53,7 @@ a tympanon (drum) with her left hand.[^5] The hair of the flanking
 figures is short and curly, and they all wear hoop earrings with
 pendants.[^6]
 
-On [cat. 48](48), a male with a youthful and effeminate appearance, turned in
+On [cat. 48](../48), a male with a youthful and effeminate appearance, turned in
 a three-quarter view, is seated on a rock with his legs crossed. A
 himation is wrapped around the legs and, leaving the torso uncovered,
 covers his head like a veil with a ruffled edge. The long curly hair is
@@ -72,7 +72,7 @@ the woman on the left, shown standing behind the rocky platform, turns
 toward the couple; her left hand touches her head in a gesture of grief,
 while her right arm drops along the side of her body, her right hand
 holding a tympanon. She has the same hairstyle as two of the figures on
-[cat. 47](47), but she wears a veil with a ruffled edge that drapes over her
+[cat. 47](../47), but she wears a veil with a ruffled edge that drapes over her
 shoulders; her left breast is uncovered. In the foreground at right is a
 female figure shown in profile, seated upon a *cista* with side
 openings. Grasping her right knee with both hands, her head is bowed and
@@ -115,7 +115,7 @@ the public cult of Aphrodite was supplanted in the fourth century <span
 class="smcaps">BC</span> by the cult of Adonis.[^16]
 
 On the Getty altars, according to this hypothesis, the male figure in
-[cat. 48](48) rendered with a hint of languid sensuality is Adonis. He is
+[cat. 48](../48) rendered with a hint of languid sensuality is Adonis. He is
 shown embracing Aphrodite, in keeping with the scheme of the *hieros
 gamos* (marriage between deities)*,* in an epiphanic projection intended
 as the hypostasis of the nuptial union, though his veiled head and the
@@ -161,7 +161,7 @@ progression of events, offered a customary scheme in Greek mythology
 that was easily adaptable to situations and elements in Greek
 culture.[^22]
 
-On the left side of [cat. 48](48), the female figure, along with the rock
+On the left side of [cat. 48](../48), the female figure, along with the rock
 motif, might constitute the visual link between the two altars. Having
 already come into the presence of the divine couple as the three other
 figures continue to hasten forward, this figure manifests profound
@@ -185,14 +185,14 @@ violent gesticulations, at times with manifestations of giddy
 rejoicing.[^26]
 
 The character next to the divine couple, quite similar to the first
-moving figure on [cat. 47](47), might therefore be a female worshiper of
+moving figure on [cat. 47](../47), might therefore be a female worshiper of
 Adonis witnessing the sacred wedding, a tragic prelude to the young
 god’s death, and bemoaning with intense mimetic force his sad fate,
 which is underscored by the dramatic opposition between life and death.
 
-The three women on [cat. 47](47), who are moving rapidly to the right, are
+The three women on [cat. 47](../47), who are moving rapidly to the right, are
 characterized as a unified group and seem to be taking direct part in
-the event depicted on [cat. 48](48), integrating themselves and converging
+the event depicted on [cat. 48](../48), integrating themselves and converging
 ideally toward it with a tightly coordinated rhythmic concatenation.
 Together, the scenes depicted on the two altars seem to constitute a
 sacred representation of events, compressed spatially and temporally in
@@ -204,7 +204,7 @@ which the figures stand and sit, and the musical instruments that they
 carry, such as the tympanon and sistrum, suggest the context of the
 *adonia,* understood as a collective female celebration within which
 orgiastic music, dance, and banqueting must have constituted essential
-components. The female figures of [cat. 47](47) constitute a *choros* and,
+components. The female figures of [cat. 47](../47) constitute a *choros* and,
 leaning on one another with their arms around each other’s shoulders,
 they seem to proceed in a rhythmic step, evoking a ritual dance with a
 strong eschatological valence.[^28]
@@ -502,7 +502,7 @@ an Athenian presence.
     class="smcaps">Rallo</span> 1974, pls. I, no. 1,
     pl. II, nos. 1–2. Hermes is depicted in the same pose on a
     red-figured kylix: see T. Dohrn, “Gefaltete und verschränkte Hände,”
-    *JdI* 70 (1955), pp. 50–80. The seated figure on [cat. 48](48) has also
+    *JdI* 70 (1955), pp. 50–80. The seated figure on [cat. 48](../48) has also
     been identified as an attendant of Aphrodite, perhaps Peitho, the
     embodiment of erotic persuasion, who has carried the bridal chest
     for the wedding: see <span
