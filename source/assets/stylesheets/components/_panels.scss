@@ -52,5 +52,9 @@
       margin-right: auto;
       max-width: 650px;
     }
+    @include media($x-large-screen-up) {
+      max-width: 800px;
+      padding: 3rem;
+    }
   }
 }
