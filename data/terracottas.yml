@@ -386,7 +386,6 @@
   dimensions:
   - desc: |-
       H: 17.4 cm; W: 9.2 cm
-  dimensions:
   - desc: |-
       H (Face): 9.3 cm
   pixel_width: 4352
@@ -743,7 +742,6 @@
   dimensions:
   - desc: |-
       H: 95.6 cm; W: 31.9 cm
-  dimensions:
   - desc: |-
       H (Face): 11.6 cm
   - desc: |-
