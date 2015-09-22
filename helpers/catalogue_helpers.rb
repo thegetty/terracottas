@@ -27,6 +27,8 @@ module CatalogueHelpers
       path = "discussion/discussion-c.html"
     when 45..46
       path = "discussion/discussion-d.html"
+    when 47..48
+      path = "discussion/discussion-e.html"
     else
       return nil
     end

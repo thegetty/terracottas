@@ -1,8 +1,9 @@
 ---
 title: Statuettes of a Seated Eros
-group: Statuettes of a Seated Eros
 objects: 45-46
 ---
+#### Statuettes of a Seated Eros
+
 These musician Erotes must originally have been mounted on animals:
 beneath the buttocks, there are no traces of slip or polychromy. The
 typology is reminiscent of Daunian examples from Canosa in the third

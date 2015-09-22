@@ -39,16 +39,17 @@
             .expander-content
               = markdown(current_page.data.bibliography)
         / Description
-        .object-content-section.expander
-          %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
-            %h3.pb1.mt1 Description
-          .expander-content
-            = yield
+        - unless current_page.data.cat == 47 || current_page.data.cat == 48
+          .object-content-section.expander
+            %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
+              %h3.pb1.mt1 Description
+            .expander-content
+              = yield
         / Discussion
         - unless find_discussion(current_item.cat).nil?
           - essay = discussion_text(current_item.cat)
           .object-content-section.expander
             %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
-              %h3.pb1.mt1= essay[:title]
+              %h3.pb1.mt1 Group Discussion
             .expander-content
               = essay[:text]
