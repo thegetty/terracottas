@@ -70,50 +70,36 @@ function initMap() {
 function initDeepZoom(options) {
   var mapMinZoom = (options.maxZoom - 3);
   var mapMaxZoom = options.maxZoom;
+  var baseMaps   = {};
+
+  options.views.forEach(function(view){
+    baseMaps[view.name + "view"] = L.tileLayer(
+      'http://gettypubs.github.io/maptiles/' + view.path + '/{z}/{x}/{y}.png',
+      {
+        continuousWorld: false 
+      });
+  });
 
   var map = L.map('map', {
     maxZoom: mapMaxZoom,
     minZoom: mapMinZoom,
     crs: L.CRS.Simple,
-    attributionControl: false
+    attributionControl: false,
+    layers: baseMaps.Mainview
   }).setView([0, 0], mapMaxZoom);
 
   var mapBounds = new L.LatLngBounds(
     map.unproject([0, options.pixelHeight], mapMaxZoom),
     map.unproject([options.pixelWidth, 0], mapMaxZoom)
   );
+
   map.fitBounds(mapBounds);
-
-  // Add default layer to map
-  L.tileLayer(CONFIG.imageTileURL +
-    "terracottas/" + options.catNum +
-    "/main/{z}/{x}/{y}.png", { noWrap: true }).addTo(map);
-
-  // Set up alternate view layers
-  var baseMaps = {};
-  for (var i = 0; i < options.views.length; i++) {
-    var layerName = options.views[i].name + " view";
-    var layerPath = options.views[i].path;
-    baseMaps[layerName] = createTileLayer(layerPath);
-  }
+  console.log(baseMaps);
 
   // Add map controls
   L.control.layers(baseMaps).addTo(map).setPosition("topright");
   L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle).addTo(map);
   return map;
-}
-
-// -----------------------------------------------------------------------------
-// createTileLayer (path)
-//
-// Returns a Leaflet tileLayer object pointing at the path provided, w/default options.
-
-function createTileLayer(path) {
-  return L.tileLayer(
-    'http://gettypubs.github.io/maptiles/' + path + '/{z}/{x}/{y}.png', {
-      noWrap: true,
-      attributionControl: false
-  });
 }
 
 // -----------------------------------------------------------------------------
