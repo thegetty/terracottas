@@ -23,6 +23,9 @@
     @include transform(translateX(50vw));
     width: 0%;
   }
+  &.panel--expand {
+    width: 100%;
+  }
 }
 
 // Make header transparent on cover page

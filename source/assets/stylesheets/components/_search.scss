@@ -1,19 +1,14 @@
 $search-bg: darken($base-background-color, 10%);
 $search-text-color: $base-font-color;
 
-
 // Do not display search box unless search is active
-.search-input {
-  display: none;
-}
-
+.search-input { display: none; }
 .search-close {
   cursor: pointer;
   font-size: 1.5rem;
   position: absolute;
-  top: 11px;
   right: 15px;
-
+  top: 11px;
 }
 
 // When search input is active, do the following:
@@ -22,9 +17,7 @@ $search-text-color: $base-font-color;
   color: $search-text-color;
 
   .page-header-center,
-  .page-header-right {
-    display: none;
-  }
+  .page-header-right { display: none; }
 
   .search-input {
     color: $search-text-color;
@@ -62,19 +55,19 @@ $search-text-color: $base-font-color;
 
 .search-results {
   @include transition($base-transition);
+  @include transform(translateY(-100vh));
+  display: table;
+  height: 100vh;
   opacity: 0;
-  display: none;
-
+  overflow: auto;
+  padding: 2rem;
+  position: fixed;
+  top: 60px;
+  width: 100%;
 
   &.search-active {
-    display: block;
-    height: 100vh;
+    @include transform(translateY(0));
     opacity: 1;
-    overflow: auto;
-    padding: 2rem;
-    position: fixed;
-    top: 60px;
-    width: 100%;
     z-index: 1200;
   }
 }
@@ -86,7 +79,5 @@ $search-text-color: $base-font-color;
   margin-bottom: 1rem;
   padding-bottom: 0.75rem;
 
-  a {
-    font-size: 1.25rem;
-  }
+  a { font-size: 1.25rem; }
 }

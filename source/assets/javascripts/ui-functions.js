@@ -28,8 +28,10 @@ function offCanvasSetup(){
 function rightPanelToggle () {
   var left = $(".panel-left");
   var right = $(".panel-right");
+  var header = $(".page-header");
   left.toggleClass("panel--collapse");
   right.toggleClass("panel--expand");
+  header.toggleClass("panel--expand");
 }
 
 // -----------------------------------------------------------------------------
