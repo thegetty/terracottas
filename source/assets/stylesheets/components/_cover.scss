@@ -5,62 +5,93 @@
 // .cover-inner     - Starts half-way down cover, contains transparent overlay
 // .cover-title     - Sits on top of cover-overlay for legibility; centered
 // .cover-subtitle  - Same as above
+// .cover-author    - same as above
 // .cover-content   - White background, sits below cover image region
 // .centered        - single text column inside .cover-content; centered
 
 .cover {
-  @include display(flex);
-  @include justify-content(center);
-  @include flex-wrap(wrap);
   background-color: $dark-gray;
-  background-image: url(image-path("large/86.AD.681.jpg"));
-  background-position: center 40%;
+  background-image: url(image-path("86.AD.681.detail_1.jpg"));
+  background-position: center center;
+  background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  height: 60vh;
+
+  @include media($medium-screen-up) {
+    background-image: url(image-path("86.AD.681.detail_2.jpg"));
+    height: 100vh;
+  }
+
+  @include media($large-screen-up) {
+    background-image: url(image-path("large/86.AD.681.jpg"));
+  }
 }
 
 .cover-inner {
-  @include align-self(flex-end);
   @include background-image(linear-gradient(
     hsla(0, 0%, 0%, 0) 0%,
-    hsla(0, 0%, 0%, 0.5) 100%));
-
+    hsla(0, 0%, 0%, 0.75) 100%));
+  background-image: -moz-linear-gradient(
+    transparent 0%,
+    rgba(0, 0, 0, 0.75) 100%);
   color: $inverse-color;
-  height: 550px;
-  padding-top: 2rem;
+  padding: 1rem;
+  position: static;
   text-align: center;
   width: 100%;
 
   @include media($small-screen) {
-    height: 50vh;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    background-color: $action-color;
+    padding: 1.5rem;
+  }
+
+  @include media($medium-screen-up) {
+    @include background-image(linear-gradient(
+      hsla(0, 0%, 0%, 0) 0%,
+      hsla(0, 0%, 0%, 0.85) 100%));
+    background-image: -moz-linear-gradient(
+      transparent 0%,
+      rgba(0, 0, 0, 0.85) 100%);
+    height: 45vh;
+    padding: 0 3rem;
+    position: absolute;
+    top: 55vh;
   }
 
   a { @extend %inverse-link; }
 }
 
 .cover-title {
-  font-size: 2.75rem;
+  font-size: 1.75rem;
   line-height: 1;
+  margin-bottom: 1rem;
   text-align: center;
   text-shadow: 2px 2px 4px rgba(51, 51, 51, 0.5);
+  @include media($medium-screen-up) { font-size: 3rem; }
 
   @include media ($large-screen-up) {
-    font-size: 4rem;
+    font-size: 3.75rem;
     margin: 1.5rem auto;
     max-width: 75%;
   }
 }
 
 .cover-subtitle {
-  font-size: 2rem;
+  font-size: 1.25rem;
   font-weight: 300;
   letter-spacing: 2px;
-  margin-bottom: 2rem;
   text-transform: uppercase;
+  @include media($medium-screen-up) { font-size: 2rem; }
+}
+
+.cover-author {
+  font-size: 1rem;
+  @include media($medium-screen-up) { font-size: 1.5rem; }
 }
 
 .cover-content {
+  margin: 1rem auto;
+  @include media($large-screen-up) { margin: 2rem auto; }
+
   .centered { text-align: center; }
 }
