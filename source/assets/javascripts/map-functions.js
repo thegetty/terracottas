@@ -30,7 +30,6 @@ function deepZoomSetup() {
     catNum:      $(".object-data").data("catalogue"),
     pixelWidth:  $(".object-data").data("dimensions-width"),
     pixelHeight: $(".object-data").data("dimensions-height"),
-    maxZoom:     $(".object-data").data("dimensions-max-zoom"),
     views:       $(".object-data").data("views").layers
   };
 
@@ -68,9 +67,11 @@ function initMap() {
 // Returns a Leaflet map object.
 
 function initDeepZoom(options) {
-  var mapMinZoom = (options.maxZoom - 3);
-  var mapMaxZoom = options.maxZoom;
+  var mapMinZoom = 2;
+  var mapMaxZoom = 5;
   var baseMaps   = {};
+
+  console.log(options);
 
   var map = L.map('map', {
     maxZoom: mapMaxZoom,
@@ -86,9 +87,18 @@ function initDeepZoom(options) {
   map.fitBounds(mapBounds);
 
   options.views.forEach(function(view){
-    baseMaps[view.name + " view"] = L.tileLayer(
-      'http://gettypubs.github.io/maptiles/' + view.path + '/{z}/{x}/{y}.png',
-      { bounds: mapBounds });
+    var layerName   = view.name;
+    var layerPath   = view.path;
+    var layerWidth  = view.pixel_width;
+    var layerHeight = view.pixel_height;
+    var layerBounds = new L.LatLngBounds(
+      map.unproject([0, layerHeight], mapMaxZoom),
+      map.unproject([layerWidth, 0], mapMaxZoom)
+    );
+
+    baseMaps[layerName + " view"] = L.tileLayer(
+      'http://gettypubs.github.io/maptiles/' + layerPath + '/{z}/{x}/{y}.png',
+      { bounds: layerBounds });
   });
 
   // Add map controls
