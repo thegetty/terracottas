@@ -20,6 +20,9 @@
       Footstool rest, flat slab:
       H: 3 cm; W: 44.9 cm; D: 34.1 cm
   featured: true
+  pixel_width: 6656
+  pixel_height: 8192
+  max_zoom: 5
 
 - cat: 2
   acc: 76.AD.11.2
@@ -37,6 +40,8 @@
       H: 140 cm; W: 35.8 cm; D: 55.2 cm
   - desc: |-
       L (from center of belly to tail): L: 49.1 cm
+  pixel_width: 7168
+  pixel_height: 8704
   max_zoom: 6
 
 - cat: 3
@@ -55,6 +60,9 @@
       H: 140 cm; W: 48 cm; D: 68 cm
   - desc: |-
       L (from center of belly to tail): 56.2 cm
+  pixel_width: 4352
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 4
   acc: 82.AD.93.12
@@ -72,6 +80,9 @@
       H: 13.5 cm; W: 13.8 cm
   - desc: |-
       H (face): 10.4 cm
+  pixel_width: 4608
+  pixel_height: 4864
+  max_zoom: 5
 
 - cat: 5
   acc: 82.AD.93.13
@@ -89,6 +100,9 @@
       H: 17.1 cm; W: 14.3 cm
   - desc: |-
       H (Face): 11.3 cm
+  pixel_width: 5376
+  pixel_height: 5632
+  max_zoom: 5
 
 - cat: 6
   acc: 82.AD.93.18
@@ -106,6 +120,9 @@
       H: 13.1 cm; W: 9.1 cm
   - desc: |-
       H (Face): 8.2 cm
+  pixel_width: 4352
+  pixel_height: 4864
+  max_zoom: 5
 
 - cat: 7
   acc: 82.AD.93.11
@@ -123,6 +140,9 @@
       H: 20.3 cm; W: 13.9 cm
   - desc: |-
       H (Face): 12.2 cm
+  pixel_width: 5888
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 8
   acc: 82.AD.93.9
@@ -140,6 +160,9 @@
       H: 17.2 cm; W: 14.5 cm
   - desc: |-
       H (Face): 10.3 cm
+  pixel_width: 4864
+  pixel_height: 5888
+  max_zoom: 5
 
 - cat: 9
   acc: 82.AD.93.3
@@ -157,6 +180,9 @@
       H: 17.8 cm; W: 14.1 cm
   - desc: |-
       H (Face): 11.1 cm
+  pixel_width: 4864
+  pixel_height: 5632
+  max_zoom: 5
 
 - cat: 10
   acc: 82.AD.93.2
@@ -172,6 +198,9 @@
   dimensions:
   - desc: |-
       H: 23.5 cm; W: 17.2 cm
+  pixel_width: 5888
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 11
   acc: 82.AD.93.7
@@ -189,6 +218,9 @@
       H: 17.3 cm; W: 12.3 cm
   - desc: |-
       H (Face): 8.9 cm
+  pixel_width: 5888
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 12
   acc: 82.AD.93.8
@@ -208,6 +240,9 @@
       H: 14.4 cm; W: 11.5 cm
   - desc: |-
       H (Face): 10.2 cm
+  pixel_width: 4352
+  pixel_height: 4864
+  max_zoom: 5
 
 - cat: 13
   acc: 82.AD.93.16
@@ -225,6 +260,9 @@
       H: 16.5 cm; W: 12.6 cm
   - desc: |-
       H (Face): 11.7 cm
+  pixel_width: 4864
+  pixel_height: 5632
+  max_zoom: 5
 
 - cat: 14
   acc: 82.AD.93.14
@@ -242,6 +280,9 @@
       H: 12 cm; W: 10.3 cm
   - desc: |-
       H (Face): 8 cm
+  pixel_width: 4864
+  pixel_height: 5376
+  max_zoom: 5
 
 - cat: 15
   acc: 82.AD.93.4
@@ -259,6 +300,9 @@
       H: 16.9 cm; W: 13.2 cm
   - desc: |-
       H (Face): 9.4 cm
+  pixel_width: 5888
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 16
   acc: 82.AD.93.5
@@ -277,6 +321,9 @@
   dimensions:
   - desc: |-
       H (Face): 7 cm
+  pixel_width: 4352
+  pixel_height: 5120
+  max_zoom: 5
 
 - cat: 17
   acc: 82.AD.93.10
@@ -295,6 +342,9 @@
   dimensions:
   - desc: |-
       H (Face): 9.4 cm
+  pixel_width: 5120
+  pixel_height: 5632
+  max_zoom: 5
 
 - cat: 18
   acc: 82.AD.93.17
@@ -315,6 +365,9 @@
   dimensions:
   - desc: |-
       H (Face): 11.3 cm
+  pixel_width: 5120
+  pixel_height: 5888
+  max_zoom: 5
 
 - cat: 19
   acc: 82.AD.93.6
@@ -335,6 +388,9 @@
       H: 17.4 cm; W: 9.2 cm
   - desc: |-
       H (Face): 9.3 cm
+  pixel_width: 4352
+  pixel_height: 5376
+  max_zoom: 5
 
 - cat: 20
   acc: 82.AD.93.19
@@ -354,6 +410,9 @@
       H: 13.4 cm; W: 12.2 cm
   - desc: |-
       H (Face): 10.4 cm
+  pixel_width: 4864
+  pixel_height: 5376
+  max_zoom: 5
 
 - cat: 21
   acc: 82.AD.93.15
@@ -369,6 +428,9 @@
   dimensions:
   - desc: |-
       H: 26.8 cm; W: 15.5 cm
+  pixel_width: 5888
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 22
   acc: 82.AD.93.1
@@ -384,6 +446,9 @@
   dimensions:
   - desc: |-
       H: 14.2 cm; W: 14 cm
+  pixel_width: 4608
+  pixel_height: 5888
+  max_zoom: 5
 
 - cat: 23
   acc: 82.AD.93.20
@@ -401,6 +466,9 @@
       H: 13.5 cm; W: 11.5 cm
   - desc: |-
       H (Face): 11 cm
+  pixel_width: 4864
+  pixel_height: 5376
+  max_zoom: 5
 
 - cat: 24
   acc: 96.AD.243
@@ -415,6 +483,9 @@
   dimensions:
   - desc: |-
       H: 11.5 cm; W: 8.2 cm
+  pixel_width: 4864
+  pixel_height: 5376
+  max_zoom: 5
   featured: true
 
 - cat: 25
@@ -430,6 +501,9 @@
   dimensions:
   - desc: |-
       H: 16.8 cm; W: 7.5 cm; Diam: (vent hole) 2.3 cm
+  pixel_width: 4864
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 26
   acc: 78.AD.294.1
@@ -444,6 +518,9 @@
   dimensions:
   - desc: |-
       H: 16.4 cm; W: 5.9 cm
+  pixel_width: 5632
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 27
   acc: 96.AD.164
@@ -458,6 +535,9 @@
   dimensions:
   - desc: |-
       H: 10.3 cm; W: 4.1 cm
+  pixel_width: 4864
+  pixel_height: 6144
+  max_zoom: 5
 
 - cat: 28
   acc: 78.AD.295
@@ -472,6 +552,9 @@
   dimensions:
   - desc: |-
       H: 11.5 cm; W: 5 cm
+  pixel_width: 5376
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 29
   acc: 96.AD.166
@@ -488,6 +571,9 @@
   dimensions:
   - desc: |-
       H: 18.9 cm; Diam: (vent hole) 2 cm
+  pixel_width: 5376
+  pixel_height: 6912
+  max_zoom: 5
 
 - cat: 30
   acc: 96.AD.246
@@ -502,6 +588,9 @@
   dimensions:
   - desc: |-
       H: 23.7 cm; W: 10.4 cm
+  pixel_width: 5632
+  pixel_height: 7168
+  max_zoom: 5
 
 - cat: 31
   acc: 96.AD.247
@@ -516,6 +605,9 @@
   dimensions:
   - desc: |-
       H: 9 cm; W: 8.4 cm
+  pixel_width: 4864
+  pixel_height: 6144
+  max_zoom: 5
 
 - cat: 32
   acc: 71.AD.137
@@ -534,6 +626,9 @@
       H: 14.3 cm
   - desc: |-
       W (base): 11 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 33
   acc: 71.AD.138
@@ -548,6 +643,9 @@
   dimensions:
   - desc: |-
       H: 11.4 cm; W: 8 cm
+  pixel_width: 5888
+  pixel_height: 5120
+  max_zoom: 5
 
 - cat: 34
   acc: 71.AD.222
@@ -559,6 +657,9 @@
   dimensions:
   - desc: |-
       H: 6.4 cm; W: 15.2 cm
+  pixel_width: 6656
+  pixel_height: 4864
+  max_zoom: 5
 
 - cat: 35
   acc: 71.AD.221
@@ -570,6 +671,9 @@
   dimensions:
   - desc: |-
       H: 6.5 cm; W: 8 cm
+  pixel_width: 5632
+  pixel_height: 4352
+  max_zoom: 5
 
 - cat: 36
   acc: 71.AD.220
@@ -581,6 +685,9 @@
   dimensions:
   - desc: |-
       H: 5.8 cm; W: 8 cm
+  pixel_width: 5888
+  pixel_height: 4608
+  max_zoom: 5
 
 - cat: 37
   acc: 80.AD.39.1
@@ -595,6 +702,9 @@
       1. H: 2.6 cm; W: 4.6cm
   - desc: |-
       2. H. 4.7cm; W: 6.6cm
+  pixel_width: 6656
+  pixel_height: 4864
+  max_zoom: 5
 
 - cat: 38
   acc: 85.AD.76.1
@@ -614,6 +724,9 @@
       H (Face): 12.3 cm
   - desc: |-
       Thickness of walls: 1.9-6.5 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 39
   acc: 85.AD.76.2
@@ -633,6 +746,9 @@
       H (Face): 11.6 cm
   - desc: |-
       Thickness of walls: 1.4-9.5 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 40
   acc: 85.AD.76.3
@@ -652,6 +768,9 @@
       H (Face): 12.5 cm
   - desc: |-
       Thickness of walls: 1.4-6.4 cm
+  pixel_width: 3328
+  pixel_height: 5120
+  max_zoom: 5
 
 - cat: 41
   acc: 85.AD.76.4
@@ -671,6 +790,9 @@
       H (Face): 12.2 cm
   - desc: |-
       Thickness of walls: 2.1-8.4 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 42
   acc: 79.AD.194
@@ -685,6 +807,9 @@
   dimensions:
   - desc: |-
       H: 96.5 cm; W: 31 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 43
   acc: 81.AD.158
@@ -699,6 +824,9 @@
   dimensions:
   - desc: |-
       H: 23.5 cm; W: 7.3 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 44
   acc: 96.AD.266
@@ -713,6 +841,9 @@
   dimensions:
   - desc: |-
       H: 21.8 cm; W: 10.9 cm
+  pixel_width: 4864
+  pixel_height: 6144
+  max_zoom: 5
 
 - cat: 45
   acc: 96.AD.265.1
@@ -728,6 +859,9 @@
   dimensions:
   - desc: |-
       H: 10.5 cm; W: 5.8 cm
+  pixel_width: 5632
+  pixel_height: 6400
+  max_zoom: 5
 
 - cat: 46
   acc: 96.AD.265.2
@@ -743,6 +877,9 @@
   dimensions:
   - desc: |-
       H: 10.2 cm; W: 5.9 cm
+  pixel_width: 5632
+  pixel_height: 6400
+  max_zoom: 5
 
 - cat: 47
   acc: 86.AD.598.1
@@ -761,6 +898,9 @@
       W (Top): 31.6 cm; D (Top): 27 cm
   - desc: |-
       W (Hollow): 2 cm; D (Hollow): 1.6 cm
+  pixel_width: 5632
+  pixel_height: 6400
+  max_zoom: 5
 
 - cat: 48
   acc: 86.AD.598.2
@@ -780,6 +920,9 @@
       W (Top): 31.5 cm; D (Top): 27.8 cm
   - desc: |-
       W (Hollow): 1.7 cm; D (Hollow): 2.7 cm
+  pixel_width: 5632
+  pixel_height: 6400
+  max_zoom: 5
 
 - cat: 49
   acc: 71.AD.148
@@ -796,6 +939,9 @@
       H: 8.7 cm; W: 10 cm; D: 10.7 cm
   - desc: |-
       Inscription panel: 3.4 x 1.7 cm
+  pixel_width: 4864
+  pixel_height: 3840
+  max_zoom: 5
 
 - cat: 50
   acc: 77.AD.122
@@ -810,6 +956,9 @@
   dimensions:
   - desc: |-
       H: 4.9 cm; L: 14.1 cm; D: 6.4 cm
+  pixel_width: 5376
+  pixel_height: 3328
+  max_zoom: 5
 
 - cat: 51
   acc: 76.AD.34
@@ -826,6 +975,9 @@
       H: 28.8 cm; W: 19.1 cm
   - desc: |-
       Diam: (polos) 12.2 cm
+  pixel_width: 3840
+  pixel_height: 4608
+  max_zoom: 5
 
 - cat: 52
   acc: 81.AD.12
@@ -843,6 +995,9 @@
   dimensions:
   - desc: |-
       H: 26.4 cm; W: 35.5 cm; D: 8.4-9.0 cm
+  pixel_width: 7168
+  pixel_height: 5120
+  max_zoom: 5
 
 - cat: 53
   acc: 86.AD.681
@@ -857,6 +1012,9 @@
   dimensions:
   - desc: |-
       H: 44.6 cm; D (Incense cup): 7 cm
+  pixel_width: 5376
+  pixel_height: 6912
+  max_zoom: 5
   featured: true
 
 - cat: 54
@@ -872,6 +1030,9 @@
   dimensions:
   - desc: |-
       H: 14.2 cm; W: 16.7 cm
+  pixel_width: 7424
+  pixel_height: 5888
+  max_zoom: 5
 
 - cat: 55
   acc: 73.AD.151
@@ -886,6 +1047,9 @@
   dimensions:
   - desc: |-
       H: 19.8 cm; D (Base): 8.3 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 56
   acc: 71.AD.131
@@ -901,6 +1065,9 @@
   dimensions:
   - desc: |-
       H: 28.7 cm; W: 10.7 cm
+  pixel_width: 5376
+  pixel_height: 6912
+  max_zoom: 5
 
 - cat: 57
   acc: 71.AD.130
@@ -915,6 +1082,9 @@
   dimensions:
   - desc: |-
       H: 22.5 cm; W: 8 cm
+  pixel_width: 5120
+  pixel_height: 7424
+  max_zoom: 5
 
 - cat: 58
   acc: 96.AD.305
@@ -930,6 +1100,9 @@
   dimensions:
   - desc: |-
       H: 12 cm; W: 15.5 cm
+  pixel_width: 5888
+  pixel_height: 5376
+  max_zoom: 5
 
 - cat: 59
   acc: 71.AD.255
@@ -944,6 +1117,9 @@
   dimensions:
   - desc: |-
       D: 1.9 cm; Diam: 18.6 cm
+  pixel_width: 5376
+  pixel_height: 5888
+  max_zoom: 5
 
 #Could put "sicily" under region (morgantina is in sicily) but the texts just states it is deaccessioned/went with text.
 - cat: 60
@@ -961,3 +1137,6 @@
   dimensions:
   - desc: |-
       H: 26.7 cm; W: 20.4 cm
+  pixel_width: 5376
+  pixel_height: 5376
+  max_zoom: 5
