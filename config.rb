@@ -34,6 +34,7 @@ configure :build do
   activate :minify_javascript
   activate :gzip
   activate :minify_html
+  activate :imageoptim
   set :site_url, "/Terracottas"
   set :http_prefix, "/Terracottas"
 end
@@ -42,6 +43,10 @@ activate :deploy do |deploy|
   deploy.build_before = true
   deploy.method = :git
   deploy.branch = "gh-pages"
+end
+
+activate :imageoptim do |options|
+  options.image_extensions = %w(.jpg)
 end
 
 helpers do
