@@ -22,3 +22,4 @@ gem 'nokogiri'
 
 # Production
 gem "middleman-minify-html"
+gem "middleman-imageoptim"
