@@ -72,33 +72,30 @@ function initDeepZoom(options) {
   var mapMaxZoom = options.maxZoom;
   var baseMaps   = {};
 
-  options.views.forEach(function(view){
-    baseMaps[view.name + "view"] = L.tileLayer(
-      'http://gettypubs.github.io/maptiles/' + view.path + '/{z}/{x}/{y}.png',
-      {
-        continuousWorld: false 
-      });
-  });
-
   var map = L.map('map', {
     maxZoom: mapMaxZoom,
     minZoom: mapMinZoom,
     crs: L.CRS.Simple,
-    attributionControl: false,
-    layers: baseMaps.Mainview
+    attributionControl: false
   }).setView([0, 0], mapMaxZoom);
 
   var mapBounds = new L.LatLngBounds(
     map.unproject([0, options.pixelHeight], mapMaxZoom),
     map.unproject([options.pixelWidth, 0], mapMaxZoom)
   );
-
   map.fitBounds(mapBounds);
-  console.log(baseMaps);
+
+  options.views.forEach(function(view){
+    baseMaps[view.name + " view"] = L.tileLayer(
+      'http://gettypubs.github.io/maptiles/' + view.path + '/{z}/{x}/{y}.png',
+      { bounds: mapBounds });
+  });
 
   // Add map controls
   L.control.layers(baseMaps).addTo(map).setPosition("topright");
+  map.addLayer(baseMaps["Main view"]);
   L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle).addTo(map);
+
   return map;
 }
 
