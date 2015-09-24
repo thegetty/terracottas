@@ -187,10 +187,16 @@
     pixel_height: 5376
   - name: Left
     path: terracottas/19/left
+    pixel_width: 4352
+    pixel_height: 5376
   - name: Main
     path: terracottas/19/main
+    pixel_width: 4352
+    pixel_height: 5376
   - name: Right
     path: terracottas/19/right
+    pixel_width: 4352
+    pixel_height: 5376
 - cat: 2
   layers:
   - name: Back
