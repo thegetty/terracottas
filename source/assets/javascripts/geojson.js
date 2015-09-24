@@ -1,3 +1,32 @@
+var taranto = {
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2400135,
+                    40.4692465
+                ]
+            },
+            "properties": {
+                "title": "Tarentum",
+                "awmc_id": "120139",
+                "awmc_link": "http://awmc.unc.edu/api/omnia/120139",
+                "pid": "442810",
+                "pleiades_link": "http://pleiades.stoa.org/places/442810",
+                "type": null,
+                "mindate": "-750",
+                "maxdate": "640",
+                "description": null
+            },
+            "id": 0
+        }
+    ]
+};
+
+
 var geojsonFeature = {
     "type": "FeatureCollection",
     "features": [
@@ -647,4 +676,4 @@ var geojsonFeature = {
         }
     ],
     "id": "egardner.n1p8bjh1"
-}
+};
