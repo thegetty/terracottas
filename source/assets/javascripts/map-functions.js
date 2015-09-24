@@ -45,15 +45,16 @@ function deepZoomSetup() {
 
 function initMap() {
   var mapboxTiles = L.tileLayer(CONFIG.mapboxTileURL + CONFIG.mapboxAccessToken, {
-    attribution: '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a>'
+    attribution: 'Tiles © <a href="http://mapbox.com/" target="_blank">MapBox</a> | Tiles and Data © 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a> <a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>'
   });
 
-  var map = L.map(CONFIG.mapID, { attributionControl: false })
+  var map = L.map(CONFIG.mapID, {maxZoom: 12})
     .addLayer(mapboxTiles)
     .setView(CONFIG.coords, CONFIG.defaultZoom);
 
   // geoJson placeholder is currently loaded from geojson.js
-  L.geoJson(geojsonFeature).addTo(map);
+  // L.geoJson(geojsonFeature).addTo(map);
+  L.geoJson(taranto).addTo(map);
   L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle).addTo(map);
   return map;
 }
