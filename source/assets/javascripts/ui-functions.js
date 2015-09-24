@@ -10,6 +10,22 @@ function jq(myid) {
 }
 
 // -----------------------------------------------------------------------------
+function keyboardNav(){
+  $(document).keydown(function(event) {
+    // 37 = left arrow key
+    if (event.which === 37 && $(".prev-link").length) {
+      window.location.href = $(".prev-link")[0].href;
+      event.preventDefault();
+    }
+    // 39 = right arrow key
+    else if (event.which === 39 && $(".next-link").length) {
+      window.location.href = $(".next-link")[0].href;
+      event.preventDefault();
+    }
+  });
+}
+
+// -----------------------------------------------------------------------------
 function offCanvasSetup(){
   // Show the off-canvas navigation
   $('#off-canvas-toggle').on("click", function(e) {
