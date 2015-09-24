@@ -10,7 +10,7 @@
 
 CONFIG = {
   mapboxAccessToken: "pk.eyJ1IjoiZWdhcmRuZXIiLCJhIjoiN2IyMmRlMTc0YTAwMzRjYWVhMzI5ZGY1YmViMGVkZTEifQ._576KIFjJ0S_dRHcdM2BmQ",
-  mapboxTileURL: "https://api.mapbox.com/v4/egardner.n1p8bjh1/{z}/{x}/{y}.png?access_token=",
+  mapboxTileURL: "https://api.mapbox.com/v4/isawnyu.map-knmctlkh/{z}/{x}/{y}.png?access_token=",
   imageTileURL: "http://gettypubs.github.io/maptiles/",
   mapID: "map",
   coords: [40.51379915504413, 17.193603515625],
