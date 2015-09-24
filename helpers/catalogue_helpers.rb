@@ -43,4 +43,21 @@ module CatalogueHelpers
         .gsub("fnref:", "fnref-discussion:")
     }
   end
+
+  def next_entry(id=0)
+    if id.between?(1, 59)
+      haml_tag :a, :class => "next-link", :href => "#{site_url}/catalogue/#{id + 1}/" do
+        haml_tag :i, :class => "ion-chevron-right"
+      end
+    end
+  end
+
+  def prev_entry(id=0)
+    if id.between?(2, 60)
+      haml_tag :a, :class => "prev-link", :href => "#{site_url}/catalogue/#{id - 1}/" do
+        haml_tag :i, :class => "ion-chevron-left"
+      end
+    end
+  end
+
 end
