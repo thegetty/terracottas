@@ -30,37 +30,39 @@ function keyboardNav(){
 
 // -----------------------------------------------------------------------------
 function offCanvasSetup(){
+  var $nav = $('#nav-primary');
   // Show the off-canvas navigation
   $('#off-canvas-toggle').on("click", function(e) {
     $(this).find('i').toggle();
-    console.log("Just clicked off-canvas-toggle");
-    $('#nav-primary').toggleClass('visible');
+    $nav.toggleClass('visible');
   });
 
   // Hide the off-canvas nav when clicking a link
   $('#nav-primary a').on('click', function(e) {
-    $('#nav-primary').removeClass('visible');
+    $nav.removeClass('visible');
     $("#off-canvas-toggle").find('i').show();
   });
 }
 // -----------------------------------------------------------------------------
 function rightPanelToggle () {
-  var left = $(".panel-left");
-  var right = $(".panel-right");
-  var header = $(".page-header");
-  left.toggleClass("panel--collapse");
-  right.toggleClass("panel--expand");
-  header.toggleClass("panel--expand");
+  var $left = $(".panel-left");
+  var $right = $(".panel-right");
+  var $header = $(".page-header");
+
+  $left.toggleClass("panel--collapse");
+  $right.toggleClass("panel--expand");
+  $header.toggleClass("panel--expand");
 }
 
 // -----------------------------------------------------------------------------
 function leftPanelToggle() {
-  var left = $(".panel-left");
-  var right = $(".panel-right");
-  var header = $(".page-header");
-  left.toggleClass("panel--expand");
-  right.toggleClass("panel--collapse");
-  header.toggleClass("panel--collapse");
+  var $left = $(".panel-left");
+  var $right = $(".panel-right");
+  var $header = $(".page-header");
+
+  $left.toggleClass("panel--expand");
+  $right.toggleClass("panel--collapse");
+  $header.toggleClass("panel--collapse");
 }
 
 // -----------------------------------------------------------------------------
