@@ -19,49 +19,44 @@ module CatalogueHelpers
 
   def find_discussion(id)
     case id
-    when 1..3
-      path = "discussion/discussion-a.html"
-    when 4..23
-      path = "discussion/discussion-b.html"
-    when 38..41
-      path = "discussion/discussion-c.html"
-    when 45..46
-      path = "discussion/discussion-d.html"
-    when 47..48
-      path = "discussion/discussion-e.html"
-    else
-      return nil
+    when 1..3    then "discussion/discussion-a.html"
+    when 4..23   then "discussion/discussion-b.html"
+    when 38..41  then "discussion/discussion-c.html"
+    when 45..46  then "discussion/discussion-d.html"
+    when 47..48  then "discussion/discussion-e.html"
     end
   end
 
   def discussion_text(id)
     path = find_discussion(id)
+    discussion = sitemap.find_resource_by_path(path)
+
+    # Return a hash with discussion attributes and namespaced footnotes
     {
-      :title => sitemap.find_resource_by_path(path).metadata[:page]["title"],
-      :text  => sitemap.find_resource_by_path(path).render(:layout => false)
+      :title => discussion.metadata[:page]["title"],
+      :text  => discussion.render(:layout => false)
         .gsub("fn:", "fn-discussion:")
         .gsub("fnref:", "fnref-discussion:")
     }
   end
 
-  def next_entry(id=0)
-    if id.between?(1, 59)
-      haml_tag :a, :id     => "next-link",
-                   :class  => "next-link",
-                   :href   => "#{site_url}/catalogue/#{id + 1}/" do
-        haml_tag :i, :class => "ion-chevron-right"
-      end
+  def next_entry(id = 0)
+    range = 1..59
+    return false unless range.include?(id)
+    haml_tag :a, :id     => "next-link",
+                 :class  => "next-link",
+                 :href   => "#{site_url}/catalogue/#{id + 1}/" do
+      haml_tag :i, :class => "ion-chevron-right"
     end
   end
 
-  def prev_entry(id=0)
-    if id.between?(2, 60)
-      haml_tag :a, :id     => "prev-link",
-                   :class  => "prev-link",
-                   :href   => "#{site_url}/catalogue/#{id - 1}/" do
-        haml_tag :i, :class => "ion-chevron-left"
-      end
+  def prev_entry(id = 0)
+    range = 2..60
+    return false unless range.include?(id)
+    haml_tag :a, :id     => "prev-link",
+                 :class  => "prev-link",
+                 :href   => "#{site_url}/catalogue/#{id - 1}/" do
+      haml_tag :i, :class => "ion-chevron-left"
     end
   end
-
 end
