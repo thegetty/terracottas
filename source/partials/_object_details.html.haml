@@ -16,7 +16,10 @@
           -# Accession Number
           %tr
             %td Inventory Number
-            %td= current_item.acc
+            %td
+              %span= current_item.acc
+              - if current_item.dor_id
+                - collection_link(current_item.dor_id)
         - if current_item.typology
           -# Typology
           %tr
