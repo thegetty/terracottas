@@ -12,14 +12,17 @@ function jq(myid) {
 // -----------------------------------------------------------------------------
 function keyboardNav(){
   $(document).keydown(function(event) {
+    var prev, next;
+    prev = document.getElementById("prev-link");
+    next = document.getElementById("next-link");
     // 37 = left arrow key
-    if (event.which === 37 && $(".prev-link").length) {
-      window.location.href = $(".prev-link")[0].href;
+    if (event.which === 37 && prev) {
+      prev.click();
       event.preventDefault();
     }
     // 39 = right arrow key
-    else if (event.which === 39 && $(".next-link").length) {
-      window.location.href = $(".next-link")[0].href;
+    else if (event.which === 39 && next) {
+      next.click();
       event.preventDefault();
     }
   });
