@@ -77,15 +77,33 @@ function isHidden($el) {
 // -----------------------------------------------------------------------------
 function dropdownSetup() {
   $(".dropdown-button").click(function() {
-    var $button, $menu;
+    var $button, $menu, $category;
     $button = $(this);
+    $category = $button.siblings(".dropdown-description");
     $menu = $button.siblings(".dropdown-menu");
     $menu.toggleClass("show-menu");
     $menu.children("li").click(function() {
       $menu.removeClass("show-menu");
       $button.html($(this).html());
+      resetFilter();
+      gridFilter($category.html(), $(this).html());
     });
   });
+}
+
+// -----------------------------------------------------------------------------
+function resetFilter(){
+  $(".card").show();
+}
+
+function gridFilter(key, value) {
+  if (value.toLowerCase().substring(0, 3) === "all") {
+    resetFilter();
+  } else {
+    $(".card").not('[data-' + key.toLowerCase() + '="' + value + '"]').hide();
+  }
+  console.log(key);
+  console.log(value);
 }
 
 // -----------------------------------------------------------------------------
