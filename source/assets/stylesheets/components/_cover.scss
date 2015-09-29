@@ -89,9 +89,82 @@
   @include media($medium-screen-up) { font-size: 1.5rem; }
 }
 
-.cover-content {
-  margin: 1rem auto;
-  @include media($large-screen-up) { margin: 2rem auto; }
+.centered { text-align: center; }
 
-  .centered { text-align: center; }
+%cover-block {
+  margin-top: 1rem;
+  @include media($medium-screen-up) {
+    margin-top: 1.5rem;
+  }
+}
+
+%cover-container {
+  @include outer-container;
+  @include media($large-screen-up) { padding: 0; }
+  padding: $base-spacing;
+
+  a.button {
+    display: table;
+    font-family: $heading-font-family;
+    margin: 1rem auto;
+  }
+}
+
+.cover-copy {
+  background-color: $light-gray;
+  padding: 1rem;
+}
+
+.cover-copy-inner {
+  @extend %cover-container;
+  @extend %cover-block;
+
+  blockquote {
+    @include margin(null 0 null 0);
+    font-size: 1.25em;
+  }
+
+  a.button { margin-top: 3rem; }
+
+  @include media($medium-screen-up) { @include padding(null 4rem); }
+  @include media($large-screen-up) { @include padding(null 8rem); }
+}
+
+.cover-map {
+  @extend %cover-block;
+  #map { height: 600px; }
+}
+
+.cover-map-inner {
+  @extend %cover-container;
+  padding: 1rem;
+}
+
+
+.cover-explore {
+  @extend %cover-container;
+  @extend %cover-block;
+  a.button { margin-top: 3rem; margin-bottom: 2rem; }
+}
+
+.cover-colophon {
+  background-color: tint($dark-gray, 20%);
+  padding: 0.75rem;
+}
+
+.cover-colophon-inner {
+  @extend %cover-container;
+  @extend %cover-block;
+  color: $inverse-color;
+  padding-bottom: 3rem;
+}
+
+.colophon-logo {
+  margin: 2rem auto;
+  width: 50px;
+
+  @include media($large-screen-up) {
+    margin: 2rem 0 0;
+    float: right;
+  }
 }

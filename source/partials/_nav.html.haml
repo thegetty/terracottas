@@ -31,4 +31,5 @@
                     %li.toc-entry
                       = link_to grandchild.title, "#{site_url}#{grandchild.link}/"
   %li.toc-logo
-    = tag :img, :src => image_path("getty_logo.svg"), :class => "toc-logo"
+    = tag :img, :src => image_path("getty_logo.svg"),
+      :class => "toc-logo", :alt => "Getty Logo"
