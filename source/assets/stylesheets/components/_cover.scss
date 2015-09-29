@@ -132,7 +132,10 @@
 
 .cover-map {
   @extend %cover-block;
-  #map { height: 600px; }
+  #map { height: 300px; }
+  @include media($medium-screen-up) {
+    #map { height: 600px; }
+  }
 }
 
 .cover-map-inner {

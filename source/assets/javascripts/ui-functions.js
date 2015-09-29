@@ -75,6 +75,20 @@ function isHidden($el) {
 }
 
 // -----------------------------------------------------------------------------
+function dropdownSetup() {
+  $(".dropdown-button").click(function() {
+    var $button, $menu;
+    $button = $(this);
+    $menu = $button.siblings(".dropdown-menu");
+    $menu.toggleClass("show-menu");
+    $menu.children("li").click(function() {
+      $menu.removeClass("show-menu");
+      $button.html($(this).html());
+    });
+  });
+}
+
+// -----------------------------------------------------------------------------
 function addPanelControls() {
   $("#rightPanelToggle").click(function (event) {
     rightPanelToggle();
@@ -145,12 +159,12 @@ function addPanelControls() {
 
   $(".expander-trigger").click(function () {
     // Velocity JS options object
+    $section = $(this).parent().find(".expander-content");
+
     var options = {
       duration: 300,
       complete: function () { $section.toggleClass("expander--hidden"); }
     };
-
-    $section = $(this).parent().find(".expander-content");
 
     if (isHidden($section)) {
       $section.velocity("transition.slideDownIn", options);

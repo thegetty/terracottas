@@ -52,6 +52,8 @@ function setUpPage(){
   offCanvasSetup();
   addPanelControls();
   keyboardNav();
+  dropdownSetup();
+  
   $(".expander-content").addClass("expander--hidden");
   if (mapCheck($(".object-data"))) {
     map = deepZoomSetup();

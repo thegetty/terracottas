@@ -1,0 +1,36 @@
+= wrap_layout :application do
+  .container.mt3
+    %h1.page-title.centered= current_page.data.title
+    .dropdown
+      .dropdown-container
+        %p.dropdown-description Location
+        %p.dropdown-button Click to Select
+        %ul.dropdown-menu.dropdown-select
+          %li All Locations
+          %li South Italy
+          %li Sicily
+      .dropdown-container
+        %p.dropdown-description Typology
+        %p.dropdown-button Click to Select
+        %ul.dropdown-menu.dropdown-select
+          %li All Types
+          %li Heads
+          %li Busts
+          %li Statues & Statuettes
+          %li Reliefs
+          %li Masks
+          %li Plaques
+          %li Altars
+          %li Thymiaterion
+          %li Clipeus
+      .dropdown-container
+        %p.dropdown-description Grouping
+        %p.dropdown-button Click to Select
+        %ul.dropdown-menu.dropdown-select
+          %li All Groupings
+          %li Group of a Seated Poet and Sirens
+          %li Group of Heads and Busts from the Taranto Region
+          %li Four Statues of Mourning Women from Canosa
+          %li Statuettes of a Seated Eros
+          %li Pair of Altars with the Myth of Adonis 
+    = yield

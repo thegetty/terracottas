@@ -10,10 +10,12 @@
       %blockquote= lorem.paragraph
       %cite= (lorem.words 7).capitalize
       %br
-      = link_to "Director's Foreword", "#{site_url}/foreword", :class => "button"
+      = link_to "Director's Foreword",
+        "#{site_url}/foreword", :class => "button"
   .cover-explore
     %h2.centered Explore the Collection
-    = partial(:grid, :locals => { :collection => find_in_catalogue("featured", true) })
+    = partial(:grid,
+      :locals => { :collection => find_in_catalogue("featured", true) })
     = link_to "View the Catalogue", "#{site_url}/catalogue", :class => "button"
   .cover-map
     %h2.centered Map of South Italy and Sicily
