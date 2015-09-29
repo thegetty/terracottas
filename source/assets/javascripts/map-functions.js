@@ -52,10 +52,15 @@ function initMap() {
     .addLayer(mapboxTiles)
     .setView(CONFIG.coords, CONFIG.defaultZoom);
 
+  if ($("#map").hasClass("no-scroll")) {
+    map.scrollWheelZoom.disable();
+  } else {
+    L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle).addTo(map);
+  }
+
   // geoJson placeholder is currently loaded from geojson.js
   // L.geoJson(geojsonFeature).addTo(map);
-  L.geoJson(taranto).addTo(map);
-  L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle).addTo(map);
+  // L.geoJson(taranto).addTo(map);
   return map;
 }
 

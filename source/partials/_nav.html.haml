@@ -6,7 +6,7 @@
       =link_to data.nav.short_title || data.nav.title, "#{site_url}/"
     %h4.toc-entry-author.mb3= data.contents.author
   - data.nav.contents.each do |item|
-    %li.toc-entry{:class => item.section? && "toc-section"}
+    %li.toc-entry{ class: item.section? && "toc-section" }
       - if item.section?
         - if item.title?
           %h3
@@ -19,7 +19,7 @@
       - if item.contents
         %ul.toc-submenu
           - item.contents.each do |child|
-            %li.toc-entry{:class => child.subsection? && "toc-subsection"}
+            %li.toc-entry{ class: child.subsection? && "toc-subsection" }
               - if child.subsection?
                 %h5
                   = link_to child.title, "#{site_url}#{child.link}/"
@@ -31,5 +31,5 @@
                     %li.toc-entry
                       = link_to grandchild.title, "#{site_url}#{grandchild.link}/"
   %li.toc-logo
-    = tag :img, :src => image_path("getty_logo.svg"),
-      :class => "toc-logo", :alt => "Getty Logo"
+    = tag :img,
+      src: image_path("getty_logo.svg"), class: "toc-logo", alt: "Getty Logo"
