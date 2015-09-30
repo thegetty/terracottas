@@ -59,7 +59,23 @@ function initMap() {
   }
 
   // geoJson placeholder is currently loaded from geojson.js
-  // L.geoJson(geojsonFeature).addTo(map);
+  var geojsonMarkerOptions = {
+    radius: 8,
+    fillColor: "#E79340",
+    color: "#000",
+    weight: 0.5,
+    opacity: 1,
+    fillOpacity: 1
+  };
+
+  L.geoJson(geojsonFeature, {
+    pointToLayer: function (feature, latlng) {
+      return L.circleMarker(latlng, geojsonMarkerOptions);
+    },
+    onEachFeature: function(feature, layer) {
+      layer.bindPopup(feature.properties.custom_name);
+    }
+  }).addTo(map);
   // L.geoJson(taranto).addTo(map);
   return map;
 }
