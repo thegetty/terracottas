@@ -56,7 +56,6 @@ $search-text-color: $base-font-color;
 .search-results {
   @include transition($base-transition);
   @include transform(translateY(-100vh));
-  display: table;
   height: 100vh;
   opacity: 0;
   overflow: auto;
@@ -64,6 +63,7 @@ $search-text-color: $base-font-color;
   position: fixed;
   top: 60px;
   width: 100%;
+  -webkit-overflow-scrolling: touch;
 
   &.search-active {
     @include transform(translateY(0));
