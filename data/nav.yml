@@ -4,31 +4,12 @@ author: Maria Lucia Ferruzza
 contents:
   - section: true
     contents:
-      - title: About
+      - title: Contents
         link: "#"
-      - title: Download
-        link: /frontmatter/downloads
-      - title: Cite
-        link: "#"
-  - title: Catalogue Entries
+  - title: Catalogue
     section: true
     link: /catalogue
     contents:
-      - title: South Italy
-        link: /catalogue/south-italy
-        subsection: true
-        contents:
-          - title: Taranto and Surrounding Areas (1–37)
-            link: "#"
-          - title: Canosa (38-46)
-            link: "#"
-          - title: Medma (47-48)
-            link: "#"
-          - title: Other (49-50)
-            link: "#"
-      - title: Sicily (51–60)
-        link: /catalogue/sicily
-        subsection: true
       - title: Map
         link: "#"
       - title: Classification
@@ -37,6 +18,16 @@ contents:
         link: /frontmatter/production_techniques
       - title: Bibliography
         link: /frontmatter/bibliography
-  - title: Guide to the Collection of South Italian and Sicilian Terracottas
-    author: Claire L. Lyons
-    link: "#"
+  - section: true
+    contents:
+      - title: Guide to the Collection of South Italian and Sicilian Terracottas
+        author: Claire L. Lyons
+        link: "#"
+  - section: true
+    contents:
+      - title: About
+        link: "#"
+      - title: Download
+        link: /frontmatter/downloads
+      - title: Cite
+        link: "#"
