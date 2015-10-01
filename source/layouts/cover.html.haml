@@ -6,25 +6,23 @@
     %h2.cover-author Maria Lucia Ferruzza
   .cover-copy
     .cover-copy-inner
-      %h2.centered South Italian Terracottas
       %blockquote= lorem.paragraph
       %cite= (lorem.words 7).capitalize
-      %br
-      = link_to "Director's Foreword",
-        "#{site_url}/foreword", :class => "button"
+      %h4.mt3.mb2
+        = link_to "Director's Foreword", "#{site_url}/foreword"
+      %h4.mb3
+        = link_to "Introduction", "#{site_url}/introduction"
   .cover-explore
-    %h2.centered Explore the Collection
+    %h2.centered.mt3 Highlights from the Catalogue
     = partial(:grid,
       :locals => { :collection => find_in_catalogue("featured", true) })
     = link_to "View the Catalogue", "#{site_url}/catalogue", :class => "button"
   .cover-map
-    %h2.centered Map of South Italy and Sicily
     #map.no-scroll
     .cover-map-inner
       = link_to "View Full Map", "#{site_url}/map", :class => "button"
   .cover-colophon
     .cover-colophon-inner
-      %h2.centered Colophon
       %p= lorem.paragraph
       %p= lorem.paragraph
       .colophon-logo
