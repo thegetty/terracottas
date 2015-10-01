@@ -455,6 +455,31 @@
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
+                "in_area": "South Italy",
+                "basename": "Metapontum",
+                "custom_name": "Metaponto",
+                "en_name": "Metapontum",
+                "gr_name": "",
+                "la_name": "Metapontum",
+                "featuretyp": "settlement, theatre",
+                "pid": "442658",
+                "timeperiod": "ACHRL",
+                "perseus_li": null,
+                "wiki_link": null,
+                "magnitude": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82523365,
+                    40.38362725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "map_level": "Sites and Cities",
             	"in_area": "Sicily",
                 "basename": "Lipara (settlement)",
                 "custom_name": "Lipari",
@@ -1005,6 +1030,31 @@
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
+                "in_area": "Sicily",
+                "basename": "Mastro Paolo di Barrafranca",
+                "custom_name": "Barrafranca",
+                "en_name": "",
+                "gr_name": "",
+                "la_name": "",
+                "featuretyp": "settlement",
+                "pid": "462303",
+                "timeperiod": "",
+                "perseus_li": null,
+                "wiki_link": null,
+                "magnitude": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.200938,
+                    37.375679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "map_level": "Sites and Cities",
             	"in_area": "Greece & North Africa",
                 "basename": "Athenae",
                 "custom_name": "Athens",
@@ -1246,8 +1296,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    40.483163,
-                    16.067057
+                    16.067057,
+                    40.483163
                 ]
             }
         },
@@ -1323,6 +1373,31 @@
                 "coordinates": [
                     13.796545,
                     41.914988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "map_level": "Region",
+                "in_area": "",
+                "basename": "",
+                "custom_name": "South Italy",
+                "en_name": "South Italy",
+                "gr_name": "",
+                "la_name": "",
+                "featuretyp": "region",
+                "timeperiod": "",
+                "pid": "",
+                "perseus_li": null,
+                "wiki_link": null,
+                "magnitude": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.66525,
+                    40.77584
                 ]
             }
         },
