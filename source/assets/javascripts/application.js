@@ -7,13 +7,13 @@
 //= require map-functions
 //= require search-functions
 
-var searchIndex = $.getJSON("/Terracottas/contents.json").promise();
+setUpPage();
 
+var searchIndex = $.getJSON("/Terracottas/contents.json").promise();
 searchIndex.done(function(data) {
   var index    = populateIndex(data);
   var contents = contentList(data);
   searchSetup(index, contents);
-  setUpPage();
 
   // Smoothstate
   $("#main").smoothState({
