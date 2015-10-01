@@ -24,6 +24,7 @@ function initIndex() {
     this.field('typology');
     this.field('region');
     this.field('group');
+    this.field('acc');
     this.field('content');
     this.ref('id');
   });
@@ -95,7 +96,8 @@ function searchSetup(index, contents){
       $(".search-results").append(resultsTemplate({
         title: contents[result.ref].title,
         url: contents[result.ref].url,
-        type: contents[result.ref].type
+        type: contents[result.ref].type,
+        acc: contents[result.ref].acc
       }));
     });
   }));

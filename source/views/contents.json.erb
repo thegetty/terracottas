@@ -22,6 +22,7 @@ pages.each_with_index do |page, index|
     :title        => page.data.title,
     :url          => page.url,
     :type         => type,
+    :acc          => object["acc"] || nil,
     :group        => object["group"] || nil,
     :typology     => object["typology"] || nil,
     :region       => object["region"] || nil,
