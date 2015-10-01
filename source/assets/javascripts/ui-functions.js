@@ -5,8 +5,22 @@
 // up as individual functions that can be called from the main app.js file.
 
 
-function jq(myid) {
-  return myid.replace( /(:|\.|\[|\]|,)/g, "\\$1" );
+// =============================================================================
+// jquery helper
+// use this to wrap selectors that contain : characters
+
+function jq(myid) { return myid.replace( /(:|\.|\[|\]|,)/g, "\\$1" );}
+
+// =============================================================================
+// Determine whether the current page needs a deep zoom image
+
+function mapCheck($el) {
+  if ($el.length) {
+    if ( !isNaN($el.data("catalogue")) ) { return true; }
+    else if ( $el.data("map") === true ) { return true; }
+    else { return false; }
+  }
+  else { return false; }
 }
 
 // -----------------------------------------------------------------------------
@@ -108,27 +122,29 @@ function gridFilter(key, value) {
 
 // -----------------------------------------------------------------------------
 function addPanelControls() {
+
+  // Right Panel event listener
   $("#rightPanelToggle").click(function (event) {
     rightPanelToggle();
     event.preventDefault();
   });
 
+  // Left Panel event listener
   $("#leftPanelToggle").click(function (event) {
     leftPanelToggle();
     event.preventDefault();
   });
 
+  // Scroll down event listener
   $(".scroll-down").click(function (event) {
     target = $(this).attr("href");
     $(target).velocity("scroll", { offset: "-60px" });
     event.preventDefault();
   });
 
+  // Footnote scroll event listener
+  // Opens parent section if section is closed
   $(".footnote").click(function (event) {
-    // Grab parent section of footnote target
-    target = $(this).attr("href");
-    $section = $(jq(target)).closest(".expander-content");
-    // expand this section if not aready expanded
     var options = {
       duration: 100,
       delay: 100,
@@ -141,11 +157,13 @@ function addPanelControls() {
       }
     };
 
+    target = $(this).attr("href");
+    $section = $(jq(target)).closest(".expander-content");
+
     if (isHidden($section)) {
       $section.velocity("transition.slideDownIn", options);
     }
 
-    // animate scroll to target
     if ($(".panel-right").length >= 1) {
       $(jq(target)).velocity("scroll", {
         offset: "-60px",
@@ -156,9 +174,9 @@ function addPanelControls() {
         offset: "-60px"
       });
     }
-    // event.preventDefault();
   });
 
+  // Reverse footnote event listener
   $(".reversefootnote").click(function (event) {
     target = $(this).attr("href");
     if ($(".panel-right").length >= 1) {
@@ -171,18 +189,16 @@ function addPanelControls() {
         offset: "-60px"
       });
     }
-    // event.preventDefault();
   });
 
-
+  // Accordion section event listener
   $(".expander-trigger").click(function () {
-    // Velocity JS options object
-    $section = $(this).parent().find(".expander-content");
-
     var options = {
       duration: 300,
       complete: function () { $section.toggleClass("expander--hidden"); }
     };
+
+    $section = $(this).parent().find(".expander-content");
 
     if (isHidden($section)) {
       $section.velocity("transition.slideDownIn", options);
@@ -190,4 +206,27 @@ function addPanelControls() {
       $section.velocity("transition.slideUpOut", options);
     }
   });
+}
+
+// =============================================================================
+// Set up all the things!
+
+function setUpPage(){
+  var map;
+  offCanvasSetup();
+  addPanelControls();
+  keyboardNav();
+  dropdownSetup();
+
+  $(".expander-content").addClass("expander--hidden");
+  if ( mapCheck($(".object-data")) ) {
+    map = deepZoomSetup();
+    // must bind map resize asynchronously
+    setTimeout(map.invalidateSize.bind(map), 100);
+    addMapResizeListener(map);
+  } else if ($("#map").length) {
+    map = initMap();
+    setTimeout(map.invalidateSize.bind(map), 100);
+    addMapResizeListener(map);
+  }
 }
