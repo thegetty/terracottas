@@ -25,6 +25,8 @@
                   = link_to child.title, "#{site_url}#{child.link}/"
               - else
                 = link_to child.title, "#{site_url}#{child.link}/"
+                - if child.author?
+                  %span.toc-entry-author= child.author
               - if child.contents
                 %ul.toc-submenu
                   - child.contents.each do |grandchild|
