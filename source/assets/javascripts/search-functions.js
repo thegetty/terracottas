@@ -86,6 +86,17 @@ function searchSetup(index, contents){
     rightPanelToggle();
   });
 
+  // bind escape key to search menu close
+  $(document).keyup(function(e) {
+    if ($(".search-results").hasClass("search-active")) {
+      if (e.which == 27) {
+        $(".page-header").removeClass("search-active");
+        $(".search-results").removeClass("search-active");
+        rightPanelToggle();
+      }
+    }
+  });
+
   $("#search-field").bind("keyup", debounce(function(){
     $(".search-results").empty();
     if ($(this).val() < 2) return;
