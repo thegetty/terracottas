@@ -5,7 +5,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Canusium",
                 "custom_name": "Canosa",
                 "en_name": "Canusium",
@@ -30,7 +30,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Medma",
                 "custom_name": "Medma",
                 "en_name": "Medma",
@@ -55,7 +55,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Lokroi Epizephyrioi",
                 "custom_name": "Locri",
                 "en_name": "Narycia",
@@ -80,7 +80,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Taras/Tarentum/Neptunia",
                 "custom_name": "Taranto",
                 "en_name": "Tarentum",
@@ -105,7 +105,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Roma",
                 "custom_name": "Rome",
                 "en_name": "Rome",
@@ -130,7 +130,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Veii",
                 "custom_name": "Veii",
                 "en_name": "Veii",
@@ -155,7 +155,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Parthenope/Neapolis",
                 "custom_name": "Naples",
                 "en_name": "Naples",
@@ -180,7 +180,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Rhegion/Regium",
                 "custom_name": "Reggio di Calabria",
                 "en_name": "Rhegion",
@@ -205,7 +205,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Croto(n)",
                 "custom_name": "Crotone",
                 "en_name": "Crotona",
@@ -230,7 +230,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Falerii",
                 "custom_name": "Falerii",
                 "en_name": "Falerii",
@@ -255,7 +255,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Egnatia/Gnathia",
                 "custom_name": "Egnazia",
                 "en_name": "Gnathia",
@@ -280,7 +280,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Luceria/Noukeria (Apoulon)",
                 "custom_name": "Lucera",
                 "en_name": "Lukeria",
@@ -305,7 +305,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Manfria",
                 "custom_name": "Manfria",
                 "en_name": "",
@@ -330,7 +330,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Caulonia",
                 "custom_name": "Caulonia",
                 "en_name": "",
@@ -344,7 +344,7 @@ var geojsonFeature = {
                 "magnitude": 1
             },
             "geometry": {
-            	"type": "Point",
+                "type": "Point",
                 "coordinates": [
                     16.409844,
                     38.382526
@@ -355,7 +355,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Poseidonia/Paestum",
                 "custom_name": "Paestum",
                 "en_name": "Poseidonia",
@@ -380,7 +380,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Satyrion/Saturum",
                 "custom_name": "Saturo",
                 "en_name": "Satyrion",
@@ -405,7 +405,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Monte Sannace",
                 "custom_name": "Monte Sannace",
                 "en_name": "",
@@ -430,7 +430,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Monte Saraceno",
                 "custom_name": "Monte Saraceno",
                 "en_name": "",
@@ -455,7 +455,32 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "South Italy",
+                "basename": "Metapontum",
+                "custom_name": "Metaponto",
+                "en_name": "Metapontum",
+                "gr_name": "",
+                "la_name": "Metapontum",
+                "featuretyp": "settlement, theatre",
+                "pid": "442658",
+                "timeperiod": "ACHRL",
+                "perseus_li": null,
+                "wiki_link": null,
+                "magnitude": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82523365,
+                    40.38362725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "map_level": "Sites and Cities",
+                "in_area": "Sicily",
                 "basename": "Lipara (settlement)",
                 "custom_name": "Lipari",
                 "en_name": "Lipara",
@@ -480,7 +505,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Motyon?",
                 "custom_name": "Vassallaggi",
                 "en_name": "Motyon",
@@ -505,7 +530,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Zancle/Messana",
                 "custom_name": "Zankle (Messina)",
                 "en_name": "Zancle",
@@ -530,7 +555,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Paterno",
                 "custom_name": "Paternò",
                 "en_name": "",
@@ -555,7 +580,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Selinus",
                 "custom_name": "Selinunte",
                 "en_name": "Selinus",
@@ -580,7 +605,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Monte Riparato di Caltavuturo",
                 "custom_name": "Caltavuturo",
                 "en_name": "",
@@ -605,7 +630,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Katane/Catina",
                 "custom_name": "Catania",
                 "en_name": "Katane",
@@ -630,7 +655,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Cephaloedium",
                 "custom_name": "Cefalù",
                 "en_name": "Cephaloedium",
@@ -655,7 +680,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Centuripae",
                 "custom_name": "Centuripe",
                 "en_name": "Kentoripa",
@@ -680,7 +705,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Morgantina",
                 "custom_name": "Morgantina",
                 "en_name": "Murgentia",
@@ -705,7 +730,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Syracusae/Syrakousai",
                 "custom_name": "Syracuse",
                 "en_name": "Syracuse",
@@ -730,7 +755,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Acrae",
                 "custom_name": "Akrai (Palazzolo Acreide)",
                 "en_name": "Acrae",
@@ -755,7 +780,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Akragas/Agrigentum",
                 "custom_name": "Agrigento",
                 "en_name": "Acragas",
@@ -780,7 +805,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Heraclea Minoa",
                 "custom_name": "Heraclea Minoa",
                 "en_name": "Makara",
@@ -805,7 +830,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Pan(h)ormus",
                 "custom_name": "Palermo",
                 "en_name": "Panormus",
@@ -830,7 +855,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Francavilla di Sicilia",
                 "custom_name": "Francavilla di Sicilia",
                 "en_name": "",
@@ -855,7 +880,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Gela",
                 "custom_name": "Gela",
                 "en_name": "Gela",
@@ -880,7 +905,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Leontini",
                 "custom_name": "Lentini",
                 "en_name": "Leontini",
@@ -905,7 +930,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Phintias",
                 "custom_name": "Licata",
                 "en_name": "Plintis",
@@ -930,7 +955,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Megara Hyblaia",
                 "custom_name": "Megara Hyblaea",
                 "en_name": "Megara Hyblaia",
@@ -955,7 +980,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Camarina",
                 "custom_name": "Camarina",
                 "en_name": "Camarina",
@@ -980,7 +1005,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Motya",
                 "custom_name": "Mozia",
                 "en_name": "Motya",
@@ -1005,7 +1030,32 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Greece & North Africa",
+                "in_area": "Sicily",
+                "basename": "Mastro Paolo di Barrafranca",
+                "custom_name": "Barrafranca",
+                "en_name": "",
+                "gr_name": "",
+                "la_name": "",
+                "featuretyp": "settlement",
+                "pid": "462303",
+                "timeperiod": "",
+                "perseus_li": null,
+                "wiki_link": null,
+                "magnitude": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.200938,
+                    37.375679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "map_level": "Sites and Cities",
+                "in_area": "Greece & North Africa",
                 "basename": "Athenae",
                 "custom_name": "Athens",
                 "en_name": "Athens",
@@ -1030,7 +1080,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Greece & North Africa",
+                "in_area": "Greece & North Africa",
                 "basename": "Corinthus/Korinthos",
                 "custom_name": "Corinth",
                 "en_name": "Corinth",
@@ -1055,7 +1105,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Greece & North Africa",
+                "in_area": "Greece & North Africa",
                 "basename": "Cyrene",
                 "custom_name": "Cyrene",
                 "en_name": "Cyrene",
@@ -1080,7 +1130,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Greece & North Africa",
+                "in_area": "Greece & North Africa",
                 "basename": "Olympia",
                 "custom_name": "Olympia",
                 "en_name": "Olympia",
@@ -1105,7 +1155,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Greece & North Africa",
+                "in_area": "Greece & North Africa",
                 "basename": "Olynthos",
                 "custom_name": "Olynthus",
                 "en_name": "Olynthos",
@@ -1130,7 +1180,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Greece & North Africa",
+                "in_area": "Greece & North Africa",
                 "basename": "Delphi",
                 "custom_name": "Delphi",
                 "en_name": "Delphi",
@@ -1155,7 +1205,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Greece & North Africa",
+                "in_area": "Greece & North Africa",
                 "basename": "Aigeai",
                 "custom_name": "Vergina",
                 "en_name": "Aigeai",
@@ -1180,7 +1230,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Region",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Apulia",
                 "custom_name": "Puglia",
                 "en_name": "Apulia",
@@ -1205,7 +1255,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Region",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Campania",
                 "custom_name": "Campania",
                 "en_name": "Campania",
@@ -1230,7 +1280,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Region",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Lucania",
                 "custom_name": "Basilicata",
                 "en_name": "Lucania",
@@ -1246,8 +1296,8 @@ var geojsonFeature = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    40.483163,
-                    16.067057
+                    16.067057,
+                    40.483163
                 ]
             }
         },
@@ -1255,7 +1305,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Region",
-            	"in_area": "South Italy",
+                "in_area": "South Italy",
                 "basename": "Calabria",
                 "custom_name": "Calabria",
                 "en_name": "Calabria",
@@ -1280,7 +1330,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
+                "in_area": "Sicily",
                 "basename": "Aetna M.",
                 "custom_name": "Mount Etna",
                 "en_name": "Aetna M.",
@@ -1302,10 +1352,10 @@ var geojsonFeature = {
             }
         },
          {
-        	"type": "Feature",
+            "type": "Feature",
             "properties": {
                 "map_level": "Country",
-            	"in_area": "",
+                "in_area": "",
                 "basename": "Italia",
                 "custom_name": "Italy",
                 "en_name": "Italy",
@@ -1327,10 +1377,35 @@ var geojsonFeature = {
             }
         },
         {
-        	"type": "Feature",
+            "type": "Feature",
             "properties": {
                 "map_level": "Region",
-            	"in_area": "",
+                "in_area": "",
+                "basename": "",
+                "custom_name": "South Italy",
+                "en_name": "South Italy",
+                "gr_name": "",
+                "la_name": "",
+                "featuretyp": "region",
+                "timeperiod": "",
+                "pid": "",
+                "perseus_li": null,
+                "wiki_link": null,
+                "magnitude": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.66525,
+                    40.77584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "map_level": "Region",
+                "in_area": "",
                 "basename": "Sicilia (island)",
                 "custom_name": "Sicily",
                 "en_name": "Sicily",
@@ -1347,15 +1422,15 @@ var geojsonFeature = {
                 "type": "Point",
                 "coordinates": [
                     14.2816,
-        			37.5443
+                    37.5443
                 ]
             }
         },
         {
-        	"type": "Feature",
+            "type": "Feature",
             "properties": {
                 "map_level": "Country",
-            	"in_area": "",
+                "in_area": "",
                 "basename": "Graecia",
                 "custom_name": "Greece",
                 "en_name": "Greece",
@@ -1377,10 +1452,10 @@ var geojsonFeature = {
             }
         },
         {
-        	"type": "Feature",
+            "type": "Feature",
             "properties": {
                 "map_level": "Sea",
-            	"in_area": "",
+                "in_area": "",
                 "basename": "Internum Mare",
                 "custom_name": "Mediterranean Sea",
                 "en_name": "Mediterranean Sea",
