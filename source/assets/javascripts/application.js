@@ -3,11 +3,13 @@
 //= require lib/velocity.min
 //= require lib/velocity.ui.min
 //= require lib/handlebars.min
+//= require lib/underscore-min
 //= require lib/lunr.min
 //= require lib/leaflet
 //= require ui-functions
 //= require map-functions
 //= require search-functions
+//= require grid-functions
 
 setUpPage();
 

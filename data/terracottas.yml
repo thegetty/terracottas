@@ -980,7 +980,7 @@
   dor_id: 6608
   title: Altar with Animals
   region: South Italy
-  city: "Unidentified Workshop, Metaponto"
+  city: Metaponto
   date: 350-300 BC
   typology: Altar
   munsell:
@@ -1000,7 +1000,7 @@
   dor_id: 8121
   title: Miniature Altar with Animal Combat
   region: South Italy
-  city: "Unidentified Workshop, Caulonia"
+  city: Caulonia
   date: Late sixth-early fifth centuries BC
   typology: Altar
   munsell:
@@ -1018,7 +1018,7 @@
   dor_id: 7319
   title: Head of a Woman
   region: Sicily
-  city: Selinunte/Agrigento
+  city: Selinunte
   date: 350-300 BC
   typology: Head
   munsell:
@@ -1183,12 +1183,11 @@
   pixel_height: 5888
   max_zoom: 5
 
-#Could put "sicily" under region (morgantina is in sicily) but the texts just states it is deaccessioned/went with text.
 - cat: 60
   acc: 85.AD.105
   dor_id: 10951
   title: Head of Hades
-  region: Deaccessioned
+  region: Sicily
   city: Morgantina
   date: 400-300 BC
   typology: Head
