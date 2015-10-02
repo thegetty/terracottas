@@ -38,8 +38,8 @@ function renderGrid(data) {
         group: item.group,
         type: item.typology,
         region: item.region,
-        url: "/catalogue/" + item.cat,
-        image: "/assets/images/" + item.acc + ".jpg"
+        url: "/Terracottas/catalogue/" + item.cat,
+        image: "/Terracottas/assets/images/" + item.acc + ".jpg"
       }));
     });
   } else {
