@@ -1,15 +1,17 @@
+//= require lib/jquery-1.11.3.min
 //= require lib/jquery.smoothState.min
 //= require lib/velocity.min
 //= require lib/velocity.ui.min
 //= require lib/handlebars.min
 //= require lib/lunr.min
+//= require lib/leaflet
 //= require ui-functions
 //= require map-functions
 //= require search-functions
 
 setUpPage();
 
-var searchIndex = $.getJSON("/Terracottas/contents.json").promise();
+var searchIndex = $.getJSON("/contents.json").promise();
 searchIndex.done(function(data) {
   var index    = populateIndex(data);
   var contents = contentList(data);
