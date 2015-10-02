@@ -18,7 +18,7 @@
   @include flex-direction(column);
   @include align-items(stretch);
   @include justify-content(flex-end);
-  @include flex(1 0 40%);
+  @include flex(0 0 40%);
   background-color: $light-gray;
   background-position: center 55%;
   background-repeat: no-repeat;
@@ -30,7 +30,7 @@
   overflow: hidden;
 
   @include media($large-screen-up) {
-    @include flex(1 0 25%);
+    @include flex(0 0 31%);
     background-position: center 40%;
   }
 
