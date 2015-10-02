@@ -8,7 +8,7 @@
 = wrap_layout :application do
   .container.mt3
     %h1.page-title.centered= current_page.data.title
-    #catalogue-grid
+    #catalogue-grid.centered
       .dropdown
         .dropdown-container
           %p.dropdown-description Region
@@ -42,5 +42,7 @@
               All Groups
             - groups.each do |item|
               %li{data: {group: item.group}}= item.group
+      %a.button.no-smoothState.mt1{id: "catalogue-filter-clear"}
+        Clear Filters
       .grid.grid--gutters
     = yield

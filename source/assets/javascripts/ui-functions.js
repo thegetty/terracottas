@@ -188,7 +188,7 @@ function setUpPage(){
   offCanvasSetup();
   addPanelControls();
   keyboardNav();
-  // dropdownSetup();
+  // gridControlSetup();
   gridSetup();
 
   $(".expander-content").addClass("expander--hidden");
