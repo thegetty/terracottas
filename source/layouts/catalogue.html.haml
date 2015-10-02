@@ -1,37 +1,46 @@
+- regions = data.terracottas.uniq { |item| item["region"] }
+- cities = data.terracottas.uniq { |item| item["city"] }
+- types = data.terracottas.uniq { |item| item["typology"] }
+- groups = data.terracottas.uniq { |item| item["group"] }
+- groups.keep_if { |item| item[:group] }
+
+
 = wrap_layout :application do
   .container.mt3
     %h1.page-title.centered= current_page.data.title
-    .dropdown
-      .dropdown-container
-        %p.dropdown-description Region
-        %p.dropdown-button Click to Select
-        %ul.dropdown-menu.dropdown-select
-          %li All Locations
-          %li South Italy
-          %li Sicily
-      .dropdown-container
-        %p.dropdown-description Typology
-        %p.dropdown-button Click to Select
-        %ul.dropdown-menu.dropdown-select
-          %li All Types
-          %li Head
-          %li Bust
-          %li Statue
-          %li Statuette
-          %li Relief
-          %li Mask
-          %li Plaque
-          %li Altar
-          %li Thymiaterion
-          %li Clipeus
-      .dropdown-container
-        %p.dropdown-description Group
-        %p.dropdown-button Click to Select
-        %ul.dropdown-menu.dropdown-select
-          %li All Groups
-          %li Group of a Seated Poet and Sirens
-          %li Group of Heads and Busts from the Taranto Region
-          %li Four Statues of Mourning Women from Canosa
-          %li Statuettes of a Seated Eros
-          %li Pair of Altars with the Myth of Adonis
+    #catalogue-grid
+      .dropdown
+        .dropdown-container
+          %p.dropdown-description Region
+          %p.dropdown-button Click to Select
+          %ul.dropdown-menu.dropdown-select
+            %li{data: {region:"all"}}
+              All Regions
+            - regions.each do |item|
+              %li{data: {region: item.region}}= item.region
+        .dropdown-container
+          %p.dropdown-description City
+          %p.dropdown-button Click to Select
+          %ul.dropdown-menu.dropdown-select
+            %li{data: {city:"all"}}
+              All Cities
+            - cities.each do |item|
+              %li{data: {city: item.city}}= item.city
+        .dropdown-container
+          %p.dropdown-description Typology
+          %p.dropdown-button Click to Select
+          %ul.dropdown-menu.dropdown-select
+            %li{data: {typology:"all"}}
+              All Types
+            - types.each do |item|
+              %li{data: {typology: item.typology}}= item.typology
+        .dropdown-container
+          %p.dropdown-description Group
+          %p.dropdown-button Click to Select
+          %ul.dropdown-menu.dropdown-select
+            %li{data: {group:"all"}}
+              All Groups
+            - groups.each do |item|
+              %li{data: {group: item.group}}= item.group
+      .grid.grid--gutters
     = yield
