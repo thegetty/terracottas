@@ -2,7 +2,7 @@ var gridSelection = {};
 
 function gridSetup() {
   if ( $("#catalogue-grid").length ) {
-    var catalogue = $.getJSON("/catalogue.json").promise();
+    var catalogue = $.getJSON("/Terracottas/catalogue.json").promise();
     catalogue.done(function(data){
       renderGrid(data);
       dropdownSetup(data);
@@ -60,8 +60,8 @@ function renderGrid(data) {
       group: item.group,
       type: item.typology,
       region: item.region,
-      url: "/catalogue/" + item.cat,
-      image: "/assets/images/" + item.acc + ".jpg"
+      url: "/Terracottas/catalogue/" + item.cat,
+      image: "/Terracottas/assets/images/" + item.acc + ".jpg"
     }));
   });
 }
