@@ -29,6 +29,7 @@ function gridSetup() {
 
 function renderGrid(data) {
   var cardTemplate = Handlebars.compile($("#card-template").html());
+  $(".result-counter").empty();
   if(data.length > 0) {
     $.each(data, function(index, item) {
       $("#catalogue-grid .grid").append(cardTemplate({
@@ -41,6 +42,7 @@ function renderGrid(data) {
         url: "/Terracottas/catalogue/" + item.cat,
         image: "/Terracottas/assets/images/" + item.acc + ".jpg"
       }));
+      $(".result-counter").html(data.length + " results");
     });
   } else {
     $("#catalogue-grid .grid").append(
