@@ -5,9 +5,13 @@
     %article
       - object_data(current_item.cat)
       .object-header
-        %h2.object-meta= current_item.cat.to_s
+        =link_to "#{site_url}/catalogue" do
+          %i.ion-chevron-up.h3
+        %h2.object-meta.mt2= current_item.cat.to_s
         %h1.object-title= current_page.data.title
-        %h3.object-meta= current_item.date
+        %h3.object-meta.mb3= current_item.date
+        %h6
+          %a.expand-all{href: "javascript:void(0);"} Expand All
       .object-content
         = partial(:object_details, :locals => { :current_item => current_item })
         - if current_page.data.fabric
