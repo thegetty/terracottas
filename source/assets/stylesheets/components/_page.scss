@@ -18,6 +18,14 @@
   @include media($small-screen) {
     height: 400px;
   }
+
+  @include media($medium-screen-up) {
+    height: 600px;
+  }
+
+  @include media($large-screen-up) {
+    height: 60vh;
+  }
 }
 
 .page-title {
@@ -26,10 +34,14 @@
   padding-bottom: 2rem;
   padding-top: 4rem;
 
-  @include media($medium-screen-up) {
-    padding-bottom: 2rem;
-    padding-top: 5rem;
+  @include media($large-screen-up) {
+    padding-top: 8rem;
   }
+}
+
+.page-cover ~ .container .page-content .page-title {
+  padding-top: 1rem;
+  @include media($large-screen-up) { padding-top: 2rem; }
 }
 
 .page-content {
