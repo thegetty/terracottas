@@ -45,9 +45,13 @@ a.button {
     font-size: $base-font-size * 1.125;
   }
 
-  @include media($x-large-screen-up) {
-    font-size: $base-font-size * 1.25;
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 1rem;
   }
+
+  // @include media($x-large-screen-up) {
+  //   font-size: $base-font-size * 1.15;
+  // }
 
   p {
     margin-bottom: 0;
