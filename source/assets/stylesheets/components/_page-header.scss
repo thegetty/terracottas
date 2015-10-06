@@ -19,6 +19,12 @@
   margin-right: 1.25rem;
 }
 
+.next-link, .prev-link {
+  @include media($small-screen) {
+    display: none;
+  }
+}
+
 // If page has panel layout, header only covers right panel
 .panel-container ~ .page-header {
   @include media($small-screen) { width: 100%; }
