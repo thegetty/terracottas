@@ -3,35 +3,26 @@
 %ul.toc
   %li
     %h3.toc-title.mb1
-      =link_to data.nav.short_title || data.nav.title, "#{site_url}/"
-    %h4.toc-entry-author.mb3= data.contents.author
-  - data.nav.contents.each do |item|
-    %li.toc-entry{ class: item.section? && "toc-section" }
-      - if item.section?
-        - if item.title?
-          %h3
-            = link_to item.title, "#{site_url}#{item.link}/"
-      - else
-        = link_to item.title, "#{site_url}#{item.link}/"
-      - if item.author?
-        %span.toc-entry-author= item.author
-        %br
-      - if item.contents
-        %ul.toc-submenu
-          - item.contents.each do |child|
-            %li.toc-entry{ class: child.subsection? && "toc-subsection" }
-              - if child.subsection?
-                %h5
-                  = link_to child.title, "#{site_url}#{child.link}/"
-              - else
-                = link_to child.title, "#{site_url}#{child.link}/"
-                - if child.author?
-                  %span.toc-entry-author= child.author
-              - if child.contents
-                %ul.toc-submenu
-                  - child.contents.each do |grandchild|
-                    %li.toc-entry
-                      = link_to grandchild.title, "#{site_url}#{grandchild.link}/"
+      =link_to data.book.short_title || data.book.title, "#{site_url}/"
+    %h4.toc-entry-author.mb3= data.book.author
+  %li.toc-section
+    %h4
+      =link_to "Table of Contents", "#{site_url}/frontmatter/contents"
+  %li.toc-section
+    %h3.pt1
+      =link_to "Catalogue", "#"
+  %li.toc-section
+    =link_to "#{site_url}/frontmatter/downloads" do
+      %i.ion-archive.mr1
+      %span Download
+    %br
+    =link_to "#{site_url}/frontmatter/cite" do
+      %i.ion-bookmark.mr2
+      %span Cite
+  %li
+    %h4
+      =link_to "Guide to the Collection", "#"
+    %h5.toc-entry-author.mb3 Claire L. Lyons
   %li.toc-logo
     = tag :img,
       src: image_path("getty_logo.svg"), class: "toc-logo", alt: "Getty Logo"
