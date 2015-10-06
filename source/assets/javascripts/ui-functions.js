@@ -94,8 +94,7 @@ function isHidden($el) {
 function expandSection($el) {
   $section = $el.parent().find(".expander-content");
   var options = {
-    duration: 300,
-    complete: function () { $section.toggleClass("expander--hidden"); }
+    duration: 300
   };
 
   if (isHidden($section)) {
