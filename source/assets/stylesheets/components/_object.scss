@@ -2,15 +2,16 @@
 
 .object-header {
   @include transition($base-transition);
+  text-align: center;
 
   @include media($medium-screen-up) {
     margin-bottom: $base-spacing;
-    margin-top: $base-spacing * 2;
+    margin-top: $base-spacing;
   }
 
   @include media($large-screen-up) {
     margin-bottom: $base-spacing * 2;
-    margin-top: $base-spacing * 2.5;
+    margin-top: $base-spacing;
   }
 }
 

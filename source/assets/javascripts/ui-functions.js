@@ -90,6 +90,24 @@ function isHidden($el) {
   }
 }
 
+
+function expandSection($el) {
+  $section = $el.parent().find(".expander-content");
+  var options = {
+    duration: 300,
+    complete: function () { $section.toggleClass("expander--hidden"); }
+  };
+
+  if (isHidden($section)) {
+    $section.velocity("transition.slideDownIn", options);
+  } else {
+    $section.velocity("transition.slideUpOut", options);
+  }
+
+  $section.toggleClass("expander--hidden");
+
+}
+
 // -----------------------------------------------------------------------------
 
 // -----------------------------------------------------------------------------
@@ -164,18 +182,32 @@ function addPanelControls() {
   });
 
   // Accordion section event listener
-  $(".expander-trigger").click(function () {
-    var options = {
-      duration: 300,
-      complete: function () { $section.toggleClass("expander--hidden"); }
-    };
+  $(".expander-trigger").click(function() {
+    expandSection($(this));
+  });
 
-    $section = $(this).parent().find(".expander-content");
+  // Expand all trigger
+  $(".expand-all").click(function(){
+    $(this).toggleClass("expanded");
 
-    if (isHidden($section)) {
-      $section.velocity("transition.slideDownIn", options);
+    // expand mode
+    if ($(this).hasClass("expanded")) {
+      $(this).html("Collapse All");
+      $(".expander-trigger").filter(function() {
+        var $section = $(this).parent().find(".expander-content");
+        if ($section.hasClass("expander--hidden")) {
+          return $section;
+        }
+      }).click();
+    // collapse mode
     } else {
-      $section.velocity("transition.slideUpOut", options);
+      $(this).html("Expand All");
+      $(".expander-trigger").filter(function() {
+        var $section = $(this).parent().find(".expander-content");
+        if (!$section.hasClass("expander--hidden")) {
+          return $section;
+        }
+      }).click();
     }
   });
 }
