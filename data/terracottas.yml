@@ -6,6 +6,8 @@
   region: South Italy
   city: Taranto
   date: 330-300 BC
+  start_date: 330
+  end_date: 300
   typology: Statue
   munsell:
   - desc: Overall
@@ -33,6 +35,8 @@
   region: South Italy
   city: Taranto
   date: 330-300 BC
+  start_date: 330
+  end_date: 300
   typology: Statue
   munsell:
   - desc: Overall
@@ -54,6 +58,8 @@
   region: South Italy
   city: Taranto
   date: 330-300 BC
+  start_date: 330
+  end_date: 300
   typology: Statue
   munsell:
   - desc: Overall
@@ -75,6 +81,8 @@
   region: South Italy
   city: Taranto
   date: Late fifth century BC
+  start_date: 425
+  end_date: 400
   typology: Head
   munsell:
   - desc: Overall
@@ -96,6 +104,8 @@
   region: South Italy
   city: Taranto
   date: Late fourth-early third century BC
+  start_date: 325
+  end_date: 275
   typology: Head
   munsell:
   - desc: Overall
@@ -117,6 +127,8 @@
   region: South Italy
   city: Taranto
   date: Fourth century BC
+  start_date: 400
+  end_date: 300
   typology: Head
   munsell:
   - desc: Overall
@@ -138,6 +150,8 @@
   region: South Italy
   city: Taranto
   date: 400-300 BC
+  start_date: 400
+  end_date: 300
   typology: Head
   munsell:
   - desc: Overall
@@ -159,6 +173,8 @@
   region: South Italy
   city: Taranto
   date: Fourth century BC
+  start_date: 400
+  end_date: 300
   typology: Head
   munsell:
   - desc: Overall
@@ -180,6 +196,8 @@
   region: South Italy
   city: Taranto
   date: About 350 BC
+  start_date: 375
+  end_date: 325
   typology: Head
   munsell:
   - desc: Overall
@@ -201,6 +219,8 @@
   region: South Italy
   city: Taranto
   date: About 350 BC
+  start_date: 375
+  end_date: 325
   typology: Head
   munsell:
   - desc: Overall
@@ -220,6 +240,8 @@
   region: South Italy
   city: Taranto
   date: 375-350 BC
+  start_date: 375
+  end_date: 350
   typology: Head
   munsell:
   - desc: Overall
@@ -241,6 +263,8 @@
   region: South Italy
   city: Taranto
   date: 350-300 BC
+  start_date: 350
+  end_date: 300
   typology: Head
   munsell:
   - desc: Overall
@@ -264,6 +288,8 @@
   region: South Italy
   city: Taranto
   date: 400-350 BC
+  start_date: 400
+  end_date: 350
   typology: Head
   munsell:
   - desc: Overall
@@ -285,6 +311,8 @@
   region: South Italy
   city: Taranto
   date: 400-350 BC
+  start_date: 400
+  end_date: 350
   typology: Head
   munsell:
   - desc: Overall
@@ -306,6 +334,8 @@
   region: South Italy
   city: Taranto
   date: Late fifth-first half of the fourth centuries BC
+  start_date: 425
+  end_date: 350
   typology: Bust
   munsell:
   - desc: Overall
@@ -327,6 +357,8 @@
   region: South Italy
   city: Taranto
   date: 450-350 BC
+  start_date: 450
+  end_date: 350
   typology: Bust
   munsell:
   - desc: Overall
@@ -349,6 +381,8 @@
   region: South Italy
   city: Taranto
   date: 400-250 BC
+  start_date: 400
+  end_date: 250
   typology: Bust
   munsell:
   - desc: Overall
@@ -371,6 +405,8 @@
   region: South Italy
   city: Taranto
   date: 300-250 BC
+  start_date: 300
+  end_date: 250
   typology: Head
   munsell:
   - desc: Front
@@ -395,6 +431,8 @@
   region: South Italy
   city: Taranto
   date: Third-second century BC
+  start_date: 300
+  end_date: 100
   typology: Head
   munsell:
   - desc: Front
@@ -419,6 +457,8 @@
   region: South Italy
   city: Taranto
   date: 400-350 BC
+  start_date: 400
+  end_date: 350
   typology: Head
   munsell:
   - desc: Overall
@@ -442,6 +482,8 @@
   region: South Italy
   city: Taranto
   date: Late fifth-fourth century BC
+  start_date: 425
+  end_date: 300
   typology: Bust
   munsell:
   - desc: Overall
@@ -461,6 +503,8 @@
   region: South Italy
   city: Taranto
   date: 440-430 BC
+  start_date: 440
+  end_date: 430
   typology: Head
   munsell:
   - desc: Overall
@@ -480,6 +524,8 @@
   region: South Italy
   city: Taranto
   date: 300-200 BC
+  start_date: 300
+  end_date: 200
   typology: Head
   munsell:
   - desc: Overall
@@ -500,6 +546,8 @@
   region: South Italy
   city: Taranto and the Apulian Region
   date: 300-250 BC
+  start_date: 300
+  end_date: 250
   typology: Head
   munsell:
   - desc: Overall
@@ -519,6 +567,8 @@
   region: South Italy
   city: Taranto and the Apulian Region
   date: 400-250 BC
+  start_date: 400
+  end_date: 250
   typology: Statuette
   munsell:
   - desc: Overall
@@ -537,6 +587,8 @@
   region: South Italy
   city: Taranto and the Apulian Region
   date: Late fourth-third century BC
+  start_date: 325
+  end_date: 200
   typology: Plaque
   munsell:
   - desc: Overall
@@ -555,6 +607,8 @@
   region: South Italy
   city: Taranto and the Apulian Region
   date: Fourth-third centuries BC
+  start_date: 400
+  end_date: 200
   typology: Statuette
   munsell:
   - desc: Overall
@@ -573,6 +627,8 @@
   region: South Italy
   city: Taranto and the Apulian Region
   date: 400-200 BC
+  start_date: 400
+  end_date: 200
   typology: Statuette
   munsell:
   - desc: Overall
@@ -591,6 +647,8 @@
   region: South Italy
   city: Taranto and the Apulian Region
   date: 225-175 BC
+  start_date: 225
+  end_date: 175
   typology: Statuette
   munsell:
   - desc: Overall
@@ -611,6 +669,8 @@
   region: South Italy
   city: Taranto and the Apulian Region
   date: 400-200 BC
+  start_date: 400
+  end_date: 200
   typology: Statuette
   munsell:
   - desc: Overall
@@ -629,6 +689,8 @@
   region: South Italy
   city: Taranto and the Apulian Region
   date: 300-200 BC
+  start_date: 300
+  end_date: 200
   typology: Mask
   munsell:
   - desc: Overall
@@ -647,6 +709,8 @@
   region: South Italy
   city: Taranto and the Apulian Region
   date: 325-250 BC
+  start_date: 325
+  end_date: 250
   typology: Statuette
   munsell:
   - desc: Overall
@@ -669,6 +733,8 @@
   region: South Italy
   city: Taranto and the Apulian Region
   date: 300-200 BC
+  start_date: 300
+  end_date: 200
   typology: Statuette
   munsell:
   - desc: Overall
@@ -687,6 +753,8 @@
   region: South Italy
   city: Taranto and the Apulian Region
   date: 350-300 BC
+  start_date: 350
+  end_date: 300
   typology: Relief
   dimensions:
   - desc: |-
@@ -702,6 +770,8 @@
   region: South Italy
   city: Taranto and the Apulian Region
   date: 350-300 BC
+  start_date: 350
+  end_date: 300
   typology: Relief
   dimensions:
   - desc: |-
@@ -717,6 +787,8 @@
   region: South Italy
   city: Taranto and the Apulian Region
   date: 350-300 BC
+  start_date: 350
+  end_date: 300
   typology: Relief
   dimensions:
   - desc: |-
@@ -734,6 +806,8 @@
   region: South Italy
   city: Taranto and the Apulian Region
   date: 350-300 BC
+  start_date: 350
+  end_date: 300
   typology: Relief
   dimensions:
   - desc: |-
@@ -752,6 +826,8 @@
   region: South Italy
   city: Canosa
   date: 300-275 BC
+  start_date: 300
+  end_date: 275
   typology: Statue
   munsell:
   - desc: Overall
@@ -775,6 +851,8 @@
   region: South Italy
   city: Canosa
   date: 300-275 BC
+  start_date: 300
+  end_date: 275
   typology: Statue
   munsell:
   - desc: Overall
@@ -798,6 +876,8 @@
   region: South Italy
   city: Canosa
   date: 300-275 BC
+  start_date: 300
+  end_date: 275
   typology: Statue
   munsell:
   - desc: Overall
@@ -821,6 +901,8 @@
   region: South Italy
   city: Canosa
   date: 300-275 BC
+  start_date: 300
+  end_date: 275
   typology: Statue
   munsell:
   - desc: At the core
@@ -843,6 +925,8 @@
   region: South Italy
   city: Canosa
   date: 300-250 BC
+  start_date: 300
+  end_date: 250
   typology: Statue
   munsell:
   - desc: Overall
@@ -861,6 +945,8 @@
   region: South Italy
   city: Canosa
   date: Late fourth-third centuries BC
+  start_date: 325
+  end_date: 200
   typology: Statuette
   munsell:
   - desc: Overall
@@ -879,6 +965,8 @@
   region: South Italy
   city: Canosa
   date: 200-100 BC
+  start_date: 200
+  end_date: 100
   typology: Statuette
   munsell:
   - desc: Overall
@@ -898,6 +986,8 @@
   region: South Italy
   city: Canosa
   date: Late fourth-third centuries BC
+  start_date: 325
+  end_date: 200
   typology: Statuette
   munsell:
   - desc: Overall
@@ -917,6 +1007,8 @@
   region: South Italy
   city: Canosa
   date: Late fourth-third centuries BC
+  start_date: 325
+  end_date: 200
   typology: Statuette
   munsell:
   - desc: Overall
@@ -936,6 +1028,8 @@
   region: South Italy
   city: Medma
   date: Late fifth-early fourth century BC
+  start_date: 425
+  end_date: 375
   typology: Altar
   munsell:
   - desc: Overall
@@ -960,6 +1054,8 @@
   region: South Italy
   city: Medma
   date: Late fifth-early fourth century BC
+  start_date: 425
+  end_date: 375
   typology: Altar
   munsell:
   - desc: Overall
@@ -982,6 +1078,8 @@
   region: South Italy
   city: Metaponto
   date: 350-300 BC
+  start_date: 350
+  end_date: 300
   typology: Altar
   munsell:
   - desc: Overall
@@ -1002,6 +1100,8 @@
   region: South Italy
   city: Caulonia
   date: Late sixth-early fifth centuries BC
+  start_date: 525
+  end_date: 475
   typology: Altar
   munsell:
   - desc: Overall
@@ -1020,6 +1120,8 @@
   region: Sicily
   city: Selinunte
   date: 350-300 BC
+  start_date: 350
+  end_date: 300
   typology: Head
   munsell:
   - desc: Overall
@@ -1040,6 +1142,8 @@
   region: Sicily
   city: Selinunte
   date: 550-525 BC
+  start_date: 550
+  end_date: 525
   typology: Relief
   munsell:
   - desc: Front
@@ -1061,6 +1165,8 @@
   region: Sicily
   city: Gela
   date: 500-475 BC
+  start_date: 500
+  end_date: 475
   typology: Thymiaterion
   munsell:
   - desc: Overall
@@ -1080,6 +1186,8 @@
   region: Sicily
   city: Barrafranca
   date: 525-500 BC
+  start_date: 525
+  end_date: 500
   typology: Statuette
   munsell:
   - desc: Overall
@@ -1098,6 +1206,8 @@
   region: Sicily
   city: Centuripe
   date: Late third-early second centuries BC
+  start_date: 225
+  end_date: 175
   typology: Statuette
   munsell:
   - desc: Overall
@@ -1117,6 +1227,8 @@
   region: Sicily
   city: Centuripe
   date: Late fourth-third centuries BC
+  start_date: 325
+  end_date: 200
   typology: Statuette
   munsell:
   - desc: Overall
@@ -1135,6 +1247,8 @@
   region: Sicily
   city: Centuripe
   date: 150-125 BC
+  start_date: 150
+  end_date: 125
   typology: Statuette
   munsell:
   - desc: Overall
@@ -1154,6 +1268,8 @@
   region: Sicily
   city: Centuripe
   date: 200-100 BC
+  start_date: 200
+  end_date: 100
   typology: Mask
   munsell:
   - desc: Overall
@@ -1172,6 +1288,8 @@
   region: Sicily
   city: Centuripe
   date: Third-second centuries BC
+  start_date: 300
+  end_date: 100
   typology: Clipeus
   munsell:
   - desc: Overall
@@ -1190,6 +1308,8 @@
   region: Sicily
   city: Morgantina
   date: 400-300 BC
+  start_date: 400
+  end_date: 300
   typology: Head
   munsell:
   - desc: Overall
