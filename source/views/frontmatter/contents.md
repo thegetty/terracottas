@@ -26,7 +26,7 @@ layout: page
 
 ### [Catalogue](../catalogue)
 
-#### [South Italy (1-50)](../catalogue/south-italy)
+#### South Italy (1-50)
 
 ###### Taranto and the Surrounding Areas (1–37)
 
@@ -38,7 +38,7 @@ layout: page
 
 <br />
 
-#### [Sicily (51-60)](../catalogue/sicily)
+#### Sicily (51-60)
 
 ---
 
@@ -48,6 +48,6 @@ layout: page
 
 ---
 
-####### [Download](downloads)
+###### [Download](downloads)
 
 ###### [Citation Info](cite)
