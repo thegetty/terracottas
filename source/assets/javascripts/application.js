@@ -13,7 +13,8 @@
 
 setUpPage();
 
-var searchIndex = $.getJSON("/Terracottas/contents.json").promise();
+var searchIndex = $.getJSON(
+  "http://gettypubs.github.io/Terracottas/contents.json").promise();
 searchIndex.done(function(data) {
   var index    = populateIndex(data);
   var contents = contentList(data);
