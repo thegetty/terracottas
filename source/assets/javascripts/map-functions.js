@@ -54,8 +54,11 @@ function initMap() {
 
   if ($("#map").hasClass("no-scroll")) {
     map.scrollWheelZoom.disable();
-  } else {
-    L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle).addTo(map);
+  } else if (!$("#map").hasClass("fullscreen")) {
+    L.easyButton(
+      '<i class="icon ion-android-expand"></i>',
+      leftPanelToggle
+    ).addTo(map);
   }
 
   // geoJson placeholder is currently loaded from geojson.js
