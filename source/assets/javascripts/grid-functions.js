@@ -14,7 +14,8 @@
 
 function gridSetup() {
   if ( $("#catalogue-grid").length ) {
-    var catalogue = $.getJSON("/Terracottas/catalogue.json").promise();
+    var catalogue = $.getJSON(
+      "http://gettypubs.github.io/Terracottas/catalogue.json").promise();
     catalogue.done(function(data){
       renderGrid(data);
       gridControlSetup(data);
@@ -39,8 +40,8 @@ function renderGrid(data) {
         group: item.group,
         type: item.typology,
         region: item.region,
-        url: "/Terracottas/catalogue/" + item.cat,
-        image: "/Terracottas/assets/images/" + item.acc + ".jpg"
+        url: "http://gettypubs.github.io/Terracottas/catalogue/" + item.cat,
+        image: "http://gettypubs.github.io/Terracottas/assets/images/" + item.acc + ".jpg"
       }));
       $(".result-counter").html(data.length + " results");
     });
