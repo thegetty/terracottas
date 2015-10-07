@@ -209,6 +209,37 @@ function addPanelControls() {
       }).click();
     }
   });
+
+  // Modal closed
+  $(".modal-close").on("click", function() {
+    $("body").removeClass("modal-open");
+  });
+}
+
+// Show Modal ------------------------------------------------------------------
+function showModal() {
+  $("body").addClass("modal-open");
+}
+
+// 360 rotation-----------------------------------------------------------------
+function init360() {
+
+  $(".product1").ThreeSixty({
+    totalFrames: 180, // Total no. of image you have for 360 slider
+    endFrame: 180, // end frame for the auto spin animation
+    currentFrame: 1, // This the start frame for auto spin
+    imgList: '.threesixty_images', // selector for image list
+    progress: '.spinner', // selector to show the loading progress
+    imagePath:'/assets/images/360/33/', // path of the image assets
+    filePrefix: '', // file prefix if any
+    ext: '.JPG', // extention for the assets
+    height: 833,
+    width: 1000,
+    responsive: true,
+    autoplaydirection: -1,
+    navigation: false
+  });
+
 }
 
 // =============================================================================
@@ -221,6 +252,7 @@ function setUpPage(){
   keyboardNav();
   // gridControlSetup();
   gridSetup();
+  init360();
 
   $(".expander-content").addClass("expander--hidden");
   if ( mapCheck($(".object-data")) ) {

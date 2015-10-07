@@ -5,8 +5,12 @@
     / Left Panel
     .panel.panel-left
       .panel-inner
-        - if current_page.data.cat
-          #map{ :data => { :catalogue => current_item.cat.to_s } }
+        - if current_page.data.cat && has_rotation?(current_page.data.cat)
+          #map{ :data => { :catalogue => current_item.cat.to_s,
+                           :rotation => "true" }}
+          = partial "modal"
+        - elsif current_page.data.cat
+          #map{ :data => { :catalogue => current_item.cat.to_s }}
         - else
           #map
     / Right Panel

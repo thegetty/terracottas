@@ -512,6 +512,7 @@
     pixel_width: 5120
     pixel_height: 7424
 - cat: 33
+  rotation: true
   layers:
   - name: Back
     path: terracottas/33/back
