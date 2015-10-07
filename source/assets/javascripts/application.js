@@ -6,6 +6,7 @@
 //= require lib/underscore-min
 //= require lib/lunr.min
 //= require lib/leaflet
+//= require lib/threesixty
 //= require ui-functions
 //= require map-functions
 //= require search-functions

@@ -50,6 +50,10 @@ module CatalogueHelpers
     }
   end
 
+  def has_rotation?(id)
+    data.img_index.find { |item| item[:cat] == id }.rotation || false
+  end
+
   def next_entry(id = 0)
     range = 1..59
     return false unless range.include?(id)

@@ -54,11 +54,6 @@ function initMap() {
 
   if ($("#map").hasClass("no-scroll")) {
     map.scrollWheelZoom.disable();
-  } else if (!$("#map").hasClass("fullscreen")) {
-    L.easyButton(
-      '<i class="icon ion-android-expand"></i>',
-      leftPanelToggle
-    ).addTo(map);
   }
 
   // geoJson placeholder is currently loaded from geojson.js
@@ -130,6 +125,14 @@ function initDeepZoom(options) {
   L.control.layers(baseMaps).addTo(map).setPosition("topright");
   map.addLayer(baseMaps["Main view"]);
   L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle).addTo(map);
+
+  if ($("#map").data("rotation")) {
+    L.easyButton(
+      '<i class="icon ion-refresh"></i>',
+      showModal
+    ).addTo(map);
+  }
+
 
   return map;
 }
