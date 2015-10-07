@@ -8,19 +8,19 @@ layout: page
 
 ---
 
-#### [Introduction](introduction)
+#### [Introduction](./introduction)
 
-#### [Acknowledgments](acknowledgments)
+#### [Acknowledgments](./acknowledgments)
 
-#### [Classification](classification)
+#### [Classification](./classification)
 
-#### [Production Techniques](production_techniques)
+#### [Production Techniques](./production_techniques)
 
-#### [Abbreviations](abbreviations)
+#### [Abbreviations](./abbreviations)
 
-#### [Bibliography](bibliography)
+#### [Bibliography](./bibliography)
 
-#### [Reference Map](map)
+#### [Reference Map](./map)
 
 ---
 
@@ -48,6 +48,6 @@ layout: page
 
 ---
 
-###### [Download](downloads)
+###### [Download](./downloads)
 
-###### [Citation Info](cite)
+###### [Citation Info](./cite)
