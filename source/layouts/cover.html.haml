@@ -6,12 +6,11 @@
     %h2.cover-author Maria Lucia Ferruzza
   .cover-copy
     .cover-copy-inner
-      %blockquote= lorem.paragraph
-      %cite= (lorem.words 7).capitalize
-      %h4.mt3.mb2
-        = link_to "Director's Foreword", "#"
-      %h4.mb3
-        = link_to "Introduction", "#{site_url}/frontmatter/introduction"
+      = yield
+      -# %h4.mt3.mb2
+      -#   = link_to "Director's Foreword", "#"
+      -# %h4.mb3
+      -#   = link_to "Introduction", "#{site_url}/frontmatter/introduction"
   .cover-explore
     %h2.centered.mt3 Highlights from the Catalogue
     = partial(:grid,
