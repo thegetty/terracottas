@@ -17,15 +17,13 @@ $modal-close-color: $light-gray;
     @include position(fixed, 0);
     background-color: rgba(#000, 0.85);
     text-align: left;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
     z-index: 99999999999;
-
-    @include media($large-screen-up) {
-      padding-top: 10em;
-    }
   }
 
   .modal-close {
-    @include position(absolute, ($modal-padding /2) ($modal-padding /2) null null);
+    @include position(fixed, ($modal-padding /2) ($modal-padding /2) null null);
     @include size(1.5em);
     cursor: pointer;
     z-index: 999999999999;
