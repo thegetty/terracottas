@@ -473,9 +473,9 @@
         if (AppConfig.monitorStartTime < new Date().getTime() - AppConfig.monitorInt) {
           AppConfig.pointerDistance = AppConfig.pointerEndPosX - AppConfig.pointerStartPosX;
           if(AppConfig.pointerDistance > 0){
-          AppConfig.endFrame = AppConfig.currentFrame + Math.ceil((AppConfig.totalFrames - 1) * AppConfig.speedMultiplier * (AppConfig.pointerDistance / base.$el.width()));
+          AppConfig.endFrame = AppConfig.currentFrame - Math.ceil((AppConfig.totalFrames - 1) * AppConfig.speedMultiplier * (AppConfig.pointerDistance / base.$el.width()));
           }else{
-          AppConfig.endFrame = AppConfig.currentFrame + Math.floor((AppConfig.totalFrames - 1) * AppConfig.speedMultiplier * (AppConfig.pointerDistance / base.$el.width()));
+          AppConfig.endFrame = AppConfig.currentFrame - Math.floor((AppConfig.totalFrames - 1) * AppConfig.speedMultiplier * (AppConfig.pointerDistance / base.$el.width()));
           }
 
           if( AppConfig.disableWrap ) {
