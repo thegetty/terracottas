@@ -7,7 +7,9 @@
       .panel-inner
         - if current_page.data.cat && has_rotation?(current_page.data.cat)
           #map{ :data => { :catalogue => current_item.cat.to_s,
-                           :rotation => "true" }}
+                           :rotation  => "true",
+                           :rheight   => rotation_height(current_page.data.cat),
+                           :rwidth    => rotation_width(current_page.data.cat)}}
           = partial "modal"
         - elsif current_page.data.cat
           #map{ :data => { :catalogue => current_item.cat.to_s }}

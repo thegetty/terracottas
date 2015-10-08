@@ -46,12 +46,23 @@ module CatalogueHelpers
         :height   => object.pixel_height,
         :max_zoom => object.max_zoom
       },
-      :views => layers.to_json
+      :views    => layers.to_json,
+      :rotation => has_rotation?(id),
+      :rheight  => rotation_height(id),
+      :rwidth   => rotation_width(id)
     }
   end
 
   def has_rotation?(id)
     data.img_index.find { |item| item[:cat] == id }.rotation || false
+  end
+
+  def rotation_height(id)
+    data.img_index.find { |item| item[:cat] == id }.rotation_height || false
+  end
+
+  def rotation_width(id)
+    data.img_index.find { |item| item[:cat] == id }.rotation_width || false
   end
 
   def next_entry(id = 0)
