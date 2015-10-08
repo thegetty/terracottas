@@ -87,7 +87,7 @@ function initMap() {
 // Returns a Leaflet map object.
 
 function initDeepZoom(options) {
-  var mapMinZoom = 2;
+  var mapMinZoom = 1;
   var mapMaxZoom = 5;
   var baseMaps   = {};
 
@@ -132,7 +132,6 @@ function initDeepZoom(options) {
       showModal
     ).addTo(map);
   }
-
 
   return map;
 }
