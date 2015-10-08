@@ -16,11 +16,20 @@ $modal-close-color: $light-gray;
     @include transition(opacity 0.25s ease);
     @include position(fixed, 0);
     background-color: rgba(#000, 0.85);
+    display: table;
+    height: 100vh;
     text-align: left;
     overflow: auto;
+    width: 100%;
     -webkit-overflow-scrolling: touch;
     z-index: 99999999999;
   }
+
+  .modal-inner {
+    display: table-cell;
+    vertical-align: middle;
+  }
+
 
   .modal-close {
     @include position(fixed, ($modal-padding /2) ($modal-padding /2) null null);
