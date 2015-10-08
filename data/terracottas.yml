@@ -23,6 +23,7 @@
       Footstool rest, flat slab:
       H: 3 cm; W: 44.9 cm; D: 34.1 cm
   featured: true
+  feature_description: "A life-size figure of a seated poet playing the kithara, identified as Orpheus, is flanked by two half-bird, half-woman Sirens, who sing to mourn the dead and escort them to the Underworld. The unique group likely belonged to a funeral monument erected for a mortal musician from the region of Taranto."
   pixel_width: 6656
   pixel_height: 8192
   max_zoom: 5
@@ -558,7 +559,6 @@
   pixel_width: 4864
   pixel_height: 5376
   max_zoom: 5
-  featured: true
 
 - cat: 25
   acc: 78.AD.294.2
@@ -1050,7 +1050,6 @@
   dor_id: 12835
   title: Pair of Altars with the Myth of Adonis
   group: Pair of Altars with the Myth of Adonis
-  featured: true
   region: South Italy
   city: Medma
   date: Late fifth-early fourth century BC
@@ -1067,6 +1066,8 @@
       W (Top): 31.5 cm; D (Top): 27.8 cm
   - desc: |-
       W (Hollow): 1.7 cm; D (Hollow): 2.7 cm
+  featured: true
+  feature_description: "On a pair of altars connected with the mystery cult of Adonis in Magna Graecia, reliefs show the beautiful youth seated between by his rival lovers Aphrodite and Persephone and dancing female attendants. Fated to die and be reborn each year, Adonis was associated with the life cycle of fertility and regeneration."
   pixel_width: 5632
   pixel_height: 6400
   max_zoom: 5
@@ -1131,6 +1132,8 @@
       H: 28.8 cm; W: 19.1 cm
   - desc: |-
       Diam: (polos) 12.2 cm
+  featured: true
+  feature_description: "Votive female heads were dedicated by the hundreds as ritual offerings in Sicilian sanctuaries. Wearing a tall crown denoting divinity, this serene visage may represent the mother goddess Demeter, her daughter Kore, or a young bride on the eve of marriage and procreation."
   pixel_width: 3840
   pixel_height: 4608
   max_zoom: 5
@@ -1177,7 +1180,6 @@
   pixel_width: 5376
   pixel_height: 6912
   max_zoom: 5
-  featured: true
 
 - cat: 54
   acc: 79.AD.37
@@ -1223,7 +1225,6 @@
   acc: 71.AD.131
   dor_id: 6591
   title: Statuette of Aphrodite
-  featured: true
   region: Sicily
   city: Centuripe
   date: Late fourth-third centuries BC
@@ -1264,7 +1265,6 @@
   acc: 96.AD.305
   dor_id: 32043
   title: Mask of a Satyr
-  featured: true
   region: Sicily
   city: Centuripe
   date: 200-100 BC
