@@ -224,13 +224,14 @@ function showModal() {
 
 // 360 rotation-----------------------------------------------------------------
 function init360() {
-  $(".product1").ThreeSixty({
+  var catNum = $(".object-data").data("catalogue");
+  $(".rotator").ThreeSixty({
     totalFrames: 180, // Total no. of image you have for 360 slider
     endFrame: 180, // end frame for the auto spin animation
     currentFrame: 1, // This the start frame for auto spin
     imgList: '.threesixty_images', // selector for image list
     progress: '.spinner', // selector to show the loading progress
-    imagePath:'http://gettypubs.github.io/Terracottas/assets/images/360/33/', // path of the image assets
+    imagePath:'http://gettypubs.github.io/Terracottas/assets/images/360/' + catNum + '/',
     filePrefix: '', // file prefix if any
     ext: '.JPG', // extention for the assets
     height: 833,

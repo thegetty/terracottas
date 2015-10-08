@@ -438,6 +438,7 @@
     pixel_width: 4608
     pixel_height: 7424
 - cat: 30
+  rotation: true
   layers:
   - name: Back
     path: terracottas/30/back
@@ -649,6 +650,7 @@
     pixel_width: 4608
     pixel_height: 4864
 - cat: 40
+  rotation: true
   layers:
   - name: Back
     path: terracottas/40/back
@@ -913,6 +915,7 @@
     pixel_width: 5376
     pixel_height: 3328
 - cat: 51
+  rotation: true
   layers:
   - name: Back
     path: terracottas/51/back
