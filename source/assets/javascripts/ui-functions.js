@@ -219,11 +219,11 @@ function addPanelControls() {
 // Show Modal ------------------------------------------------------------------
 function showModal() {
   $("body").addClass("modal-open");
+  init360();
 }
 
 // 360 rotation-----------------------------------------------------------------
 function init360() {
-
   $(".product1").ThreeSixty({
     totalFrames: 180, // Total no. of image you have for 360 slider
     endFrame: 180, // end frame for the auto spin animation
@@ -239,7 +239,6 @@ function init360() {
     autoplaydirection: -1,
     navigation: false
   });
-
 }
 
 // =============================================================================
@@ -252,7 +251,6 @@ function setUpPage(){
   keyboardNav();
   // gridControlSetup();
   gridSetup();
-  init360();
 
   $(".expander-content").addClass("expander--hidden");
   if ( mapCheck($(".object-data")) ) {
