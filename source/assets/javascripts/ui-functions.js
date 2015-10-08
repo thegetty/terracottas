@@ -225,6 +225,9 @@ function showModal() {
 // 360 rotation-----------------------------------------------------------------
 function init360() {
   var catNum = $(".object-data").data("catalogue");
+  var rwidth = $(".object-data").data("rwidth");
+  var rheight = $(".object-data").data("rheight");
+
   $(".rotator").ThreeSixty({
     totalFrames: 180, // Total no. of image you have for 360 slider
     endFrame: 180, // end frame for the auto spin animation
@@ -234,9 +237,9 @@ function init360() {
     imagePath:'http://gettypubs.github.io/Terracottas/assets/images/360/' + catNum + '/',
     filePrefix: '', // file prefix if any
     ext: '.JPG', // extention for the assets
-    height: 833,
-    width: 1000,
-    responsive: true,
+    height: rheight,
+    width: rwidth,
+    responsive: false,
     autoplaydirection: -1,
     navigation: false
   });
