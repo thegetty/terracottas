@@ -17,11 +17,11 @@
 }
 .threesixty .threesixty_images img.previous-image {
   visibility: hidden;
-  width: 0;
+  /*width: 0;*/
 }
 .threesixty .threesixty_images img.current-image {
   visibility: visible;
-  width: 100%;
+  /*width: 100%;*/
 }
 .threesixty .spinner {
   width: 60px;
