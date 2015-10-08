@@ -20,6 +20,11 @@
 .panel-left {
   @include media($small-screen) {
     &.panel--expand { #map { height: 100vh; } }
+    .easy-button-container {
+      display: none;
+      &:last-of-type { display: block; }
+    }
+
   }
 
   background-color: $dark-gray;
@@ -32,6 +37,10 @@
   background-color: $dark-gray;
   height: 500px;
   margin-top: 60px;
+
+  @include media($small-screen) {
+    height: 300px;
+  }
 
   @include media($medium-screen-up) {
     height: 100vh;
