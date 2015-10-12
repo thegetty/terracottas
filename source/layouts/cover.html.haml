@@ -13,7 +13,7 @@
       -#   = link_to "Introduction", "#{site_url}/frontmatter/introduction"
   .cover-explore
     %h2.centered.mt3 Highlights from the Catalogue
-    = partial(:grid,
+    = partial(:feature_grid,
       :locals => { :collection => find_in_catalogue("featured", true) })
     = link_to "View the Catalogue", "#{site_url}/catalogue", :class => "button"
   .cover-map
