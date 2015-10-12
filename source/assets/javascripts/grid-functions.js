@@ -40,6 +40,8 @@ function renderGrid(data) {
         group: item.group,
         type: item.typology,
         region: item.region,
+        startDate: item.start_date,
+        endDate: item.end_date,
         url: "http://gettypubs.github.io/Terracottas/catalogue/" + item.cat,
         image: "http://gettypubs.github.io/Terracottas/assets/images/" + item.acc + ".jpg"
       }));
