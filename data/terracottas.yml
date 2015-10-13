@@ -133,7 +133,7 @@
   typology: Head
   munsell:
   - desc: Overall
-  - number: 10 yr 8/3-8/4
+    number: 10 yr 8/3-8/4
   dimensions:
   - desc: |-
       H: 13.1 cm; W: 9.1 cm
@@ -367,7 +367,6 @@
   dimensions:
   - desc: |-
       H: 16.2 cm; W: 9.2 cm
-  dimensions:
   - desc: |-
       H (Face): 7 cm
   pixel_width: 4352
@@ -391,7 +390,6 @@
   dimensions:
   - desc: |-
       H: 15.9 cm; W: 12.3 cm
-  dimensions:
   - desc: |-
       H (Face): 9.4 cm
   pixel_width: 5120
@@ -417,7 +415,6 @@
   dimensions:
   - desc: |-
       H: 16.5 cm; W: 13.1 cm
-  dimensions:
   - desc: |-
       H (Face): 11.3 cm
   pixel_width: 5120
