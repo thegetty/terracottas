@@ -1,5 +1,6 @@
 ---
 title: Cite
+layout: page
 ---
 ### Cite this Page:
 
