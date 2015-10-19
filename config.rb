@@ -17,9 +17,6 @@ set :markdown,        :parse_block_html => true
 set :site_title,      "Ancient Terracottas"
 set :site_url,        ""
 
-# Frontmatter defaults
-page "/frontmatter/*", :layout => :page
-
 configure :development do
   activate :livereload
 end
@@ -31,13 +28,13 @@ configure :build do
   activate :minify_javascript
   activate :gzip
   activate :minify_html
-  activate :imageoptim
-  set      :site_url, "/Terracottas"
+  activate :imageoptim do |options|
+    options.image_extensions = %w(.jpg)
+  end
+
+  set :site_url, "/Terracottas"
 end
 
-activate :imageoptim do |options|
-  options.image_extensions = %w(.jpg)
-end
 
 activate :deploy do |deploy|
   deploy.build_before = true
