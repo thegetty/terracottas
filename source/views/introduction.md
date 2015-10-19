@@ -17,7 +17,7 @@ examples comes from the collection of Barbara and Lawrence Fleischman,
 acquired by the Museum in 1996.[^2]
 
 Only one of the sixty terracottas presented in this publication comes
-from a certain, datable context (cat. 60), and thus for the most part it
+from a certain, datable context ([cat. 60](./catalogue/60)), and thus for the most part it
 is impossible to reconstruct with confidence their potential
 associations with other materials. Furthermore, this selection
 intentionally presents significant variations in typology and

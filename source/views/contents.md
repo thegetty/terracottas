@@ -24,7 +24,7 @@ layout: page
 
 ---
 
-### [Catalogue](../catalogue)
+### [Catalogue](./catalogue)
 
 #### South Italy (1-50)
 
@@ -42,7 +42,7 @@ layout: page
 
 ---
 
-##### [Guide to the Collection of South Italian and Sicilian Terracottas](#)
+##### [Guide to the Collection of South Italian and Sicilian Terracottas](./guide)
 
 ###### Claire L. Lyons
 
