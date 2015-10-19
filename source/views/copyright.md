@@ -1,5 +1,6 @@
 ---
 title: About the Catalogue
+layout: page
 ---
 © 2016 J. Paul Getty Trust
 

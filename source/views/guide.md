@@ -3,6 +3,7 @@ title: Guide to the Collection of South Italian and Sicilian Terracottas
 author_first: Claire L.
 author_last: Lyons
 cover: 82.AD.93.1.detail_1
+layout: page
 ---
 The following guide to the entire collection of terracottas from
 southern Italy and Sicily in the collection of the J. Paul Getty Museum
@@ -50,49 +51,32 @@ research advances, the online collection catalogue will evolve.
 
 ### Taranto
 
--   71.AD.311: Banqueting couple, late fourth–third century <span class="smcaps">BC</span>. <span
-    class="smcaps">Kingsley</span> 1976, p. 6, no.
-    10, fig. 10; B. M. Kingsley, “The Reclining Heroes of Taras and
-    Their Cult,” *California Studies in Classical Antiquity* 12
+-   **71.AD.311**: Banqueting couple, late fourth–third century
+    <span class="smcaps">BC</span>. <span class="smcaps">Kingsley</span> 1976, p. 6, no. 10, fig. 10; B. M. Kingsley, “The Reclining Heroes of Taras and Their Cult,” *California Studies in Classical Antiquity* 12
     (1979), p. 205, n. 75.
-
--   71.AD.339: Crouching satyr with protruding ears, looking upward with
-    his right hand on his chest; early fourth century <span class="smcaps">BC</span>.
-
--   75.AD.36: Seated woman, headless, from a banquet group, with a
-    vertical tang to hold the figure upright; fourth century <span class="smcaps">BC</span>. See
-    <span class="smcaps">Kingsley</span> 1976, p.
-    6, no. 7, pl. 7.
-
--   75.AD.37: Male banqueter, bearded, reclining and holding a cup, with
-    a vertical tang to hold the figure upright; fourth century <span class="smcaps">BC</span>. See
-    <span class="smcaps">Kingsley 1976,</span> p.
-    5, no. 4, pl. 4.
-
--   75.AD.40.1–90: Group of 90 small heads of women wearing floral
+-   **71.AD.339**: Crouching satyr with protruding ears, looking upward
+    with his right hand on his chest; early fourth century <span class="smcaps">BC</span>.
+-   **75.AD.36**: Seated woman, headless, from a banquet group, with a
+    vertical tang to hold the figure upright; fourth century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley</span> 1976, p.6, no. 7, pl. 7.
+-   **75.AD.37**: Male banqueter, bearded, reclining and holding a cup,  
+    with a vertical tang to hold the figure upright; fourth century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976,</span> p. 5, no. 4, pl. 4.
+-   **75.AD.40.1–90**: Group of 90 small heads of women wearing floral
     crowns, averaging 2 cm in height. Most are broken off at the neck
     and the facial features are worn. One figure (75.AD.40.I.14) has a
     disc/phiale at her left shoulder; two statuettes of women bearing a
     torch (75.AD.40.I.1). Fourth century <span class="smcaps">BC</span>
-
--   78.AD.271.4: Naked youth, often identified as the hero Taras, with
+-   **78.AD.271.4**: Naked youth, often identified as the hero Taras, with
     drapery flying behind, riding a dolphin across waves. The figure is
     supported on a cylindrical base, and the head of the youth and tail
     of the dolphin are missing; fourth–third century <span class="smcaps">BC</span>.
-
--   78.AD.344: Reclining male banqueter; early fifth century <span class="smcaps">BC</span>.
-
--   80.AD.74: Head of a young woman wearing a *polos*; late fifth
+-   **78.AD.344**: Reclining male banqueter; early fifth century <span
+    class="smcaps">BC</span>.
+-   **80.AD.74**: Head of a young woman wearing a *polos*; late fifth
     century <span class="smcaps">BC</span>.
-
--   83.AD.354.1–394: Group of 292 votives, comprising types mainly
+-   **83.AD.354.1–394**: Group of 292 votives, comprising types mainly
     associated with Taranto and Metaponto (see below for further
     discussion of the 55 Metapontine examples). The earliest Tarentine
-    votives in this lot date from the mid sixth–fifth centuries <span class="smcaps">BC</span> and
-    depict figures of a standing goddess with a snake, a sphinx, a head
-    of a woman wearing a conical *polos*, and a pair of
-    seated goddesses. One fragment of the upper arm of a woman wearing a
-    chiton fastened by three buttons (83.AD.354.15) is close to
+    votives in this lot date from the mid sixth–fifth centuries <span class="smcaps">BC</span> and depict figures of a standing goddess with a snake, a sphinx, a head of a woman wearing a conical *polos*, and a pair of seated goddesses. One fragment of the upper arm of a woman wearing a chiton fastened by three buttons (83.AD.354.15) is close to
     life size. A small number (21 objects) are fourth-century <span class="smcaps">BC</span> types:
     squatting silenos, head of a silenos or papposilenos, satyr playing
     flutes, heads of comic actors, and female heads and figures. The
