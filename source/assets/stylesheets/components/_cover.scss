@@ -112,17 +112,14 @@
 
 .cover-copy {
   background-color: $light-gray;
-  padding: 1rem;
+  font-size: 1.125em;
+  padding: 2.5rem 1rem;
 }
 
 .cover-copy-inner {
   @extend %cover-container;
   @extend %cover-block;
-
-  blockquote {
-    @include margin(null 0 null 0);
-    font-size: 1.25em;
-  }
+  max-width: 64rem;
 
   a.button { margin-top: 3rem; }
 
