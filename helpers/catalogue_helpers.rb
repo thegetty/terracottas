@@ -1,4 +1,13 @@
 module CatalogueHelpers
+  def merge_catalogue
+    terracottas = []
+    data.catalogue.each do |key, value|
+      terracottas << value
+    end
+    
+    terracottas
+  end
+
   def collection_link(dor_id="")
     return false if dor_id == ""
     haml_tag :a, :class => "collection-link",
