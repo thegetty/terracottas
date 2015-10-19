@@ -36,6 +36,21 @@ layout: application
             All Groups
           - groups.each do |item|
             %li{data: {group: item[:info][:group]}}= item[:info][:group]
+      .dropdown-container
+        %p.dropdown-description Date
+        %p.dropdown-button Click to Select
+        %ul.dropdown-menu.dropdown-select
+          %li{data: {start: "all", end:"all"}}
+            All Dates
+          %li{data: {start: "550", end:"500"}} 550–500 BC
+          %li{data: {start: "499", end:"450"}} 499–450 BC
+          %li{data: {start: "400", end:"350"}} 400–350 BC
+          %li{data: {start: "399", end:"350"}} 399–350 BC
+          %li{data: {start: "349", end:"300"}} 349–300 BC
+          %li{data: {start: "299", end:"250"}} 299–250 BC
+          %li{data: {start: "249", end:"200"}} 249–200 BC
+          %li{data: {start: "199", end:"150"}} 199–150 BC
+          %li{data: {start: "149", end:"100"}} 149–100 BC
     %a.button.no-smoothState.mt1{id: "catalogue-filter-clear"}
       Clear Filters
     %h6.result-counter.mt2

@@ -74,10 +74,58 @@ function gridControlSetup(data) {
       $menu.removeClass("show-menu");
       $button.html($(this).html());
       clearItems();
-      renderGrid(_.where(data, gridSelection));
+      // renderGrid(_.where(data, gridSelection));
+      renderGrid(filterData(data));
     });
   });
 }
+
+
+// -----------------------------------------------------------------------------
+// FilterData(array)
+//
+// Expects an array of objects.
+// Checks against properties of the global gridSelection object (based on user's
+// input). This elaborate structure is necessary because the filter process for
+// dates needs more than a simple test for the presence of a key/value pair.
+// This function makes use of Underscore's chaining method.
+
+function filterData(data) {
+  return _.chain(data)
+    // Location
+    .filter(function (item) {
+      if (gridSelection.hasOwnProperty("region")) {
+        return item.region == gridSelection.region;
+      } else {
+        return item;
+      }
+    })
+    // Typology
+    .filter(function (item) {
+      if (gridSelection.hasOwnProperty("typology")) {
+        return item.typology == gridSelection.typology;
+      } else {
+        return item;
+      }
+    })
+    // Group
+    .filter(function (item) {
+      if (gridSelection.hasOwnProperty("group")) {
+        return item.group == gridSelection.group;
+      } else {
+        return item;
+      }
+    })
+    // Date
+    .filter(function (item) {
+      if (gridSelection.hasOwnProperty("start")) {
+        return item.start_date >= gridSelection.end && item.end_date <= gridSelection.start;
+      } else {
+        return item;
+      }
+    })
+    .value();
+  }
 
 // -----------------------------------------------------------------------------
 // updateSelection(key/value)
