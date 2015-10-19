@@ -4,19 +4,32 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "basename": "",
+                "custom_name": "Taranto region",
+                "feature_type": "region",
+                "pid": "",
+                "tgn": "",
+                "catalogue": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37],
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.473755,
+                  40.453217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "basename": "Canusium",
                 "custom_name": "Canosa",
-                "en_name": "Canusium",
-                "gr_name": "",
-                "la_name": "Canusium",
-                "featuretyp": "city-gate, settlement",
+                "feature_type": "site",
                 "pid": "442525",
-                "timeperiod": "ACHRRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7004111",
+                "catalogue": [38, 39, 40, 41, 42, 43, 44, 45, 46],
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -29,19 +42,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Medma",
                 "custom_name": "Medma",
-                "en_name": "Medma",
-                "gr_name": "",
-                "la_name": "Medma",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "452375",
-                "timeperiod": "ACH",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7902178",
+                "catalogue": [47, 48],
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -54,19 +61,51 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
+                "basename": "",
+                "custom_name": "South Italy",
+                "feature_type": "region",
+                "pid": "",
+                "tgn": "4005365",
+                "catalogue": [49, 50],
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.66525,
+                    40.77584
+                ]
+            }
+        },
+        {
+          "type": "Feature",
+            "properties": {
+                "basename": "Sicilia (island)",
+                "custom_name": "Sicily",
+                "feature_type": "region",
+                "pid": "462492",
+                "tgn": "7030363",
+                "catalogue": [51, 52, 53, 54, 55, 56, 57, 58, 59, 60],
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2816,
+                    37.5443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "basename": "Lokroi Epizephyrioi",
                 "custom_name": "Locri",
-                "en_name": "Narycia",
-                "gr_name": "Επιζεφύριοι Λοκροί ",
-                "la_name": "Narycia",
-                "featuretyp": "theatre, stoa, townhouse, settlement, temple",
+                "feature_type": "site",
                 "pid": "452369",
-                "timeperiod": "ACHRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7004271",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -79,19 +118,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Taras/Tarentum/Neptunia",
                 "custom_name": "Taranto",
-                "en_name": "Tarentum",
-                "gr_name": "Τάραντας ",
-                "la_name": "Tarentum",
-                "featuretyp": "settlement, temple",
+                "feature_type": "site",
                 "pid": "442810",
-                "timeperiod": "ACHRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7004100",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -104,19 +137,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Roma",
                 "custom_name": "Rome",
-                "en_name": "Rome",
-                "gr_name": "Ρώμη",
-                "la_name": "Roma",
-                "featuretyp": "urban, settlement, temple",
+                "feature_type": "site",
                 "pid": "423025",
-                "timeperiod": "ACHRLM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7000874",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -129,19 +156,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Veii",
                 "custom_name": "Veii",
-                "en_name": "Veii",
-                "gr_name": "",
-                "la_name": "Veii",
-                "featuretyp": "urban, settlement, villa",
+                "feature_type": "site",
                 "pid": "423116",
-                "timeperiod": "ACHRLM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7009104",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -154,19 +175,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Parthenope/Neapolis",
                 "custom_name": "Naples",
-                "en_name": "Naples",
-                "gr_name": "Παρθενόπη",
-                "la_name": "Parthenope",
-                "featuretyp": "urban, city-wall, settlement, theatre",
+                "feature_type": "site",
                 "pid": "433014",
-                "timeperiod": "ACHRLM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7004474",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -179,19 +194,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Rhegion/Regium",
                 "custom_name": "Reggio di Calabria",
-                "en_name": "Rhegion",
-                "gr_name": "Ῥήγιον",
-                "la_name": "Rhegion",
-                "featuretyp": "settlement, temple, architecturalcomplex",
+                "feature_type": "site",
                 "pid": "452416",
-                "timeperiod": "ACHRLM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7004296",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -204,19 +213,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Croto(n)",
                 "custom_name": "Crotone",
-                "en_name": "Crotona",
-                "gr_name": "Κρότων",
-                "la_name": "Crotona",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "452317",
-                "timeperiod": "ACHRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7004291",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -229,19 +232,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Falerii",
                 "custom_name": "Falerii",
-                "en_name": "Falerii",
-                "gr_name": "",
-                "la_name": "Falerii",
-                "featuretyp": "wall, settlement, amphitheatre, theatre",
+                "feature_type": "site",
                 "pid": "413125",
-                "timeperiod": "HRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7006787",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -254,19 +251,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Egnatia/Gnathia",
                 "custom_name": "Egnazia",
-                "en_name": "Gnathia",
-                "gr_name": "",
-                "la_name": "Gnathia",
-                "featuretyp": "settlement, amphitheatre, cemetery",
+                "feature_type": "site",
                 "pid": "442573",
-                "timeperiod": "ACHRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7008311",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -279,19 +270,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Luceria/Noukeria (Apoulon)",
                 "custom_name": "Lucera",
-                "en_name": "Lukeria",
-                "gr_name": "",
-                "la_name": "Lukeria",
-                "featuretyp": "settlement, amphitheatre, fort",
+                "feature_type": "site",
                 "pid": "442640",
-                "timeperiod": "CHRLMM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7004118",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -304,19 +289,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Manfria",
                 "custom_name": "Manfria",
-                "en_name": "",
-                "gr_name": "",
-                "la_name": "",
-                "featuretyp": "villa",
+                "feature_type": "site",
                 "pid": "462298",
-                "timeperiod": "",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7902179",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -329,19 +308,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Caulonia",
                 "custom_name": "Caulonia",
-                "en_name": "",
-                "gr_name": "",
-                "la_name": "",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "452295",
-                "timeperiod": "",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7902180",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
             	"type": "Point",
@@ -354,19 +327,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Poseidonia/Paestum",
                 "custom_name": "Paestum",
-                "en_name": "Poseidonia",
-                "gr_name": "",
-                "la_name": "Poseidonia",
-                "featuretyp": "ekklesiasterion, plaza, settlement, amphitheatre, temple, fort",
+                "feature_type": "site",
                 "pid": "442733",
-                "timeperiod": "ACHRLM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7054730",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -379,19 +346,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Satyrion/Saturum",
                 "custom_name": "Saturo",
-                "en_name": "Satyrion",
-                "gr_name": "",
-                "la_name": "Satyrion",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "442789",
-                "timeperiod": "ACHR",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7902181",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -404,19 +365,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Monte Sannace",
                 "custom_name": "Monte Sannace",
-                "en_name": "",
-                "gr_name": "",
-                "la_name": "",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "442674",
-                "timeperiod": "",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "5002107",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -429,19 +384,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "South Italy",
                 "basename": "Monte Saraceno",
                 "custom_name": "Monte Saraceno",
-                "en_name": "",
-                "gr_name": "",
-                "la_name": "",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "442677",
-                "timeperiod": "",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7902182",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -454,19 +403,32 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-                "in_area": "South Italy",
+                "basename": "Teanum Sidicinum",
+                "custom_name": "Teano",
+                "feature_type": "site",
+                "pid": "433146",
+                "tgn": "7004532",
+                "catalogue": "",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.067524,
+                    41.252351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "basename": "Metapontum",
                 "custom_name": "Metaponto",
-                "en_name": "Metapontum",
-                "gr_name": "",
-                "la_name": "Metapontum",
-                "featuretyp": "settlement, theatre",
+                "feature_type": "site",
                 "pid": "442658",
-                "timeperiod": "ACHRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7010092",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -479,19 +441,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Lipara (settlement)",
                 "custom_name": "Lipari",
-                "en_name": "Lipara",
-                "gr_name": "",
-                "la_name": "Lipara",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "462283",
-                "timeperiod": "ACHRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003912",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -504,19 +460,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
-                "basename": "Motyon?",
+                "basename": "",
                 "custom_name": "Vassallaggi",
-                "en_name": "Motyon",
-                "gr_name": "",
-                "la_name": "Motyon",
-                "featuretyp": "settlement",
-                "pid": "462375",
-                "timeperiod": "AC",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "feature_type": "site",
+                "pid": "",
+                "tgn": "5002778",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -529,19 +479,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Zancle/Messana",
                 "custom_name": "Zankle (Messina)",
-                "en_name": "Zancle",
-                "gr_name": "Μεσσήνη",
-                "la_name": "Zancle",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "462538",
-                "timeperiod": "ACHRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003897",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -554,44 +498,32 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
-                "basename": "Paterno",
+                "basename": "Hybla Gereatis",
                 "custom_name": "Paternò",
-                "en_name": "",
-                "gr_name": "",
-                "la_name": "",
-                "featuretyp": "settlement",
-                "pid": "442711",
-                "timeperiod": "",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "feature_type": "site",
+                "pid": "462251",
+                "tgn": "7003868",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.73382,
-                    40.379351
+                    14.90091,
+                    37.56734
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Selinus",
                 "custom_name": "Selinunte",
-                "en_name": "Selinus",
-                "gr_name": "",
-                "la_name": "Selinus",
-                "featuretyp": "settlement, temple",
+                "feature_type": "site",
                 "pid": "462489",
-                "timeperiod": "ACH",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003848",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -604,19 +536,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Monte Riparato di Caltavuturo",
                 "custom_name": "Caltavuturo",
-                "en_name": "",
-                "gr_name": "",
-                "la_name": "",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "462361",
-                "timeperiod": "",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7902183",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -629,19 +555,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Katane/Catina",
                 "custom_name": "Catania",
-                "en_name": "Katane",
-                "gr_name": "",
-                "la_name": "Katane",
-                "featuretyp": "settlement, amphitheatre",
+                "feature_type": "site",
                 "pid": "462270",
-                "timeperiod": "ACHRM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003947",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -654,19 +574,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Cephaloedium",
                 "custom_name": "Cefalù",
-                "en_name": "Cephaloedium",
-                "gr_name": "",
-                "la_name": "Cephaloedium",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "462154",
-                "timeperiod": "CHRLM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003931",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -679,19 +593,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Centuripae",
                 "custom_name": "Centuripe",
-                "en_name": "Kentoripa",
-                "gr_name": "",
-                "la_name": "Kentoripa",
-                "featuretyp": "settlement, temple",
+                "feature_type": "site",
                 "pid": "462153",
-                "timeperiod": "CHRLM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003900",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -704,19 +612,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Morgantina",
                 "custom_name": "Morgantina",
-                "en_name": "Murgentia",
-                "gr_name": "",
-                "la_name": "Murgentia",
-                "featuretyp": "ekklesiasterion, settlement, theatre",
+                "feature_type": "site",
                 "pid": "462372",
-                "timeperiod": "AH",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003925",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -729,19 +631,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Syracusae/Syrakousai",
                 "custom_name": "Syracuse",
-                "en_name": "Syracuse",
-                "gr_name": "Συρακοῦσαι ",
-                "la_name": "Syrakousai",
-                "featuretyp": "settlement, temple",
+                "feature_type": "site",
                 "pid": "462503",
-                "timeperiod": "ACHRLMM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003794",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -754,19 +650,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Acrae",
                 "custom_name": "Akrai (Palazzolo Acreide)",
-                "en_name": "Acrae",
-                "gr_name": "",
-                "la_name": "Acrae",
-                "featuretyp": "settlement, theatre",
+                "feature_type": "site",
                 "pid": "462068",
-                "timeperiod": "ACHRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003793",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -779,19 +669,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Akragas/Agrigentum",
                 "custom_name": "Agrigento",
-                "en_name": "Acragas",
-                "gr_name": "Ἀκράγας",
-                "la_name": "Agrigentum",
-                "featuretyp": "ekklesiasterion, plaza, cemetery, architecturalcomplex, church, settlement, temple",
+                "feature_type": "site",
                 "pid": "462086",
-                "timeperiod": "ACHHRLLM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003808",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -804,19 +688,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Heraclea Minoa",
                 "custom_name": "Heraclea Minoa",
-                "en_name": "Makara",
-                "gr_name": "",
-                "la_name": "Makara",
-                "featuretyp": "settlement, theatre",
+                "feature_type": "site",
                 "pid": "462237",
-                "timeperiod": "ACHHRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7008300",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -829,19 +707,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Pan(h)ormus",
                 "custom_name": "Palermo",
-                "en_name": "Panormus",
-                "gr_name": "",
-                "la_name": "Panormus",
-                "featuretyp": "settlement, settlement-modern",
+                "feature_type": "site",
                 "pid": "462410",
-                "timeperiod": "ACHRLM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003928",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -854,19 +726,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Francavilla di Sicilia",
                 "custom_name": "Francavilla di Sicilia",
-                "en_name": "",
-                "gr_name": "",
-                "la_name": "",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "462210",
-                "timeperiod": "",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "1044697",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -879,19 +745,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Gela",
                 "custom_name": "Gela",
-                "en_name": "Gela",
-                "gr_name": "",
-                "la_name": "Gela",
-                "featuretyp": "wall, settlement",
+                "feature_type": "site",
                 "pid": "462214",
-                "timeperiod": "ACH",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003803",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -904,19 +764,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Leontini",
                 "custom_name": "Lentini",
-                "en_name": "Leontini",
-                "gr_name": "",
-                "la_name": "Leontini",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "462279",
-                "timeperiod": "ACHRM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003800",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -929,19 +783,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Phintias",
                 "custom_name": "Licata",
-                "en_name": "Plintis",
-                "gr_name": "",
-                "la_name": "Plintis",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "462424",
-                "timeperiod": "HHR",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "1045081",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -954,19 +802,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Megara Hyblaia",
                 "custom_name": "Megara Hyblaea",
-                "en_name": "Megara Hyblaia",
-                "gr_name": "",
-                "la_name": "Megara Hyblaia",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "462307",
-                "timeperiod": "ACH",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7010383",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -979,19 +821,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Camarina",
                 "custom_name": "Camarina",
-                "en_name": "Camarina",
-                "gr_name": "",
-                "la_name": "Camarina",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "462126",
-                "timeperiod": "A",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003787",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1004,19 +840,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Motya",
                 "custom_name": "Mozia",
-                "en_name": "Motya",
-                "gr_name": "",
-                "la_name": "Motya",
-                "featuretyp": "island, settlement, temple",
+                "feature_type": "site",
                 "pid": "462373",
-                "timeperiod": "ACHM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7015537",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1029,19 +859,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-                "in_area": "Sicily",
                 "basename": "Mastro Paolo di Barrafranca",
                 "custom_name": "Barrafranca",
-                "en_name": "",
-                "gr_name": "",
-                "la_name": "",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "462303",
-                "timeperiod": "",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "1043426",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1054,19 +878,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Greece & North Africa",
                 "basename": "Athenae",
                 "custom_name": "Athens",
-                "en_name": "Athens",
-                "gr_name": "Ἀθῆναι",
-                "la_name": "Athenae",
-                "featuretyp": "theatre, plaza, cemetery, stoa, settlement, temple",
+                "feature_type": "site",
                 "pid": "579885",
-                "timeperiod": "ACHRRLEMLM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7001393",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1079,19 +897,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Greece & North Africa",
                 "basename": "Corinthus/Korinthos",
                 "custom_name": "Corinth",
-                "en_name": "Corinth",
-                "gr_name": "Κόρινθος",
-                "la_name": "Sicyonia",
-                "featuretyp": "settlement, amphitheatre, plaza",
+                "feature_type": "site",
                 "pid": "570182",
-                "timeperiod": "ACHRLM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7010734",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1104,19 +916,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Greece & North Africa",
                 "basename": "Cyrene",
                 "custom_name": "Cyrene",
-                "en_name": "Cyrene",
-                "gr_name": "Κυρήνη",
-                "la_name": "Cyrene",
-                "featuretyp": "settlement, amphitheatre, temple, theatre",
+                "feature_type": "site",
                 "pid": "373778",
-                "timeperiod": "ACHRRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7593888",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1129,19 +935,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Greece & North Africa",
                 "basename": "Olympia",
                 "custom_name": "Olympia",
-                "en_name": "Olympia",
-                "gr_name": "",
-                "la_name": "Olympia",
-                "featuretyp": "temple, palaistra",
+                "feature_type": "site",
                 "pid": "570531",
-                "timeperiod": "ACHRR",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7011018",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1154,19 +954,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Greece & North Africa",
                 "basename": "Olynthos",
                 "custom_name": "Olynthus",
-                "en_name": "Olynthos",
-                "gr_name": "",
-                "la_name": "Olynthos",
-                "featuretyp": "settlement, villa, townhouse",
+                "feature_type": "site",
                 "pid": "491678",
-                "timeperiod": "ACR",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "5004260",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1179,19 +973,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Greece & North Africa",
                 "basename": "Delphi",
                 "custom_name": "Delphi",
-                "en_name": "Delphi",
-                "gr_name": "Δελφοί",
-                "la_name": "Delphi",
-                "featuretyp": "settlement",
+                "feature_type": "site",
                 "pid": "540726",
-                "timeperiod": "ACHRLM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7010770",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1204,19 +992,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Greece & North Africa",
                 "basename": "Aigeai",
                 "custom_name": "Vergina",
-                "en_name": "Aigeai",
-                "gr_name": "",
-                "la_name": "Aigeai",
-                "featuretyp": "settlement, temple",
+                "feature_type": "site",
                 "pid": "491512",
-                "timeperiod": "ACHRM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "5004273",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1229,19 +1011,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Region",
-            	"in_area": "South Italy",
                 "basename": "Apulia",
                 "custom_name": "Puglia",
-                "en_name": "Apulia",
-                "gr_name": "",
-                "la_name": "Apulia",
-                "featuretyp": "region",
+                "feature_type": "region",
                 "pid": "442469",
-                "timeperiod": "HRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7010380",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1254,19 +1030,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Region",
-            	"in_area": "South Italy",
                 "basename": "Campania",
                 "custom_name": "Campania",
-                "en_name": "Campania",
-                "gr_name": "",
-                "la_name": "Campania",
-                "featuretyp": "region",
+                "feature_type": "region",
                 "pid": "432742",
-                "timeperiod": "ACHRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003005",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1279,19 +1049,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Region",
-            	"in_area": "South Italy",
                 "basename": "Lucania",
                 "custom_name": "Basilicata",
-                "en_name": "Lucania",
-                "gr_name": "",
-                "la_name": "Lucania",
-                "featuretyp": "region",
+                "feature_type": "region",
                 "pid": "442639",
-                "timeperiod": "CHRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7004610",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1304,19 +1068,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Region",
-            	"in_area": "South Italy",
                 "basename": "Calabria",
                 "custom_name": "Calabria",
-                "en_name": "Calabria",
-                "gr_name": "",
-                "la_name": "Calabria",
-                "featuretyp": "region",
+                "feature_type": "region",
                 "pid": "442518",
-                "timeperiod": "HRL",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7007850",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1329,19 +1087,13 @@
         {
             "type": "Feature",
             "properties": {
-                "map_level": "Sites and Cities",
-            	"in_area": "Sicily",
                 "basename": "Aetna M.",
                 "custom_name": "Mount Etna",
-                "en_name": "Aetna M.",
-                "gr_name": "Αἴτνη ",
-                "la_name": "Aetna M.",
-                "featuretyp": "mountain",
+                "feature_type": "site",
                 "pid": "462077",
-                "timeperiod": "ACHRLM",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7003867",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1354,19 +1106,13 @@
          {
         	"type": "Feature",
             "properties": {
-                "map_level": "Country",
-            	"in_area": "",
                 "basename": "Italia",
                 "custom_name": "Italy",
-                "en_name": "Italy",
-                "gr_name": "Ἰταλία",
-                "la_name": "Italia",
-                "featuretyp": "region",
-                "timeperiod": "",
+                "feature_type": "country",
                 "pid": "1052",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7023981",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1377,71 +1123,15 @@
             }
         },
         {
-            "type": "Feature",
+        	"type": "Feature",
             "properties": {
-                "map_level": "Region",
-                "in_area": "",
                 "basename": "",
-                "custom_name": "South Italy",
-                "en_name": "South Italy",
-                "gr_name": "",
-                "la_name": "",
-                "featuretyp": "region",
-                "timeperiod": "",
-                "pid": "",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.66525,
-                    40.77584
-                ]
-            }
-        },
-        {
-        	"type": "Feature",
-            "properties": {
-                "map_level": "Region",
-            	"in_area": "",
-                "basename": "Sicilia (island)",
-                "custom_name": "Sicily",
-                "en_name": "Sicily",
-                "gr_name": "Σικελία",
-                "la_name": "Sicilia",
-                "featuretyp": "region",
-                "timeperiod": "",
-                "pid": "462492",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2816,
-        			37.5443
-                ]
-            }
-        },
-        {
-        	"type": "Feature",
-            "properties": {
-                "map_level": "Country",
-            	"in_area": "",
-                "basename": "Graecia",
                 "custom_name": "Greece",
-                "en_name": "Greece",
-                "gr_name": "",
-                "la_name": "",
-                "featuretyp": "region",
-                "timeperiod": "",
+                "feature_type": "country",
                 "pid": "",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "1000074",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1454,19 +1144,13 @@
         {
         	"type": "Feature",
             "properties": {
-                "map_level": "Sea",
-            	"in_area": "",
                 "basename": "Internum Mare",
                 "custom_name": "Mediterranean Sea",
-                "en_name": "Mediterranean Sea",
-                "gr_name": "",
-                "la_name": "",
-                "featuretyp": "water, open",
-                "timeperiod": "",
+                "feature_type": "sea",
                 "pid": "1043",
-                "perseus_li": null,
-                "wiki_link": null,
-                "magnitude": 1
+                "tgn": "7016735",
+                "catalogue": "",
+                "description": ""
             },
             "geometry": {
                 "type": "Point",
