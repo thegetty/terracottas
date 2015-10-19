@@ -1,5 +1,5 @@
 ---
-title: About the Catalogue
+title: About
 layout: page
 ---
 © 2016 J. Paul Getty Trust
