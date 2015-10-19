@@ -48,6 +48,4 @@ layout: page
 
 ---
 
-###### [Download](./downloads)
-
-###### [Citation Info](./cite)
+#### [About](./about)

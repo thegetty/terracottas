@@ -3,20 +3,11 @@ title: Abbreviations
 layout: page
 ---
 
-ca.|circa
-cat.|catalogue number
-cm|centimeter
-D|depth
-diss.|dissertation
-exh. cat.|exhibition catalogue
 fl.|flourished
-H|height
-inv.| inventory number
 l./ll.|line/lines
 n.s.|new series
 pl.|plate
 suppl.|supplement
-W|width
 
 *AA*|*Archäologisches Anzeiger*
 *Aevum*|*Aevum: Rassegna di scienze storiche, linguistiche e filologiche*

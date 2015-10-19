@@ -3,7 +3,9 @@ title: Group of a Seated Poet (Orpheus?) and Sirens
 group: Group of a Seated Poet and Sirens
 objects: 1..3
 ---
-#### Group of a Seated Poet (Orpheus?) and Sirens
+#### Group of a Seated Poet (Orpheus?) and Sirens (cat. 1–3)
+
+<span class="discussion-note">This discussion is reproduced on each of the individual object pages</span>
 
 An investigation conducted with endoscopic instruments revealed a great
 deal about the execution of this sculptural group.[^1] The figures must
