@@ -34,16 +34,16 @@ function renderGrid(data) {
   if(data.length > 0) {
     $.each(data, function(index, item) {
       $("#catalogue-grid .grid").append(cardTemplate({
-        title: item.title,
-        cat: item.cat,
-        city: item.city,
-        group: item.group,
-        type: item.typology,
-        region: item.region,
-        startDate: item.start_date,
-        endDate: item.end_date,
-        url: "http://gettypubs.github.io/Terracottas/catalogue/" + item.cat,
-        image: "http://gettypubs.github.io/Terracottas/assets/images/" + item.acc + ".jpg"
+        title: item.info.title,
+        cat: item.info.cat,
+        city: item.info.city,
+        group: item.info.group,
+        type: item.info.typology,
+        region: item.info.region,
+        startDate: item.meta.start_date,
+        endDate: item.meta.end_date,
+        url: "http://gettypubs.github.io/Terracottas/catalogue/" + item.info.cat,
+        image: "http://gettypubs.github.io/Terracottas/assets/images/" + item.info.acc + ".jpg"
       }));
       $(".result-counter").html(data.length + " results");
     });
