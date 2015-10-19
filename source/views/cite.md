@@ -23,7 +23,7 @@ Permanent URL: http://pubs.getty.edu/museumcatalogues/terracottas/cat/1
 
 Permanent URL: http://pubs.getty.edu/museumcatalogues/terracottas
 
-**See the copyright page for [complete information on citation, copyright and revision history](frontmatter/copyright/).**
+**See the copyright page for [complete information on citation, copyright and revision history](copyright/).**
 
 
 <!--

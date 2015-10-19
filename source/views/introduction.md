@@ -1,6 +1,7 @@
 ---
 title: Introduction
 cover: 82.AD.93.1.detail_1
+layout: page
 ---
 This catalogue, which features a selection of terracottas from South
 Italy and Sicily now in the collection of the J. Paul Getty Museum, was

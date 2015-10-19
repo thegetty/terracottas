@@ -1,5 +1,6 @@
 ---
 title: Copyright
+layout: page
 ---
 ## Cite the Catalogue
 
@@ -32,14 +33,12 @@ Library of Congress Cataloging-in-Publication Data TK
 
 Illustration Credits TK
 
-## Revision History 
+## Revision History
 
 While none are planned, any revisions or corrections made to this catalogue after its initial publication date, will be detailed here and in the project repository at [www.github.com/gettypubs/terracottas](https://www.github.com/gettypubs/terracottas), where earlier versions of the publication may also be accessed.
 
 The most current information on objects featured in this catalogue can be found at [www.getty.edu/art/collection/](http://www.getty.edu/art/collection/).
 
-### January 6, 2016: 
+### January 6, 2016:
 
 > First edition
-
-

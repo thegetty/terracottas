@@ -1,0 +1,43 @@
+---
+title: Catalogue
+layout: application
+---
+- terracottas = merge_catalogue
+- locations   = terracottas.uniq { |item| item[:info][:region] }
+- types       = terracottas.uniq { |item| item[:info][:typology] }
+- groups      = terracottas.uniq { |item| item[:info][:group] }
+- groups.keep_if { |item| item[:info][:group] }
+
+.container.mt3
+  %h1.page-title.centered= current_page.data.title
+  #catalogue-grid.centered
+    .dropdown
+      .dropdown-container
+        %p.dropdown-description Location
+        %p.dropdown-button Click to Select
+        %ul.dropdown-menu.dropdown-select
+          %li{data: {region:"all"}}
+            All Locations
+          - locations.each do |item|
+            %li{data: {region: item[:info][:region]}}= item[:info][:region]
+      .dropdown-container
+        %p.dropdown-description Typology
+        %p.dropdown-button Click to Select
+        %ul.dropdown-menu.dropdown-select
+          %li{data: {typology:"all"}}
+            All Types
+          - types.each do |item|
+            %li{data: {typology: item[:info][:typology]}}= item[:info][:typology]
+      .dropdown-container
+        %p.dropdown-description Group
+        %p.dropdown-button Click to Select
+        %ul.dropdown-menu.dropdown-select
+          %li{data: {group:"all"}}
+            All Groups
+          - groups.each do |item|
+            %li{data: {group: item[:info][:group]}}= item[:info][:group]
+    %a.button.no-smoothState.mt1{id: "catalogue-filter-clear"}
+      Clear Filters
+    %h6.result-counter.mt2
+    .grid.grid--gutters.pb4
+  = partial "card"
