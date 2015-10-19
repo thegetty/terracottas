@@ -4,8 +4,8 @@ module CatalogueHelpers
     data.catalogue.each do |key, value|
       terracottas << value
     end
-    
-    terracottas
+
+    terracottas.sort_by { |item| item[:info][:cat]  }
   end
 
   def collection_link(dor_id="")
