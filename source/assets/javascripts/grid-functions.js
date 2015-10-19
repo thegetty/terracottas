@@ -95,7 +95,7 @@ function filterData(data) {
     // Location
     .filter(function (item) {
       if (gridSelection.hasOwnProperty("region")) {
-        return item.region == gridSelection.region;
+        return item.region.region == gridSelection.region;
       } else {
         return item;
       }
@@ -103,7 +103,7 @@ function filterData(data) {
     // Typology
     .filter(function (item) {
       if (gridSelection.hasOwnProperty("typology")) {
-        return item.typology == gridSelection.typology;
+        return item.region.typology == gridSelection.typology;
       } else {
         return item;
       }
@@ -111,7 +111,7 @@ function filterData(data) {
     // Group
     .filter(function (item) {
       if (gridSelection.hasOwnProperty("group")) {
-        return item.group == gridSelection.group;
+        return item.region.group == gridSelection.group;
       } else {
         return item;
       }
@@ -119,7 +119,7 @@ function filterData(data) {
     // Date
     .filter(function (item) {
       if (gridSelection.hasOwnProperty("start")) {
-        return item.start_date >= gridSelection.end && item.end_date <= gridSelection.start;
+        return item.meta.start_date >= gridSelection.end && item.meta.end_date <= gridSelection.start;
       } else {
         return item;
       }
