@@ -95,7 +95,7 @@ function filterData(data) {
     // Location
     .filter(function (item) {
       if (gridSelection.hasOwnProperty("region")) {
-        return item.region.region == gridSelection.region;
+        return item.info.region == gridSelection.region;
       } else {
         return item;
       }
@@ -103,7 +103,7 @@ function filterData(data) {
     // Typology
     .filter(function (item) {
       if (gridSelection.hasOwnProperty("typology")) {
-        return item.region.typology == gridSelection.typology;
+        return item.info.typology == gridSelection.typology;
       } else {
         return item;
       }
@@ -111,7 +111,7 @@ function filterData(data) {
     // Group
     .filter(function (item) {
       if (gridSelection.hasOwnProperty("group")) {
-        return item.region.group == gridSelection.group;
+        return item.info.group == gridSelection.group;
       } else {
         return item;
       }
