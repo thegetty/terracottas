@@ -48,15 +48,29 @@ GEM
     erubis (2.7.0)
     eventmachine (1.0.7)
     execjs (2.5.2)
+    exifr (1.2.3.1)
     ffi (1.9.8)
+    fspath (2.1.1)
     haml (4.0.6)
       tilt
     hike (1.2.3)
     hitimes (1.2.2)
     hooks (0.4.0)
       uber (~> 0.0.4)
+    htmlcompressor (0.2.0)
     http_parser.rb (0.6.0)
     i18n (0.7.0)
+    image_optim (0.20.2)
+      exifr (~> 1.1, >= 1.1.3)
+      fspath (~> 2.1)
+      image_size (~> 1.3)
+      in_threads (~> 1.3)
+      progress (~> 3.0, >= 3.0.1)
+    image_optim_pack (0.2.1.20150808)
+      fspath (~> 2.1)
+      image_optim (~> 0.19)
+    image_size (1.4.1)
+    in_threads (1.3.1)
     json (1.8.2)
     kramdown (1.7.0)
     listen (2.10.0)
@@ -91,10 +105,17 @@ GEM
       middleman-core (>= 3.2)
       net-sftp
       ptools
+    middleman-imageoptim (0.2.1)
+      image_optim (~> 0.20.2)
+      image_optim_pack (~> 0.2.1)
+      middleman-core (>= 3.1)
     middleman-livereload (3.4.2)
       em-websocket (~> 0.5.1)
       middleman-core (>= 3.3)
       rack-livereload (~> 0.3.15)
+    middleman-minify-html (3.4.1)
+      htmlcompressor (~> 0.2.0)
+      middleman-core (>= 3.2)
     middleman-pry (0.0.4)
       middleman-core (~> 3.2)
       pry (~> 0.9)
@@ -117,6 +138,7 @@ GEM
       tilt (~> 1.4.1)
     padrino-support (0.12.5)
       activesupport (>= 3.1)
+    progress (3.1.0)
     pry (0.10.1)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
@@ -162,7 +184,9 @@ DEPENDENCIES
   bourbon
   middleman
   middleman-deploy
+  middleman-imageoptim
   middleman-livereload
+  middleman-minify-html
   middleman-pry
   middleman-react!
   neat
