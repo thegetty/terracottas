@@ -1,0 +1,68 @@
+---
+:info:
+  :cat: 39
+  :acc: 85.AD.76.2
+  :dor_id: 10935
+  :title: Statue of a Mourning Woman
+  :group: Four Statues of Mourning Women from Canosa
+  :region: South Italy
+  :city: Canosa
+  :date: 300-275 BC
+  :typology: Statue
+  :dimensions:
+  - desc: 'H: 95.6 cm; W: 31.9 cm'
+  - desc: 'H (Face): 11.6 cm'
+  - desc: 'Thickness of walls: 1.4-9.5 cm'
+  :munsell:
+  - desc: Overall
+    number: 7.5 yr 8/6
+:views:
+- name: Back
+  path: terracottas/39/back
+  pixel_width: 5120
+  pixel_height: 7424
+- name: Left
+  path: terracottas/39/left
+  pixel_width: 5120
+  pixel_height: 7424
+- name: Main
+  path: terracottas/39/main
+  pixel_width: 5120
+  pixel_height: 7424
+- name: Right
+  path: terracottas/39/right
+  pixel_width: 5120
+  pixel_height: 7424
+:meta:
+  :discussion: discussion-c
+  :featured:
+  :feature_desc:
+  :start_date: 300
+  :end_date: 275
+:content:
+  :fabric: >
+    Orange in color (Munsell 7. 5 yr 8/6); white ground and polychromy as on
+    the previous piece. Polychromy: organic pink (vertical decoration along
+    the proper right side of the chiton); iron-based red pigment on the hair
+    and feet, with minor traces in the mouth.
+  :condition: >
+    Broken and repaired with some terracotta abrasion. The tip of the pinky
+    finger on the left hand is missing; the middle, ring, and pinky fingers
+    of the right hand have been broken and reattached. The figure retains a
+    heavy layer of burial accretion and modern overpaint, which covers the
+    white ground.
+  :provenance: >
+    1985, Galerie Hydra (Geneva, Switzerland), sold to the J. Paul Getty Museum,
+    1985.
+  :bibliography:
+  :description: |2
+
+    The position and weight of the figure are similar to those of the other
+    members of this group (cat. 38–41). The coroplast worked on the
+    individual pieces, varying the position of the heads and retouching the
+    facial features and the drapery. The head is tilted to the right and the
+    knee of the bent leg is turned a little more to the left; the eyebrows
+    are arched to a greater degree, forming two furrows in the middle of the
+    forehead; the upper lip is fleshier, and the expression of grief is more
+    marked. Incised on the lower hem of the himation on the proper left side
+    is the letter *alpha*.
