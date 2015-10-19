@@ -9,7 +9,4 @@
     .container
       %h1.page-title= current_page.data.title
       .page-content.pb4
-        - if current_page.data.group
-          = partial(:grid, :locals => {:key => "group", :value => current_page.data.group})
-          .pb4
         = yield

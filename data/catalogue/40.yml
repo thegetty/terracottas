@@ -1,0 +1,84 @@
+---
+:info:
+  :cat: 40
+  :acc: 85.AD.76.3
+  :dor_id: 10936
+  :title: Statue of a Mourning Woman
+  :group: Four Statues of Mourning Women from Canosa
+  :region: South Italy
+  :city: Canosa
+  :date: 300-275 BC
+  :typology: Statue
+  :dimensions:
+  - desc: 'H: 93.4 cm; W: 31.2 cm'
+  - desc: 'H (Face): 12.5 cm'
+  - desc: 'Thickness of walls: 1.4-6.4 cm'
+  :munsell:
+  - desc: Overall
+    number: 7.57.5 yr 8/4
+:views:
+- name: Back
+  path: terracottas/40/back
+  pixel_width: 3328
+  pixel_height: 5120
+- name: Left back
+  path: terracottas/40/left-back
+  pixel_width: 3328
+  pixel_height: 5120
+- name: Left front
+  path: terracottas/40/left-front
+  pixel_width: 3328
+  pixel_height: 5120
+- name: Left
+  path: terracottas/40/left
+  pixel_width: 3328
+  pixel_height: 5120
+- name: Main
+  path: terracottas/40/main
+  pixel_width: 3328
+  pixel_height: 5120
+- name: Right back
+  path: terracottas/40/right-back
+  pixel_width: 3328
+  pixel_height: 5120
+- name: Right front
+  path: terracottas/40/right-front
+  pixel_width: 3328
+  pixel_height: 5120
+- name: Right
+  path: terracottas/40/right
+  pixel_width: 3328
+  pixel_height: 5120
+:meta:
+  :discussion: discussion-c
+  :featured:
+  :feature_desc:
+  :start_date: 300
+  :end_date: 275
+  :rotation: true
+  :rotation_height: 768
+  :rotation_width: 485
+:content:
+  :fabric: >
+    light orange in color (Munsell 7. 57.5 yr 8/4); slip and polychromy are like
+    those of the other members of this group. Polychromy: vertical organic pink
+    bands along the right and left sides of the chiton; iron-based red pigment
+    in the hair, feet, and traces in the mouth; white pigment ground layer.
+    There are two circular holes, one on the lower edge of the chiton and another
+    on the figure’s right side.
+  :condition: >
+    Broken and repaired, abraded terracotta surface. The figure is covered in
+    thick burial accretion and modern overpaint, which extends over the white
+    ground layer.
+  :provenance: >
+    1985, Galerie Hydra (Geneva, Switzerland), sold to the J. Paul Getty Museum,
+    1985.
+  :bibliography:
+  :description: |2
+
+    The figure is similar in its general characteristics to the preceding
+    two pieces; here, however, the weight of the body is resting on the left
+    leg, while the right leg is pulled back and bent, and the head is turned
+    toward the left. The facial features are similar to those of [cat. 38](38). On
+    the lower right of the himation, a mark (comparable to the letter
+    *lambda*) is engraved.

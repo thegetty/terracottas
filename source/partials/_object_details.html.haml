@@ -1,50 +1,36 @@
-/ Object Details table (expandible section)
+-# Expects entry variable to be passed in from parent
 .object-content-section.expander
   %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
     %h3.pb1.mt1 Object Details
   .expander-content
     %table.object-info
       %tbody
-        - if current_item.cat
-          -# Catalogue Number
-          %tr
-            %td
-              %strong Catalogue Number
-            %td
-              %strong= current_item.cat
-        - if current_item.acc
-          -# Accession Number
-          %tr
-            %td Inventory Number
-            %td
-              %span= current_item.acc
-              - if current_item.dor_id
-                - collection_link(current_item.dor_id)
-        - if current_item.typology
-          -# Typology
-          %tr
-            %td Typology
-            %td= current_item.typology || "Statue"
-        - if current_item.region
-          -# Region
-          %tr
-            %td Region
-            %td
-              - region_path = current_item.region.downcase.tr(" ", "-")
-              = link_to current_item.region, "#{site_url}/catalogue/#{region_path}"
-              %span
-                = ", #{current_item.city}" unless current_item.city.nil?
-        - if current_item.dimensions
-          -# Dimensions table
+        %tr
+          %td
+            %strong Catalogue Number
+          %td
+            %strong= entry[:info][:cat]
+        %tr
+          %td Inventory Number
+          %td
+            %span= entry[:info][:acc]
+            - collection_link(entry[:info][:dor_id])
+        %tr
+          %td Typology
+          %td= entry[:info][:typology] || nil
+        %tr
+          %td Region
+          %td= entry[:info][:region] + ", " + entry[:info][:city]
+        - if entry[:info][:dimensions].length == 1
           %tr
             %td
               %strong Dimensions
+            %td= entry[:info][:dimensions].first["desc"]
+        - if entry[:info][:dimensions].length > 1
+          %tr
             %td
-          - current_item.dimensions.each do |dimension|
-            - dimension.each_pair do |key, value|
+              %strong Dimensions
+          - entry[:info][:dimensions].each do |dimension|
+            - dimension.each_value do |value|
               %tr
-                - if key == "desc"
-                  %td.pr2{ :colspan => 2 }= value
-                - else
-                  %td.pr2= key
-                  %td.pr2= value
+                %td.pr2{:colspan => 2}= value

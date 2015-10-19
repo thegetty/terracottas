@@ -1,40 +1,37 @@
 <%
-pages = sitemap.resources.find_all { |p| p.source_file.match(/\.md/) }
+entries     = []
+terracottas = merge_catalogue
+pages       = sitemap.resources.find_all { |p| p.source_file.match(/\.md/) }
 pages.delete_if { |p| p.destination_path.include?("views") }
-entries = []
 
 pages.each_with_index do |page, index|
-  object = {}
-
-  if page.data.cat?
-    type = "Catalogue Entry #{page.data.cat}"
-    object = data.terracottas.find { |item| item[:cat] == page.data.cat }
-    fabric = markdown(page.data.fabric).gsub( %r{</?[^>]+?>}, '' ) unless page.data.fabric.nil?
-    condition = markdown(page.data.condition).gsub( %r{</?[^>]+?>}, '' ) unless page.data.condition.nil?
-    provenance = markdown(page.data.provenance).gsub( %r{</?[^>]+?>}, '' ) unless page.data.provenance.nil?
-    bibliography = markdown(page.data.bibliography).gsub( %r{</?[^>]+?>}, '' ) unless page.data.bibliography.nil?
-  else
-    type = "Section"
-  end
-
   entry = {
     :id           => index,
     :title        => page.data.title,
     :url          => page.url,
-    :type         => type,
-    :acc          => object["acc"] || nil,
-    :group        => object["group"] || nil,
-    :typology     => object["typology"] || nil,
-    :region       => object["region"] || nil,
-    :city         => object["city"] || nil,
-    :path         => page.destination_path,
-    :fabric       => fabric || nil,
-    :condition    => condition || nil,
-    :provenance   => provenance || nil,
-    :bibliography => bibliography || nil,
+    :type         => "Section",
     :content      => page.render({:layout => false}).gsub( %r{</?[^>]+?>}, '' )
   }
   entries << entry
+end
 
+terracottas.each_with_index do |item, index|
+  entry            = {}
+  entry[:id]       = index + pages.length
+  entry[:title]    = item.info.title
+  entry[:url]      = "#{site_url}/catalogue/#{item.info.cat}"
+  entry[:type]     = "Catalogue Entry #{item.info.cat}"
+  entry[:acc]      = item.info.acc
+  entry[:group]    = item.info.group
+  entry[:typology] = item.info.typology
+  entry[:location] = item.info.region
+
+  item.content.each do |key, value|
+    unless value.nil?
+      entry["#{key}"] = value
+    end
+  end
+
+  entries << entry
 end
 %><%= entries.to_json %>
