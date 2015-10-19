@@ -45,13 +45,16 @@ a.button {
     font-size: $base-font-size * 1.125;
   }
 
+  ul li {
+    list-style-type: disc;
+    margin-bottom: $small-spacing;
+    margin-left: $base-spacing;
+    text-indent: 0;
+  }
+
   h3 {
     margin-top: 2rem;
   }
-
-  // @include media($x-large-screen-up) {
-  //   font-size: $base-font-size * 1.15;
-  // }
 
   p {
     margin-bottom: 0;
