@@ -1,5 +1,6 @@
 ---
 title: Production Techniques
+layout: page
 ---
 
 The production process for terracotta statuettes and statues has been

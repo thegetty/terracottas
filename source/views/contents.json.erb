@@ -1,0 +1,37 @@
+<%
+entries     = []
+terracottas = merge_catalogue
+pages       = sitemap.resources.find_all { |p| p.source_file.match(/\.md/) }
+pages.delete_if { |p| p.destination_path.include?("views") }
+
+pages.each_with_index do |page, index|
+  entry = {
+    :id           => index,
+    :title        => page.data.title,
+    :url          => page.url,
+    :type         => "Section",
+    :content      => page.render({:layout => false}).gsub( %r{</?[^>]+?>}, '' )
+  }
+  entries << entry
+end
+
+terracottas.each_with_index do |item, index|
+  entry            = {}
+  entry[:id]       = index + pages.length
+  entry[:title]    = item.info.title
+  entry[:url]      = "#{site_url}/catalogue/#{item.info.cat}"
+  entry[:type]     = "Catalogue Entry #{item.info.cat}"
+  entry[:acc]      = item.info.acc
+  entry[:group]    = item.info.group
+  entry[:typology] = item.info.typology
+  entry[:location] = item.info.region
+
+  item.content.each do |key, value|
+    unless value.nil?
+      entry["#{key}"] = value
+    end
+  end
+
+  entries << entry
+end
+%><%= entries.to_json %>

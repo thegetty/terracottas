@@ -35,6 +35,6 @@ The dataset, available in two formats, includes key data from each of the sixty 
 - [CSV](assets/downloads/AncientTerracottas_Ferruzza_Extended.csv)
 - [JSON](assets/downloads/AncientTerracottas_Ferruzza_Extended.json)
 
-In addition to the sixty objects catalogued, the extended dataset includes data on 1,000 additional collection objects outlined in ["Guide to the Collection of South Italian and Sicilian Terracottas"](frontmatter/guide/). Raw data, provided as is. Further study on this little-known collection is encouraged.
+In addition to the sixty objects catalogued, the extended dataset includes data on 1,000 additional collection objects outlined in ["Guide to the Collection of South Italian and Sicilian Terracottas"](guide/). Raw data, provided as is. Further study on this little-known collection is encouraged.
 
 For information on working with art historical data for study or visualization ...

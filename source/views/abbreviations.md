@@ -1,5 +1,6 @@
 ---
 title: Abbreviations
+layout: page
 ---
 
 ca.|circa
