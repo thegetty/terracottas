@@ -5,16 +5,16 @@
   .page-header-center
     - page_title = ""
     - current_entry = 0
-    - if current_page.data.cat
-      - page_title = "Cat. " + current_page.data.cat.to_s
-      - current_entry = current_page.data.cat
+    - if entry
+      - page_title = "Cat. " + entry[:info][:cat].to_s
+      - current_entry = entry[:info][:cat]
     - elsif current_page.data.layout == "cover"
       - page_title = "The J. Paul Getty Museum"
     - else
       - page_title = current_page.data.title
-    - prev_entry(current_entry)
+    -# - prev_entry(current_entry)
     = link_to "#{site_title} | #{page_title}", "#{site_url}/"
-    - next_entry(current_entry)    
+    -# - next_entry(current_entry)
   .page-header-right
     %a.nav-primary-trigger.no-smoothState#off-canvas-toggle
       %i.ion-navicon

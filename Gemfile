@@ -2,24 +2,12 @@
 # the following line to use "https"
 source "http://rubygems.org"
 
-# Proteus defaults
 gem "middleman"
 gem "middleman-livereload"
 gem "middleman-deploy"
 gem "bourbon"
 gem "neat"
 
-# Use pry for console
 gem "middleman-pry"
 
-# Front end
-gem "turbolinks", require: false
-
-# Rakefile
-gem 'rake'
-gem 'nokogiri'
-# gem 'rmagick'
-
-# Production
-gem "middleman-minify-html"
-gem "middleman-imageoptim"
+gem 'middleman-react', :git => 'https://github.com/HappyFunCorp/middleman-react.git'

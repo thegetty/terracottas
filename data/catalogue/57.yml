@@ -1,0 +1,131 @@
+---
+:info:
+  :cat: 57
+  :acc: 71.AD.130
+  :dor_id: 6590
+  :title: Statuette of Eros
+  :group:
+  :region: Sicily
+  :city: Centuripe
+  :date: 150-125 BC
+  :typology: Statuette
+  :dimensions:
+  - desc: 'H: 22.5 cm; W: 8 cm'
+  :munsell:
+  - desc: Overall
+    number: 7.5 yr 6/8
+:views:
+- name: Back
+  path: terracottas/57/back
+  pixel_width: 5120
+  pixel_height: 7424
+- name: Left
+  path: terracottas/57/left
+  pixel_width: 5120
+  pixel_height: 7424
+- name: Main
+  path: terracottas/57/main
+  pixel_width: 5120
+  pixel_height: 7424
+- name: Right
+  path: terracottas/57/right
+  pixel_width: 5120
+  pixel_height: 7424
+:meta:
+  :featured:
+  :feature_desc:
+  :start_date: 150
+  :end_date: 125
+:content:
+  :fabric: |
+    Pinkish yellow color (Munsell 7.5 yr 6/8), friable and purified, with
+    extensive traces of polychromy over a thick layer of white slip: red
+    ocher (hair and attachments of the wings), calcite (drapery), and Egyptian
+    blue (himation). The pinkish pigment on areas of the chest and pelvis has
+    been identified as shell white, likely a modern pigment applied to cover
+    damaged areas. The statuette was made from two molds, for the front and
+    back; the legs are solid. The head, arms, legs, and wings were applied
+    before firing.
+  :condition: |
+    Missing arms and lower legs. Surfaces are abraded, and the polychromy is
+    faded at many points.
+  :provenance: |
+    * 1969, Leo Mildenburg (Zurich, Switzerland);
+    * 1971, Royal Athena Galleries (New York, New York), sold to the J. Paul
+      Getty Museum, 1971.
+  :bibliography: |
+    <span class="smcaps">_Selected Works_</span> 1971, no. 37.
+  :description: |2
+
+    The young nude Eros is standing with his weight on the left leg and the
+    right leg drawn slightly back, determining the flexed pose of the torso.
+    A roll of fabric is draped around the hips, dangling over his thighs,
+    with two long ends arranged on either side at the rear. The head is
+    turned slightly to the left; the hair is parted over the forehead and,
+    forming a bow at the top, dangles softly in puffy locks on either side
+    of the neck. The face is oval, with pronounced cheekbones; the mouth is
+    small; the facial features are nuanced. The left arm was raised, and the
+    wings (now missing) must have been spread.
+
+    This youthful winged Eros with drapery rolled below his hips harks back
+    to an iconography widely documented in Hellenistic coroplastic art.[^1]
+    It finds points of contact with other examples, especially those from
+    Taranto and Centuripe that can be dated to the third quarter of the
+    second century <span class="smcaps">BC,</span> for the
+    most part belonging to funerary deposits of children.[^2] The elongated
+    torso with its soft forms echoes the more stereotypical creations of the
+    Praxitelean tradition and resembles the stylistic Erotes that were
+    mass-produced in Myrina, among other places. In the rendering of these
+    figures, we see the same technical methods that characterize the figures
+    of the second century <span class="smcaps">BC</span>:
+    a generally summary modeling accompanied by a fairly rough coloring and
+    inadequate firing. The expressive rendering of the figure is usually
+    focused on the movement of the arms.[^3]
+
+    #### Appendix
+
+    The statuette’s pigments were examined using PLM. A sample of blue from
+    the rope of drapery at the front of the figure was identified as
+    Egyptian blue. The white on the drapery was identified as containing
+    calcite, and X-ray diffraction (XRD) confirmed this pigment as calcite.
+    The dark red on the hair was identified as red ocher. The pinkish-gray
+    paint seen on many areas of the chest and at the pelvis was identified
+    as possibly a shell white, used in ancient times but much more commonly
+    in inexpensive modern paints. It had a very different appearance under
+    PLM than the original white pigment. UV-visible fluorescence examination
+    shows the overpainted areas clearly. Samples were taken from both the
+    lower half of the figure and from the head. It is assumed that the piece
+    is whole with some damage having occurred in the past. The legs were
+    most probably broken off and reattached, as was the rope of the drapery.
+    The chest suffered some damage and was repaired and painted over with
+    modern pigments. An arm had probably been reattached to the proper left
+    side of the figure at some point, as adhesive residue is found there.
+    That arm is now missing, as is the right arm.
+
+    #### Notes
+
+    [^1]: For the typology of the youthful Eros, see <span
+        class="smcaps">Hermary and Cassimatis</span> 1986,
+        pp. 939–42.
+
+    [^2]: See, for comparison, from Centuripe: <span
+        class="smcaps">Libertini</span> 1926, pl. XXIV,
+        no. 1; <span class="smcaps">Kekulé</span> 1884,
+        pls. XLVIII, no. 2; from Taranto: <span
+        class="smcaps">Graepler</span> <span
+        class="smcaps">1996</span>, p. 246, no. 197
+        (second and third quarters of the second century <span
+        class="smcaps">b.c.</span>); C. Drago,
+        “Rinvenimenti e scavi: 24 agosto–17 novembre 1934 (Taranto),” *NSc*,
+        ser. 7, no. 1 (1940), pp. 314–54, fig. 6 from a tomb in the Contrada
+        Corvisea.
+
+    [^3]: <span class="smcaps">Graepler 1996</span>, p.
+        237; see the Eros with a wreath in S. Besques, “Deux statuettes de
+        Myrina au Musée Jacquemart-André,” in M. Schmidt, ed., *Kanon*:
+        *Festschrift Ernst Berger zum 60. Geburtstag* (Basel, 1988), pp.
+        202–4, dating from the second half of the second century <span
+        class="smcaps">BC</span> See also the youthful
+        Eros with an elongated torso and plump, delicate facial features in
+        <span class="smcaps">Breitenstein</span> 1941, pl.
+        88, no. 732.

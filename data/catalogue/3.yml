@@ -1,0 +1,68 @@
+---
+:info:
+  :cat: 3
+  :acc: 76.AD.11.3
+  :dor_id: 13146
+  :title: Statue of a Standing Siren B
+  :group: Group of a Seated Poet and Sirens
+  :region: South Italy
+  :city: Taranto
+  :date: 330-300 BC
+  :typology: Statue
+  :dimensions:
+  - desc: 'H: 140 cm; W: 48 cm; D: 68 cm'
+  - desc: 'L (from center of belly to tail): 56.2 cm'
+  :munsell:
+  - desc: Overall
+    number: 7.5 yr 8/3
+:views:
+- name: Back
+  path: terracottas/3/back
+  pixel_width: 4864
+  pixel_height: 7424
+- name: Main
+  path: terracottas/3/main
+  pixel_width: 4352
+  pixel_height: 7424
+- name: Right front
+  path: terracottas/3/right-front
+  pixel_width: 4352
+  pixel_height: 7424
+- name: Right
+  path: terracottas/3/right
+  pixel_width: 4608
+  pixel_height: 7424
+:meta:
+  :discussion: discussion-a
+  :featured:
+  :feature_desc:
+  :start_date: 330
+  :end_date: 300
+:content:
+  :fabric: >
+    Light orange in color, and in certain places a slightly more intense shade
+    (Munsell 7.5 yr 8/3); covered by a white slip. Preserved polychromy in red
+    (claws).
+  :condition: >
+    Reconstructed from a number of fragments and covered with a thick layer of
+    very compact whitish slip in areas. Most of the curls and the little finger
+    of the right hand have been lost.
+  :provenance: >
+    1976, Bank Leu A. G. (Zurich, Switzerland), sold to the J. Paul Getty Museum,
+    1976.
+  :bibliography:
+  :description: |2
+    This Siren is identical in the lower portion of her body to Siren A, but
+    her stance and the position of her arms differ. Her left hand rests on
+    her chest and her right arm stretches out in front of her as if she were
+    accompanying a song with movement.
+
+    Her shoulder straps overlap in the opposite direction relative to those
+    of the other Siren. Her head, too, is turned upward and rotated to the
+    right. On the rocky base and beneath her tail, there are three holes.
+    Her left hand has a distinct mark of joining to the wrist, a detail
+    found neither in her other hand nor in the other figure. On her left arm
+    are signs of apparent folds, though that does not seem consistent with
+    the type of short chiton she wears. About halfway up the back section of
+    her body is an incised line; another can be detected at the end of the
+    tail.

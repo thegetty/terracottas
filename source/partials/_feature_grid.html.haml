@@ -1,0 +1,13 @@
+.grid.grid--gutters
+  - collection.each do |cat, entry|
+    .feature-object
+      = link_to "#{site_url}/catalogue/#{entry[:info][:cat]}",
+        :class => "card",
+        :style => "background-image: url(#{image_path(entry[:info][:acc])}.jpg)",
+        :data => { :catalogue => entry[:info][:cat],
+                   :typology  => entry[:info][:typology],
+                   :region => entry[:info][:region],
+                   :group => entry[:info][:group] } do
+        %h5.card-title
+          = "#{entry[:info][:cat]}. #{entry[:info][:title]}"
+      %p.mt2= markdown entry[:meta][:feature_desc]

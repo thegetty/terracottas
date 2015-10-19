@@ -1,5 +1,6 @@
 module CatalogueHelpers
-  def collection_link(dor_id)
+  def collection_link(dor_id="")
+    return false if dor_id == ""
     haml_tag :a, :class => "collection-link",
                  :target => "blank",
                  :title => "View this item on the Getty's collection pages.",
@@ -8,62 +9,40 @@ module CatalogueHelpers
                  end
   end
 
-  def find_in_catalogue(key, value)
-    data.terracottas.select { |item| item[key] == value }
-  end
-
-  def discussion_text(id)
-    path = find_discussion(id)
-    discussion = sitemap.find_resource_by_path(path)
-
-    # Return a hash with discussion attributes and namespaced footnotes
-    {
-      :title => discussion.metadata[:page]["title"],
-      :text  => discussion.render(:layout => false)
-        .gsub("fn:", "fn-discussion:")
-        .gsub("fnref:", "fnref-discussion:")
-    }
-  end
-
-  def find_discussion(id)
-    case id
-    when 1..3    then "discussion/discussion-a.html"
-    when 4..23   then "discussion/discussion-b.html"
-    when 38..41  then "discussion/discussion-c.html"
-    when 45..46  then "discussion/discussion-d.html"
-    when 47..48  then "discussion/discussion-e.html"
+  def find_in_catalogue(section=:info, key, value)
+    data.catalogue.select do |cat, entry|
+      entry[section][key] == value
     end
   end
 
-  # TODO: Refactor this method into something more manageable
-  def object_data(id)
-    object = data.terracottas.find { |item| item[:cat] == id }
-    layers = data.img_index.find { |item| item[:cat] == id }
+  def find_discussion(entry)
+    discussion_path = "discussion/" + entry[:meta][:discussion] + ".html"
+    discussion = sitemap.find_resource_by_path(discussion_path)
+
+    discussion.render(:layout => false)
+      .gsub("fn:", "fn-discussion:")
+      .gsub("fnref:", "fnref-discussion:")
+  end
+
+  def object_data(entry)
     haml_tag :div, :class => "object-data", :data => {
-      :catalogue  => object.cat.to_s,
+      :catalogue  => entry[:info][:cat],
       :dimensions => {
-        :width    => object.pixel_width,
-        :height   => object.pixel_height,
-        :max_zoom => object.max_zoom
+        :width    => main_view(entry)["pixel_width"],
+        :height   => main_view(entry)["pixel_height"],
+        :max_zoom => 5
       },
-      :views    => layers.to_json,
-      :rotation => has_rotation?(id),
-      :rheight  => rotation_height(id),
-      :rwidth   => rotation_width(id)
+      :views    => entry[:views].to_json,
+      :rotation => entry[:meta][:rotation] || false,
+      :rheight  => entry[:meta][:rotation_height] || nil,
+      :rwidth   => entry[:meta][:rotation_width] || nil
     }
   end
 
-  def has_rotation?(id)
-    data.img_index.find { |item| item[:cat] == id }.rotation || false
+  def main_view(entry)
+    entry[:views].find {|view| view["name"] == "Main"}
   end
 
-  def rotation_height(id)
-    data.img_index.find { |item| item[:cat] == id }.rotation_height || false
-  end
-
-  def rotation_width(id)
-    data.img_index.find { |item| item[:cat] == id }.rotation_width || false
-  end
 
   def next_entry(id = 0)
     range = 1..59
