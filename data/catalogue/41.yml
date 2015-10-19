@@ -1,0 +1,64 @@
+---
+:info:
+  :cat: 41
+  :acc: 85.AD.76.4
+  :dor_id: 10937
+  :title: Statue of a Mourning Woman
+  :group: Four Statues of Mourning Women from Canosa
+  :region: South Italy
+  :city: Canosa
+  :date: 300-275 BC
+  :typology: Statue
+  :dimensions:
+  - desc: 'H: 95.5 cm; W: 32.1 cm'
+  - desc: 'H (Face): 12.2 cm'
+  - desc: 'Thickness of walls: 2.1-8.4 cm'
+  :munsell:
+  - desc: At the core
+    number: 2.5 yr 8/4-5yr 7/6
+:views:
+- name: Back
+  path: terracottas/41/back
+  pixel_width: 5120
+  pixel_height: 7424
+- name: Left
+  path: terracottas/41/left
+  pixel_width: 5120
+  pixel_height: 7424
+- name: Main
+  path: terracottas/41/main
+  pixel_width: 5120
+  pixel_height: 7424
+- name: Right
+  path: terracottas/41/right
+  pixel_width: 5120
+  pixel_height: 7424
+:meta:
+  :discussion: discussion-c
+  :featured:
+  :feature_desc:
+  :start_date: 300
+  :end_date: 275
+:content:
+  :fabric: >
+    Beige in color (Munsell 2.5 yr 8/4–5yr 7/6 at the core); white slip and
+    polychromy are as the previous piece. Polychromy: vertical organic pink band
+    on the proper right side, back, and front of the chiton; iron-based red
+    pigment on the hair and feet, and minor traces in the mouth; white pigment
+    ground layer.
+  :condition: >
+    Broken and repaired, abraded terracotta surface. The middle, ring, and pinky
+    fingers of the right hand are broken and repaired. The figure is covered in
+    a heavy layer of burial accretion over the white ground.
+  :provenance: >
+    1985, Galerie Hydra (Geneva, Switzerland), sold to the J. Paul Getty
+    Museum, 1985.
+  :bibliography:
+  :description: |2
+
+    The figure is similar in its general characteristics to [cat. 40](40), though
+    the leg is not drawn as far back; in both the slight hollow and
+    undulation in the fold of the drapery over the right breast is evident.
+    There are two marks incised into the himation: two parallel lines on the
+    proper left, and a mark like a *lambda* on the proper right. There is a
+    circular hole on the lower edge of the chiton in the figure’s back.

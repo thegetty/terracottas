@@ -5,48 +5,46 @@ activate :views
 activate :directory_indexes
 
 # Global site settings
-set :relative_links, true
-set :css_dir, "assets/stylesheets"
-set :js_dir, "assets/javascripts"
-set :images_dir, "assets/images"
-set :fonts_dir, "assets/fonts"
-set :layout, "layouts/application"
-set :partials_dir, "partials"
+set :relative_links,  true
+set :css_dir,         "assets/stylesheets"
+set :js_dir,          "assets/javascripts"
+set :images_dir,      "assets/images"
+set :fonts_dir,       "assets/fonts"
+set :layout,          "layouts/application"
+set :partials_dir,    "partials"
 set :markdown_engine, :kramdown
-set :markdown, :parse_block_html => true
-set :site_title, "Ancient Terracottas"
-set :site_url, ""
-
-page "/catalogue/*", :layout => :object
-page "/frontmatter/*", :layout => :page
-page "/discussion/*", :layout => :page
-page "/search.json", :layout => false
+set :markdown,        :parse_block_html => true
+set :site_title,      "Ancient Terracottas"
+set :site_url,        ""
 
 configure :development do
   activate :livereload
-  set :debug_assets, true
 end
 
 configure :build do
   # Relative assets needed to deploy to Github Pages
-  # activate :relative_assets
+  activate :relative_assets
   activate :minify_css
   activate :minify_javascript
   activate :gzip
   activate :minify_html
-  activate :imageoptim
+  activate :imageoptim do |options|
+    options.image_extensions = %w(.jpg)
+  end
+
   set :site_url, "/Terracottas"
-  set :http_prefix, "/Terracottas"
 end
+
 
 activate :deploy do |deploy|
   deploy.build_before = true
   deploy.method = :git
-  deploy.branch = "gh-pages"
 end
 
-activate :imageoptim do |options|
-  options.image_extensions = %w(.jpg)
+data.catalogue.each do |cat, entry|
+  proxy "/catalogue/#{cat}.html", "/catalogue/template.html", :locals => {
+    :entry => entry
+  }, :ignore => true
 end
 
 helpers do

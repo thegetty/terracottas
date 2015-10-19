@@ -30,7 +30,7 @@ function deepZoomSetup() {
     catNum:      $(".object-data").data("catalogue"),
     pixelWidth:  $(".object-data").data("dimensions-width"),
     pixelHeight: $(".object-data").data("dimensions-height"),
-    views:       $(".object-data").data("views").layers
+    views:       $(".object-data").data("views")
   };
 
   var map = initDeepZoom(options);
