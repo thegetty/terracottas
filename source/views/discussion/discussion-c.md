@@ -2,7 +2,9 @@
 title: Four Statues of Mourning Women from Canosa
 objects: 38..41
 ---
-#### Four Statues of Mourning Women from Canosa
+#### Four Statues of Mourning Women from Canosa (cat. 38–41)
+
+<span class="discussion-note">This discussion is reproduced on each of the individual object pages</span>
 
 This group of mourning women, often understood as orantes (female
 figures in prayer), likely comes from a chamber tomb in the Canosa area,
