@@ -12,23 +12,20 @@
     %h3.pt1
       =link_to "Catalogue", "#{site_url}/catalogue/"
   %li.toc-section
-    =link_to "#{site_url}/downloads/" do
-      %i.ion-archive.mr1
-      %span Download
-    %br
-    =link_to "#{site_url}/cite/" do
-      %i.ion-bookmark.mr2
-      %span Cite
-  %li
+    = partial "downloads"
+    = partial "cite"
+  %li.toc-section
     %h4
       =link_to "Guide to the Collection", "#{site_url}/guide/"
     %h5.toc-entry-author.mb3 Claire L. Lyons
+  %li.toc-section
+    .toc-info
+      :markdown
+        **An online collection catalogue published by the J. Paul Getty Museum**
+        <br />
+        [About](http://gettypubs.github.io/Terracottas/about)
+        | [Privacy](http://www.getty.edu/legal/privacy.html)
+        | [Terms of Use](http://www.getty.edu/legal/copyright.html)
   %li.toc-logo
     = tag :img,
       src: image_path("getty_logo.svg"), class: "toc-logo", alt: "Getty Logo"
-:markdown
-  **An online collection catalogue published by the J. Paul Getty Museum**  
-  <br />
-  [About](http://gettypubs.github.io/Terracottas/about)
-  | [Privacy](http://www.getty.edu/legal/privacy.html)
-  | [Terms of Use](http://www.getty.edu/legal/copyright.html)

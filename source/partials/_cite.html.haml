@@ -1,0 +1,77 @@
+- path = current_path.gsub("index.html", "")
+
+.expander
+  %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
+    %h5 Cite this Page
+  .expander-content.toc-cite
+    - if current_page.data.catalogue
+      / Page is catalogue entry
+      - entry = current_page.metadata[:locals][:entry]
+      %h6 Chicago
+      %p
+        #{data.book.author_last_name}, #{data.book.author_first_name}.
+        “Cat. #{entry[:info][:cat]}: #{entry[:info][:title]}.” In
+        <em>#{data.book.title}</em>, by #{data.book.author_full_name}.
+        #{data.book.publisher}.
+        <span class='force-wrap'>#{data.book.permalink}#{path}</span>
+      %h6 MLA
+      %p
+        #{data.book.author_last_name}, #{data.book.author_first_name}.
+        “Cat. #{entry[:info][:cat]}: #{entry[:info][:title]}.” In
+        <em>#{data.book.title}</em>. By #{data.book.author_full_name}.
+        #{data.book.publisher}.
+        <span class="cite-current-date">DD Mon. YYYY</span>
+        <br />
+        Permanent URL:
+        <<span class='force-wrap'>#{data.book.permalink}#{path}</span>>.
+    - elsif current_page.data.author_first_name
+      / Page has author
+      %h6 Chicago
+      %p
+        #{current_page.data.author_last_name}, #{current_page.data.author_first_name}.
+        “#{current_page.data.title}” In <em>#{data.book.title}</em>,
+        by #{data.book.author_full_name}. #{data.book.publisher}.
+        <span class='force-wrap'>#{data.book.permalink}#{path}</span>
+      %h6 MLA
+      %p
+        #{current_page.data.author_last_name}, #{current_page.data.author_first_name}.
+        “#{current_page.data.title}” In <em>#{data.book.title}</em>.
+        By #{data.book.author_full_name}. #{data.book.publisher}.
+        <span class="cite-current-date">DD Mon. YYYY</span>
+        <br />
+        Permanent URL:
+        <<span class='force-wrap'>#{data.book.permalink}#{path}</span>>.
+    - else
+      / All other pages
+      %h6 Chicago
+      %p
+        #{data.book.author_last_name}, #{data.book.author_first_name}.
+        “#{current_page.data.title}” In <em>#{data.book.title}</em>,
+        by #{data.book.author_full_name}. #{data.book.publisher}.
+        <span class='force-wrap'>#{data.book.permalink}#{path}</span>
+      %h6 MLA
+      %p
+        #{data.book.author_last_name}, #{data.book.author_first_name}.
+        “#{current_page.data.title}” In <em>#{data.book.title}</em>.
+        By #{data.book.author_full_name}. #{data.book.publisher}.
+        <span class="cite-current-date">DD Mon. YYYY</span>
+        <br />
+        Permanent URL:
+        <<span class='force-wrap'>#{data.book.permalink}#{path}</span>>.
+.expander
+  %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
+    %h5 Cite this Catalogue
+  .expander-content.toc-cite
+    %h6 Chicago
+    %p
+      #{data.book.author_last_name}, #{data.book.author_first_name}.
+      #{data.book.title}. #{data.book.publisher}.
+      <span class='force-wrap'>#{data.book.permalink}</span>
+    %h6 MLA
+    %p
+      #{data.book.author_last_name}, #{data.book.author_first_name}.
+      #{data.book.title}. #{data.book.publisher}.
+      <span class="cite-current-date">DD Mon. YYYY</span>
+      <br />
+      Permanent URL:
+      <<span class='force-wrap'>#{data.book.permalink}</span>>.
