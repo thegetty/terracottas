@@ -21,15 +21,11 @@ catalogue: true
       %article
         - object_data(entry)
         .object-header
-          =link_to "#{site_url}/catalogue/" do
-            %i.ion-chevron-up.h3
           %h2.object-meta.mt2= entry[:info][:cat]
           %h1.object-title= entry[:info][:title]
           %h3.object-meta.mb3= entry[:info][:date]
           %h6
             %a.expand-all{href: "javascript:void(0);"} Expand All
-
-        .object-header
         .object-content
           = partial(:object_details, :locals => { :entry => entry })
           - entry[:content].each do |key, value|
