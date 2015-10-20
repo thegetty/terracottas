@@ -33,7 +33,6 @@ configure :build do
   end
 
   set :site_url, "/Terracottas"
-  set :http_prefix, "/Terracottas"
 end
 
 
