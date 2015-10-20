@@ -30,7 +30,8 @@ function deepZoomSetup() {
     catNum:      $(".object-data").data("catalogue"),
     pixelWidth:  $(".object-data").data("dimensions-width"),
     pixelHeight: $(".object-data").data("dimensions-height"),
-    views:       $(".object-data").data("views")
+    views:       $(".object-data").data("views"),
+    rotation:    $(".object-data").data("rotation")
   };
 
   var map = initDeepZoom(options);
@@ -126,7 +127,7 @@ function initDeepZoom(options) {
   map.addLayer(baseMaps["Main view"]);
   L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle).addTo(map);
 
-  if ($("#map").data("rotation")) {
+  if (options.rotation === 1) {
     L.easyButton(
       '<i class="icon ion-refresh"></i>',
       showModal
