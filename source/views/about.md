@@ -2,30 +2,52 @@
 title: About
 layout: page
 ---
-© 2016 J. Paul Getty Trust
+<div class="about">
+`© 2016 J. Paul Getty Trust`
 
-**Published by the J. Paul Getty Museum, Los Angeles**<br />
-Getty Publications<br />
-1200 Getty Center Drive, Suite 500<br />
-Los Angeles, California 90049-1682<br />
+#### Published by the J. Paul Getty Museum, Los Angeles
+
+Getty Publications  
+1200 Getty Center Drive, Suite 500  
+Los Angeles, California 90049-1682  
+
 [www.getty.edu/publications](http://www.getty.edu/publications)
 
-- Ruth Evans Lane, Benedicte Gilman, and Marina Belozerskaya, *Project Editors*
-- TK, *Translator*
-- Greg Albers, Eric Gardner, and Stephanie Grimes, *Digital Development*
-- Elizabeth Chapin Kahn, *Production*
+---
 
-Library of Congress Cataloging-in-Publication Data TK
+##### Project Editors
+Ruth Evans Lane, Benedicte Gilman, and Marina Belozerskaya
 
-Illustration Credits TK
+##### Translator
+TK
+
+##### Digital Development
+Greg Albers, Eric Gardner, and Stephanie Grimes
+
+##### Production
+Elizabeth Chapin Kahn
+
+##### Library of Congress Cataloging-in-Publication Data
+TK
+
+##### Illustration Credits
+TK
+
+---
 
 ## Citation Information
 
-> Chicago: Ferruzza, Maria Lucia. *Ancient Terracottas from South Italy and Sicily in the J. Paul Getty Museum*. Los Angeles: Getty Publications, 2016. http://pubs.getty.edu/museumcatalogues/terracottas
+##### Chicago:
 
-> MLA: Ferruzza, Maria Lucia. *Ancient Terracottas from South Italy and Sicily in the J. Paul Getty Museum*. Los Angeles: Getty P, 2016. 24 Sept. 2015 &#60;http://pubs.getty.edu/museumcatalogues/terracottas&#62;.
+> Ferruzza, Maria Lucia. *Ancient Terracottas from South Italy and Sicily in the J. Paul Getty Museum*. Los Angeles: Getty Publications, 2016. http://pubs.getty.edu/museumcatalogues/terracottas
+
+##### MLA:
+
+> Ferruzza, Maria Lucia. *Ancient Terracottas from South Italy and Sicily in the J. Paul Getty Museum*. Los Angeles: Getty P, 2016. 24 Sept. 2015 &#60;http://pubs.getty.edu/museumcatalogues/terracottas&#62;.
 
 Permanent URL: http://pubs.getty.edu/museumcatalogues/terracottas
+
+---
 
 ## Revision History
 
@@ -33,9 +55,11 @@ While none are planned, any revisions or corrections made to this catalogue afte
 
 ### January 6, 2016:
 
-> First edition
+`First edition`
 
 The most current information on objects featured in this catalogue can be found at [www.getty.edu/art/collection/](http://www.getty.edu/art/collection/).
+
+---
 
 ## Downloads
 
@@ -61,3 +85,5 @@ The main image and caption for each of the sixty catalogue entries, free for unr
 - [JSON](assets/downloads/AncientTerracottas_Ferruzza_Data.json) \| [JSON Extended](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.json)
 
 Key data from each of the sixty catalogue entries, with relevant fields keyed to Pleiades locations, and the Getty's Art & Architecture Thesaurus (AAT) and Thesaurus of Geographic Names (TGN). The extended versions include raw data on 1,000 additional collection objects outlined in the ["Guide to the Collection of South Italian and Sicilian Terracottas"](frontmatter/guide/).
+
+</div>

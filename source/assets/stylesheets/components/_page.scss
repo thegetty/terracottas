@@ -73,4 +73,16 @@
       padding-bottom: 1.5rem;
     }
   }
+
+  .about {
+    blockquote {
+      background-color: $light-gray;
+      border-radius: 8px;
+      margin: 2rem 0;
+      padding: $base-spacing;
+    }
+
+    p { margin-bottom: $base-spacing; }
+    p + p { text-indent: 0; }
+  }
 }
