@@ -57,7 +57,7 @@ module CatalogueHelpers
   end
 
   def main_view(entry)
-    entry[:views].find {|view| view["name"] == "Main"}
+    entry.views.sort_by { |view| view.name }.first
   end
 
 
