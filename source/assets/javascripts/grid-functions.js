@@ -42,7 +42,7 @@ function renderGrid(data) {
         region: item.info.region,
         startDate: item.meta.start_date,
         endDate: item.meta.end_date,
-        url: "http://gettypubs.github.io/Terracottas/catalogue/" + item.info.cat,
+        url: "./" + item.info.cat,
         image: "http://gettypubs.github.io/Terracottas/assets/images/" + item.info.acc + ".jpg"
       }));
       $(".result-counter").html(data.length + " results");
@@ -155,7 +155,7 @@ function clearButton(data) {
     event.preventDefault();
     gridSelection = {};
     clearItems();
-    $(".dropdown-button").html("Click to Select");
+    $(".dropdown-button").html("Select");
     renderGrid(data);
   });
 }

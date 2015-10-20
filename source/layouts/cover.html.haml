@@ -11,11 +11,11 @@
     %h2.centered.mt3 Highlights from the Catalogue
     = partial(:feature_grid,
       :locals => { :collection => find_in_catalogue(:meta, :featured, true) })
-    = link_to "View the Catalogue", "#{site_url}/catalogue", :class => "button"
+    = link_to "View the Catalogue", "#{site_url}/catalogue/", :class => "button"
   .cover-map
     #map.no-scroll
     .cover-map-inner
-      = link_to "View Full Map", "#{site_url}/map", :class => "button"
+      = link_to "View Full Map", "#{site_url}/map/", :class => "button"
   .cover-colophon
     .cover-colophon-inner
       %p= lorem.paragraph

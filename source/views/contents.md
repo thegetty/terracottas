@@ -8,23 +8,23 @@ layout: page
 
 ---
 
-#### [Introduction](./introduction)
+#### [Introduction](../introduction/)
 
-#### [Acknowledgments](./acknowledgments)
+#### [Acknowledgments](../acknowledgments/)
 
-#### [Classification](./classification)
+#### [Classification](../classification/)
 
-#### [Production Techniques](./production_techniques)
+#### [Production Techniques](../production_techniques/)
 
-#### [Abbreviations](./abbreviations)
+#### [Abbreviations](../abbreviations/)
 
-#### [Bibliography](./bibliography)
+#### [Bibliography](../bibliography/)
 
-#### [Reference Map](./map)
+#### [Reference Map](../map/)
 
 ---
 
-### [Catalogue](./catalogue)
+### [Catalogue](../catalogue/)
 
 #### South Italy (1-50)
 
@@ -42,10 +42,10 @@ layout: page
 
 ---
 
-##### [Guide to the Collection of South Italian and Sicilian Terracottas](./guide)
+##### [Guide to the Collection of South Italian and Sicilian Terracottas](../guide/)
 
 ###### Claire L. Lyons
 
 ---
 
-#### [About](./about)
+#### [About](../about/)
