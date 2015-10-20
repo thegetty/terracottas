@@ -15,23 +15,23 @@
   - desc: Overall
     number: 7.5 yr 8/3-8/4
 :views:
-- name: Left
+- name: 2_Left
   path: terracottas/31/left
   pixel_width: 4864
   pixel_height: 6144
-- name: Lower front
+- name: 1_Lower front
   path: terracottas/31/lower-front
   pixel_width: 4864
   pixel_height: 6144
-- name: Main
+- name: 0_Front
   path: terracottas/31/main
   pixel_width: 4864
   pixel_height: 6144
-- name: Right
+- name: 4_Right
   path: terracottas/31/right
   pixel_width: 4864
   pixel_height: 6144
-- name: Top
+- name: 3_Top
   path: terracottas/31/top
   pixel_width: 4864
   pixel_height: 6144

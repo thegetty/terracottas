@@ -10,23 +10,23 @@
   :date: 350-300 BC
   :typology: Relief
   :dimensions:
-  - desc: '1. H: 2.6 cm; W: 4.6cm'
-  - desc: '2. H. 4.7cm; W: 6.6cm'
+  - desc: 'Fragment 1. H: 2.6 cm; W: 4.6cm'
+  - desc: 'Fragment 2. H. 4.7cm; W: 6.6cm'
   :munsell:
 :views:
-- name: Back
+- name: 1_Fragment 1. Back
   path: terracottas/37/back
   pixel_width: 6656
   pixel_height: 4864
-- name: Main
+- name: 0_Fragment 1. Front
   path: terracottas/37/main
   pixel_width: 6656
   pixel_height: 4864
-- name: Second_back
+- name: 3_Fragment 2. Back
   path: terracottas/37/second_back
   pixel_width: 6656
   pixel_height: 4864
-- name: Second_main
+- name: 2_Fragment 2. Front
   path: terracottas/37/second_main
   pixel_width: 6656
   pixel_height: 4864

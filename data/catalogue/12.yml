@@ -18,19 +18,19 @@
   - desc: Calcareous inclusions
     number: 5 yr 7/6
 :views:
-- name: Back
+- name: 2_Back
   path: terracottas/12/back
   pixel_width: 4352
   pixel_height: 4864
-- name: Left
+- name: 1_Left
   path: terracottas/12/left
   pixel_width: 4352
   pixel_height: 4864
-- name: Main
+- name: 0_Front
   path: terracottas/12/main
   pixel_width: 4352
   pixel_height: 4864
-- name: Right
+- name: 3_Right
   path: terracottas/12/right
   pixel_width: 4352
   pixel_height: 4864

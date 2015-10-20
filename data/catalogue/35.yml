@@ -13,11 +13,11 @@
   - desc: 'H: 6.5 cm; W: 8 cm'
   :munsell:
 :views:
-- name: Back
+- name: 1_Back
   path: terracottas/35/back
   pixel_width: 5632
   pixel_height: 4352
-- name: Main
+- name: 0_Front
   path: terracottas/35/main
   pixel_width: 5632
   pixel_height: 4352

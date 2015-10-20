@@ -17,27 +17,27 @@
   - desc: Overall
     number: 10 r 6/6-8/6
 :views:
-- name: Back
+- name: 2_Back
   path: terracottas/47/back
   pixel_width: 5632
   pixel_height: 6400
-- name: Bottom
+- name: 4_Bottom
   path: terracottas/47/bottom
   pixel_width: 6656
   pixel_height: 5632
-- name: Left
+- name: 1_Left
   path: terracottas/47/left
   pixel_width: 5632
   pixel_height: 6400
-- name: Main
+- name: 0_Front
   path: terracottas/47/main
   pixel_width: 5632
   pixel_height: 6400
-- name: Right
+- name: 3_Right
   path: terracottas/47/right
   pixel_width: 5632
   pixel_height: 6400
-- name: Top
+- name: 5_Top
   path: terracottas/47/top
   pixel_width: 6144
   pixel_height: 5120

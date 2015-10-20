@@ -16,23 +16,23 @@
   - desc: Overall
     number: 2.5 yy 8/3
 :views:
-- name: Back
+- name: 2_Back
   path: terracottas/5/back
   pixel_width: 5376
   pixel_height: 5632
-- name: Left
+- name: 1_Left
   path: terracottas/5/left
   pixel_width: 5376
   pixel_height: 5632
-- name: Main
+- name: 0_Front
   path: terracottas/5/main
   pixel_width: 5376
   pixel_height: 5632
-- name: Right
+- name: 3_Right
   path: terracottas/5/right
   pixel_width: 5376
   pixel_height: 5632
-- name: Top
+- name: 4_Top
   path: terracottas/5/top
   pixel_width: 4608
   pixel_height: 4096
