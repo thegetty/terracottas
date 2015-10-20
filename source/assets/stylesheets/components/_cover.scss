@@ -148,7 +148,7 @@
 }
 
 .cover-colophon {
-  background-color: tint($dark-gray, 20%);
+  background-color: tint($dark-gray, 40%);
   padding: 0.75rem;
 }
 
@@ -156,15 +156,15 @@
   @extend %cover-container;
   @extend %cover-block;
   color: $inverse-color;
-  padding-bottom: 3rem;
+  font-family: $heading-font-family;
+  padding-bottom: 1rem;
+
+  a {@extend %inverse-link;}
 }
 
-.colophon-logo {
-  margin: 2rem auto;
-  width: 50px;
+.colophon-text { float: left; }
 
-  @include media($large-screen-up) {
-    margin: 2rem 0 0;
-    float: right;
-  }
+.colophon-logo {
+  width: 50px;
+  @include media($large-screen-up) { float: right; }
 }
