@@ -14,7 +14,7 @@ layout: application
     .dropdown
       .dropdown-container
         %p.dropdown-description Location
-        %p.dropdown-button Click to Select
+        %p.dropdown-button Select
         %ul.dropdown-menu.dropdown-select
           %li{data: {region:"all"}}
             All Locations
@@ -22,7 +22,7 @@ layout: application
             %li{data: {region: item[:info][:region]}}= item[:info][:region]
       .dropdown-container
         %p.dropdown-description Typology
-        %p.dropdown-button Click to Select
+        %p.dropdown-button Select
         %ul.dropdown-menu.dropdown-select
           %li{data: {typology:"all"}}
             All Types
@@ -30,7 +30,7 @@ layout: application
             %li{data: {typology: item[:info][:typology]}}= item[:info][:typology]
       .dropdown-container
         %p.dropdown-description Group
-        %p.dropdown-button Click to Select
+        %p.dropdown-button Select
         %ul.dropdown-menu.dropdown-select
           %li{data: {group:"all"}}
             All Groups
@@ -38,7 +38,7 @@ layout: application
             %li{data: {group: item[:info][:group]}}= item[:info][:group]
       .dropdown-container
         %p.dropdown-description Date
-        %p.dropdown-button Click to Select
+        %p.dropdown-button Select
         %ul.dropdown-menu.dropdown-select
           %li{data: {start: "all", end:"all"}}
             All Dates
