@@ -3,6 +3,7 @@ entries     = []
 terracottas = merge_catalogue
 pages       = sitemap.resources.find_all { |p| p.source_file.match(/\.md/) }
 pages.delete_if { |p| p.destination_path.include?("views") }
+pages.delete_if { |p| p.destination_path.include?("discussion") }
 
 pages.each_with_index do |page, index|
   entry = {
