@@ -60,4 +60,6 @@ a.button {
     margin-bottom: 0;
     + p { text-indent: $base-spacing; }
   }
+
+  #notes { margin-top: 1.5rem; }
 }

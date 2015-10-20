@@ -64,10 +64,13 @@
     }
 
     li {
-      padding-bottom: 1.5rem;
-      overflow: hidden; /* fix for Firefox */
       break-inside: avoid-column;
       -webkit-column-break-inside: avoid;
+      list-style-type: none;
+      margin-bottom: 0;
+      margin-left: 0;
+      overflow: hidden;       // fix for Firefox
+      padding-bottom: 1.5rem;
     }
   }
 }
