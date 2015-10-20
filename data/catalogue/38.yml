@@ -19,8 +19,8 @@
 :views:
 - name: 3_Back left
   path: terracottas/38/left-back
-  pixel_width: 7168
-  pixel_height: 9984
+  pixel_width: 5120
+  pixel_height: 7424
 - name: 1_Front left
   path: terracottas/38/left-front
   pixel_width: 5120
