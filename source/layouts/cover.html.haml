@@ -18,7 +18,12 @@
       = link_to "View Full Map", "#{site_url}/map/", :class => "button"
   .cover-colophon
     .cover-colophon-inner
-      %p= lorem.paragraph
-      %p= lorem.paragraph
+      .colophon-text
+        :markdown
+          **An online collection catalogue published by the J. Paul Getty Museum**
+          <br />
+          [About](http://gettypubs.github.io/Terracottas/about)
+          | [Privacy Policy](http://www.getty.edu/legal/privacy.html)
+          | [Terms of Use](http://www.getty.edu/legal/copyright.html)
       .colophon-logo
         = tag :img, :src => image_path("getty_logo.svg"), :alt => "Getty Logo"
