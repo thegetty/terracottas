@@ -107,8 +107,10 @@ function initDeepZoom(options) {
   );
   map.fitBounds(mapBounds);
 
-  options.views.forEach(function(view){
-    var layerName   = view.name;
+  var sortedViews = _.sortBy(options.views, 'name');
+
+  sortedViews.forEach(function(view){
+    var layerName   = view.name.split(/[\d_]+/)[1];
     var layerPath   = view.path;
     var layerWidth  = view.pixel_width;
     var layerHeight = view.pixel_height;
@@ -124,7 +126,10 @@ function initDeepZoom(options) {
 
   // Add map controls
   L.control.layers(baseMaps).addTo(map).setPosition("topright");
-  map.addLayer(baseMaps["Main view"]);
+
+  var mainLayer = sortedViews[0].name.split(/[\d_]+/)[1] + " view";
+  map.addLayer(baseMaps[mainLayer]);
+
   L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle).addTo(map);
 
   if (options.rotation === 1) {
