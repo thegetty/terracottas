@@ -15,27 +15,27 @@
   - desc: Overall
     number: 2.5 yr 7/6
 :views:
-- name: Back
+- name: 2_Back
   path: terracottas/54/back
   pixel_width: 7424
   pixel_height: 5888
-- name: Front
+- name: 4_Front
   path: terracottas/54/front
   pixel_width: 7424
   pixel_height: 5888
-- name: Head detail
+- name: 5_Odysseus’ head, detail
   path: terracottas/54/head-detail
   pixel_width: 5888
   pixel_height: 7424
-- name: Left
+- name: 1_Left
   path: terracottas/54/left
   pixel_width: 7424
   pixel_height: 5888
-- name: Main
+- name: 0_Front left
   path: terracottas/54/main
   pixel_width: 7424
   pixel_height: 5888
-- name: Right
+- name: 3_Right
   path: terracottas/54/right
   pixel_width: 7424
   pixel_height: 5888
