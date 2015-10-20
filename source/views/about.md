@@ -57,7 +57,7 @@ The main image and caption for each of the sixty catalogue entries, free for unr
 
 ### Data:
 
-- [CSV](assets/downloads/AncientTerracottas_Ferruzza_Data.csv) | [CSV Extended](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.csv)
-- [JSON](assets/downloads/AncientTerracottas_Ferruzza_Data.json) | [JSON Extended](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.json)
+- [CSV](assets/downloads/AncientTerracottas_Ferruzza_Data.csv) \| [CSV Extended](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.csv)
+- [JSON](assets/downloads/AncientTerracottas_Ferruzza_Data.json) \| [JSON Extended](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.json)
 
 Key data from each of the sixty catalogue entries, with relevant fields keyed to Pleiades locations, and the Getty's Art & Architecture Thesaurus (AAT) and Thesaurus of Geographic Names (TGN). The extended versions include raw data on 1,000 additional collection objects outlined in the ["Guide to the Collection of South Italian and Sicilian Terracottas"](frontmatter/guide/).
