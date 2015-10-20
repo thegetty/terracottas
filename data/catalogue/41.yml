@@ -17,19 +17,19 @@
   - desc: At the core
     number: 2.5 yr 8/4-5yr 7/6
 :views:
-- name: Back
+- name: 2_Back
   path: terracottas/41/back
   pixel_width: 5120
   pixel_height: 7424
-- name: Left
+- name: 1_Left
   path: terracottas/41/left
   pixel_width: 5120
   pixel_height: 7424
-- name: Main
+- name: 0_Front
   path: terracottas/41/main
   pixel_width: 5120
   pixel_height: 7424
-- name: Right
+- name: 3_Right
   path: terracottas/41/right
   pixel_width: 5120
   pixel_height: 7424
