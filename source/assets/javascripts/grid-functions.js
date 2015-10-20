@@ -36,7 +36,7 @@ function renderGrid(data) {
       $("#catalogue-grid .grid").append(cardTemplate({
         title: item.info.title,
         cat: item.info.cat,
-        city: item.info.city,
+        site: item.info.site,
         group: item.info.group,
         type: item.info.typology,
         region: item.info.location,
