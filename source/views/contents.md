@@ -26,23 +26,15 @@ layout: page
 
 ### [Catalogue](../catalogue/)
 
-#### South Italy (1-50)
-
-###### Taranto and the Surrounding Areas (1–37)
-
-###### Canosa (38-46)
-
-###### Medma (47-48)
-
-###### Other (49-50)
-
-<br />
-
-#### Sicily (51-60)
+- ##### Taranto Region (1–37)
+- ##### Canosa (38-46)
+- ##### Medma (47-48)
+- ##### South Italy (49-50)
+- ##### Sicily (51-60)
 
 ---
 
-##### [Guide to the Collection of South Italian and Sicilian Terracottas](../guide/)
+#### [Guide to the Collection of South Italian and Sicilian Terracottas](../guide/)
 
 ###### Claire L. Lyons
 
