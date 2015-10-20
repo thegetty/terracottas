@@ -17,23 +17,23 @@
   - desc: Back
     number: 7.5 yr 7/6
 :views:
-- name: Back
+- name: 2_Back
   path: terracottas/29/back
   pixel_width: 5376
   pixel_height: 6912
-- name: Left
+- name: 1_Left
   path: terracottas/29/left
   pixel_width: 5376
   pixel_height: 6912
-- name: Main
+- name: 0_Front
   path: terracottas/29/main
   pixel_width: 5376
   pixel_height: 6912
-- name: Right front
+- name: 4_Front right
   path: terracottas/29/right-front
   pixel_width: 5376
   pixel_height: 6912
-- name: Right
+- name: 3_Right
   path: terracottas/29/right
   pixel_width: 5376
   pixel_height: 6912

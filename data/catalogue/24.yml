@@ -15,19 +15,19 @@
   - desc: Overall
     number: 5 y 7/6
 :views:
-- name: Back
+- name: 2_Back
   path: terracottas/24/back
   pixel_width: 4864
   pixel_height: 5376
-- name: Left
+- name: 1_Left
   path: terracottas/24/left
   pixel_width: 4864
   pixel_height: 5376
-- name: Main
+- name: 0_Front
   path: terracottas/24/main
   pixel_width: 4864
   pixel_height: 5376
-- name: Right
+- name: 3_Right
   path: terracottas/24/right
   pixel_width: 4864
   pixel_height: 5376
