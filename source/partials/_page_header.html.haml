@@ -3,18 +3,31 @@
     %a.no-smoothState#search
       %i.ion-search
   .page-header-center
-    - page_title = ""
-    - current_entry = 0
     - if entry
-      - page_title = "Cat. " + entry[:info][:cat].to_s
-      - current_entry = entry[:info][:cat]
+      = link_to "#{site_title}", "#{site_url}/"
+      %i.ion-ios-arrow-right.ml1.mr1
+      = link_to "Catalogue", "#{site_url}/catalogue/"
+      %i.ion-ios-arrow-right.ml1.mr1
+      %span= "#{entry[:info][:cat]}"
+    - elsif current_page.data.title
+      = link_to "#{site_title}", "#{site_url}/"
+      %i.ion-ios-arrow-right.ml1.mr1
+      %span= current_page.data.title
     - elsif current_page.data.layout == "cover"
-      - page_title = "The J. Paul Getty Museum"
-    - else
-      - page_title = current_page.data.title
-    -# - prev_entry(current_entry)
-    = link_to "#{site_title} | #{page_title}", "#{site_url}/"
-    -# - next_entry(current_entry)
+      %span= current_page.data.title
+
+    -# - page_title = ""
+    -# - current_entry = 0
+    -# - if entry
+    -#   - page_title = "Cat. " + entry[:info][:cat].to_s
+    -#   - current_entry = entry[:info][:cat]
+    -# - elsif current_page.data.layout == "cover"
+    -#   - page_title = "The J. Paul Getty Museum"
+    -# - else
+    -#   - page_title = current_page.data.title
+    -# -# - prev_entry(current_entry)
+    -# = link_to "#{site_title}", "#{site_url}/"
+    -# -# - next_entry(current_entry)
   .page-header-right
     %a.nav-primary-trigger.no-smoothState#off-canvas-toggle
       %i.ion-navicon
