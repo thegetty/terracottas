@@ -34,6 +34,14 @@ module CatalogueHelpers
   end
 
   def object_data(entry)
+    rotation = ""
+
+    if entry[:meta][:rotation]
+      rotation = 1
+    else
+      rotation = 0
+    end
+
     haml_tag :div, :class => "object-data", :data => {
       :catalogue  => entry[:info][:cat],
       :dimensions => {
@@ -42,7 +50,7 @@ module CatalogueHelpers
         :max_zoom => 5
       },
       :views    => entry[:views].to_json,
-      :rotation => entry[:meta][:rotation] || false,
+      :rotation => rotation,
       :rheight  => entry[:meta][:rotation_height] || nil,
       :rwidth   => entry[:meta][:rotation_width] || nil
     }
