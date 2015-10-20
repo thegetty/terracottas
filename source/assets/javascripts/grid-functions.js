@@ -39,7 +39,7 @@ function renderGrid(data) {
         city: item.info.city,
         group: item.info.group,
         type: item.info.typology,
-        region: item.info.region,
+        region: item.info.location,
         startDate: item.meta.start_date,
         endDate: item.meta.end_date,
         url: "./" + item.info.cat,
@@ -95,7 +95,7 @@ function filterData(data) {
     // Location
     .filter(function (item) {
       if (gridSelection.hasOwnProperty("region")) {
-        return item.info.region == gridSelection.region;
+        return item.info.location == gridSelection.region;
       } else {
         return item;
       }

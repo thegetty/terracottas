@@ -25,7 +25,7 @@ terracottas.each_with_index do |item, index|
   entry[:acc]      = item.info.acc
   entry[:group]    = item.info.group
   entry[:typology] = item.info.typology
-  entry[:location] = item.info.region
+  entry[:location] = item.info.location
 
   item.content.each do |key, value|
     unless value.nil?

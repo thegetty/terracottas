@@ -3,7 +3,7 @@ title: Catalogue
 layout: application
 ---
 - terracottas = merge_catalogue
-- locations   = terracottas.uniq { |item| item[:info][:region] }
+- locations   = terracottas.uniq { |item| item[:info][:location] }
 - types       = terracottas.uniq { |item| item[:info][:typology] }
 - groups      = terracottas.uniq { |item| item[:info][:group] }
 - groups.keep_if { |item| item[:info][:group] }
@@ -19,7 +19,7 @@ layout: application
           %li{data: {region:"all"}}
             All Locations
           - locations.each do |item|
-            %li{data: {region: item[:info][:region]}}= item[:info][:region]
+            %li{data: {region: item[:info][:location]}}= item[:info][:location]
       .dropdown-container
         %p.dropdown-description Typology
         %p.dropdown-button Select

@@ -6,7 +6,7 @@
         :style => "background-image: url(#{image_path(entry[:info][:acc])}.jpg)",
         :data => { :catalogue => entry[:info][:cat],
                    :typology  => entry[:info][:typology],
-                   :region => entry[:info][:region],
+                   :location => entry[:info][:location],
                    :group => entry[:info][:group] } do
         %h5.card-title
           = "#{entry[:info][:cat]}. #{entry[:info][:title]}"
