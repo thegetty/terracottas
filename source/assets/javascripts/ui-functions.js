@@ -14,6 +14,16 @@
 function jq(myid) { return myid.replace( /(:|\.|\[|\]|,)/g, "\\$1" );}
 
 // =============================================================================
+// Set the date inside of .cite-current-date span to date of access
+// Format should be: DD Mon. YYYY per MLA guidelines
+
+function citationDate(argument) {
+  var today = moment().format("D MMM. YYYY");
+  $(".cite-current-date").empty();
+  $(".cite-current-date").text(today);
+}
+
+// =============================================================================
 // Determine whether the current page needs a deep zoom image
 
 function mapCheck($el) {
@@ -54,7 +64,7 @@ function offCanvasSetup(){
   });
 
   // Hide the off-canvas nav when clicking a link
-  $('#nav-primary a').on('click', function(e) {
+  $('.menu-close-trigger').on('click', function(e) {
     $nav.removeClass('visible');
     $("#off-canvas-toggle").find('i').show();
   });
@@ -255,6 +265,7 @@ function setUpPage(){
   keyboardNav();
   // gridControlSetup();
   gridSetup();
+  citationDate();
 
   $(".expander-content").addClass("expander--hidden");
   if ( mapCheck($(".object-data")) ) {

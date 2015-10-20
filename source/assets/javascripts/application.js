@@ -7,6 +7,7 @@
 //= require lib/lunr.min
 //= require lib/leaflet
 //= require lib/threesixty
+//= require lib/moment
 //= require ui-functions
 //= require map-functions
 //= require search-functions
