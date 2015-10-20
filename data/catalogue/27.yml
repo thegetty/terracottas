@@ -15,19 +15,19 @@
   - desc: Overall
     number: 10 yr 8/3
 :views:
-- name: Back
+- name: 2_Back
   path: terracottas/27/back
   pixel_width: 4864
   pixel_height: 6144
-- name: Left front
+- name: 1_Front left
   path: terracottas/27/left-front
   pixel_width: 4864
   pixel_height: 6144
-- name: Main
+- name: 0_Front
   path: terracottas/27/main
   pixel_width: 4864
   pixel_height: 6144
-- name: Right front
+- name: 3_Front right
   path: terracottas/27/right-front
   pixel_width: 4864
   pixel_height: 6144
