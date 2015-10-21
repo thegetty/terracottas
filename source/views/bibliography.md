@@ -1225,13 +1225,11 @@ sort_order: 8
   Coroplast’s Art: Greek Terracottas of the Hellenistic World*. Exh. cat.
   New Paltz, N.Y., College Art Gallery, SUNY New Paltz, 1990.
 
-  V<span class="smcaps">an der Wielen-van Ommeren
-  1985</span>
+- <span class="smcaps">Van der Wielen-van Ommeren 1985</span>
 
   Van der Wielen-van Ommeren, F. "Polychrome Vases and Terracottas from
   Southern Italy in the J. Paul Getty Museum," [*Greek Vases in the J. Paul
-  Getty Museum* 2. *Occasional Papers on Antiquities* 3](http://www.getty.edu/publications/virtuallibrary/0892360704.html) (1985), pp.
-  171–82.
+  Getty Museum* 2. *Occasional Papers on Antiquities* 3](http://www.getty.edu/publications/virtuallibrary/0892360704.html) (1985), pp. 171–82.
 
 - <span class="smcaps">Walters 1903</span>
 
