@@ -5,7 +5,7 @@ layout: false
 ---
 #### Statuettes of a Seated Eros (cat. 45–46)
 
-<span class="discussion-note">This discussion is reproduced on each of the individual object pages</span>
+<h6 class="discussion-note">This discussion is reproduced on each of the individual object pages</h6>
 
 These musician Erotes must originally have been mounted on animals:
 beneath the buttocks, there are no traces of slip or polychromy. The

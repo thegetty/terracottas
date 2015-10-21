@@ -5,7 +5,7 @@ layout: false
 ---
 #### Pair of Altars with the Myth of Adonis (cat. 47–48)
 
-<span class="discussion-note">This discussion is reproduced on each of the individual object pages</span>
+<h6 class="discussion-note">This discussion is reproduced on each of the individual object pages</h6>
 
 Due to their distinctive formal and iconographic features, this pair of
 altars (*arulae*) constitutes a document of extreme importance for our
