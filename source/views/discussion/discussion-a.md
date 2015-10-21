@@ -564,7 +564,7 @@ Cohen, ed., *The Distaff Side* (New York and Oxford, 1995), pp. 175–84.
 fig. 51; <span class="smcaps">Getty 1997</span>, p.
 43; E. Towne Markus, *Masterpieces of the J. Paul Getty Museum:
 Antiquities* (Los Angeles, 1997), pp. 88–89; <span
-class="smcaps">Hofstetter 1997, p. 1101</span>, no.
+class="smcaps">Hofstetter 1997</span>, p. 1101, no.
 97, pl. 742; <span class="smcaps">Leclercq-Marx</span>
 1997, pp. 37, 38, 288, no. 23, fig. 27; M. L. Ferruzza, “Il Getty Museum
 e la Sicilia,” *Kalos. Arte in Sicilia* 9, 3 (May–June 1997), pp. 4–11,
