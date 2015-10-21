@@ -9,7 +9,7 @@
 
 .toc {
   font-family: $heading-font-family;
-  font-size: $base-font-size * 1.125;
+  font-size: $base-font-size;
   list-style-type: none;
   margin: 0 auto;
   max-width: 48rem;
@@ -53,23 +53,12 @@
 }
 
 .toc-downloads, .toc-cite {
-  background-color: transparentize($inverse-color, 0.35);
-  border-radius: $base-border-radius;
+  background-color: transparentize($inverse-color, 0.75);
   font-size: 0.85rem;
   padding: $small-spacing;
 
-  a {
-    color: $action-color;
-    font-weight: bold;
-    text-decoration: none;
-    transition: color 0.1s linear;
-
-    &:active,
-    &:focus,
-    &:hover {
-      color: darken($action-color, 15%);
-    }
-  }
+  ul { margin: $small-spacing 0; }
+  a { font-weight: bold; }
 }
 
 .toc-info {

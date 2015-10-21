@@ -2,7 +2,9 @@
 
 .expander
   %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
-    %h5 Cite this Page
+    %h5
+      %i.ion-bookmark.mr2
+      Cite this Page
   .expander-content.toc-cite
     - if current_page.data.catalogue
       / Page is catalogue entry
@@ -58,20 +60,4 @@
         <br />
         Permanent URL:
         <<span class='force-wrap'>#{data.book.permalink}#{path}</span>>.
-.expander
-  %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
-    %h5 Cite this Catalogue
-  .expander-content.toc-cite
-    %h6 Chicago
-    %p
-      #{data.book.author_last_name}, #{data.book.author_first_name}.
-      #{data.book.title}. #{data.book.publisher}.
-      <span class='force-wrap'>#{data.book.permalink}</span>
-    %h6 MLA
-    %p
-      #{data.book.author_last_name}, #{data.book.author_first_name}.
-      #{data.book.title}. #{data.book.publisher}.
-      <span class="cite-current-date">DD Mon. YYYY</span>
-      <br />
-      Permanent URL:
-      <<span class='force-wrap'>#{data.book.permalink}</span>>.
+      = link_to "More Information", "#{site_url}/about/#citation-information"

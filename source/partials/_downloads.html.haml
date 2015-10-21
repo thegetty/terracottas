@@ -1,11 +1,24 @@
 .expander
   %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
-    %h5 Downloads
+    %h5
+      %i.ion-archive.mr1
+      Downloads
   .expander-content.toc-downloads
-    %h6 Catalogue
     :markdown
+      ###### Catalogue
 
       - [PDF](assets/downloads/AncientTerracottas_Ferruzza.pdf)
       - [EPUB](assets/downloads/AncientTerracottas_Ferruzza.epub)
       - [MOBI (Kindle)](assets/downloads/AncientTerracottas_Ferruzza.mobi)
       - [PRINT (in the Getty Shop)](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606061237)
+
+      ###### Images
+
+      - [JPG](assets/downloads/AncientTerracottas_Ferruzza_Images.zip)
+      - [PPT](assets/downloads/AncientTerracottas_Ferruzza_Images.ppt)
+
+      ###### Data
+
+      - [CSV](assets/downloads/AncientTerracottas_Ferruzza_Data.csv) \| [CSV Extended](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.csv)
+      - [JSON](assets/downloads/AncientTerracottas_Ferruzza_Data.json) \| [JSON Extended](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.json)
+    = link_to "More Information", "#{site_url}/about/#downloads"
