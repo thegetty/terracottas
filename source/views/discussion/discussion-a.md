@@ -571,12 +571,11 @@ e la Sicilia,” *Kalos. Arte in Sicilia* 9, 3 (May–June 1997), pp. 4–11,
 fig. 8; D.Tsiafakis, *He Thrake sten Attike Eikonographia tou 5ou aiona
 p.X. (Thrace in Athenian Iconography of the Fifth Century BC*)
 (Komotini, 1998). p. 231, pl. 74; <span
-class="smcaps">Bottini</span> 2000, pp. 135–37; [D.
+class="smcaps">Bottini</span> 2000, pp. 135–37; D.
 Tsiafakis, “Life and Death at the Hands of a Siren,” Studia Varia from
 the J. Paul Getty Museum 2. Occasional Papers on Antiquities 10 (2001),
 pp. 7–24. pp. 7, 12; fig. 2; Getty 2001, pp.
-42–43;](http://www.getty.edu/publications/virtuallibrary/0892366346.html)<span
-class="smcaps">Getty</span> 2002, pp. 116–17; A.
+42–43; <span class="smcaps">Getty</span> 2002, pp. 116–17; A.
 Bottini, “La religiosità salvifica in Magna Grecia fra testo e
 immagini,” in <span class="smcaps">Settis and Parra
 2005</span>, pp. 140–50, esp. pp. 141–42; F. Graf and S. Iles Johnston,
