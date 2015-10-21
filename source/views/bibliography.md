@@ -13,15 +13,15 @@ sort_order: 8
   Abruzzese Calabrese, G. “La coroplastica votiva a Taranto.” In <span
   class="smcaps">Lippolis 1996</span>, pp. 189–206.
 
-- *<span class="smcaps">Acquisitions* 1985</span>
+- <span class="smcaps">*Acquisitions* 1985</span>
 
   “Acquisitions/1985,” [*GettyMusJ* 14](http://www.getty.edu/publications/virtuallibrary/0892360917.html) (1986).
 
-- *<span class="smcaps">Acquisitions* 1986</span>
+- <span class="smcaps">*Acquisitions* 1986</span>
 
   “Acquisitions/1986,” [*GettyMusJ* 15](http://www.getty.edu/publications/virtuallibrary/0892361336.html) (1987).
 
-- *<span class="smcaps">Acquisitions* 1996–1998</span>
+- <span class="smcaps">*Acquisitions* 1996–1998</span>
 
   “Museum Acquisitions Between July 1, 1996, and June 30, 1998.” *The
   Report of the J. Paul Getty Trust*, 1997–1998
