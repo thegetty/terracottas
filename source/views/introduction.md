@@ -94,7 +94,7 @@ connections to materials of more certain archaeological contexts.[^3]
     1994.
 
 [^3]: See the essays by P. Pelagatti and N. Bonacasa in <span
-    class="smcaps">Pelagatti and Guzzo</span> 1997,
+    class="smcaps">Pelagatti and Guzzo 1997</span>,
     pp. 9–28, and the introduction to the British Museum catalogue <span
     class="smcaps">Burn and Higgins</span> 2001*,* pp.
     16–17.

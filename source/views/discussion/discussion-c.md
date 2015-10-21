@@ -188,7 +188,7 @@ nos. 43–46.
 [^2]: The circular holes can also be found on the majority of statues,
     including the examples in Rouen, Copenhagen, and Bari, and on the
     statues in the Museo Archeologico Nazionale in Naples: see <span
-    class="smcaps">Levi</span> 1926, pl. II, no.1.
+    class="smcaps">Levi 1926</span>, pl. II, no.1.
 
 [^3]: See also G. Siebert, “Signatures d’artistes, d’artisans et des
     fabricants dans l’antiquité classique,” *Ktema 3* (1978), pp.
@@ -215,7 +215,7 @@ nos. 43–46.
     Archeologico Nazionale in Naples (inv. 22246 and 22247), and the
     orant from the Musée du Louvre (inv. 7500); respectively: <span
     class="smcaps">Fischer-Hansen 1992</span>*,* pp.
-    101–3; <span class="smcaps">Levi</span> 1926, no.
+    101–3; <span class="smcaps">Levi 1926</span>, no.
     235, pl. II, no. 3, inv. 22246–47; see also <span
     class="smcaps">Jeammet</span> 2003a, Group 3, head
     m5, pp. 288–92.
@@ -249,7 +249,7 @@ nos. 43–46.
     *Introduzione all’artigianato della Puglia antica dall’età coloniale
     all’età romana* (Bari, 1992), fig. 77. See also the *asko*s from
     Canosa at the Louvre, decorated with figures of *orantes*, in <span
-    class="smcaps">Besques</span> 1986, pls. 135–37.
+    class="smcaps">Besques 1986</span>, pls. 135–37.
 
 [^9]: For the tombs of Paestum, see <span
     class="smcaps">Pontrandolfo and Rouveret</span>
@@ -267,7 +267,7 @@ nos. 43–46.
     statues of orantes and the painting from northern Greece, see M.
     Mazzei, “La Daunia e la Grecia settentrionale: Riflessioni sulle
     esperienze pittoriche del primo ellenismo,” in <span
-    class="smcaps">Pontrandolfo</span> 2002, pp.
+    class="smcaps">Pontrandolfo 2002</span>, pp.
     67–77.
 
 [^10]: For the presence of statues around the funerary *kline*, see the
@@ -276,7 +276,7 @@ nos. 43–46.
     class="smcaps">Pontrandolfo and Rouveret</span>
     1992, pp. 140–41, fig. 546. For the funerary ritual, see E. M. De
     Juliis, *L’ipogeo dei Vimini di Canosa* (Bari, 1990), pp. 129–33;
-    and <span class="smcaps">De Juliis</span> 1984,
+    and <span class="smcaps">De Juliis 1984</span>,
     pp. 19–21.
 
 [^11]: On aspects of Hellenization in indigenous centers, see n. 7 above
@@ -295,7 +295,7 @@ nos. 43–46.
     the statues may point not only to differences in age, but also to
     different roles played by women in funerary rites: <span
     class="smcaps">Mazzei</span> 1992. See also <span
-    class="smcaps">De Juliis</span> 1992, pp. 231–32.
+    class="smcaps">De Juliis 1992</span>, pp. 231–32.
     On reexamination of the funerary deposits of the hypogea of Canosa,
     see <span class="smcaps">Jeammet 2003a</span>, pp.
     276–81.
@@ -349,8 +349,8 @@ nos. 43–46.
     (1935), pp. 225–62; E. Lippolis, in <span
     class="smcaps">De Juliis 1984</span>, pp. 450–51.
 
-[^18]: <span class="smcaps">De Juliis</span> 1992, p.
-    236; <span class="smcaps">De Juliis</span> 1984,
+[^18]: <span class="smcaps">De Juliis 1992</span>, p.
+    236; <span class="smcaps">De Juliis 1984</span>,
     p. 454.
 
 [^19]: See <span class="smcaps">Mazzei 1992</span>,
@@ -362,7 +362,7 @@ nos. 43–46.
     46, n. 74.
 
 [^20]: R. Cassano, “Gli ipogei Lagrasta,” in <span
-    class="smcaps">Cassano</span> 1992, pp. 203–24.
+    class="smcaps">Cassano 1992</span>, pp. 203–24.
 
 [^21]: E. Lippolis, in <span class="smcaps">De
-    Juliis</span> 1984, pp. 450–52.
+    Juliis 1984</span>, pp. 450–52.

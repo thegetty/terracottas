@@ -357,7 +357,7 @@ front.
 [^1]: The history of the Hirsch-Virzì collection, with specific
     reference to material from Medma, now in the collection of the Basel
     Antikenmuseum, has been reconstructed in <span
-    class="smcaps">Paoletti</span> 1981, pp. 69–71,
+    class="smcaps">Paoletti 1981</span>, pp. 69–71,
     with bibliography, and in a review, also by M. Paoletti, of <span
     class="smcaps">Herdejürgen</span> 1978 in
     *Prospettiva* 23 (1980), pp. 90–95. For the catalogue of the auction
@@ -385,7 +385,7 @@ front.
     (1982), pp. 81–135. For a summary of the research done in Saturo,
     see <span class="smcaps">Settis and Parra</span>
     2005, pp. 439–40; *<span
-    class="smcaps">Taranto</span>* 1995, pp. 80–87.
+    class="smcaps">Taranto* 1995</span>, pp. 80–87.
     For coroplastic material, see also <span
     class="smcaps">Monetti 2004</span>–200<span
     class="smcaps">5</span>. The bibliography of
@@ -406,18 +406,18 @@ front.
 [^3]: In this connection, see P. Pelagatti, “Sulla dispersione del
     patrimonio archeologico: Le ragioni di un secondo incontro e il caso
     Sicilia,” in <span class="smcaps">Pelagatti and
-    Guzzo</span> 1997, pp. 9–28, esp. p. 24.
+    Guzzo 1997</span>, pp. 9–28, esp. p. 24.
 
 [^4]: On this topic, see <span class="smcaps">Settis
-    and Parra</span> 2005, <span
+    and Parra 2005</span>, <span
     class="smcaps">Lippolis</span> 2001; *<span
-    class="smcaps">Taranto</span>* 1995, pp. 84–85;
+    class="smcaps">Taranto* 1995</span>, pp. 84–85;
     and <span class="smcaps">Osanna</span> 1992. In
     general, on the presence in a sanctuary of religious rituals
     directed toward deities other from those to whom the sanctuary was
     dedicated, see B. Alroth, “Visiting Gods,” *ScAnt* 3–4 (1989–90),
     pp. 301–10; B. Alroth, “Visiting Gods: Who and Why,” in <span
-    class="smcaps">Linders and Nordquist</span> 1987,
+    class="smcaps">Linders and Nordquist 1987</span>,
     pp. 9–19.
 
 [^5]: In the past, I was able to view a limited part of the extensive
@@ -434,9 +434,9 @@ front.
     pieces.
 
 [^6]: For the Copenhagen material, see <span
-    class="smcaps">Fischer-Hansen</span> 1992, pp.
+    class="smcaps">Fischer-Hansen 1992</span>, pp.
     75–97; on the Fondo Giovinazzi: *<span
-    class="smcaps">Taranto</span>* 1995, pp. 71–77.
+    class="smcaps">Taranto* 1995</span>, pp. 71–77.
 
 [^7]: The collection of terracottas now in the Musei Civici di Trieste
     was formed through a series of acquisitions on the antiquities
@@ -451,18 +451,18 @@ front.
     where drawings are reproduced. Several references to these
     materials, some of which probably came from the funerary deposits of
     Pizzone, can be found in <span
-    class="smcaps">Wuilleumier</span> 1939, pp.
+    class="smcaps">Wuilleumier 1939</span>, pp.
     396–439; for this large deposit, see <span
     class="smcaps">Poli</span> 2010a . M. Borda
     published a number of statuettes in his *Arte dedalica a Taranto*
     (Pordenone, 1979), pp. 36–38, 46–55, and “La kourotrophos dedalica
     da Taranto del Museo Civico di Trieste,” *<span
-    class="smcaps">Aparchai</span>* 1982, vol. 1, pp.
+    class="smcaps">Aparchai* 1982</span>, vol. 1, pp.
     85–96.
 
 [^8]: See <span class="smcaps">Lippolis</span> 2001.
     Also worth noting is the methodological introduction in *<span
-    class="smcaps">Taranto</span>* 1995, pp. 41–49:
+    class="smcaps">Taranto* 1995</span>, pp. 41–49:
     most of the Tarentine votive deposits show a clear relationship with
     the necropoleis, even though the function of terracottas in funerary
     rituals and their iconographic interpretation within this context
@@ -486,7 +486,7 @@ front.
     2003</span>b, pp. 277–84. The production of entire life-sized (or
     slightly smaller) terracotta statues is clearly attested in Taranto
     and in Magna Graecia; see, for example, the head in <span
-    class="smcaps">Pugliese Carratelli</span> 1983,
+    class="smcaps">Pugliese Carratelli 1983</span>,
     pp. 501–502, figs, 546–47; see also the statues found near Heraclea,
     ibid., p. 501, fig. 545.
 
@@ -502,7 +502,7 @@ front.
 
 [^11]: On characteristics of Tarentine plastic arts in the Hellenistic
     period and relations with the Attic post-Phidian milieu, see <span
-    class="smcaps">Orlandini</span> 1983, pp. 482–506.
+    class="smcaps">Orlandini 1983</span>, pp. 482–506.
     For a more general discussion of the blending of various elements in
     Western sculpture, particularly at the beginning in the second half
     of the fifth century <span
@@ -519,7 +519,7 @@ front.
     316*–*20.
 
 [^12]: On marble or stone funerary statues in the Hellenistic age, see
-    <span class="smcaps">Belli Pasqua</span> 1995, pp.
+    <span class="smcaps">Belli Pasqua 1995</span>, pp.
     65–67.
 
 [^13]: On the presence of typified terracotta heads in the mid-Italic
@@ -527,7 +527,7 @@ front.
     Etruria and the Italic centers, see M. Papini, *Antichi volti della
     Repubblica: La ritrattistica in Italia centrale tra IV e II secolo
     a.C.* (Rome, 2004), pp. 207–80. See also S. Ciaghi in <span
-    class="smcaps">Bonghi Jovino</span> 1990, pp.
+    class="smcaps">Bonghi Jovino 1990</span>, pp.
     127–45 and <span class="smcaps">Pensabene</span>
     2001, pp. 88–89; C. Rolley, “La scultura della Magna Grecia,” in
     <span class="smcaps">Pugliese Carratelli
@@ -539,8 +539,8 @@ front.
 
 [^14]: For the presence in Lucera of Tarentine craftsmen specializing in
     works of higher artistic quality, such as statues, see <span
-    class="smcaps">D’Ercole</span> 1990, pp. 307–12;
-    <span class="smcaps">Orlandini</span> 1983, pp.
+    class="smcaps">D’Ercole 1990</span>, pp. 307–12;
+    <span class="smcaps">Orlandini 1983</span>, pp.
     501–6. For the Tarentine influence in Ariccia, see <span
     class="smcaps">Carafa</span> 1996*,* pp. 273–94.
     We should also consider observations on fragments of later fictile
@@ -551,7 +551,7 @@ front.
     rendering of the facial features that they derive from the plastic
     arts of Magna Graecia of the fifth and fourth centuries <span
     class="smcaps">BC;</span> see <span
-    class="smcaps">Tomei</span> 1992, pp. 171–226.
+    class="smcaps">Tomei 1992</span>, pp. 171–226.
 
 [^15]: For the passage to a more individualized typology see P.
     Pensabene, “Cippi busti e ritratti: Nota in margine a M. F. Kilmer,
@@ -564,15 +564,15 @@ front.
 [^16]: For crouching children, see the bibliography for cat. 23.
 
 [^17]: For reclining figures, see *<span
-    class="smcaps">Taranto</span>* 1995, pp. 166–69
+    class="smcaps">Taranto* 1995</span>, pp. 166–69
     and nos. 6 and 9; for Metaponto, see G. M. Signore, “Rilievi fittili
     con recumbente dal Ceramico di Metaponto,” *Studi di Antichità* 9
     (1996), pp. 299–359. On the reclining figures in Locri, see M. Barra
     Bagnasco, “I recumbenti,” in <span
-    class="smcaps">Barra Bagnasco</span> 1977, pp.
+    class="smcaps">Barra Bagnasco 1977</span>, pp.
     151–69. For the reclining figures in Sicily and in particular those
     coming from the votive deposit of Fontana Calda at Butera, see <span
-    class="smcaps">Portale</span> 2008, pp. 42–44 with
+    class="smcaps">Portale 2008</span>, pp. 42–44 with
     prior bibliography. For the subject in general, see J. M. Dentzer,
     *Le motif du banquet couché dans le Proche-Orient et le monde grec
     du VII au IV siècle avant J.C.*, Bibliothèque des écoles françaises
@@ -594,12 +594,12 @@ front.
 
 [^19]: On the heroic connotation and the aristocratic ideal that can be
     seen in the funerary deposits of the Hellenistic period, see <span
-    class="smcaps">Abruzzese Calabrese</span> 1996,
+    class="smcaps">Abruzzese Calabrese 1996</span>,
     pp. 189–97. We should also consider in this context the significance
     of the *semata* in <span class="smcaps">Lippolis
     1994</span>, pp. 109–28. On the relationship between votive deposits
     and funerary areas in Taranto, see *<span
-    class="smcaps">Taranto</span>* 1995, pp. 41–49.
+    class="smcaps">Taranto* 1995</span>, pp. 41–49.
 
 [^20]: See the introduction, above, and also E. Paribeni, “Volti, teste
     calve e parrucche,” *AttiMGrecia* n.s. 2 (1958), pp. 63–68. For
