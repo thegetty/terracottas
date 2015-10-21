@@ -34,6 +34,10 @@ a.button {
   text-transform: uppercase;
 }
 
+.footnotes {
+  font-size: 0.75em;
+}
+
 .footnotes ol {
   @extend %default-ol;
 }
