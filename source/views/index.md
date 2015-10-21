@@ -8,6 +8,6 @@ In the ancient world, terracotta sculpture was ubiquitous. Readily available and
 
 ---
 
-#### [Director’s Foreword](#)
+#### [Director’s Foreword](./foreword/)
 
 #### [Introduction](./introduction/)
