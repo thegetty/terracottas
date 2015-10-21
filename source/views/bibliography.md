@@ -1,6 +1,7 @@
 ---
 title: Bibliography
 layout: reference
+sort_order: 8
 ---
 - <span class="smcaps">Abruzzese Calabrese</span> 1987
 

@@ -81,3 +81,9 @@ a.button {
   -webkit-hyphens: auto;
   hyphens: auto;
 }
+
+.hide-on-mobile {
+  @include media($small-screen) {
+    display: none;
+  }
+}

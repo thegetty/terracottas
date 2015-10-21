@@ -60,24 +60,85 @@ module CatalogueHelpers
     entry.views.sort_by { |view| view.name }.first
   end
 
-
-  def next_entry(id = 0)
-    range = 1..59
-    return false unless range.include?(id)
-    haml_tag :a, :id     => "next-link",
-                 :class  => "next-link",
-                 :href   => "#{site_url}/catalogue/#{id + 1}/" do
-                   haml_tag :i, :class => "ion-chevron-right"
-                 end
+  def prev_page(id = 0)
+    pages = sitemap.resources.find_all { |p| p.data.sort_order }
+    if id == 100
+      destination = "#{site_url}/catalogue/60"
+      haml_tag :a, :id     => "prev-link",
+                   :class  => "prev-link hide-on-mobile",
+                   :href   => destination do
+                     haml_tag :i, :class => "ion-chevron-left"
+                   end
+    else
+      prev_page = sitemap.resources.find { |p| p.data.sort_order == id - 1 }
+      return false if prev_page.nil?
+      destination = "#{site_url}#{prev_page.url}"
+      haml_tag :a, :id     => "prev-link",
+                   :class  => "prev-link hide-on-mobile",
+                   :href   => destination do
+                     haml_tag :i, :class => "ion-chevron-left"
+                   end
+    end
   end
 
-  def prev_entry(id = 0)
-    range = 2..60
-    return false unless range.include?(id)
-    haml_tag :a, :id     => "prev-link",
-                 :class  => "prev-link",
-                 :href   => "#{site_url}/catalogue/#{id - 1}/" do
-                   haml_tag :i, :class => "ion-chevron-left"
-                 end
+  def next_page(id = 0)
+    pages = sitemap.resources.find_all { |p| p.data.sort_order }
+    if id == 10
+      destination = "#{site_url}/catalogue/1"
+      haml_tag :a, :id     => "next-link",
+                   :class  => "next-link hide-on-mobile",
+                   :href   => destination do
+                     haml_tag :i, :class => "ion-chevron-right"
+                   end
+    else
+      next_page = sitemap.resources.find { |p| p.data.sort_order == id + 1 }
+      return false if next_page.nil?
+      destination = "#{site_url}#{next_page.url}"
+      haml_tag :a, :id     => "next-link",
+                   :class  => "next-link hide-on-mobile",
+                   :href   => destination do
+                     haml_tag :i, :class => "ion-chevron-right"
+                   end
+    end
+  end
+
+  def next_entry(id = 60)
+    if id == 60
+      next_page = sitemap.resources.find { |p| p.data.sort_order == 100 }
+      return false if next_page.nil?
+      destination = "#{site_url}#{next_page.url}"
+      haml_tag :a, :id     => "next-link",
+                   :class  => "next-link hide-on-mobile",
+                   :href   => destination do
+                     haml_tag :i, :class => "ion-chevron-right"
+                   end
+    else
+      destination = "#{site_url}/catalogue/#{id + 1}/"
+      haml_tag :a, :id     => "next-link",
+                   :class  => "next-link hide-on-mobile",
+                   :href   => destination do
+                     haml_tag :i, :class => "ion-chevron-right"
+                   end
+    end
+  end
+
+  def prev_entry(id = 1)
+    if id == 1
+      prev_page = sitemap.resources.find { |p| p.data.sort_order == 10 }
+      return false if prev_page.nil?
+      destination = "#{site_url}#{prev_page.url}"
+      haml_tag :a, :id     => "prev-link",
+                   :class  => "prev-link hide-on-mobile",
+                   :href   => destination do
+                     haml_tag :i, :class => "ion-chevron-left"
+                   end
+    else
+      destination = "#{site_url}/catalogue/#{id - 1}/"
+      haml_tag :a, :id     => "prev-link",
+                   :class  => "prev-link hide-on-mobile",
+                   :href   => destination do
+                     haml_tag :i, :class => "ion-chevron-left"
+                   end
+    end
   end
 end
