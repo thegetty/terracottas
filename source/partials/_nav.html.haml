@@ -4,20 +4,20 @@
   %li
     %h3.toc-title.mb1
       =link_to data.book.short_title || data.book.title, "#{site_url}/"
-    %h4.toc-entry-author.mb3= data.book.author
+    %h4.toc-entry-author.mb3= data.book.author_full_name
   %li.toc-section
     %h4
       =link_to "Table of Contents", "#{site_url}/contents/"
   %li.toc-section
     %h3.pt1
       =link_to "Catalogue", "#{site_url}/catalogue/"
-  %li.toc-section
+  %li.toc-section.pt1
     = partial "downloads"
     = partial "cite"
   %li.toc-section
     %h4
       =link_to "Guide to the Collection", "#{site_url}/guide/"
-    %h5.toc-entry-author.mb3 Claire L. Lyons
+    %h5.toc-entry-author.mb1 Claire L. Lyons
   %li.toc-section
     .toc-info
       :markdown
