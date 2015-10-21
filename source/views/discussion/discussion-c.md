@@ -154,21 +154,6 @@ third century <span class="smcaps">BC.</span>
 
 <br />
 
-### Bibliography
-
-*<span class="smcaps">Acquisitions</span>* 1986; M. Mazzei,
-“L’ipogeo Monterisi Rossignoli di Canosa,” *AION* 12 (1990), pp. 123–67,
-esp. pp. 138–39; M. Mazzei, “Ipogeo Barbarossa,” In R. Cassano, ed.,
-*Principi imperatori vescovi: Duemila anni di storia a Canosa* (Venice,
-1992), pp. 197–202, esp. pp. 199–201; M. L. Ferruzza, “Quattro statue in
-terracotta provenienti da Canosa,” *Studia Varia from the J. Paul Getty
-Museum* 1 (1993), pp. 71–82; F. van der Wielen-van Ommeren, “Orantes
-canosines,” *Genève et l’Italie: Mélanges de la Societé génevoise
-d’études italiennes* 3 (Geneva, 1999), pp. 43–65, nos. 14–17; <span class="smcaps">Jeammet</span> 2003a, pp. 271 and 291,
-nos. 43–46.
-
-<br />
-
 #### Notes
 
 [^1]: For the technical working of the statue and the hypothetical use
