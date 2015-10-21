@@ -65,3 +65,14 @@
   //.expander--hidden + .expander-content { display: none; }
   .expander--hidden { display: none;}
 }
+
+.discussion-note {
+  // background-color: tint($light-gray, 50%);
+  // border-radius: $base-border-radius;
+  color: $medium-gray;
+  display: block;
+  font-family: $heading-font-family;
+  font-size: 1rem;
+  margin: $base-spacing 0;
+  // padding: $small-spacing;
+}
