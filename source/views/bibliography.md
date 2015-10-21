@@ -1208,8 +1208,7 @@ sort_order: 8
   étrusque*: *Actes du colloque international, Galeries Nationales du
   Grand Palais, Paris, 17–19 novembre 1992*. Paris, 1997.
 
-- <span class="smcaps">*Tra Orfeo e Pitagora</span>*
-  2000
+- <span class="smcaps">*Tra Orfeo e Pitagora* 2000</span>
 
   Tortorelli Ghidini, A., A. Storchi Marino, and A. Visconti, eds. *Tra
   Orfeo e Pitagora*: *Origine e incontri di culture nell’antichità, Atti
