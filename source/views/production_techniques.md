@@ -126,7 +126,7 @@ details with careful tool work during the retouching phase.[^6]
     progressively been imposed upon the systems of classification based
     on stylistic and iconographic analysis. For a summary of the
     problem, see <span class="smcaps">Bonghi
-    Jovino</span> 1990, pp. 19–59, and F. Blondé and A. Muller, eds.,
+    Jovino 1990</span>, pp. 19–59, and F. Blondé and A. Muller, eds.,
     *L’artisanat en Grèce ancienne: Les productions, les diffusions:
     Actes du colloque de Lyon, 10–11 décembre 1998* (Lille, 2000), pp.
     437–63.
@@ -142,10 +142,10 @@ details with careful tool work during the retouching phase.[^6]
     duration and temperature of the firing.
 
 [^4]: See in this connection: <span
-    class="smcaps">Burn and Higgins</span> 2001, pp.
+    class="smcaps">Burn and Higgins 2001</span>, pp.
     18–20 and Appendix 2 for the analysis of the white grounds. See also
     V. Brinkmann, “The Polychromy of Ancient Greek Sculpture,” in *<span
-    class="smcaps">Color of Life</span>* 2008, pp.
+    class="smcaps">Color of Life* 2008</span>, pp.
     18–39.
 
 [^5]: For the use of color on Hellenistic terracottas, see <span
