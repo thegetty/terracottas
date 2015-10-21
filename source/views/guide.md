@@ -4,6 +4,7 @@ author_first_name: Claire L.
 author_last_name: Lyons
 cover: 82.AD.93.1.detail_1
 layout: page
+sort_order: 100
 ---
 The following guide to the entire collection of terracottas from
 southern Italy and Sicily in the collection of the J. Paul Getty Museum

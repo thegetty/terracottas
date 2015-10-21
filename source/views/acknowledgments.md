@@ -1,6 +1,7 @@
 ---
 title: Acknowledgments
 layout: page
+sort_order: 4
 ---
 
 I extend my sincere and affectionate gratitude to the staff of the J.

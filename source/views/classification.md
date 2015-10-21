@@ -1,6 +1,7 @@
 ---
 title: Classification
 layout: page
+sort_order: 5
 ---
 
 The catalogue includes sixty terracottas, presented according to

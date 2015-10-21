@@ -1,8 +1,13 @@
 ---
 title: Table of Contents
 layout: page
+sort_order: 1
 ---
-#### [Director's Foreward](#)
+#### [Cover](../)
+
+---
+
+#### [Director's Foreword](../foreword/)
 
 ###### Timothy Potts
 
@@ -20,7 +25,7 @@ layout: page
 
 #### [Bibliography](../bibliography/)
 
-#### [Reference Map](../map/)
+#### [Map of South Italy and Sicily](../map/)
 
 ---
 
