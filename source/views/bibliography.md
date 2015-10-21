@@ -822,8 +822,7 @@ sort_order: 8
   British Archaeological Reports International Series 243–46 (1985), pp.
   5–19.
 
-- <span class="smcaps">Monetti 2004</span>–200<span
-  class="smcaps">5</span>
+- <span class="smcaps">Monetti 2004–2005</span>
 
   Monetti, L. “La favissa 6 del santuario della sorgente di Satyrion,”
   Tesi di laurea in Archeologia della Magna Graecia, Facoltà di Lettere
