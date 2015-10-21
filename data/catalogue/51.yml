@@ -20,22 +20,6 @@
   path: terracottas/51/back
   pixel_width: 3840
   pixel_height: 4608
-- name: 3_Back left
-  path: terracottas/51/left-back
-  pixel_width: 3840
-  pixel_height: 4608
-- name: 1_Front left
-  path: terracottas/51/left-front
-  pixel_width: 3840
-  pixel_height: 4608
-- name: 2_Left
-  path: terracottas/51/left
-  pixel_width: 3840
-  pixel_height: 4608
-- name: 0_Front
-  path: terracottas/51/main
-  pixel_width: 3840
-  pixel_height: 4608
 - name: 5_Back right
   path: terracottas/51/right-back
   pixel_width: 3840
@@ -46,6 +30,22 @@
   pixel_height: 4608
 - name: 6_Right
   path: terracottas/51/right
+  pixel_width: 3840
+  pixel_height: 4608
+- name: 0_Front
+  path: terracottas/51/main
+  pixel_width: 3840
+  pixel_height: 4608
+- name: 3_Back left
+  path: terracottas/51/left-back
+  pixel_width: 3840
+  pixel_height: 4608
+- name: 1_Front left
+  path: terracottas/51/left-front
+  pixel_width: 3840
+  pixel_height: 4608
+- name: 2_Left
+  path: terracottas/51/left
   pixel_width: 3840
   pixel_height: 4608
 :meta:
