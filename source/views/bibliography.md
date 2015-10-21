@@ -45,19 +45,19 @@ sort_order: 8
   della tavola rotonda Espansione e colonizzazione greca d’età arcaica;
   Metodologie e problemi a confronto, 10–11 November 1995*. Naples, 1997.
 
-- *<span class="smcaps">Aparchai 1982</span>*
+- <span class="smcaps">*Aparchai* 1982</span>
 
   Gualandi, M. L., L. Massei, and S. Settis, eds. *Aparchai: Nuove
   ricerche e studi sulla Magna Grecia e la Sicilia antica in onore di P.
   E. Arias*. 3 vols. Pisa, 1982.
 
-- *<span class="smcaps">Archeologia del
+- <span class="smcaps">*Archeologia del
   Mediterraneo* 2003</span>
 
   Calderone, A., M. Caltabiano, and G. Fiorentini, eds. *Archeologia del
   Mediterraneo: Studi in onore di Ernesto De Miro*. Rome, 2003.
 
-- *<span class="smcaps">Art grec insolite* 1988</span>
+- <span class="smcaps">*Art grec insolite* 1988</span>
 
   *Art grec insolite: Terres cuites hellénistiques de Grande Grèce dans
   les collections privées génévoises*. Exh. cat. Geneva, La Placette,
@@ -198,8 +198,8 @@ sort_order: 8
 - <span class="smcaps">Bottini 2000</span>
 
   Bottini, A. “Forme di religiosità salvifica in Magna Grecia: La
-  documentazione archeologica.” In *<span
-  class="smcaps">Tra Orfeo e Pitagora* 2000</span>, pp.
+  documentazione archeologica.” In <span
+  class="smcaps">*Tra Orfeo e Pitagora* 2000</span>, pp.
   127–37.
 
 - <span class="smcaps">Bottini and Guzzo 1993</span>
@@ -264,12 +264,12 @@ sort_order: 8
   Catoni, M. L., and S. Settis, eds. *La forza del bello: L’arte greca
   conquista l’Italia*. Exh. cat. Mantua, Palazzo Te, 2008.
 
-- *<span class="smcaps">Ceramiques Antiques* 1987</span>
+- <span class="smcaps">*Ceramiques Antiques* 1987</span>
 
   *Céramiques antiques de Grèce et d’Italie dans le patrimonie liégeois*.
   Exh. cat. Liège, Musée de l’Art Wallon, 1987–88.
 
-- *<span class="smcaps">Color of Life* 2008</span>
+- <span class="smcaps">*Color of Life* 2008</span>
 
   Panzanelli, R., E. Schmidt, and K. Lapatin, eds. *The Color of Life:
   Polychromy in Sculpture from Antiquity to the Present*. Los Angeles,
@@ -293,7 +293,7 @@ sort_order: 8
 
   Cusumano, N. “Culti e miti,” *Kokalos* 43–44 (1997–98), pp. 727–812.
 
-- *<span class="smcaps">Damarato* 2000</span>
+- <span class="smcaps">*Damarato* 2000</span>
 
   Berlingò, I., H. Blanck, and F. Cordano, eds. *Damarato: Studi di
   antichità classica offerti a Paola Pelagatti*. Milan, 2000.
@@ -592,7 +592,7 @@ sort_order: 8
   autour d’un mythe grec.* Exh. cat. Zurich, Musée d’art et d’histoire de
   Neuchatel, 1992.
 
-- *<span class="smcaps">La musique et la danse</span>*
+- <span class="smcaps">*La musique et la danse</span>*
   1996
 
   Birchler Emery, P., et al. *La musique et la danse dans l’antiquité:
@@ -609,7 +609,7 @@ sort_order: 8
   La Rocca*,* E. *Amazzonomachia: Le sculture frontonali del tempio di
   Apollo Sosiano*. Exh. cat. Rome, Palazzo dei Conservatori, 1985.
 
-- *<span class="smcaps">La Sicilia dei due
+- <span class="smcaps">*La Sicilia dei due
   Dionisi* 2002</span>
 
   Bonacasa, N., L. Braccesi, and E. De Miro, eds. *La Sicilia dei due
@@ -712,7 +712,7 @@ sort_order: 8
   Lo Porto, F. G. “Metaponto: Scavi e ricerche archeologiche,” *NSc* 10
   (1966), pp. 136–231.
 
-- *<span class="smcaps">Lo stile severo* 1990</span>
+- <span class="smcaps">*Lo stile severo* 1990</span>
 
   *Lo stile severo in Sicilia: Dall’apogeo della tirannide alla prima
   democrazia.* Exh. cat. Palermo, Museo archeologico regionale, 1990.
@@ -861,7 +861,7 @@ sort_order: 8
   Oliver, A., Jr. *The Reconstruction of Two Apulian Tomb Groups*: *Antike
   Kunst* suppl*.* 5 (1968).
 
-- *<span class="smcaps">Orfismo in Magna Grecia</span>*
+- <span class="smcaps">*Orfismo in Magna Grecia</span>*
   1975
 
   *Orfismo in Magna Grecia*: *Atti del quattordicesimo convegno di studi
@@ -911,7 +911,7 @@ sort_order: 8
   id="Editing" class="anchor"></span>, *Medma e il suo territorio:
   Materiali per una carta archeologica*, pp. 47–92. Bari, 1981.
 
-- *<span class="smcaps">Passion for Antiquities</span>*
+- <span class="smcaps">*Passion for Antiquities</span>*
   1994
 
   [*A Passion for Antiquities: Ancient Art from the Collection of Barbara
@@ -1070,7 +1070,7 @@ sort_order: 8
 - <span class="smcaps">Rizza and De Miro 1985</span>
 
   Rizza, G., and E. De Miro. “Le arti figurativi dalle origini al V secolo
-  a.C.” In *<span class="smcaps">Sikanie* 1985</span>,
+  a.C.” In <span class="smcaps">*Sikanie* 1985</span>,
   pp. 125–242.
 
 - <span class="smcaps">Rolley 1994</span>–99
@@ -1100,7 +1100,7 @@ sort_order: 8
   Schürmann, W. *Katalog der antiken Terrakotten im Badischen Landesmuseum
   Karlsruhe.* Göteborg, 1989.
 
-- *<span class="smcaps">Selected Works* 1971</span>
+- <span class="smcaps">*Selected Works* 1971</span>
 
   *Selected Works from the Ancient Art Collection of the J. Paul Getty
   Museum, Malibu, California.* Exh. cat. State College, Pa., Hetzel Union
@@ -1208,7 +1208,7 @@ sort_order: 8
   étrusque*: *Actes du colloque international, Galeries Nationales du
   Grand Palais, Paris, 17–19 novembre 1992*. Paris, 1997.
 
-- *<span class="smcaps">Tra Orfeo e Pitagora</span>*
+- <span class="smcaps">*Tra Orfeo e Pitagora</span>*
   2000
 
   Tortorelli Ghidini, A., A. Storchi Marino, and A. Visconti, eds. *Tra
