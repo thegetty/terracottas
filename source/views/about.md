@@ -44,9 +44,9 @@ TK
 
 ##### MLA:
 
-> Ferruzza, Maria Lucia. *Ancient Terracottas from South Italy and Sicily in the J. Paul Getty Museum*. Los Angeles: Getty P, 2016. 24 Sept. 2015 &#60;http://pubs.getty.edu/museumcatalogues/terracottas&#62;.
-
-Permanent URL: http://pubs.getty.edu/museumcatalogues/terracottas
+> Ferruzza, Maria Lucia. *Ancient Terracottas from South Italy and Sicily
+  in the J. Paul Getty Museum*. Los Angeles: Getty P, 2016. 24 Sept. 2015 &#60;http://pubs.getty.edu/museumcatalogues/terracottas&#62;. <br />
+  Permanent URL: http://pubs.getty.edu/museumcatalogues/terracottas
 
 ---
 
