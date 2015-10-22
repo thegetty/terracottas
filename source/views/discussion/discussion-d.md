@@ -47,14 +47,14 @@ they must have originally been found in their source contexts.[^5]
     For examples from Canosa, see *<span
     class="smcaps">Art grec insolite</span>* 1988*,*
     nos. 20–21 (small Erotes on dolphins and an Eros Kitharoidos); and
-    <span class="smcaps">Cassano</span> 1992, pp.
+    <span class="smcaps">Cassano 1992</span>, pp.
     324–25, nos. 63–73, and pp. 520–29.
 
 [^2]: On the multiple roles of Eros, in Magna Graecia in particular, see
     <span class="smcaps">Hermary and Cassimatis</span>
     1986, pp. 941–42; see also nos. 180, 218, 676. For other
     comparisons, see <span
-    class="smcaps">Besques</span> 1972, pl. 59b, from
+    class="smcaps">Besques 1972</span>, pl. 59b, from
     Aegina, dating from the third quarter of the third century <span
     class="smcaps">BC.</span> See also the statuette
     of Eros with a Deer, cat. 32.
@@ -72,7 +72,7 @@ they must have originally been found in their source contexts.[^5]
     1987,</span> no. 140 (referring to the plastic decoration of a vase
     from Canosa). On the clandestine excavations of Arpi, see M. Mazzei,
     “Dalla Puglia, il caso di Arpi,” in <span
-    class="smcaps">Pelagatti and Guzzo</span> 1997,
+    class="smcaps">Pelagatti and Guzzo 1997</span>,
     pp. 95–97. On the archaeological research in Arpi, see M. Mazzei,
     “Arpi preromana e romana: I dati archeologici: Analisi e proposte
     d’interpretazione,” *Taras* 4 (1984), pp. 7–46.

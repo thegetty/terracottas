@@ -53,14 +53,14 @@ research advances, the online collection catalogue will evolve.
 ### Taranto
 
 -   **71.AD.311**: Banqueting couple, late fourth–third century
-    <span class="smcaps">BC</span>. <span class="smcaps">Kingsley</span> 1976, p. 6, no. 10, fig. 10; B. M. Kingsley, “The Reclining Heroes of Taras and Their Cult,” *California Studies in Classical Antiquity* 12
+    <span class="smcaps">BC. <span class="smcaps">Kingsley</span> 1976</span>, p. 6, no. 10, fig. 10; B. M. Kingsley, “The Reclining Heroes of Taras and Their Cult,” *California Studies in Classical Antiquity* 12
     (1979), p. 205, n. 75.
 -   **71.AD.339**: Crouching satyr with protruding ears, looking upward
     with his right hand on his chest; early fourth century <span class="smcaps">BC</span>.
 -   **75.AD.36**: Seated woman, headless, from a banquet group, with a
-    vertical tang to hold the figure upright; fourth century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley</span> 1976, p.6, no. 7, pl. 7.
+    vertical tang to hold the figure upright; fourth century <span class="smcaps">BC. See <span class="smcaps">Kingsley</span> 1976</span>, p.6, no. 7, pl. 7.
 -   **75.AD.37**: Male banqueter, bearded, reclining and holding a cup,  
-    with a vertical tang to hold the figure upright; fourth century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976,</span> p. 5, no. 4, pl. 4.
+    with a vertical tang to hold the figure upright; fourth century <span class="smcaps">BC. See <span class="smcaps">Kingsley 1976</span>,</span> p. 5, no. 4, pl. 4.
 -   **75.AD.40.1–90**: Group of 90 small heads of women wearing floral
     crowns, averaging 2 cm in height. Most are broken off at the neck
     and the facial features are worn. One figure (75.AD.40.I.14) has a
@@ -94,18 +94,18 @@ research advances, the online collection catalogue will evolve.
 
 Thirty-nine molds depict types that belong to the repertoires of
 Tarentine and, more generally, South Italian terracottas. Seven molds
-acquired in 1973 were part of a group of 430 fourth-century <span class="smcaps">BC</span> terracottas, mainly representing female heads (see 73.AD.10 under “South Italy”). In 1974, 1975, and 1976, three groups of Tarentine molds came to the Getty from the collection of Norman Neuerberg. These molds produced figurines in the round and reliefs for decorative appliqués. Four examples are marked with the names or monograms of Tarentine coroplastic workshops.
+acquired in 1973 were part of a group of 430 fourth-century <span class="smcaps">BC terracottas, mainly representing female heads (see 73.AD.10 under “South Italy”). In 1974, 1975, and 1976</span>, three groups of Tarentine molds came to the Getty from the collection of Norman Neuerberg. These molds produced figurines in the round and reliefs for decorative appliqués. Four examples are marked with the names or monograms of Tarentine coroplastic workshops.
 
 <br />
 
 -   **71.AD.363**: Head of a woman, wearing a pendant earring in her right
     ear; Tarentine front mold for a life-size funerary bust, with
-    triangular string-marks on the top and sides; fourth century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976,</span> p. 8, no. 17, pl. 17.
+    triangular string-marks on the top and sides; fourth century <span class="smcaps">BC. See <span class="smcaps">Kingsley 1976</span>,</span> p. 8, no. 17, pl. 17.
 -   **73.AD.10.C.2a and b**: Unidentified South Italian mold fragments.
 -   **73.AD.10.H.1**: Arm, South Italian; fourth century <span      
     class="smcaps">BC</span>.
 -   **73.AD.10.H.2a and b**: Bull being led to sacrifice and secured to the
-    ground by a rope, South Italian front mold; fourth century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976,</span> p. 13, no. 37, pl. 37.
+    ground by a rope, South Italian front mold; fourth century <span class="smcaps">BC. See <span class="smcaps">Kingsley 1976</span>,</span> p. 13, no. 37, pl. 37.
 -   **73.AD.10.H.3**: Woman wearing a veiled *polos*; Tarentine front mold;
     fourth century <span class="smcaps">BC</span>. See <span
     class="smcaps">Kingsley 1976,</span> p. 5, no.
@@ -141,7 +141,7 @@ acquired in 1973 were part of a group of 430 fourth-century <span class="smcaps"
     Buccoliero, and Ventrelli 2012</span>, p. 184, no. 43 (incorrectly
     cited as 74.AD.22).
 -   74.AD.55: Nude boy holding a goose in his left arm; Tarentine front
-    mold, retouched; fourth century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976,</span> pp.
+    mold, retouched; fourth century <span class="smcaps">BC. See <span class="smcaps">Kingsley 1976</span>,</span> pp.
     10–11, no. 25, pl. 25.
 -   74.AD.56: Seated nude woman wearing a *polos*, with a decorative
     rosette beside her right shoulder; sixth-generation mold for a
@@ -151,29 +151,29 @@ acquired in 1973 were part of a group of 430 fourth-century <span class="smcaps"
     14, pl. 14.
 -   74.AD.57: Head and torso of a woman holding a phiale, with a
     *lampadion* coiffeur; made from a Tarentine single mold as a
-    half-round figure; fourth century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976,</span> p. 11, no. 28, pl. 28.
+    half-round figure; fourth century <span class="smcaps">BC. See <span class="smcaps">Kingsley 1976</span>,</span> p. 11, no. 28, pl. 28.
 -   74.AD.58: Right side of horse’s head. String marks indicate that the
     figure was in the round, and a notch at the lower edge served to
     attach the head to the animal’s body. Tarentine front mold; fourth
-    century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976,</span> p. 12, no. 32, pl. 32.
+    century <span class="smcaps">BC. See <span class="smcaps">Kingsley 1976</span>,</span> p. 12, no. 32, pl. 32.
 -   74.AD.59: Head of a banqueting Silenos, wearing a fillet; Tarentine
     front mold; fourth century <span class="smcaps">BC</span>. See <span
     class="smcaps">Kingsley 1976,</span> p. 6, no.
     9, pl. 9.
 -   74.AD.60: Standing girl wearing a high-waisted chiton; Tarentine
-    back mold of a Tanagra type; fourth century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976,</span> pp. 10–11, no. 23, pl. 23.
+    back mold of a Tanagra type; fourth century <span class="smcaps">BC. See <span class="smcaps">Kingsley 1976</span>,</span> pp. 10–11, no. 23, pl. 23.
 -   74.AD.61: Nude winged daimon wearing boots and holding a *liknon*
     (winnowing basket); Tarentine front mold; fourth century <span class="smcaps">BC</span>. See
     <span class="smcaps">Kingsley 1976,</span> p.
     13, no. 35, pl. 35.
 -   74.AD.62: Lion fighting bull; Tarentine mold for making a
-    sarcophagus appliqué; fourth century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976,</span> p. 14, no.
+    sarcophagus appliqué; fourth century <span class="smcaps">BC. See <span class="smcaps">Kingsley 1976</span>,</span> p. 14, no.
     38, pl. 38; <span class="smcaps">Lullies</span>
     1977, p. 254.
 -   75.AD.41: Ornamental disc with a central rosette and relief
     ornaments; Tarentine, fourth century <span class="smcaps">BC</span>.
 -   75.AD.42: Daedalic bust of a woman, wearing a peplos, mantle, and
-    *polos*; Tarentine, late 7th century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976,</span> p. 4, no.
+    *polos*; Tarentine, late 7th century <span class="smcaps">BC. See <span class="smcaps">Kingsley 1976</span>,</span> p. 4, no.
     1, pl. 1.
 -   75.AD.43: Reclining male banqueter holding a rhyton in his left
     hand, right hand resting on his right knee; Tarentine, late
@@ -331,13 +331,13 @@ probably come from Apulian funerary contexts in or near Canosa:
 -   81.AD.126: Paw of a lion, possibly the foot of a vessel or stand,
     with three attachment holes on the back; traces of white slip. About
     300 <span class="smcaps">BC</span>. See <span class="smcaps">Van der
-    Wielen-Van Ommeren</span> 1985, p. 182, no. 11, fig. 13.
+    Wielen-Van Ommeren 1985</span>, p. 182, no. 11, fig. 13.
 
 -   81.AE.160: Seated Eros, missing forearms, lower legs, and right
     ring; white slip with traces of polychrome pigments on the hair
     (red), chlamys (blue), and wing (violet); third century <span class="smcaps">BC</span>. See
     <span class="smcaps">Van der Wielen-Van
-    Ommeren</span> 1985, p. 181–82, no. 10, fig. 12.
+    Ommeren 1985</span>, p. 181–82, no. 10, fig. 12.
 
 ### South Italy
 
@@ -425,19 +425,19 @@ probably come from Apulian funerary contexts in or near Canosa:
 -   71.AD.304: Head of a woman, with melon coiffeur and veil, and a long
     neck incised Venus rings; from a mold series found at Capua, ca.
     250–200 <span class="smcaps">BC</span>. See <span
-    class="smcaps">Smithers</span> 1993, p. 26, fig.
+    class="smcaps">Smithers 1993</span>, p. 26, fig.
     18.
 
 -   71.AD.305: Head of a woman, with disc earrings and a veil covering
     the back portion of the head, from the same mold generation as an
     identical head in the Museo Campano in Capua, dated 300–275 <span class="smcaps">BC</span>. See
-    <span class="smcaps">Smithers</span> 1993, p.
+    <span class="smcaps">Smithers 1993</span>, p.
     24, fig. 14.
 
 -   71.AD.306: Head of a woman, wearing a veil, a fillet with a central
     bead, and a coiled torque necklace; stylistically similar to heads
     in Capua and Cales, 300–250 <span class="smcaps">BC</span>. See <span
-    class="smcaps">Smithers</span> 1993, p. 25, fig.
+    class="smcaps">Smithers 1993</span>, p. 25, fig.
     17.
 
 -   82.AD.52.1–153: A large group of votives was donated in 1982 and
