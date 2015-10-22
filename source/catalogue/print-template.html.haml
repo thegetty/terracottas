@@ -1,0 +1,29 @@
+---
+layout: application
+catalogue: true
+---
+-# entry is the variable passed from #proxy method in config.rb
+%article
+  - object_data(entry)
+  = image_tag "large/#{entry[:info][:acc]}.jpg"
+  .object-header
+    %h2.object-meta.mt2= entry[:info][:cat]
+    %h1.object-title= entry[:info][:title]
+    %h3.object-meta.mb3= entry[:info][:date]
+    %h6
+      %a.expand-all{href: "javascript:void(0);"} Expand All
+  .object-content
+    = partial(:object_details, :locals => { :entry => entry })
+    - entry[:content].each do |key, value|
+      - unless value.nil?
+        .object-content-section.expander
+          %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
+            %h3.pb1.mt1= key.capitalize
+          .expander-content
+            = markdown value
+    -# - if entry[:meta][:discussion]
+    -#   .object-content-section.expander
+    -#     %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
+    -#       %h3.pb1.mt1 Group Discussion
+    -#     .expander-content
+    -#       = find_discussion(entry)
