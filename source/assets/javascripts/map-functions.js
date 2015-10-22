@@ -14,7 +14,7 @@ CONFIG = {
   imageTileURL: "http://gettypubs.github.io/maptiles/",
   mapID: "map",
   coords: [40.51379915504413, 17.193603515625],
-  defaultZoom: 8,
+  defaultZoom: 6,
 
 };
 
