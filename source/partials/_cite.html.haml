@@ -14,34 +14,34 @@
         #{data.book.author_last_name}, #{data.book.author_first_name}.
         “Cat. #{entry[:info][:cat]}: #{entry[:info][:title]}.” In
         <em>#{data.book.title}</em>, by #{data.book.author_full_name}.
-        #{data.book.publisher}.
+        #{data.book.publisher_location}:
+        #{data.book.publisher}, #{data.book.publication_year}.
         <span class='force-wrap'>#{data.book.permalink}#{path}</span>
       %h6 MLA
       %p
         #{data.book.author_last_name}, #{data.book.author_first_name}.
-        “Cat. #{entry[:info][:cat]}: #{entry[:info][:title]}.” In
+        “Cat. #{entry[:info][:cat]}: #{entry[:info][:title]}.”
         <em>#{data.book.title}</em>. By #{data.book.author_full_name}.
-        #{data.book.publisher}.
+        #{data.book.publisher_location}:
+        #{data.book.publisher_short}, #{data.book.publication_year}.
         <span class="cite-current-date">DD Mon. YYYY</span>
-        <br />
-        Permanent URL:
         <<span class='force-wrap'>#{data.book.permalink}#{path}</span>>.
     - elsif current_page.data.author_first_name
       / Page has author
       %h6 Chicago
       %p
         #{current_page.data.author_last_name}, #{current_page.data.author_first_name}.
-        “#{current_page.data.title}” In <em>#{data.book.title}</em>,
-        by #{data.book.author_full_name}. #{data.book.publisher}.
+        “#{current_page.data.title}.” In <em>#{data.book.title}</em>,
+        by #{data.book.author_full_name}. #{data.book.publisher_location}:
+        #{data.book.publisher}, #{data.book.publication_year}.
         <span class='force-wrap'>#{data.book.permalink}#{path}</span>
       %h6 MLA
       %p
         #{current_page.data.author_last_name}, #{current_page.data.author_first_name}.
-        “#{current_page.data.title}” In <em>#{data.book.title}</em>.
-        By #{data.book.author_full_name}. #{data.book.publisher}.
+        “#{current_page.data.title}.” <em>#{data.book.title}</em>.
+        By #{data.book.author_full_name}. #{data.book.publisher_location}:
+        #{data.book.publisher_short}, #{data.book.publication_year}.
         <span class="cite-current-date">DD Mon. YYYY</span>
-        <br />
-        Permanent URL:
         <<span class='force-wrap'>#{data.book.permalink}#{path}</span>>.
     - else
       / All other pages
@@ -49,15 +49,15 @@
       %p
         #{data.book.author_last_name}, #{data.book.author_first_name}.
         “#{current_page.data.title}” In <em>#{data.book.title}</em>,
-        by #{data.book.author_full_name}. #{data.book.publisher}.
+        by #{data.book.author_full_name}. #{data.book.publisher_location}:
+        #{data.book.publisher}, #{data.book.publication_year}.
         <span class='force-wrap'>#{data.book.permalink}#{path}</span>
       %h6 MLA
       %p
         #{data.book.author_last_name}, #{data.book.author_first_name}.
-        “#{current_page.data.title}” In <em>#{data.book.title}</em>.
-        By #{data.book.author_full_name}. #{data.book.publisher}.
+        “#{current_page.data.title}.” <em>#{data.book.title}</em>.
+        By #{data.book.author_full_name}. #{data.book.publisher_location}:
+        #{data.book.publisher_short}, #{data.book.publication_year}.
         <span class="cite-current-date">DD Mon. YYYY</span>
-        <br />
-        Permanent URL:
         <<span class='force-wrap'>#{data.book.permalink}#{path}</span>>.
-      = link_to "More Information", "#{site_url}/about/#citation-information"
+    = link_to "Full Catalogue Citation", "#{site_url}/about/#citation-information"
