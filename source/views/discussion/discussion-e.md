@@ -306,29 +306,29 @@ an Athenian presence.
     Caulonia, in E. Douglas Van Buren, *Archaic Fictile Revetments in
     Sicily and Magna Graecia* (Washington, 1973), pl. XVII, figs. 69–70.
     See also the cornices of an Archaic *arula* from Naxos in <span
-    class="smcaps">Lentini</span> 1993, pp. 99–100, and from Himera, in <span class="smcaps">Belvedere</span> 1982, pl. XXV, no. 1.
+    class="smcaps">Lentini 1993, pp. 99–100, and from Himera, in <span class="smcaps">Belvedere</span> 1982</span>, pl. XXV, no. 1.
 
 [^2]: For the system of fabricating *arulae*, see <span
-    class="smcaps">Meijden</span> 1993, pp. 10–11;
-    <span class="smcaps">Belvedere</span> 1982, pp.
+    class="smcaps">Meijden 1993</span>, pp. 10–11;
+    <span class="smcaps">Belvedere 1982</span>, pp.
     61–67; D. Ricciotti, *Antiquarium Comunale di Roma: Terrecotte
     votive,* 1. *Arule* (Rome, 1978), pp. 8–13.
 
 [^3]: According to Salapata, because the hollows actually damaged the
     cornice, they must have been made later: <span
-    class="smcaps">Salapata</span> 2001, esp. p. 25.
+    class="smcaps">Salapata 2001</span>, esp. p. 25.
 
 [^4]: For similarly sized altars, see the examples from Medma dating to
     the end of the fifth century <span class="smcaps">BC</span>; these come from funerary contexts and depict scenes from Attic tragedies: M. Paoletti, “Arule
-    di Medma e tragedie attiche,” <span class="smcaps">*Aparchai*</span> 1982, vol. 1, pp. 372–92. Also likely from Medma, but dating from the Archaic period, is a fragment of an *arula* with *korai* and Ionic capitals: see
-    <span class="smcaps">Miller Ammerman</span> 1985, p. 10. Compare also with the altars from Locri and Selinunte: C. Yavis, *Greek Altars: Origins and Typology* (St. Louis, 1949), pp. 170–71, 174; the three *arulae*, of substantial size, from the emporium of Gela datable to the first quarter of the fifth century <span class="smcaps">BC</span>, in R. Panvini*,
+    di Medma e tragedie attiche,” <span class="smcaps">*Aparchai* 1982</span>, vol. 1, pp. 372–92. Also likely from Medma, but dating from the Archaic period, is a fragment of an *arula* with *korai* and Ionic capitals: see
+    <span class="smcaps">Miller Ammerman 1985</span>, p. 10. Compare also with the altars from Locri and Selinunte: C. Yavis, *Greek Altars: Origins and Typology* (St. Louis, 1949), pp. 170–71, 174; the three *arulae*, of substantial size, from the emporium of Gela datable to the first quarter of the fifth century <span class="smcaps">BC</span>, in R. Panvini*,
     Tiranni e culti della Sicilia in età arcaica,* exh. cat. (Siracusa,
     Palazzo Bellomo, 2001). See also the *arulae* from Himera originally
-    from domestic settings, in <span class="smcaps">Belvedere</span> 1982, pp. 103–6. Although mentioned in literary sources, pairs of *arulae* or altars
+    from domestic settings, in <span class="smcaps">Belvedere 1982</span>, pp. 103–6. Although mentioned in literary sources, pairs of *arulae* or altars
     are only rarely found: of note are two terracotta *arulae* found
     together in a domestic setting in Locri: M. Barra Bagnasco, “Aspetti
-    di religiosità domestica a Locri Epizefiri,” in <span class="smcaps">*Santuari della Magna Grecia in Calabria*</span> 1996, pp. 81–88. Also from Himera are two *arulae* of the same shape and size, datable to 430–409 <span
-    class="smcaps">BC: Belvedere</span> 1982, pp. 80–81,
+    di religiosità domestica a Locri Epizefiri,” in <span class="smcaps">*Santuari della Magna Grecia in Calabria* 1996</span>, pp. 81–88. Also from Himera are two *arulae* of the same shape and size, datable to 430–409 <span
+    class="smcaps">BC: Belvedere 1982</span>, pp. 80–81,
     pl. XIV. On the presence of a tray on the top surface, often
     corresponding with a depression, see D. W. Rupp, “Greek Altars of
     the Northeastern Peloponnese, ca. 750/725 <span
@@ -393,7 +393,7 @@ an Athenian presence.
     class="smcaps">Spagnolo</span> 2000.
 
 [^9]: For a bibliography on the myth and cult of Adonis, see <span
-    class="smcaps">Torelli</span> 1997, pp. 233–91; by
+    class="smcaps">Torelli 1997</span>, pp. 233–91; by
     studying the iconographic and literary sources available, the author
     was able to interpret the so-called delta building of Gravisca as an
     *Adonion*, identifying each part of the structure with a specific
@@ -403,7 +403,7 @@ an Athenian presence.
 [^10]: Apollodorus, *Bibliotheca* 3.14.4–5.
 
 [^11]: On the relations between Adonis and the East, see <span
-    class="smcaps">Ribichini</span> 1981, pp. 21–27,
+    class="smcaps">Ribichini 1981</span>, pp. 21–27,
     145–70; S. Ribichini, *Poenus advena: Gli dei fenici e
     l’interpretazione classica* (Rome, 1985), pp. 50–54.
 
@@ -411,44 +411,44 @@ an Athenian presence.
     to Torelli, was encouraged by those distinctly eastern aspects of the
     god’s myth pertaining to royalty and the exercise of power, which
     found resonance in the Archaic Greek context; in this connection,
-    see <span class="smcaps">Torelli</span> 1997, p.
+    see <span class="smcaps">Torelli 1997</span>, p.
     245.
 
 [^13]: For the *pinakes* from Locri with the scene of the “youth with a
-    ‘cista mystica,’” see <span class="smcaps">Torelli</span> 1997, p. 264; and H.
+    ‘cista mystica,’” see <span class="smcaps">Torelli 1997</span>, p. 264; and H.
     Prückner, *Die Lokrischen Tonreliefs: Beitrag zur Kultgeschichte von
     Lokroi Epizephyroi* (Mainz, 1968), pp. 31–36; for Francavilla, see
     U. Spigo, “I pinakes di Francavilla di Sicilia: Nuova
     classificazione e brevi note sugli aspetti cultuali,” in *<span
-    class="smcaps">Damarato</span>* 2000, pp. 211–12, types xix, xx; U. Spigo, entry no. 167, in <span class="smcaps">Pugliese Carratelli 1996</span>, p.
+    class="smcaps">Damarato* 2000</span>, pp. 211–12, types xix, xx; U. Spigo, entry no. 167, in <span class="smcaps">Pugliese Carratelli 1996</span>, p.
     647. For the iconography of Attic and Apulian vases, see <span
-    class="smcaps">Torelli</span> 1997, p. 233, nn. 3–6; <span class="smcaps">Servais-Soyez</span> 1991, nos. 1, 5, 8–11, 27, 45–49.
+    class="smcaps">Torelli 1997, p. 233, nn. 3–6; <span class="smcaps">Servais-Soyez</span> 1991</span>, nos. 1, 5, 8–11, 27, 45–49.
 
-[^14]: For Etruscan mirrors, see <span class="smcaps">Servais-Soyez</span> 1991,
+[^14]: For Etruscan mirrors, see <span class="smcaps">Servais-Soyez 1991</span>,
     pp. 223–28, where Adonis is often depicted bare-chested, with long hair,
-    sitting on a rock; see also <span class="smcaps">Rallo</span> 1974, no. 6, pl. XVI, no. 1. For the urn from Tuscania, see B. M. Felletti Maj, s.v.
+    sitting on a rock; see also <span class="smcaps">Rallo 1974</span>, no. 6, pl. XVI, no. 1. For the urn from Tuscania, see B. M. Felletti Maj, s.v.
     “Adone,” *<span class="smcaps">EAA</span>* 1 (Rome, 1984), pp. 68–71.
 
 [^15]: For the *Adonion* of Gravisca, see <span
-    class="smcaps">Torelli</span> 1997, pp. 234–44.
+    class="smcaps">Torelli 1997</span>, pp. 234–44.
 
 [^16]: See <span class="smcaps">Barra Bagnasco</span>
     1994.
 
 [^17]: For the iconography of the *theogamia* represented by the seated
     embracing couple, see <span
-    class="smcaps">Cassimatis</span> 1987, pp. 77–80.
+    class="smcaps">Cassimatis 1987</span>, pp. 77–80.
     See also the group of Dionysos and Ariadne depicted in Attic vases
     from the first half of the fourth century <span
     class="smcaps">BC</span> in <span
-    class="smcaps">Berti</span> 1991, nos. 10, 12–13.
+    class="smcaps">Berti 1991</span>, nos. 10, 12–13.
     Adonis is depicted lifting a himation with his left hand on a volute
     krater by the Baltimore Painter: see A. D. Trendall, *Red-Figured
     Vases of South Italy and Sicily: A Handbook* (London, 1989), fig.
     251.
 
 [^18]: In this connection, see <span
-    class="smcaps">Servais-Soyez</span> 1991, p. 229.
+    class="smcaps">Servais-Soyez 1991</span>, p. 229.
     A comparable iconographic scheme can also be found in a bronze
     relief from the early Hellenistic period, found in Paramythia
     (Epirus), and perhaps depicting Aphrodite and Anchises on Mount Ida,
@@ -462,7 +462,7 @@ an Athenian presence.
     class="smcaps">BC</span>, see R. Ross Holloway,
     *Art and Coinage in Magna Graecia* (Bellinzona, 1978), pp. 58–59,
     138; L. Massei, “Schemi statuari nella ceramica apula,” *<span
-    class="smcaps">Aparchai</span>* 1982, vol. 1, pp.
+    class="smcaps">Aparchai* 1982</span>, vol. 1, pp.
     483–500; see also the group of Ariadne and Dionysos (or a satyr)
     sitting on a rock in a Tarentine mold that was probably used for the
     decoration of *arulae*, vases, or *thymiateria* (incense burners);
@@ -477,7 +477,7 @@ an Athenian presence.
     Recherches récents,” *RA* 2 (1987), pp. 335–60, esp. pp. 352–57; E.
     Youri, *Ho Krateras tou Derveniou* (Athens, 1978), and B. S.
     Ridgway, “Court and Hellenistic Art,” in <span
-    class="smcaps">Ridgway</span> 2004, pp. 158–84.
+    class="smcaps">Ridgway 2004</span>, pp. 158–84.
     See also M. Pfrommer, “Italien-Makedonien-Kleinasien:
     Interdependenzen spätklassischer und frühhellenistischer Toreutik,”
     *JdI* 98 (1983), pp. 235–85.
@@ -502,14 +502,14 @@ an Athenian presence.
     Etruscan mirror and in the figure on the Faliscan krater with the
     myth of the Argonauts, dating from the first half of the fourth
     century <span class="smcaps">BC</span>: <span
-    class="smcaps">Rallo</span> 1974, pls. I, no. 1,
+    class="smcaps">Rallo 1974</span>, pls. I, no. 1,
     pl. II, nos. 1–2. Hermes is depicted in the same pose on a
     red-figured kylix: see T. Dohrn, “Gefaltete und verschränkte Hände,”
     *JdI* 70 (1955), pp. 50–80. The seated figure on [cat. 48](../48) has also
     been identified as an attendant of Aphrodite, perhaps Peitho, the
     embodiment of erotic persuasion, who has carried the bridal chest
     for the wedding: see <span
-    class="smcaps">Salapata</span> 2001, pp. 40–41.
+    class="smcaps">Salapata 2001</span>, pp. 40–41.
 
 [^21]: The type of the rectangular box with a flat lid and four small
     feet, in some cases quite large in size, is well attested in Magna
@@ -528,15 +528,15 @@ an Athenian presence.
     Michigan (1984), p. 306, no. 23. For the presence of the box in
     depictions of the *adonia* in Attic and Apulian vases, see in
     particular the examples in <span
-    class="smcaps">Servais-Soyez</span> 1991, nos. 45,
-    46, and <span class="smcaps">Atallah</span> 1966,
+    class="smcaps">Servais-Soyez 1991</span>, nos. 45,
+    46, and <span class="smcaps">Atallah 1966</span>,
     figs. 41, 42, 49. See also F. Lissarrague, “Women, Boxes,
     Containers: Some Signs and Metaphors,” in E. Reeder, *Pandora: Women
     in Classical Greece*, exh. cat. (Baltimore, Walters Art Gallery,
     1995), pp. 91–100.
 
 [^22]: For the depictions on the two vases, see <span
-    class="smcaps">Torelli</span> 1997, pp. 272–74; on
+    class="smcaps">Torelli 1997</span>, pp. 272–74; on
     the significance of the *anodos* of Adonis in connection with the
     ritual celebration, see pp. 269–70, 272–73.
 
@@ -545,7 +545,7 @@ an Athenian presence.
     Alcaeus: Fragmenta* (Amsterdam, 1971); see also the references in
     Thucydides (6.30) and Plutarch’s *Lives: Alcibiades* 18. For the
     manifestations of grief in the *adonia*, see <span
-    class="smcaps">Torelli</span> 1997, pp. 263–65. In
+    class="smcaps">Torelli 1997</span>, pp. 263–65. In
     the context of Magna Graecia, Nossis, a female poet from Locri who
     was often linked to Sappho because of their mutual affiliation with
     a “female circle” dedicated to the handsome Adonis, in her sixth
@@ -579,7 +579,7 @@ an Athenian presence.
     the “gardens” into the sea as a purification rite, awaiting the
     return of the young god: see Theocritus *Idylls* 129–33; see also
     the commentary in <span
-    class="smcaps">Atallah</span> 1966, pp. 112–13. It
+    class="smcaps">Atallah 1966</span>, pp. 112–13. It
     is evident that the *adonia* could either take on the nature of a
     public celebration, as in Alexandria in the third century <span
     class="smcaps">BC</span>, or preserve a private
@@ -590,24 +590,24 @@ an Athenian presence.
     expression, outside of the rigid social boundaries by which they
     were restricted in Greek society. In this connection, see the
     vase-paintings in <span
-    class="smcaps">Servais-Soyez</span> 1991, nos. 45,
+    class="smcaps">Servais-Soyez 1991</span>, nos. 45,
     49.
 
 [^27]: This tendency to portray the myth of Adonis as a stage drama, in
     keeping with the dynamics of ritual, can be clearly seen as well in
     vase-paintings and in scenes on Etruscan mirrors; see <span
-    class="smcaps">Torelli</span> 1997, p. 275.
+    class="smcaps">Torelli 1997</span>, p. 275.
 
 [^28]: For the ritual dances, see also L. Todisco, “La Tomba delle
     Danzatrici di Ruvo,” in idem, *Pittura e ceramica figurata tra
     Grecia, Magna Grecia e Sicilia* (Bari, 2006), pp. 17–40. The
     presence of the tympanon in the *adonia*, often associated with a
     sistrum*,* is attested in vase depictions: <span
-    class="smcaps">Servais-Soyez</span> 1991, p. 224,
+    class="smcaps">Servais-Soyez 1991</span>, p. 224,
     no. 10; pp. 227–28, no. 48; <span
-    class="smcaps">Torelli</span> 1997, p. 256, figs.
+    class="smcaps">Torelli 1997</span>, p. 256, figs.
     22–23. On the role of music and aromas in rituals honoring Adonis,
-    see <span class="smcaps">Ribichini</span> 1981,
+    see <span class="smcaps">Ribichini 1981</span>,
     pp. 73–80, with special reference to the Eastern context that the
     Greeks adopted in interpreting this myth. For the presence of
     tympanon in terracotta female statuettes from Hellenistic period,
@@ -621,10 +621,10 @@ an Athenian presence.
     *<span class="smcaps">EAA</span>*, 3 suppl. (Rome,
     1995), pp. 580–82. For *arulae*, in particular, see M. Paoletti,
     “Arule di Medma e tragedie attiche,” in *<span
-    class="smcaps">Aparchai</span>* 1982, pp. 372–92.
+    class="smcaps">Aparchai* 1982</span>, pp. 372–92.
     On the dispersal of the terracottas of Medma onto the antiquities
     market and into private and museum collections, see <span
-    class="smcaps">Paoletti</span> 1981, pp. 47–92.
+    class="smcaps">Paoletti 1981</span>, pp. 47–92.
 
 [^30]: For the cult of Adonis in Locri see <span
     class="smcaps">Barra Bagnasco</span> 1994; for the
@@ -650,7 +650,7 @@ an Athenian presence.
     <span class="smcaps">BC</span>, see U. Spigo, “I
     pinakes di Francavilla di Sicilia: Nuova classificazione e brevi
     note sugli aspetti cultuali,” in *<span
-    class="smcaps">Damarato</span>* 2000, pp.
+    class="smcaps">Damarato* 2000</span>, pp.
     211–12.
 
 [^32]: For cultural and artistic influences in Locri, see M. Barra
@@ -665,12 +665,12 @@ an Athenian presence.
 [^33]: The depiction of space would become an especially important theme
     in the Tarentine reliefs as well; for the influence of the
     coroplastic production on subsequent stone sculpture, see <span
-    class="smcaps">Carter</span> 1975, pp. 28–29,
+    class="smcaps">Carter 1975</span>, pp. 28–29,
     36–37.
 
 [^34]: A combination of “pictoricism” and plasticity characterizes a
     number of Attic works; for an instance, see <span
-    class="smcaps">Ridgway</span> 1997, p. 6, for the
+    class="smcaps">Ridgway 1997</span>, p. 6, for the
     stele of Dexileos. The locks of hair with their sinuous curls are
     reminiscent of the style of the Chequer Painter, active in Sicily
     between the end of the fifth century and the beginning of the fourth
@@ -679,7 +679,7 @@ an Athenian presence.
     especially in tune with the echoes of post-Phidian mannerism. In
     this connection, see M. De Cesare, “Il Pittore della Scaccheria e la
     nascita della ceramografia figurate siceliota,” in <span
-    class="smcaps">Ampolo</span> 2009, pp. 277–94; and
+    class="smcaps">Ampolo 2009</span>, pp. 277–94; and
     A. D. Trendall, “New Vases by the Chequer Painter,” in H. Froning
     and T. Hölscher, *Kotinos*: *Festschrift für Erika Simon* (Mainz,
     1992), pp. 301–5*.* Similar characteristics can also be found in
@@ -720,7 +720,7 @@ an Athenian presence.
     the fifth century <span class="smcaps">BC</span>,
     see N. Franco Parise, “Le emissioni monetarie di Magna Graecia:
     Dalla fondazione di Thuri all’età di Archidamo,” in <span
-    class="smcaps">Settis</span> 1994, pp. 403–19,
+    class="smcaps">Settis 1994</span>, pp. 403–19,
     figs. 15–17.
 
 [^36]: In the *arula* from Medma with a representation of Pirithous
@@ -728,9 +728,9 @@ an Athenian presence.
     the jutting rocks; the female figure, seated and lost in thought;
     the position of Pirithous; and a naïveté in the rendering of the
     poses and certain details; see <span
-    class="smcaps">Paoletti</span> 1981, pl. 96, no.
+    class="smcaps">Paoletti 1981</span>, pl. 96, no.
     1; S. Settis, “Bellerofonte a Medma,” in <span
-    class="smcaps">Settis</span> 1987, pp. 250–58, and
+    class="smcaps">Settis 1987</span>, pp. 250–58, and
     in that same volume, for the female head in Geneva, see his essay
     “Una testa di Medma da Atene a Ginevra,” pp. 263–83.
 
@@ -742,7 +742,7 @@ an Athenian presence.
     1997); on the affinity between Locrian and Attic *pinakes*, see M.
     C. Parra, “L’arte greca in Italia meridionale, tra scoperte,
     riscoperte e ricezione” in <span
-    class="smcaps">Catoni and Settis</span> 2008, pp.
+    class="smcaps">Catoni and Settis 2008</span>, pp.
     79–91, esp. pp. 84–85. On the derivation of Locri’s *pinakes* from
     Syracusan models, see M. C. Parra, “Pinakes di Hipponium,” *Annali
     della Scuola normale superiore di Pisa* (1989), pp. 559–65. Compare
@@ -759,7 +759,7 @@ an Athenian presence.
     Ancient Mediterranean* (Rome, 2008), pp. 57–67. For the cultural
     exchanges between Locri and Medma with regard to the distribution of
     terracottas, see <span class="smcaps">Miller
-    Ammerman</span> 1985, pp. 5–19. On the possible intermediary role
+    Ammerman 1985</span>, pp. 5–19. On the possible intermediary role
     played by Syracuse in the spread of Attic art to Locri, see P. E.
     Arias, “L’arte locrese nelle sue principali manifestazioni
     artigianali: Terrecotte, bronzi, vasi, arti minori,” in *Locri

@@ -555,7 +555,7 @@ Results of the pigment analysis:
     Falerii (third century <span
     class="smcaps">BC</span>) in the Musée du Louvre:
     F. Gaultier, “L’Ariadne de Faléries: Une chef-d’oeuvre retrouvé,” in
-    *<span class="smcaps">Damarato</span>* 2000, pp.
+    *<span class="smcaps">Damarato* 2000</span>, pp.
     288–97. The technique was also used during the Renaissance and in
     modern times. On this, see M. G. Vaccari, ed., *La scultura in
     terracotta* (Florence, 1996), in particular the study by G.
@@ -565,7 +565,7 @@ Results of the pigment analysis:
 [^3]: The clearly visible line of the seam in Siren B’s left hand might
     show where the hand was attached to the arm. On “the technique of
     added pieces,” see <span
-    class="smcaps">Tomei</span> 1992, pp. 176–77; this
+    class="smcaps">Tomei 1992</span>, pp. 176–77; this
     technique is well depicted in a *kylix* by the Foundry Painter in
     Berlin, q.v. *Corpus Vasorum Antiquorum*, Berlin Antiquarium 1, pl.
     72–73. With the terracotta fragments from the Palatine, thought to
@@ -600,7 +600,7 @@ Results of the pigment analysis:
     Nekyia: A Reconstruction and Analysis,” *AJA* 94 (1990), pp. 213–35.
 
 [^8]: For the iconography of Orpheus in Attic vase-painting, see <span
-    class="smcaps">Garezou</span> 1994, in particular
+    class="smcaps">Garezou 1994</span>, in particular
     nos. 7–14, 23–26 for Orpheus dressed in Greek style among the
     Thracians; no. 16 for Apulian vases, especially those produced
     between 340 and 310 <span
@@ -626,7 +626,7 @@ Results of the pigment analysis:
 
 [^11]: For Apollo Kitharoidos, see W. Lambrinoudakis and O. Palagia,
     s.v. “Apollon,” *LIMC* 2.1 (1984), pp. 199–213; <span
-    class="smcaps">Flashar</span> 1992, pp. 114–23; D.
+    class="smcaps">Flashar 1992</span>, pp. 114–23; D.
     Castaldo, *Il pantheon musicale: Iconografia nella ceramica attica
     tra VI e IV secolo a.C*. (Ravenna, 2000), pp. 15–22; for statuary,
     see M. Mertens-Horn, “La statua di Apollo citaredo della galleria
@@ -654,20 +654,20 @@ Results of the pigment analysis:
     class="smcaps">*Santuari della Magna Grecia in
     Calabria*</span> 1996*,* pp. 261–65.
 
-[^12]: <span class="smcaps">Beschi</span> 1991, pp.
+[^12]: <span class="smcaps">Beschi 1991</span>, pp.
     39–55; for the *klismos* and the type of footstool, see G. M. A.
     Richter, *The Furniture of the Greeks, Etruscans and Romans*
     (London, 1966), pp. 37–38 and 49–52. A terracotta chair with a
     backrest topped by two winged creatures was discovered at Taranto in
     a tomb in the Via Argentina: see <span
-    class="smcaps">De Juliis and Loiacono</span> 1985,
+    class="smcaps">De Juliis and Loiacono 1985</span>,
     p. 387, no. 475.
 
 [^13]: For the iconography of Orpheus in Apulian vases, see M. Schmidt,
     “Orfeo e orfismo nella pittura vascolare italiota,” *<span
     class="smcaps">Orfismo in Magna Grecia</span>*
     1975, pp. 105–38, pl. VIII; see also <span
-    class="smcaps">Pensa</span> 1977, pp. 23–31, pl.
+    class="smcaps">Pensa 1977</span>, pp. 23–31, pl.
     V, fig. 1, and pl. X.
 
 [^14]: This imagery might derive from a pictorial prototype such as the
@@ -675,7 +675,7 @@ Results of the pigment analysis:
     class="smcaps">EAA</span>* 5 (1963), pp. 476–82.
     See the conclusions of <span
     class="smcaps">Bottini</span> 2000 and also <span
-    class="smcaps">Pensa</span> 1977, pp. 46–47, no.
+    class="smcaps">Pensa 1977</span>, pp. 46–47, no.
     146, pls. VII and IX for two volute kraters, one from Armento, now
     in the Museo Archeologico Nazionale in Naples, the other of an
     unknown findspot, now at the Hermitage in St. Petersburg, in which
@@ -701,7 +701,7 @@ Results of the pigment analysis:
     1990, pp. 151–83; on the funerary monuments of Sophocles and
     Isocrates in particular, see pp. 26–28. For the Sirens in the
     Serapeion of Memphis at Saqqara, see <span
-    class="smcaps">Hofstetter</span> 1997, no. 88. For
+    class="smcaps">Hofstetter 1997</span>, no. 88. For
     funerary statues of Sirens from the fourth century <span
     class="smcaps">BC</span>, from the Kerameikos
     cemetery in Athens, see S. Karouzou, *National Archaeological
@@ -711,10 +711,10 @@ Results of the pigment analysis:
     in Stone: The Greek, Roman and Etruscan Collection of the Museum of
     Fine Arts, Boston* (Boston, 1976), nos. 66, 67, 72. On the presence
     of Sirens performing music in funerary contexts, see <span
-    class="smcaps">Beschi</span> 1991, p. 40. Also
-    <span class="smcaps">Leclercq-Marx</span> 1997,
+    class="smcaps">Beschi 1991</span>, p. 40. Also
+    <span class="smcaps">Leclercq-Marx 1997</span>,
     pp. 36–40; <span
-    class="smcaps">Woysch-Méautis</span> 1982, pp.
+    class="smcaps">Woysch-Méautis 1982</span>, pp.
     91–99.
 
 [^18]: P. M. Fraser and T. Rönne, *Boeotian and West Greek Tombstones*
@@ -724,11 +724,11 @@ Results of the pigment analysis:
     26–27. For the pose, see the funerary statue depicting a female
     figure from Taranto, datable to the third century <span
     class="smcaps">BC,</span> see <span
-    class="smcaps">De Juliis and Loiacono</span> 1985,
+    class="smcaps">De Juliis and Loiacono 1985</span>,
     p. 104, no. 85.
 
 [^19]: See the examples of capitals in <span
-    class="smcaps">Wuilleumier</span> 1939, pls. 1–3;
+    class="smcaps">Wuilleumier 1939</span>, pls. 1–3;
     the weeping Siren in a limestone capital datable to 300–250 <span
     class="smcaps">BC</span> in C. C. Vermeule,
     *Sculpture in Stone and in Bronze: Additions to the Collections of
@@ -737,13 +737,13 @@ Results of the pigment analysis:
     capital from Taranto (inv. 96.AA.245) at the J. Paul Getty Museum,
     possibly originally from a *naiskos* and datable to about 330 <span
     class="smcaps">BC</span>: <span
-    class="smcaps">Grossman</span> 2001, no. 55, pp.
+    class="smcaps">Grossman 2001</span>, no. 55, pp.
     146–47.
 
 [^20]: On the humanized image of the Siren see, for Southern Italy, the
     Apulian volute-krater from 330–320 <span
     class="smcaps">BC</span> in <span
-    class="smcaps">Hofstetter</span> 1997, no. 45; a
+    class="smcaps">Hofstetter 1997</span>, no. 45; a
     Campanian *hydria* with Siren with long bird claws in A. D.
     Trendall, *The* *Red-Figured Vases of Lucania, Campania, and Sicily*
     (Oxford, 1967), p. 376, no. 121; the Apulian *loutrophoros* at the
@@ -757,20 +757,20 @@ Results of the pigment analysis:
     1973–1976,” *Hannoversche* *Geschichtsblätter* 30 (1976), pp.
     287–89, no. 18; see also from Myrina the statuette of a Siren with a
     bust of a woman in <span
-    class="smcaps">Breitenstein</span> 1941, pl. 58,
+    class="smcaps">Breitenstein 1941</span>, pl. 58,
     nos. 463–64; and examples in <span
-    class="smcaps">Besques</span> 1963, pl. 92, dated
+    class="smcaps">Besques 1963</span>, pl. 92, dated
     from the end of the third century BC.<span
     class="smcaps">.</span>
 
 [^21]: In this connection, see <span
-    class="smcaps">Lauer and Picard</span> 1955, pp.
+    class="smcaps">Lauer and Picard 1955</span>, pp.
     216–27.
 
 [^22]: For the function of the psychopomp, see L. Breglia Pulci Doria,
     “Immagini di Sirene nella Crotoniatide,” in <span
     class="smcaps">*Santuari della Magna Grecia in
-    Calabria*</span> 1996, pp. 239–40.
+    Calabria* 1996</span>, pp. 239–40.
 
 [^23]: <span class="smcaps">Breglia Pulci Doria</span>
     1987, p. 43; L. Breglia Pulci Doria, “Le Sirene, il confine,
@@ -779,30 +779,30 @@ Results of the pigment analysis:
 [^24]: On this interpretation consider the review by F. Gilotta of <span
     class="smcaps">Hofstetter-Dolega</span> 1990 in
     *Prospettiva* 67 (1992), pp. 83–85; also <span
-    class="smcaps">Giangiulio</span> 1986, pp. 101–54;
+    class="smcaps">Giangiulio 1986</span>, pp. 101–54;
     and B. D’Agostino, “Le Sirene, il tuffatore e le porte dell’Ade,”
     *AION* 4 (1982), pp. 43–56.
 
 [^25]: G. Iacobacci, “Orfeo argonauta: Apollonio Rodio I,” in <span
-    class="smcaps">Masaracchia</span> 1993, pp. 77–92.
+    class="smcaps">Masaracchia 1993</span>, pp. 77–92.
     Compare the analysis in M. L. West, *The Orphic Poems* (Oxford,
     1983), pp. 25–26, 29–33.
 
 [^26]: For this interpretation, see <span
-    class="smcaps">Bottini</span> 2000, pp. 136–37.
+    class="smcaps">Bottini 2000</span>, pp. 136–37.
 
 [^27]: For Orphism in general, see the bibliography in <span
     class="smcaps">Tra Orfeo e Pitagora</span> 2000;
     for the complex issue of relations between Orphism and
     Pythagoreanism and for Plato’s view on Orphic thought, see M.
     Tortorelli Ghidini, “Da Orfeo agli orfici,” in <span
-    class="smcaps">Tra Orfeo e Pitagora</span> 2000,
+    class="smcaps">Tra Orfeo e Pitagora 2000</span>,
     pp. 11–41; also P. Bourgeaud, ed., *Orphisme et Orphée, en l’honneur
     de Jean Rudhardt* (Geneva, 1991); W. K. C. Guthrie, *Orpheus and
     Greek Religion* (Princeton, 1993). For the Orphic laminae, see G.
     Pugliese Carratelli, *Le lamine d’oro orfiche* (Milan, 2001); and
     idem, “L’orfismo in Magna Grecia,” in <span
-    class="smcaps">Pugliese Carratelli</span> 1988,
+    class="smcaps">Pugliese Carratelli 1988</span>,
     pp. 159–70, with previous bibliography.
 
 [^28]: *Timaeus* 47d; see also *Republic* 2.376e.
@@ -838,11 +838,11 @@ Results of the pigment analysis:
     attribuiti ad Archita in Stobeo,” *PdP* 26 (1971), pp. 299–300.
 
 [^31]: Plato, *Republic* 10.614–621; <span
-    class="smcaps">Breglia Pulci Doria</span> 1987, p.
+    class="smcaps">Breglia Pulci Doria 1987</span>, p.
     43; for the Sirens and the cosmic music linked to them, see W.
     Burkert, *Lore and Science in Ancient Pythagoreanism* (Cambridge,
     Mass., 1972), pp. 350–68; also <span
-    class="smcaps">Giangiulio</span> 1986, pp. 101–54.
+    class="smcaps">Giangiulio 1986</span>, pp. 101–54.
 
 [^32]: For the group and the figure of Archytas, see P. G. Guzzo, “Altre
     note tarantine,” *Taras* 12, no. 1 (1992), pp. 135–41. For the
@@ -875,11 +875,11 @@ Results of the pigment analysis:
     from the Archaic period, see S. Raftopoulou, “Contributo alla
     topografia di Sparta durante l’età geometrica ed arcaica,” in
     *AttiTaranto 41, 2001*(Taranto, 2002), pp. 25–42; also <span
-    class="smcaps">Nafissi</span> 1991, pp. 321–22,
+    class="smcaps">Nafissi 1991</span>, pp. 321–22,
     331–34.
 
 [^35]: On the supposed *heroön* of Orpheus, see <span
-    class="smcaps">Lippolis</span> 1982, esp.
+    class="smcaps">Lippolis 1982</span>, esp.
     126–28**.
 
 [^36]: In this connection, see <span
@@ -895,7 +895,7 @@ Results of the pigment analysis:
 [^38]: See <span class="smcaps">Bottini</span> 2000;
     also L. Todisco, “Nuovi dati e osservazioni sulla tomba delle
     danzatrici di Ruvo,” *AttiMGrecia* 3 (1994–95), p. 138, n. 112, and
-    <span class="smcaps">Pensa</span> 1977, pp. 83–88.
+    <span class="smcaps">Pensa 1977</span>, pp. 83–88.
 
 [^39]: Evidence would include materials placed in the tomb, not just
     signs of prestige but also objects that affirm religious or social
@@ -914,14 +914,14 @@ Results of the pigment analysis:
     della salvezza* (Milan, 1992), pp. 104–15; P. Poccetti, “La
     diffusione di dottrine misteriche e sapienziali nelle culture
     indigene dell’Italia antica: Appunti per un dossier,” in <span
-    class="smcaps">Tra Orfeo e Pitagora</span> 2000,
+    class="smcaps">Tra Orfeo e Pitagora 2000</span>,
     pp. 91–126; <span class="smcaps">Bottini</span>
     2000; and A. Mele, “Il Pitagorismo e le popolazioni anelleniche,”
     *AION* 3 (1981), pp. 61–96.
 
 [^40]: See F. G. Cavarretta, “Diffusione diacronica dell’iconografia di
     Orfeo in ambiente occidentale,” in <span
-    class="smcaps">Masaracchia</span> 1993, pp.
+    class="smcaps">Masaracchia 1993</span>, pp.
     399–407. Pausanias mentions a statue of Orpheus on Mount Helikon,
     surrounded by statues of animals (9.30.4); at Therae in Laconia in
     the Temple of Eleusinian Demeter, there was a *xoanon* (cultic
@@ -930,7 +930,7 @@ Results of the pigment analysis:
     class="smcaps">BC</span> (5.26.3).
 
 [^41]: For Tarentine marble sculpture, <span
-    class="smcaps">Belli Pasqua</span> 1995, pp. 3–8
+    class="smcaps">Belli Pasqua 1995</span>, pp. 3–8
     and for the connections with Attic production, pp. 45–46; see, in
     particular, the head of Athena from the first half of the fourth
     century <span class="smcaps">BC</span>, derived
@@ -953,7 +953,7 @@ Results of the pigment analysis:
     315–16.
 
 [^43]: See <span class="smcaps">Settis and
-    Parra</span> 2005, pp. 259–62.
+    Parra 2005</span>, pp. 259–62.
 
 [^44]: The term “Master of the Singers of Taras” was proposed by Bonnie
     M. Kingsley in an unpublished study, which I was able to read. Some
@@ -968,22 +968,22 @@ Results of the pigment analysis:
     pp. 23–24, no. 55; (4) a bust of a bearded figure from the
     collection of Thomas Virzì, which became part of the collection of
     the Antikenmuseum Basel, in <span
-    class="smcaps">Herdejürgen</span> 1982, no. 105
+    class="smcaps">Herdejürgen 1982</span>, no. 105
     (it should be noted that the distinctive curls on the heads of the
     Sirens were also sometimes used by the Tarentine coroplasts for
     beards); (5) a bust in the Museo Nazionale Archeologico di Taranto
     (inv. 20.003); (6) a head in a Phrygian cap, in <span
-    class="smcaps">Fischer-Hansen</span> 1992, no. 53,
+    class="smcaps">Fischer-Hansen 1992</span>, no. 53,
     dated to 430–410 BC. See also the mold of the front section of a
     male head in the Musée d’Art et d’Histoire in Geneva, in <span
-    class="smcaps">Deonna</span> 1930, pp. 67–74, fig.
+    class="smcaps">Deonna 1930</span>, pp. 67–74, fig.
     4, and the head of a banqueter with cap and partly finished head in
     D. von Bothmer, *Ancient Art from New York Private Collections*,
     exh. cat (New York, Metropolitan Museum of Art, 1959–60), no. 179,
     pl. 62.
 
 [^45]: For the terracottas of Ariccia, see <span
-    class="smcaps">Carafa</span> 1996, in particular
+    class="smcaps">Carafa 1996</span>, in particular
     the bust in fig. 2 and M. Papini, *Antichi volti della Repubblica:
     La ritrattistica in Italia centrale tra IV e II secolo a.C.* (Rome,
     2004), pp. 222–24.
