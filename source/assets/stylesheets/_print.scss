@@ -23,6 +23,10 @@
     margin: 0 auto;
   }
 
+  .panel {
+    background-color: #fff;
+  }
+
   .panel-left {
     display: none;
     width: 0;
@@ -44,19 +48,8 @@
     display: none;
   }
 
-  .page-header-left,
-  .page-header-right {
+  .page-header {
     display: none;
-    width: 0;
-  }
-
-  .page-header,
-  .panel-left ~ .page-header {
-    background-color: #fff;
-    border: none;
-    color: #000;
-    position: absolute;
-    width: 100%;
   }
 
   .page-title {
