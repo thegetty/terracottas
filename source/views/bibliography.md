@@ -592,7 +592,7 @@ sort_order: 8
   autour d’un mythe grec.* Exh. cat. Zurich, Musée d’art et d’histoire de
   Neuchatel, 1992.
 
-- <span class="smcaps">*La musique et la danse</span>*
+- <span class="smcaps">*La musique et la danse*</span>
   1996
 
   Birchler Emery, P., et al. *La musique et la danse dans l’antiquité:
@@ -861,7 +861,7 @@ sort_order: 8
   Oliver, A., Jr. *The Reconstruction of Two Apulian Tomb Groups*: *Antike
   Kunst* suppl*.* 5 (1968).
 
-- <span class="smcaps">*Orfismo in Magna Grecia</span>*
+- <span class="smcaps">*Orfismo in Magna Grecia*</span>
   1975
 
   *Orfismo in Magna Grecia*: *Atti del quattordicesimo convegno di studi
@@ -911,7 +911,7 @@ sort_order: 8
   id="Editing" class="anchor"></span>, *Medma e il suo territorio:
   Materiali per una carta archeologica*, pp. 47–92. Bari, 1981.
 
-- <span class="smcaps">*Passion for Antiquities</span>*
+- <span class="smcaps">*Passion for Antiquities*</span>
   1994
 
   [*A Passion for Antiquities: Ancient Art from the Collection of Barbara
