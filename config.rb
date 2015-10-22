@@ -47,6 +47,8 @@ data.catalogue.each do |cat, entry|
   }, :ignore => true
 end
 
+ignore "/catalogue/print-template.html"
+
 helpers do
   def nav_link(link_text, page_url, options = {})
     options[:class] ||= ""
