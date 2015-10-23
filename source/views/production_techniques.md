@@ -37,8 +37,9 @@ with a bivalve mold. In the latter case, to facilitate the assembly of
 the two parts, a guideline was marked on the mold, consisting of incised
 lines or a light relief on the edge. Signs, numbers, or letters might be
 marked on the mold, or even on the positives, usually on the back, as is
-the case with the five statues of mourning women from Canosa (cat.
-38–42); these were for the artisan’s use during the production process.
+the case with the five statues of mourning women from Canosa
+([cat. 38](../catalogue/38)–[42](../catalogue/42)); these were for the artisan’s
+use during the production process.
 
 When the first-generation molds became worn, new ones could be made. In
 cases where it was no longer possible to reuse the original model, new
@@ -53,8 +54,8 @@ the extraction of the positive from the mold. In some cases, the head
 was not part of the figure mold but was added to the figure once the
 latter was extracted from the mold. The head might be a solid piece or,
 if large, hollow. It could be attached through straightforward assembly
-or by use of a necklike tenon, as in the head of a male banqueter (cat.
-7).
+or by use of a necklike tenon, as in the head of a male banqueter
+([cat. 7](../catalogue/7)).
 
 Details, such as earrings or wreaths, were generally done freehand.
 Before firing, the coroplast had a last opportunity to retouch the
@@ -79,21 +80,24 @@ firing. This was certainly true when kaolinite was used, as it breaks
 down at temperatures above about 500°C.[^4]
 
 After firing, the figure would be decorated with colored pigments: black
-(lampblack for the Seated Poet and Sirens group, cat. 1–3) was generally
+(lampblack for the Seated Poet and Sirens group,
+[cat. 1](../catalogue/1)–[3](../catalogue/3)) was generally
 used for the eyes and eyebrows; dark red (red ocher) for the hair or for
 coloring male flesh; red (mercuric sulfide, or cinnabar) for hair, lips,
 and some parts of the clothing; pink (red ocher and chalk; or cinnabar,
 lead white, and chalk) for female complexions and for accessories or
 parts of the clothing and drapery; dark blue (Egyptian blue) for various
-accessories (or, for instance, on the beard of the head of Hades, cat.
-60); and dark brown (umber, iron oxide) for accessory parts.[^5]
+accessories (or, for instance, on the beard of the head of Hades,
+[cat. 60](../catalogue/60)); and dark brown (umber, iron oxide) for
+accessory parts.[^5]
 
 Production techniques could differ for mid-sized and larger statues.
 Recent studies of statues of mourning women from Canosa now at the Musée
 du Louvre showed that the statues were made by laying clay pieces over a
 conical tubular clay structure; arms and head were then inserted into
-special holes made in the structure (see cat. 38–42). In the case of the
-Seated Poet and Sirens group (cat. 1–3), the figures were the result of
+special holes made in the structure (see [cat. 38](../catalogue/38)–[42](../catalogue/42)).
+In the case of the Seated Poet and Sirens group ([cat. 1](../catalogue/1)–[3](../catalogue/3)),
+the figures were the result of
 a careful process of manual modeling around an armature, possibly of
 wood; a number of parts were then added, some cast from molds and others
 hand-worked. The figures were then assembled and finished by rendering
@@ -153,5 +157,6 @@ details with careful tool work during the retouching phase.[^6]
     Brinkmann, “Polychromy of Ancient Greek Sculpture,” op. cit.
 
 [^6]: For the technique of production of the statues from Canosa and of
-    the Seated Poet group, see the pertinent entries: respectively cat.
-    38–42; cat. 1–3.
+    the Seated Poet group, see the pertinent entries: respectively
+    [cat. 38](../catalogue/38)–[42](../catalogue/42);
+    [cat. 1](../catalogue/1)–[3](../catalogue/3).
