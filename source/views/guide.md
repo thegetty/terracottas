@@ -52,15 +52,10 @@ research advances, the online collection catalogue will evolve.
 
 ### Taranto
 
--   **71.AD.311**: Banqueting couple, late fourth–third century
-    <span class="smcaps">BC</span>. <span class="smcaps">Kingsley 1976</span>, p. 6, no. 10, fig. 10; B. M. Kingsley, “The Reclining Heroes of Taras and Their Cult,” *California Studies in Classical Antiquity* 12
-    (1979), p. 205, n. 75.
--   **71.AD.339**: Crouching satyr with protruding ears, looking upward
-    with his right hand on his chest; early fourth century <span class="smcaps">BC</span>.
--   **75.AD.36**: Seated woman, headless, from a banquet group, with a
-    vertical tang to hold the figure upright; fourth century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976</span>, p.6, no. 7, pl. 7.
--   **75.AD.37**: Male banqueter, bearded, reclining and holding a cup,  
-    with a vertical tang to hold the figure upright; fourth century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976</span>, p. 5, no. 4, pl. 4.
+-   **71.AD.311** <a class="collection-link" href="http://www.getty.edu/art/collection/objects/6766" target="blank" title="View this item on the Getty's collection pages."> <i class="ion-link"></i></a>: Banqueting couple, late fourth–third century <span class="smcaps">BC</span>. <span class="smcaps">Kingsley 1976</span>, p. 6, no. 10, fig. 10; B. M. Kingsley, “The Reclining Heroes of Taras and Their Cult,” *California Studies in Classical Antiquity* 12 (1979), p. 205, n. 75.
+-   **71.AD.339** <a class="collection-link" href="http://www.getty.edu/art/collection/objects/6792" target="blank" title="View this item on the Getty's collection pages."> <i class="ion-link"></i></a>: Crouching satyr with protruding ears, looking upward with his right hand on his chest; early fourth century <span class="smcaps">BC</span>.
+-   **75.AD.36** <a class="collection-link" href="http://www.getty.edu/art/collection/objects/7211" target="blank" title="View this item on the Getty's collection pages."> <i class="ion-link"></i></a>: Seated woman, headless, from a banquet group, with a vertical tang to hold the figure upright; fourth century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976</span>, p.6, no. 7, pl. 7.
+-   **75.AD.37** <a class="collection-link" href="http://www.getty.edu/art/collection/objects/7212" target="blank" title="View this item on the Getty's collection pages."> <i class="ion-link"></i></a>: Male banqueter, bearded, reclining and holding a cup, with a vertical tang to hold the figure upright; fourth century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976</span>, p. 5, no. 4, pl. 4.
 -   **75.AD.40.1–90**: Group of 90 small heads of women wearing floral
     crowns, averaging 2 cm in height. Most are broken off at the neck
     and the facial features are worn. One figure (75.AD.40.I.14) has a
