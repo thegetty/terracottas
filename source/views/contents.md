@@ -45,4 +45,6 @@ sort_order: 1
 
 ---
 
+#### [Authors](../authors/)
+
 #### [About](../about/)

@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-sort_order: 101
+sort_order: 102
 ---
 <div class="about">
 `© 2016 J. Paul Getty Trust`
