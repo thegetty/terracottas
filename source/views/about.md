@@ -5,7 +5,11 @@ sort_order: 102
 ---
 <div class="about">
 
-In the ancient world, terracotta sculpture was ubiquitous. Readily available and economical&#8212;unlike stone suitable for carving&#8212;clay allowed artisans to craft figures of remarkable variety and expressiveness. Terracottas from South Italy and Sicily attest to the prolific coroplastic workshops that supplied sacred and decorative images for sanctuaries, settlements, and cemeteries. Sixty terracottas are investigated here by noted scholar Maria Lucia Ferruzza, comprising a selection of significant types from the Getty’s larger collection&#8212;life-size sculptures, statuettes, heads and busts, altars, and decorative appliqués.
+In the ancient world, terracotta sculpture was ubiquitous. Readily available and economical&#8212;unlike stone suitable for carving&#8212;clay allowed artisans to craft figures of remarkable variety and expressiveness. Terracottas from South Italy and Sicily attest to the prolific coroplastic workshops that supplied sacred and decorative images for sanctuaries, settlements, and cemeteries. Sixty terracottas are investigated here by noted scholar Maria Lucia Ferruzza, comprising a selection of significant types from the Getty’s larger collection&#8212;life-size sculptures, statuettes, heads and busts, altars, and decorative appliqués. In addition to the comprehensive catalogue entries, the publication includes a guide to the full collection of over one thousand other figurines and molds from the region by Claire Lyons.
+
+The custom online catalogue format enables a deeper exploration of these ancient objects, with zoomable high-resolution photography and interactive features. The catalogue is available online and can be downloaded in multiple formats. It is also available for sale as a print-on-demand book.
+
+<br />
 
 ---
 
@@ -20,6 +24,8 @@ In the ancient world, terracotta sculpture was ubiquitous. Readily available and
 
 Permanent URL: [http://pubs.getty.edu/museumcatalogues/terracottas](http://pubs.getty.edu/museumcatalogues/terracottas)
 
+<br />
+
 ---
 
 ## Revision History
@@ -33,6 +39,8 @@ Earlier versions of the publication may also be accessed in that repository.
 ### January 6, 2016
 
 - First edition
+
+<br />
 
 ---
 
@@ -60,6 +68,8 @@ Each download includes the main image and caption for each of the sixty catalogu
 - [**JSON Catalogue**](assets/downloads/AncientTerracottas_Ferruzza_Data.json) \| [**Extended**](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.json)
 
 The object data, available in two formats, includes key information from each of the sixty catalogue entries, with relevant fields keyed to Pleiades locations, and the Getty’s Art & Architecture Thesaurus (AAT) and Thesaurus of Geographic Names (TGN). The extended version includes raw data on the 1,000 additional collection objects outlined in the [“Guide to the Collection of South Italian and Sicilian Terracottas”](../guide/).
+
+<br />
 
 ---
 
