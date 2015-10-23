@@ -6,6 +6,10 @@ cover: 82.AD.93.1.detail_1
 layout: page
 sort_order: 100
 ---
+## Claire L. Lyons
+
+---
+
 The following guide to the entire collection of terracottas from
 southern Italy and Sicily in the collection of the J. Paul Getty Museum
 is intended as a supplement to *Ancient Terracottas from South Italy and
@@ -53,11 +57,12 @@ research advances, the online collection catalogue will evolve.
 <div class="about">
 
 > #### Download [CSV](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.csv) \| [JSON](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.json)<br />
-> This dataset includes information on the 60 catalogue objects, and 1,000
-additional collection objects outlined below, and is current to the time of publication.
-Made available for visualization and study.
-
+> Available for further research and study, this extended dataset includes
+information on the 60 catalogue objects, and 1,000 additional collection objects
+outlined below. It is current to the date of publication.
 </div>
+
+---
 
 ### Taranto
 
