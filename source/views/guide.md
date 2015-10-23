@@ -50,6 +50,15 @@ descriptions below are based on the information supplied at the time of
 acquisition, from publications, and more recent observations. As
 research advances, the online collection catalogue will evolve.
 
+<div class="about">
+
+> #### Download [CSV](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.csv) \| [JSON](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.json)<br />
+> This dataset includes information on the 60 catalogue objects, and 1,000
+additional collection objects outlined below, and is current to the time of publication.
+Made available for visualization and study.
+
+</div>
+
 ### Taranto
 
 -   [**71.AD.311** <i></i>{:class="ion-link"}][6766]{:target="blank"}:
