@@ -91,7 +91,7 @@ Made available for visualization and study.
     Reclining male banqueter; early fifth century <span class="smcaps">BC</span>.
 -   [**80.AD.74** <i></i>{:class="ion-link"}][9236]{:target="blank"}: Head of a
     young woman wearing a *polos*; late fifth century <span class="smcaps">BC</span>.
--   **83.AD.354.1–394**: Group of 292 votives, comprising types mainly
+-   **83.AD.354.1–294**: Group of 294 votives, comprising types mainly
     associated with Taranto and Metaponto (see below for further
     discussion of the 55 Metapontine examples). The earliest Tarentine
     votives in this lot date from the mid sixth–fifth centuries
@@ -115,7 +115,12 @@ Made available for visualization and study.
 
 Thirty-nine molds depict types that belong to the repertoires of
 Tarentine and, more generally, South Italian terracottas. Seven molds
-acquired in 1973 were part of a group of 430 fourth-century <span class="smcaps">BC terracottas, mainly representing female heads (see 73.AD.10 under “South Italy”). In 1974, 1975, and 1976, three groups of Tarentine molds came to the Getty from the collection of Norman Neuerberg. These molds produced figurines in the round and reliefs for decorative appliqués. Four examples are marked with the names or monograms of Tarentine coroplastic workshops.
+acquired in 1973 were part of a group of 430 fourth-century <span class="smcaps">BC</span>
+terracottas, mainly representing female heads (see 73.AD.10 under “South Italy”).
+In 1974, 1975, and 1976, three groups of Tarentine molds came to the Getty from
+the collection of Norman Neuerberg. These molds produced figurines in the round
+and reliefs for decorative appliqués. Four examples are marked with the names or
+monograms of Tarentine coroplastic workshops.
 
 <br />
 
