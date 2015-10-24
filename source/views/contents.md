@@ -7,7 +7,7 @@ sort_order: 1
 
 ---
 
-#### [Director's Foreword](../foreword/)
+#### [Director’s Foreword](../foreword/)
 
 ###### Timothy Potts
 
