@@ -1,6 +1,7 @@
 ---
 title: Production Techniques
 layout: page
+cover: 82.AD.93.1.detail_1
 sort_order: 6
 ---
 
