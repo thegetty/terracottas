@@ -57,10 +57,10 @@ Each of these alternative formats includes the complete catalogue text, the two 
 
 ### Catalogue Main Images
 
-- [**JPG**](assets/downloads/AncientTerracottas_Ferruzza_Images.zip) (34 MB)
-- [**PPT**](assets/downloads/AncientTerracottas_Ferruzza_Images.ppt) (## MB)
+- [**JPG**](assets/downloads/AncientTerracottas_Ferruzza_Images.zip) (21 MB)
+- [**PPT**](assets/downloads/AncientTerracottas_Ferruzza_Images.ppt) (11 MB)
 
-Each download includes the main image and caption for each of the sixty catalogue entries, free for unrestricted use. Alternate views and high-resolution files are available through the Getty’s Open Content program at [www.getty.edu/art/collection](http://www.getty.edu/art/collection/).
+Each download includes the main image and caption for each of the sixty catalogue entries, free for unrestricted use. JPGs are 1440px on their longest side. Alternate views and larger sizes are available through the Getty’s Open Content program at [www.getty.edu/art/collection](http://www.getty.edu/art/collection/).
 
 ### Object Data
 
