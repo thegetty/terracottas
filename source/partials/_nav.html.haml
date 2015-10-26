@@ -1,31 +1,31 @@
 %a.menu-close-trigger.no-smoothState
   %i.ion-ios-close-empty.pr1.mr2.mt1
-%ul.toc
+%ul.nav
   %li
-    %h3.toc-title.mb1
+    %h3.nav-title.mb1
       =link_to data.book.short_title || data.book.title, "#{site_url}/"
-    %h4.toc-entry-author.mb3= data.book.author_full_name
-  %li.toc-section
+    %h4.nav-entry-author.mb3= data.book.author_full_name
+  %li.nav-section
     %h4
       =link_to "Table of Contents", "#{site_url}/contents/"
-  %li.toc-section
+  %li.nav-section
     %h3.pt1
       =link_to "Catalogue", "#{site_url}/catalogue/"
-  %li.toc-section.pt1
+  %li.nav-section.pt1
     = partial "downloads"
     = partial "cite"
-  %li.toc-section
+  %li.nav-section
     %h4
       =link_to "Guide to the Collection", "#{site_url}/guide/"
-    %h5.toc-entry-author.mb1 Claire L. Lyons
-  %li.toc-section
-    .toc-info
+    %h5.nav-entry-author.mb1 Claire L. Lyons
+  %li.nav-section
+    .nav-info
       :markdown
         **An online collection catalogue published by the J. Paul Getty Museum**
         <br />
         [About](#{site_url}/about)
         | [Privacy](http://www.getty.edu/legal/privacy.html)
         | [Terms of Use](http://www.getty.edu/legal/copyright.html)
-  %li.toc-logo
+  %li.nav-logo
     = tag :img,
-      src: image_path("getty_logo.svg"), class: "toc-logo", alt: "Getty Logo"
+      src: image_path("getty_logo.svg"), class: "nav-logo", alt: "Getty Logo"
