@@ -1,7 +1,7 @@
 module CatalogueHelpers
   def author_name
-    return false if current_page.data.author_last_name.nil?
-    "#{current_page.data.author_first_name} #{current_page.data.author_last_name}"
+    return false if current_page.data.author_full_name.nil?
+    "#{current_page.data.author_full_name}"
   end
 
   def merge_catalogue

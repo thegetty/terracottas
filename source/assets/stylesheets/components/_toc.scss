@@ -9,4 +9,8 @@
   text-transform: uppercase;
 }
 
-.toc-regions { margin-bottom: 2rem; }
+.toc-regions {
+  font-family: $heading-font-family;
+  margin-bottom: 2rem;
+  td:nth-of-type(2n) { text-align: right; }
+}

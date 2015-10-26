@@ -32,11 +32,11 @@ sort_order: 1
 
 ### [Catalogue](../catalogue/)
 
-1–37 | Taranto Region
-38–46 | Canosa
-47–48 | Medma
-49–50 | South Italy
-51–60 | Sicily
+Taranto Region | 1–37
+Canosa | 38–46
+Medma | 47–48
+South Italy | 49–50
+Sicily | 51–60
 {: .toc-regions }
 
 
