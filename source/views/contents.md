@@ -10,6 +10,7 @@ sort_order: 1
 #### [Director’s Foreword](../foreword/)
 
 ###### Timothy Potts
+{: .toc-author}
 
 ---
 
@@ -31,18 +32,18 @@ sort_order: 1
 
 ### [Catalogue](../catalogue/)
 
-- ##### Taranto Region (1–37)
-- ##### Canosa (38-46)
-- ##### Medma (47-48)
-- ##### South Italy (49-50)
-- ##### Sicily (51-60)
+1–37 | Taranto Region
+38–46 | Canosa
+47–48 | Medma
+49–50 | South Italy
+51–60 | Sicily
+{: .toc-regions }
 
----
 
 #### [Guide to the Collection of South Italian and Sicilian Terracottas](../guide/)
 
 ###### Claire L. Lyons
-
+{: .toc-author}
 ---
 
 #### [Authors](../authors/)

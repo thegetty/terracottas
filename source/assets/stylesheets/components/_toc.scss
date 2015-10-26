@@ -1,0 +1,12 @@
+// Styles for contents.md page (aka TOC)
+// Not to be confused with off-canvas navigation (.nav)
+.toc-author {
+  color: $medium-gray;
+  font-family: $heading-font-family;
+  font-size: 1.1em;
+  font-weight: normal;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.toc-regions { margin-bottom: 2rem; }
