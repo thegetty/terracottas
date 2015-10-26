@@ -1,14 +1,7 @@
-body {
-  background-color: $base-background-color;
-}
+body { background-color: $base-background-color; }
 
-a.button {
-  font-family: $heading-font-family;
-}
-
-.hidden {
-  display: none;
-}
+a.button { font-family: $heading-font-family; }
+.hidden { display: none; }
 
 %inverse-link {
   color: $inverse-color;
@@ -18,14 +11,10 @@ a.button {
 
   &:active,
   &:focus,
-  &:hover {
-    opacity: 1;
-  }
+  &:hover { opacity: 1; }
 
   &:active,
-  &:focus {
-    outline: none;
-  }
+  &:focus { outline: none; }
 }
 
 .smcaps {
@@ -36,29 +25,16 @@ a.button {
 
 .footnotes {
   font-size: 0.75em;
-}
-
-.footnotes ol {
-  @extend %default-ol;
+  ol { @extend %default-ol; }
 }
 
 %body-text {
   font-size: $base-font-size;
+  @include media($large-screen-up) { font-size: $base-font-size * 1.125; }
 
-  @include media($large-screen-up) {
-    font-size: $base-font-size * 1.125;
-  }
-
-  ul li {
-    list-style-type: disc;
-    margin-bottom: $small-spacing;
-    margin-left: $base-spacing;
-    text-indent: 0;
-  }
-
-  h3 {
-    margin-top: 2rem;
-  }
+  h3 { margin-top: 2rem; }
+  ol { @extend %default-ol; }
+  ul { @extend %default-ul; }
 
   p {
     margin-bottom: 0;
@@ -68,26 +44,16 @@ a.button {
   #notes { margin-top: 1.5rem; }
 }
 
+.hide-on-mobile { @include media($small-screen) { display: none; } }
+
 .force-wrap {
+  @include prefixer(hyphens, auto, webkit moz ms spec);
   /* These are technically the same, but use both */
   overflow-wrap: break-word;
   word-wrap: break-word;
-
   -ms-word-break: break-all;
   /* This is the dangerous one in WebKit, as it breaks things wherever */
   word-break: break-all;
   /* Instead use this non-standard one: */
   word-break: break-word;
-
-  /* Adds a hyphen where the word breaks, if supported (No Blink) */
-  -ms-hyphens: auto;
-  -moz-hyphens: auto;
-  -webkit-hyphens: auto;
-  hyphens: auto;
-}
-
-.hide-on-mobile {
-  @include media($small-screen) {
-    display: none;
-  }
 }
