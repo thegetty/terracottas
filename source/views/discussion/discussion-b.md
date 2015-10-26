@@ -35,8 +35,6 @@ been exhibited, along with other privately owned terracottas, in 1978.
 The twenty examples published here show close parallels with the
 material from Basel.[^1]
 
-<br />
-
 #### The Saturo Hypothesis
 
 In the same documentation held by the Getty Museum, this group is said
@@ -116,8 +114,6 @@ Saturo and its coroplastic material, with special attention to the
 statues and heads, might yield important new findings regarding the
 prototypes to which they might be linked through variants and molds of
 various generations.
-
-<br />
 
 #### The Typologies
 
@@ -209,8 +205,6 @@ roles, some of which were mentioned above: military protection of the
 territory, assurance of fertility, safeguarding of children from
 illness, and chthonic and funerary rites.
 
-<br />
-
 #### The Female Busts
 
 In the case of the busts ([cat. 9](9)–[10](10)), the similarity to Sicilian
@@ -229,8 +223,6 @@ to the actual portrayal of the offerers, shown with progressively
 individuated facial features. In statuary, this phenomenon would become
 increasingly marked as Roman influence grew.[^15]
 
-<br />
-
 #### Children
 
 The head of a child ([cat. 23](23)), characterized by a cheerful expression
@@ -248,8 +240,6 @@ by the coroplasts of Magna Graecia in response to specific cult
 practices and patronage. As regards Saturo, there may be links with
 kourotrophic cults as well as with the presence of the spring, or with
 rites of passage from infancy to adulthood.[^16]
-
-<br />
 
 #### The Banqueters
 
@@ -300,7 +290,6 @@ reclining figure may be connected to specific ritual functions within
 the necropolis and that it was intended to codify the new status of the
 deceased with reference to a specific otherworldly collocation.[^19]
 
-<br />
 
 #### Technical Aspects
 
@@ -351,7 +340,6 @@ be inserted. The fact that the backs of the heads were not properly
 finished would indicate that the pieces were to be viewed only from the
 front.
 
-<br />
 
 #### Notes
 

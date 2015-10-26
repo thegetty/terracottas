@@ -288,7 +288,6 @@ area of Medma, which for a brief period between the fifth and fourth
 century <span class="smcaps">BC</span>, was marked by
 an Athenian presence.
 
-<br />
 
 #### Notes
 
