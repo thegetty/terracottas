@@ -135,7 +135,7 @@ function initDeepZoom(options) {
 
   if (options.rotation === 1) {
     L.easyButton(
-      '<img class="rotate-icon" src="../assets/images/icons/noun_35458.svg">',
+      '<img class="rotate-icon" src="../../assets/images/icons/noun_191739.svg">',
       showModal
     ).addTo(map);
   }
