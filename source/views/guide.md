@@ -47,14 +47,13 @@ pages
 ([www.getty.edu/art/collection/](http://www.getty.edu/art/collection/)),
 where readers can access additional data on specific objects. The brief
 descriptions below are based on the information supplied at the time of
-acquisition, from publications, and more recent observations. As
-research advances, the online collection catalogue will evolve.
+acquisition, from publications, and more recent observations.
 
 <div class="about">
 
 > #### Download [CSV](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.csv) \| [JSON](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.json)<br />
 > Available for further research and study, this extended dataset includes
-information on the 60 catalogue objects, and 1,000 additional collection objects
+information on the 60 catalogue objects and 1,000 additional collection objects
 outlined below. It is current to the date of publication.
 </div>
 
@@ -78,7 +77,8 @@ outlined below. It is current to the date of publication.
     banqueter, bearded, reclining and holding a cup, with a vertical tang to
     hold the figure upright; fourth century <span class="smcaps">BC</span>. See
     <span class="smcaps">Kingsley 1976</span>, p. 5, no. 4, pl. 4.
--   **75.AD.40.1–90**: Group of 90 small heads of women wearing floral
+-   [**75.AD.40.1–90** <i></i>{:class="ion-link"}][search-75AD40]{:target="blank"}:
+    Group of 90 small heads of women wearing floral
     crowns, averaging 2 cm in height. Most are broken off at the neck
     and the facial features are worn. One figure (75.AD.40.I.14) has a
     disc/phiale at her left shoulder; two statuettes of women bearing a
@@ -92,7 +92,8 @@ outlined below. It is current to the date of publication.
     Reclining male banqueter; early fifth century <span class="smcaps">BC</span>.
 -   [**80.AD.74** <i></i>{:class="ion-link"}][9236]{:target="blank"}: Head of a
     young woman wearing a *polos*; late fifth century <span class="smcaps">BC</span>.
--   **83.AD.354.1–294**: Group of 294 votives, comprising types mainly
+-   [**83.AD.354.1–294** <i></i>{:class="ion-link"}][search-83AD354]{:target="blank"}:
+    Group of 294 votives, comprising types mainly
     associated with Taranto and Metaponto (see below for further
     discussion of the 55 Metapontine examples). The earliest Tarentine
     votives in this lot date from the mid sixth–fifth centuries
@@ -470,7 +471,8 @@ probably come from Apulian funerary contexts in or near Canosa:
 -   [**98.AD.130** <i></i>{:class="ion-link"}][125001]{:target="blank"}:
     Head of a woman wearing a large headdress; third
     century <span class="smcaps">BC</span>.
--   98.AD.144.1–98 and .100: Approximately 100 unrestored fragments
+-   [**98.AD.144.1–98 and .100** <i></i>{:class="ion-link"}][search-98AD144]{:target="blank"}:
+    Approximately 100 unrestored fragments
     belong to a single figure of a draped woman, perhaps Aphrodite,
     wearing a chiton belted below the breasts. Red pigment on the hair
     and areas of the drapery; third century <span class="smcaps">BC</span>.
@@ -495,7 +497,8 @@ probably come from Apulian funerary contexts in or near Canosa:
     in Capua and Cales, 300–250 <span class="smcaps">BC</span>. See <span
     class="smcaps">Smithers 1993</span>, p. 25, fig.
     17.
--   82.AD.52.1–153: A large group of votives was donated in 1982 and
+-   [**82.AD.52.1–153** <i></i>{:class="ion-link"}][search-82AD52]{:target="blank"}:
+    A large group of votives was donated in 1982 and
     reportedly comes from Campania. Many of the figures are fragmentary
     and show evidence of burning. The fabric is reddish brown with black
     and reflective inclusions, and the statuettes are hand modeled and
@@ -554,15 +557,16 @@ probably come from Apulian funerary contexts in or near Canosa:
     in Centuripe.
 
 
+
 [6766]: http://www.getty.edu/art/collection/objects/6766 "View this item on the Getty's collection pages."
 [6792]: http://www.getty.edu/art/collection/objects/6792 "View this item on the Getty's collection pages."
 [7211]: http://www.getty.edu/art/collection/objects/7211 "View this item on the Getty's collection pages."
 [7212]: http://www.getty.edu/art/collection/objects/7212 "View this item on the Getty's collection pages."
-
+[search-75AD40]: http://www.getty.edu/art/collection/search/?view=grid&query=YTo1OntzOjE3OiJfZGF0ZV9yYW5nZV9iZWdhbiI7czo1OiItNTAwMCI7czoxNzoiX2RhdGVfcmFuZ2VfZW5kZWQiO3M6NDoiMjAxNCI7czo4OiJfbnVtYmVycyI7czo4OiI3NS5BRC40MCI7czo0MToiKGlkZW50aWZpZXIucHJpbWFyeXxpZGVudGlmaWVyLmFsdGVybmF0ZSkiO3M6ODoiNzUuQUQuNDAiO3M6NDoic29ydCI7czo2OiItc2NvcmUiO30= "Search these items on the Getty's collection pages."
 [8222]: http://www.getty.edu/art/collection/objects/8222 "View this item on the Getty's collection pages."
 [8466]: http://www.getty.edu/art/collection/objects/8466 "View this item on the Getty's collection pages."
 [9236]: http://www.getty.edu/art/collection/objects/9236 "View this item on the Getty's collection pages."
-
+[search-83AD354]: http://www.getty.edu/art/collection/search/?view=grid&query=YTo1OntzOjE3OiJfZGF0ZV9yYW5nZV9iZWdhbiI7czo1OiItNTAwMCI7czoxNzoiX2RhdGVfcmFuZ2VfZW5kZWQiO3M6NDoiMjAxNCI7czo4OiJfbnVtYmVycyI7czo5OiI4My5BRC4zNTQiO3M6NDE6IihpZGVudGlmaWVyLnByaW1hcnl8aWRlbnRpZmllci5hbHRlcm5hdGUpIjtzOjk6IjgzLkFELjM1NCI7czo0OiJzb3J0IjtzOjY6Ii1zY29yZSI7fQ== "Search these items on the Getty's collection pages."
 [6816]: http://www.getty.edu/art/collection/objects/6816 "View this item on the Getty's collection pages."
 [254985]: http://www.getty.edu/art/collection/objects/254985 "View this item on the Getty's collection pages."
 [254986]: http://www.getty.edu/art/collection/objects/254986 "View this item on the Getty's collection pages."
@@ -627,11 +631,11 @@ probably come from Apulian funerary contexts in or near Canosa:
 [124963]: http://www.getty.edu/art/collection/objects/124963 "View this item on the Getty's collection pages."
 [124966]: http://www.getty.edu/art/collection/objects/124966 "View this item on the Getty's collection pages."
 [125001]: http://www.getty.edu/art/collection/objects/125001 "View this item on the Getty's collection pages."
-
+[search-98AD144]: http://www.getty.edu/art/collection/search/?view=grid&query=YTo1OntzOjE3OiJfZGF0ZV9yYW5nZV9iZWdhbiI7czo1OiItNTAwMCI7czoxNzoiX2RhdGVfcmFuZ2VfZW5kZWQiO3M6NDoiMjAxNCI7czo4OiJfbnVtYmVycyI7czo5OiI5OC5BRC4xNDQiO3M6NDE6IihpZGVudGlmaWVyLnByaW1hcnl8aWRlbnRpZmllci5hbHRlcm5hdGUpIjtzOjk6Ijk4LkFELjE0NCI7czo0OiJzb3J0IjtzOjY6Ii1zY29yZSI7fQ== "Search these items on the Getty's collection pages."
 [6760]: http://www.getty.edu/art/collection/objects/6760 "View this item on the Getty's collection pages."
 [6761]: http://www.getty.edu/art/collection/objects/6761 "View this item on the Getty's collection pages."
 [6762]: http://www.getty.edu/art/collection/objects/6762 "View this item on the Getty's collection pages."
-
+[search-82AD52]: http://www.getty.edu/art/collection/search/?view=grid&query=YTo1OntzOjE3OiJfZGF0ZV9yYW5nZV9iZWdhbiI7czo1OiItNTAwMCI7czoxNzoiX2RhdGVfcmFuZ2VfZW5kZWQiO3M6NDoiMjAxNCI7czo4OiJfbnVtYmVycyI7czo4OiI4Mi5BRC41MiI7czo0MToiKGlkZW50aWZpZXIucHJpbWFyeXxpZGVudGlmaWVyLmFsdGVybmF0ZSkiO3M6ODoiODIuQUQuNTIiO3M6NDoic29ydCI7czo2OiItc2NvcmUiO30= "Search these items on the Getty's collection pages."
 [124950]: http://www.getty.edu/art/collection/objects/124950 "View this item on the Getty's collection pages."
 [6559]: http://www.getty.edu/art/collection/objects/6559 "View this item on the Getty's collection pages."
 [6601]: http://www.getty.edu/art/collection/objects/6601 "View this item on the Getty's collection pages."
