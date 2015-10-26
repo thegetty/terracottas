@@ -1,37 +1,32 @@
-// Page class
-//
-// .page-cover      - Full-bleed image (no type overlay)
-// .running-head    - Appears top center above content area, links back to home
-// .page-title      - Global page title styles
-// .page-conent     - Container class; applies body-text placeholder
-
 .page-cover {
   @include display(flex);
   @include justify-content(center);
   @include flex-wrap(wrap);
+
   background-color: $dark-gray;
   background-position: center 70%;
   background-size: cover;
   height: 75vh;
-  // margin-top: 60px; // <-- this causes a weird firefox bug
+
   @include media($small-screen) { height: 400px; }
   @include media($medium-screen-up) { height: 600px; }
   @include media($large-screen-up) { height: 60vh; }
 
+  // Overrides for cases where cover image precedes page title
   ~ .container .page-content .page-title {
-    padding-top: 1rem;
-    @include media($large-screen-up) { padding-top: 2rem; }
+    margin-top: 1rem;
+    @include media($large-screen-up) { margin-top: 2rem; }
   }
 }
 
 .page-title {
-  margin-bottom: 1rem;
-  padding-top: 4rem;
-  @include media($large-screen-up) { padding-top: 8rem; }
+  margin-bottom: 2rem;
+  margin-top: 4rem;
+  @include media($large-screen-up) { margin-top: 6rem; }
+  ~ .page-author { margin-top: 0; }
 }
 
 .page-author { margin-bottom: 3rem; }
-.page-title ~ .page-author { margin-top: 0; }
 
 .page-content {
   @extend %body-text;
@@ -39,31 +34,31 @@
   max-width: 42rem;
 }
 
-.page-content {
-  .reference {
-    @include prefixer(column-count, 2, webkit moz spec);
-    @include prefixer(column-gap, 2.5rem, webkit moz spec);
-    p + p { text-indent: 0; }
-    li {
-      break-inside: avoid-column;
-      -webkit-column-break-inside: avoid;
-      list-style-type: none;
-      margin-bottom: 0;
-      margin-left: 0;
-      overflow: hidden;       // fix for Firefox
-      padding-bottom: 1.5rem;
-    }
+.reference {
+  @include prefixer(column-count, 2, webkit moz spec);
+  @include prefixer(column-gap, 2.5rem, webkit moz spec);
+  p + p { text-indent: 0; }
+  li {
+    break-inside: avoid-column;
+    -webkit-column-break-inside: avoid;
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+    overflow: hidden;       // fix for Firefox
+    padding-bottom: 1.5rem;
+  }
+}
+
+.about {
+  blockquote {
+    background-color: $light-gray;
+    border-radius: 8px;
+    margin: 2rem 0;
+    padding: $base-spacing;
   }
 
-  .about {
-    blockquote {
-      background-color: $light-gray;
-      border-radius: 8px;
-      margin: 2rem 0;
-      padding: $base-spacing;
-    }
-
-    p { margin-bottom: $base-spacing; }
-    p + p { text-indent: 0; }
+  p {
+    margin-bottom: $base-spacing;
+    + p { text-indent: 0; }
   }
 }

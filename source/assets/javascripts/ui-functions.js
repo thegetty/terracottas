@@ -23,6 +23,23 @@ function citationDate(argument) {
   $(".cite-current-date").text(today);
 }
 
+function fadeHeaderOnCover() {
+  if ($(".cover").length) {
+    $(window).on("scroll", debounce(function() {
+      var currentHeight = $(window).scrollTop();
+      var coverHeight = $(".cover").innerHeight();
+
+      if (currentHeight > coverHeight) {
+        $(".page-header").removeClass("page-header--hidden");
+      }
+
+      if (currentHeight < coverHeight) {
+        $(".page-header").addClass("page-header--hidden");
+      }
+    }));
+  }
+}
+
 // =============================================================================
 // Determine whether the current page needs a deep zoom image
 
@@ -260,6 +277,7 @@ function init360() {
 
 function setUpPage(){
   var map;
+  fadeHeaderOnCover();
   offCanvasSetup();
   addPanelControls();
   keyboardNav();

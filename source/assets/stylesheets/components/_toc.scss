@@ -1,12 +1,3 @@
-// TOC Class
-// Controls TOC display both inside off-canvas nav and on cover page.
-//
-// .toc               - TOC component
-// .toc-section       - e.g., "Catalogue"
-// .toc-subsection    - e.g., "South Italy", "Sicily" - nests under toc-section
-// .toc-entry-author  - These are often <spans>, so add display: block for sanity
-
-
 .toc {
   font-family: $heading-font-family;
   font-size: $base-font-size;
@@ -28,15 +19,8 @@
   margin-bottom: 0.5rem;
   margin-top: 1rem;
   padding-top: 1rem;
-
-  &:first-of-type {
-    border-bottom: none;
-  }
-
-  &:last-of-type {
-    border-top: none;
-  }
-
+  &:first-of-type { border-bottom: none; }
+  &:last-of-type { border-top: none; }
 }
 
 .toc-entry-author { display: block; }
@@ -45,18 +29,18 @@
 .nav-primary {
   .toc-logo {
     display: block;
-    margin-top: 2rem;
     margin-bottom: 2rem;
+    margin-top: 2rem;
     max-height: 3rem;
     opacity: 0.75;
   }
 }
 
-.toc-downloads, .toc-cite {
+.toc-downloads,
+.toc-cite {
   background-color: transparentize($inverse-color, 0.75);
   font-size: 0.85rem;
   padding: $small-spacing;
-
   ul { margin: $small-spacing 0; }
   a { font-weight: bold; }
 }

@@ -2,7 +2,36 @@ $search-bg: darken($base-background-color, 10%);
 $search-text-color: $base-font-color;
 
 // Do not display search box unless search is active
-.search-input { display: none; }
+.search-input {
+  display: none;
+
+  input {
+    background-color: $search-bg;
+    border: none;
+    float: left;
+    font-family: $heading-font-family;
+    font-size: 1.25rem;
+    left: 50px;
+    outline: none;
+    position: relative;
+    top: 0.875rem;
+    width: 80%;
+  }
+
+  button {
+    background-color: transparent;
+    color: $action-color;
+    float: right;
+    font-size: 2rem;
+    margin: 0;
+    outline: none;
+    padding: 0;
+    position: relative;
+    right: 20px;
+    top: 0.75rem;
+  }
+}
+
 .search-close {
   cursor: pointer;
   font-size: 1.5rem;
@@ -24,32 +53,6 @@ $search-text-color: $base-font-color;
     display: block;
     font-family: $heading-font-family;
     z-index: 1400;
-
-    input {
-      background-color: $search-bg;
-      border: none;
-      float: left;
-      font-family: $heading-font-family;
-      font-size: 1.25rem;
-      left: 50px;
-      outline: none;
-      position: relative;
-      top: 0.875rem;
-      width: 80%;
-    }
-
-    button {
-      background-color: transparent;
-      color: $action-color;
-      float: right;
-      font-size: 2rem;
-      margin: 0;
-      outline: none;
-      padding: 0;
-      position: relative;
-      right: 20px;
-      top: 0.75rem;
-    }
   }
 }
 
@@ -59,11 +62,11 @@ $search-text-color: $base-font-color;
   height: 100vh;
   opacity: 0;
   overflow: auto;
+  -webkit-overflow-scrolling: touch;
   padding: 2rem;
   position: fixed;
   top: 60px;
   width: 100%;
-  -webkit-overflow-scrolling: touch;
 
   &.search-active {
     @include transform(translateY(0));
