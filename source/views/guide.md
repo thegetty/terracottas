@@ -78,7 +78,7 @@ outlined below. It is current to the date of publication.
     banqueter, bearded, reclining and holding a cup, with a vertical tang to
     hold the figure upright; fourth century <span class="smcaps">BC</span>. See
     <span class="smcaps">Kingsley 1976</span>, p. 5, no. 4, pl. 4.
--   [**75.AD.40.1–90** <i></i>{:class="ion-link"}][search-75AD40]{:target="blank"}:
+-   [**75.AD.40.A.1–75.AD.40.O.7** <i></i>{:class="ion-link"}][search-75AD40]{:target="blank"}:
     Group of 90 small heads of women wearing floral
     crowns, averaging 2 cm in height. Most are broken off at the neck
     and the facial features are worn. One figure (75.AD.40.I.14) has a
