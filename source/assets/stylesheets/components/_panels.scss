@@ -18,17 +18,17 @@
 // Left panel (image/map panel)
 // =============================================
 .panel-left {
+  background-color: $dark-gray;
+  overflow: hidden;
+
   @include media($small-screen) {
     &.panel--expand { #map { height: 100vh; } }
     .easy-button-container {
       display: none;
       &:last-of-type { display: block; }
     }
-
   }
 
-  background-color: $dark-gray;
-  overflow: hidden;
   &.panel--expand { @include flex(0 0 100%); }
 }
 
@@ -38,14 +38,8 @@
   height: 500px;
   margin-top: 60px;
 
-  @include media($small-screen) {
-    height: 300px;
-  }
-
-  @include media($medium-screen-up) {
-    height: 100vh;
-    margin-top: 0;
-  }
+  @include media($small-screen) { height: 300px; }
+  @include media($medium-screen-up) { height: 100vh; margin-top: 0; }
 }
 
 // Right panel (text panel)
@@ -55,12 +49,14 @@
 
   .panel-inner {
     padding: 2rem;
+
     @include media($medium-screen-up) {
-      margin-top: 3rem;
       margin-left: auto;
       margin-right: auto;
+      margin-top: 3rem;
       max-width: 650px;
     }
+
     @include media($x-large-screen-up) {
       max-width: 800px;
       padding: 3rem;

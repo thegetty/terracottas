@@ -1,4 +1,5 @@
-%nav.page-header
+- current_page.data.layout == "cover" ? header_class = "page-header--hidden" : header_class = nil
+%nav.page-header{class: header_class }
   .page-header-left
     %a.no-smoothState#search
       %i.ion-search
