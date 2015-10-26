@@ -1,4 +1,9 @@
 module CatalogueHelpers
+  def author_name
+    return false if current_page.data.author_last_name.nil?
+    "#{current_page.data.author_first_name} #{current_page.data.author_last_name}"
+  end
+
   def merge_catalogue
     terracottas = []
     data.catalogue.each do |key, value|

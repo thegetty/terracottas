@@ -4,9 +4,13 @@
     .container
       .page-content.pb4#content
         %h1.page-title= current_page.data.title
+        - if author_name
+          %h3.page-author= author_name
         = yield
   - else
     .container
-      %h1.page-title= current_page.data.title
       .page-content.pb4
+        %h1.page-title= current_page.data.title
+        - if author_name
+          %h3.page-author= author_name
         = yield
