@@ -57,7 +57,7 @@ they must have originally been found in their source contexts.[^5]
     class="smcaps">Besques 1972</span>, pl. 59b, from
     Aegina, dating from the third quarter of the third century <span
     class="smcaps">BC.</span> See also the statuette
-    of Eros with a Deer, cat. 32.
+    of Eros with a Deer, [cat. 32](32).
 
 [^3]: On Daunian vases, see M. Mazzei, “Note sulla ceramica policroma di
     Arpi,” in *Proceedings of the 3rd Symposium on Ancient Greek and
