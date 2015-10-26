@@ -50,6 +50,7 @@
 }
 
 .about {
+  // indicates new section in "about" page
   blockquote {
     background-color: $light-gray;
     border-radius: 8px;
@@ -57,8 +58,30 @@
     padding: $base-spacing;
   }
 
+  h2 {
+    border-top: 2px solid $light-gray;
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+  }
+
   p {
     margin-bottom: $base-spacing;
     + p { text-indent: 0; }
   }
+
+  ul {
+    font-family: $heading-font-family;
+    line-height: 1;
+    margin: 1.5rem 0;
+    li { list-style-type: none; margin-left: 0; }
+  }
+}
+
+.copyright {
+  border-top: 2px solid $light-gray;
+  line-height: 1.4;
+  font-family: $heading-font-family;
+  font-size: 0.9em;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
 }
