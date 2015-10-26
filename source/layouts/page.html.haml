@@ -1,3 +1,4 @@
+- current_page.data.title == "Table of Contents" ? title_class = "centered" : title_class = nil
 = wrap_layout :application do
   - if current_page.data.cover?
     .page-cover{ :style => "background-image: url(#{image_path(current_page.data.cover)}.jpg)"}
@@ -10,7 +11,7 @@
   - else
     .container
       .page-content.pb4
-        %h1.page-title= current_page.data.title
+        %h1.page-title{class: title_class }= current_page.data.title
         - if author_name
           %h3.page-author= author_name
         = yield
