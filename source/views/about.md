@@ -9,10 +9,6 @@ In the ancient world, terracotta sculpture was ubiquitous. Readily available and
 
 This custom online catalogue enables a deeper exploration of these ancient objects, with zoomable high-resolution photography and a select number of 360 rotations; the ability to [filter the catalogue](catalogue/) by location, typology and date; and an [interactive map](map/) drawn from the Ancient World Mapping Center and linked to the Getty’s Thesaurus of Geographic Names. The complete catalogue can be [downloaded in multiple formats](#downloads), as can the object data and main images. It is also available for sale as a [print-on-demand](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606061237) book.
 
-<br />
-
----
-
 ## Citation Information
 
 > #### Chicago
@@ -22,12 +18,8 @@ This custom online catalogue enables a deeper exploration of these ancient objec
 > Ferruzza, Maria Lucia. *Ancient Terracottas from South Italy and Sicily
   in the J. Paul Getty Museum*. Los Angeles: Getty P, 2016. <span class="cite-current-date">DD Mon. YYYY</span> &#60;http://pubs.getty.edu/museumcatalogues/terracottas&#62;.
 
-> #### Permanent URL
-> [http://pubs.getty.edu/museumcatalogues/terracottas](http://pubs.getty.edu/museumcatalogues/terracottas)
-
-<br />
-
----
+#### Permanent URL
+[http://pubs.getty.edu/museumcatalogues/terracottas](http://pubs.getty.edu/museumcatalogues/terracottas)
 
 ## Revision History
 
@@ -39,10 +31,6 @@ Earlier versions of the publication may also be accessed in that repository.
 ### January 6, 2016
 
 - First edition
-
-<br />
-
----
 
 ## Downloads
 
@@ -69,11 +57,7 @@ Each download includes the main image and caption for each of the sixty catalogu
 
 The object data, available in two formats, includes key information from each of the sixty catalogue entries, with relevant fields keyed to Pleiades locations and the Getty’s Art & Architecture Thesaurus (AAT) and Thesaurus of Geographic Names (TGN). The extended version includes raw data on the 1,000 additional collection objects outlined in the [“Guide to the Collection of South Italian and Sicilian Terracottas.”](../guide/)
 
-<br />
-
----
-
-<div class="object-info">
+<div class="copyright">
 © 2016 J. Paul Getty Trust
 
 **Published by the J. Paul Getty Museum, Los Angeles**  
