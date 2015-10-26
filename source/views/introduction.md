@@ -18,7 +18,7 @@ examples comes from the collection of Barbara and Lawrence Fleischman,
 acquired by the Museum in 1996.[^2]
 
 Only one of the sixty terracottas presented in this publication comes
-from a certain, datable context ([cat. 60](./catalogue/60)), and thus for the most part it
+from a certain, datable context ([cat. 60](../catalogue/60)), and thus for the most part it
 is impossible to reconstruct with confidence their potential
 associations with other materials. Furthermore, this selection
 intentionally presents significant variations in typology and
@@ -71,8 +71,7 @@ aspects of the artifacts from the ancient world. In fact, such
 artifacts, having been handed down through the filter of collectors,
 sometimes seem to fit poorly within established hermeneutic categories,
 which too often are excessively codified and conventional. I hope that
-this catalogue and the accompanying Guide to the Collection of South
-Italian and Sicilian Terracottas, which indexes over a thousand other
+this catalogue and the accompanying [Guide to the Collection of South Italian and Sicilian Terracottas](../guide), which indexes over a thousand other
 statuettes and molds at the Getty, will encourage wider comparison and
 connections to materials of more certain archaeological contexts.[^3]
 
@@ -88,10 +87,7 @@ connections to materials of more certain archaeological contexts.[^3]
     2010 or in selected cases, to 2013; the bibliography for individual
     objects is current through 2015.
 
-[^2]: Cat. 24, 27, 29–33, 35–36, 44–46, and 58. The collection was
-    published in the catalogue *<span
-    class="smcaps">Passion for Antiquities</span>*
-    1994.
+[^2]: [Cat. 24](../catalogue/24), [27](../catalogue/27), [29](../catalogue/29)–[33](../catalogue/33), [35](../catalogue/35)–[36](../catalogue/36), [44](../catalogue/44)–[46](../catalogue/46), and [58](../catalogue/58). The collection was published in the catalogue *<span class="smcaps">Passion for Antiquities</span>* 1994.
 
 [^3]: See the essays by P. Pelagatti and N. Bonacasa in <span
     class="smcaps">Pelagatti and Guzzo 1997</span>,

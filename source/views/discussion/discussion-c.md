@@ -25,7 +25,7 @@ round shapes of knees and breasts, and from the exterior, through the
 application of clay parts, to depict in three dimensions the details of
 the chiton and himation, such as the circular folds and the hem of the
 himation on the figures’ torsos and the lateral folds of the chiton. On
-the inside bent knee of one figure (cat. 38), there are vertical strokes
+the inside bent knee of one figure ([cat. 38](38)), there are vertical strokes
 in the clay, made by fingers pulling downward. The structure is in any
 case well smoothed and finished on the interior: there is a slight ridge
 at the waist in two of the statues. The coroplast attempted to smooth

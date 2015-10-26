@@ -10,7 +10,7 @@
   :date: 300-275 BC
   :typology: Statue
   :dimensions:
-  - desc: 'H: 95.5 cm; W: 32.1 cm; H (Face): 12.2 cm; thickness of walls: 2.1-8.4 cm'
+  - desc: 'H: 95.5 cm; W: 32.1 cm; H (face): 12.2 cm; thickness of walls: 2.1-8.4 cm'
   :munsell:
   - desc: At the core
     number: 2.5 yr 8/4-5yr 7/6
@@ -63,7 +63,7 @@
     d’études italiennes* 3 (Geneva, 1999), pp. 43–65, nos. 14–17;
     <span class="smcaps">Jeammet</span> 2003a, pp. 271 and 291, nos. 43–46.
   :description: |2
-    The figure is similar in its general characteristics to [cat. 40](40), though
+    The figure is similar in its general characteristics to [cat. 40](../40), though
     the leg is not drawn as far back; in both the slight hollow and
     undulation in the fold of the drapery over the right breast is evident.
     There are two marks incised into the himation: two parallel lines on the
