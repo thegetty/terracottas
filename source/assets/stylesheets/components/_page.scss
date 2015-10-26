@@ -14,35 +14,24 @@
   background-size: cover;
   height: 75vh;
   // margin-top: 60px; // <-- this causes a weird firefox bug
+  @include media($small-screen) { height: 400px; }
+  @include media($medium-screen-up) { height: 600px; }
+  @include media($large-screen-up) { height: 60vh; }
 
-  @include media($small-screen) {
-    height: 400px;
-  }
-
-  @include media($medium-screen-up) {
-    height: 600px;
-  }
-
-  @include media($large-screen-up) {
-    height: 60vh;
+  ~ .container .page-content .page-title {
+    padding-top: 1rem;
+    @include media($large-screen-up) { padding-top: 2rem; }
   }
 }
 
 .page-title {
-  margin: 0 auto;
-  max-width: 42rem;
-  padding-bottom: 2rem;
+  margin-bottom: 1rem;
   padding-top: 4rem;
-
-  @include media($large-screen-up) {
-    padding-top: 8rem;
-  }
+  @include media($large-screen-up) { padding-top: 8rem; }
 }
 
-.page-cover ~ .container .page-content .page-title {
-  padding-top: 1rem;
-  @include media($large-screen-up) { padding-top: 2rem; }
-}
+.page-author { margin-bottom: 3rem; }
+.page-title ~ .page-author { margin-top: 0; }
 
 .page-content {
   @extend %body-text;
@@ -52,17 +41,9 @@
 
 .page-content {
   .reference {
-    -webkit-column-count: 2;
-    -webkit-column-gap: 3rem;
-    -moz-column-count: 2;
-    -moz-column-gap: 2.5rem;
-    column-count: 2;
-    column-gap: 2.5rem;
-
-    p + p {
-      text-indent: 0;
-    }
-
+    @include prefixer(column-count, 2, webkit moz spec);
+    @include prefixer(column-gap, 2.5rem, webkit moz spec);
+    p + p { text-indent: 0; }
     li {
       break-inside: avoid-column;
       -webkit-column-break-inside: avoid;
