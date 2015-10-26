@@ -34,6 +34,7 @@ a.button { font-family: $heading-font-family; }
   @include media($large-screen-up) { font-size: $base-font-size * 1.125; }
 
   h3 { margin-top: 2rem; }
+  h4 { margin-top: 1.5rem; }
   ol { @extend %default-ol; }
   ul { @extend %default-ul; }
 

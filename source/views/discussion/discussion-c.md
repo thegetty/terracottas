@@ -152,8 +152,6 @@ accepted by scholars.[^21] In the absence of reliable excavation
 contexts, it seems advisable to date the group of orantes to the early
 third century <span class="smcaps">BC.</span>
 
-<br />
-
 #### Notes
 
 [^1]: For the technical working of the statue and the hypothetical use

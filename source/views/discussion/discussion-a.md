@@ -512,8 +512,6 @@ style alone may well be misleading, given the persistence of
 Late-Classical traits even into the middle of the fourth century <span
 class="smcaps">BC</span>.
 
-<br />
-
 ### Appendix
 
 Thermoluminescence of the clay body, X-ray fluorescence, polarized light
@@ -521,8 +519,7 @@ microscopy, and ultraviolet–visible spectroscopy analysis of the
 polychromy were performed. They all attest to the group’s authenticity.
 
 <br />
-Results of the pigment analysis:
-
+Results of the pigment analysis:  
 <br />
 
 #### Orpheus figure
@@ -533,15 +530,11 @@ Results of the pigment analysis:
 4. **Pink:** cinnabar, lead white, chalk
 5. **Red/brown:** iron earth red, chalk
 
-<br />
-
 #### Orpheus footstool
 
 6. **Orange:** yellow ocher red ocher
 7. **Black:** lampblack
 8. **Pink:** red ocher, chalk
-
-<br />
 
 #### Notes
 

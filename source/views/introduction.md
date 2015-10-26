@@ -75,8 +75,6 @@ this catalogue and the accompanying [Guide to the Collection of South Italian an
 statuettes and molds at the Getty, will encourage wider comparison and
 connections to materials of more certain archaeological contexts.[^3]
 
-<br />
-
 #### Notes
 
 [^1]: The manuscript was mostly completed in 2008 in a new context of

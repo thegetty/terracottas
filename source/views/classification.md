@@ -53,8 +53,6 @@ possible, on comparisons with materials from excavation contexts or,
 more frequently, through references to stylistic and iconographical
 analogies.[^2]
 
-<br />
-
 #### Notes
 
 [^1]: *Munsell Soil Color Charts*, rev. ed. (New York, 1992). For
