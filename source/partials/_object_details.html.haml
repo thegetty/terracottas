@@ -23,13 +23,11 @@
           %td= entry[:info][:location]
         - if entry[:info][:dimensions].length == 1
           %tr
-            %td
-              %strong Dimensions
+            %td Dimensions
             %td= entry[:info][:dimensions].first["desc"]
         - if entry[:info][:dimensions].length > 1
           %tr
-            %td
-              %strong Dimensions
+            %td Dimensions
           - entry[:info][:dimensions].each do |dimension|
             - dimension.each_value do |value|
               %tr
