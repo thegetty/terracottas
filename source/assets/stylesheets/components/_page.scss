@@ -72,8 +72,9 @@
 
   ul {
     font-family: $heading-font-family;
-    line-height: 1;
-    margin: 1.5rem 0;
+    line-height: 1.4;
+    margin: 1rem 0;
+    padding: 0;
     li { list-style-type: none; margin-left: 0; }
   }
 }
