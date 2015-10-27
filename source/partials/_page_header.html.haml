@@ -12,14 +12,15 @@
       %i.ion-android-arrow-dropright.ml1.mr1.hide-on-mobile
       %span.hide-on-mobile= "#{entry[:info][:cat]}"
       - next_entry(entry.info.cat)
+    - elsif current_page.data.layout == "cover"
+      %span.hide-on-mobile= current_page.data.title
+      - next_page(current_page.data.sort_order)
     - elsif current_page.data.title
       - prev_page(current_page.data.sort_order)
       = link_to "#{site_title}", "#{site_url}/contents/"
       %i.ion-android-arrow-dropright.ml1.mr1.hide-on-mobile
       %span.hide-on-mobile= current_page.data.title
       - next_page(current_page.data.sort_order)
-    - elsif current_page.data.layout == "cover"
-      %span.hide-on-mobile= current_page.data.title
   .page-header-right
     %a.nav-primary-trigger.no-smoothState#off-canvas-toggle
       %i.ion-navicon
