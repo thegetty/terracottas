@@ -44,7 +44,7 @@ function renderGrid(data) {
         rotation: item.meta.rotation,
         startDate: item.meta.start_date,
         endDate: item.meta.end_date,
-        url: "./" + item.info.cat,
+        url: "./" + item.info.cat + "/",
         image: "http://gettypubs.github.io/Terracottas/assets/images/" + item.info.acc + ".jpg"
       }));
       $(".result-counter").html(data.length + " results");
