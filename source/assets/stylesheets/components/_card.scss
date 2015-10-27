@@ -26,7 +26,7 @@
   @include display(flex);
   @include flex-direction(column);
   @include align-items(stretch);
-  @include justify-content(flex-end);
+  @include justify-content(space-between);
   @include flex(1 0 42%);
   background-color: $light-gray;
   background-position: center 55%;
@@ -67,6 +67,17 @@
 }
 
 .card-date { opacity: 0.5; }
+.card-info {
+  @include flex(0 0 20%);
+  @include align-self(flex-end);
+  padding: 0.75rem;
+}
+
+.card-rotate-icon {
+  height: auto;
+  opacity: 0.35;
+  width: 30px;
+}
 
 .grid-empty {
   @include flex(1);
