@@ -1,7 +1,6 @@
 ---
 title: Group of Heads and Busts from the Taranto Region
 objects: 4..23
-layout: false
 ---
 #### Group of Heads and Busts from the Taranto Region (cat. 4–23)
 
