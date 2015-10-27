@@ -42,12 +42,13 @@ activate :deploy do |deploy|
 end
 
 data.catalogue.each do |cat, entry|
-  proxy "/catalogue/#{cat}.html", "/catalogue/template.html", :locals => {
+  proxy "/catalogue/#{cat}.html", "/catalogue/print-template.html", :locals => {
     :entry => entry
   }, :ignore => true
 end
 
 ignore "/catalogue/print-template.html"
+page "/discussion/*", :layout => :page
 
 helpers do
   def nav_link(link_text, page_url, options = {})
