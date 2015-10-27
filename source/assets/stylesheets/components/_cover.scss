@@ -111,7 +111,6 @@
 }
 
 .cover-copy {
-  background-color: $light-gray;
   font-size: 1.125em;
   padding: 2.5rem 1rem;
 }
@@ -129,6 +128,7 @@
 
 .cover-map {
   @extend %cover-block;
+  margin-top: 0;
   #map { height: 300px; }
   @include media($medium-screen-up) {
     #map { height: 600px; }

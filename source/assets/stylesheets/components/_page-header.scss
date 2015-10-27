@@ -1,3 +1,6 @@
+// Reverting this file to the state it was in as of 3310847
+// Changes since then have strange impact on page header when search is expanded
+
 .page-header {
   @include transition($base-transition);
   background-color: $base-background-color;
@@ -9,13 +12,54 @@
   top: 0;
   width: 100%;
   z-index: 1100;
+}
 
+.next-link {
+  margin-left: 1.25rem;
+}
+
+.prev-link {
+  margin-right: 1.25rem;
+}
+
+.next-link, .prev-link {
+  @include media($small-screen) {
+    display: none;
+  }
+}
+
+// If page has panel layout, header only covers right panel
+.panel-container ~ .page-header {
+  @include media($small-screen) { width: 100%; }
+  position: absolute;
+  width: 50%;
+}
+
+.page-header {
   &.panel--collapse {
     @include transform(translateX(50vw));
     width: 0%;
   }
+  &.panel--expand {
+    width: 100%;
+  }
+}
 
-  &.panel--expand { width: 100%; }
+// Make header transparent on cover page
+.cover ~ .page-header {
+  background-color: transparent;
+  border: none;
+
+  .page-header-left,
+  .page-header-center { display: none; }
+}
+
+.page-header-center {
+  margin: 0 auto;
+  padding-top: 15px;
+  position: relative;
+  text-align: center;
+  width: 80%;
 }
 
 .page-header-left,
@@ -32,40 +76,10 @@
   top: 10px;
 }
 
-.page-header-center {
-  margin: 0 auto;
-  padding-top: 15px;
-  position: relative;
-  text-align: center;
-  width: 80%;
-}
-
 .page-header-right {
   font-size: 2.125rem;
   margin-right: 20px;
   right: 0;
   text-align: right;
   top: 0;
-}
-
-// If page has panel layout, header only covers right panel
-.panel-container ~ .page-header {
-  position: absolute;
-  width: 50%;
-  @include media($small-screen) { width: 100%; }
-}
-
-.next-link,
-.prev-link { @include media($small-screen) { display: none; } }
-
-.next-link { margin-left: 1.25rem; }
-.prev-link { margin-right: 1.25rem; }
-
-// Make header transparent on cover page
-.page-header--hidden {
-  background-color: transparent;
-  border: none;
-
-  .page-header-left,
-  .page-header-center { display: none; }
 }
