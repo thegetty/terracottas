@@ -40,6 +40,7 @@ function renderGrid(data) {
         group: item.info.group,
         type: item.info.typology,
         region: item.info.location,
+        date: item.info.date,
         startDate: item.meta.start_date,
         endDate: item.meta.end_date,
         url: "./" + item.info.cat,

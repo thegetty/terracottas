@@ -66,6 +66,8 @@
   }
 }
 
+.card-date { opacity: 0.5; }
+
 .grid-empty {
   @include flex(1);
   color: $light-gray;
