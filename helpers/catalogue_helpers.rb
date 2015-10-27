@@ -70,6 +70,7 @@ module CatalogueHelpers
     if id == 100
       destination = "#{site_url}/catalogue/60"
       haml_tag :a, :id     => "prev-link",
+                   :title  => "Previous Section",
                    :class  => "prev-link hide-on-mobile",
                    :href   => destination do
                      haml_tag :i, :class => "ion-chevron-left"
@@ -79,6 +80,7 @@ module CatalogueHelpers
       return false if prev_page.nil?
       destination = "#{site_url}#{prev_page.url}"
       haml_tag :a, :id     => "prev-link",
+                   :title  => "Previous Section",
                    :class  => "prev-link hide-on-mobile",
                    :href   => destination do
                      haml_tag :i, :class => "ion-chevron-left"
@@ -91,6 +93,7 @@ module CatalogueHelpers
     if id == 10
       destination = "#{site_url}/catalogue/1"
       haml_tag :a, :id     => "next-link",
+                   :title  => "Next Section",
                    :class  => "next-link hide-on-mobile",
                    :href   => destination do
                      haml_tag :i, :class => "ion-chevron-right"
@@ -100,6 +103,7 @@ module CatalogueHelpers
       return false if next_page.nil?
       destination = "#{site_url}#{next_page.url}"
       haml_tag :a, :id     => "next-link",
+                   :title  => "Next Section",
                    :class  => "next-link hide-on-mobile",
                    :href   => destination do
                      haml_tag :i, :class => "ion-chevron-right"
@@ -113,6 +117,7 @@ module CatalogueHelpers
       return false if next_page.nil?
       destination = "#{site_url}#{next_page.url}"
       haml_tag :a, :id     => "next-link",
+                   :title  => "Next Entry",
                    :class  => "next-link hide-on-mobile",
                    :href   => destination do
                      haml_tag :i, :class => "ion-chevron-right"
@@ -120,6 +125,7 @@ module CatalogueHelpers
     else
       destination = "#{site_url}/catalogue/#{id + 1}/"
       haml_tag :a, :id     => "next-link",
+                   :title  => "Next Entry",
                    :class  => "next-link hide-on-mobile",
                    :href   => destination do
                      haml_tag :i, :class => "ion-chevron-right"
@@ -133,6 +139,7 @@ module CatalogueHelpers
       return false if prev_page.nil?
       destination = "#{site_url}#{prev_page.url}"
       haml_tag :a, :id     => "prev-link",
+                   :title  => "Previous Entry",
                    :class  => "prev-link hide-on-mobile",
                    :href   => destination do
                      haml_tag :i, :class => "ion-chevron-left"
@@ -140,6 +147,7 @@ module CatalogueHelpers
     else
       destination = "#{site_url}/catalogue/#{id - 1}/"
       haml_tag :a, :id     => "prev-link",
+                   :title  => "Previous Entry",
                    :class  => "prev-link hide-on-mobile",
                    :href   => destination do
                      haml_tag :i, :class => "ion-chevron-left"
