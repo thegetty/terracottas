@@ -1,7 +1,7 @@
 ---
 title: Classification
 layout: page
-cover: 76.AD.11.2.detail_1
+cover: 82.AD.93.1.detail_1
 sort_order: 5
 ---
 
