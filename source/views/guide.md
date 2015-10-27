@@ -78,7 +78,7 @@ outlined below. It is current to the date of publication.
     banqueter, bearded, reclining and holding a cup, with a vertical tang to
     hold the figure upright; fourth century <span class="smcaps">BC</span>. See
     <span class="smcaps">Kingsley 1976</span>, p. 5, no. 4, pl. 4.
--   [**75.AD.40.1–90** <i></i>{:class="ion-link"}][search-75AD40]{:target="blank"}:
+-   [**75.AD.40.A.1–75.AD.40.O.7** <i></i>{:class="ion-link"}][search-75AD40]{:target="blank"}:
     Group of 90 small heads of women wearing floral
     crowns, averaging 2 cm in height. Most are broken off at the neck
     and the facial features are worn. One figure (75.AD.40.I.14) has a
@@ -93,10 +93,11 @@ outlined below. It is current to the date of publication.
     Reclining male banqueter; early fifth century <span class="smcaps">BC</span>.
 -   [**80.AD.74** <i></i>{:class="ion-link"}][9236]{:target="blank"}: Head of a
     young woman wearing a *polos*; late fifth century <span class="smcaps">BC</span>.
--   [**83.AD.354.1–294** <i></i>{:class="ion-link"}][search-83AD354]{:target="blank"}:
-    Group of 294 votives, comprising types mainly
-    associated with Taranto and Metaponto (see below for further
-    discussion of the 55 Metapontine examples). The earliest Tarentine
+-   [**83.AD.354.1–394** <i></i>{:class="ion-link"}][search-83AD354]{:target="blank"}:
+    A group of 394 fragments that comprise 292 votive objects, consisting of types
+    associated with the area of Taranto (272), Apulia (1), and Metaponto (55;
+    see below for further discussion of the Metapontine examples), with the
+    remainder from unidentified South Italian workshops. The earliest Tarentine
     votives in this lot date from the mid sixth–fifth centuries
     <span class="smcaps">BC</span> and depict figures of a standing goddess
     with a snake, a sphinx, a head of a woman wearing a conical *polos*, and
@@ -411,8 +412,8 @@ probably come from Apulian funerary contexts in or near Canosa:
     The goddess is seated on a throne; pairs of rosettes decorate the
     backrest on either side of her shoulders; fifth century <span
     class="smcaps">BC</span>.
--   [**73.AD.10** <i></i>{:class="ion-link"}][7020]{:target="blank"}:
-    Group of 466 votives dated to the fourth century <span class="smcaps">BC</span>
+-   [**73.AD.10.A.1–73.AD.10.P.15** <i></i>{:class="ion-link"}][search-73AD10]{:target="blank"}:
+    Group of 450 votives dated to the fourth century <span class="smcaps">BC</span>
     on the basis of associated sherds of an Attic red-figure bell krater, Attic
     lekythoi, a lamp, South Italian, and Gnathia pottery sherds. In
     addition to the seven South Italian molds listed above, the lot is
@@ -619,7 +620,7 @@ probably come from Apulian funerary contexts in or near Canosa:
 [6798]: http://www.getty.edu/art/collection/objects/6798 "View this item on the Getty's collection pages."
 [6799]: http://www.getty.edu/art/collection/objects/6799 "View this item on the Getty's collection pages."
 [6811]: http://www.getty.edu/art/collection/objects/6811 "View this item on the Getty's collection pages."
-[7020]: http://www.getty.edu/art/collection/objects/7020 "View this item on the Getty's collection pages."
+[search-73AD10]: http://www.getty.edu/art/collection/search/?view=grid&query=YTo1OntzOjE3OiJfZGF0ZV9yYW5nZV9iZWdhbiI7czo1OiItNTAwMCI7czoxNzoiX2RhdGVfcmFuZ2VfZW5kZWQiO3M6NDoiMjAxNCI7czo4OiJfbnVtYmVycyI7czo4OiI3My5BRC4xMCI7czo0MToiKGlkZW50aWZpZXIucHJpbWFyeXxpZGVudGlmaWVyLmFsdGVybmF0ZSkiO3M6ODoiNzMuQUQuMTAiO3M6NDoic29ydCI7czo2OiItc2NvcmUiO30= "Search these items on the Getty's collection pages."
 [8223]: http://www.getty.edu/art/collection/objects/8223 "View this item on the Getty's collection pages."
 [8513]: http://www.getty.edu/art/collection/objects/8513 "View this item on the Getty's collection pages."
 [124940]: http://www.getty.edu/art/collection/objects/124940 "View this item on the Getty's collection pages."
