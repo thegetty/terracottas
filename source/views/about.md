@@ -23,10 +23,9 @@ This custom online catalogue enables a deeper exploration of these ancient objec
 
 ## Revision History
 
-Any revisions mor corrections made to this catalogue after the first edition date
+Any revisions or corrections made to this catalogue after the first edition date
 will be detailed here and in the project repository at
-[www.github.com/gettypubs/terracottas](https://www.github.com/gettypubs/terracottas).
-Earlier versions of the publication may also be accessed in that repository.
+[www.github.com/gettypubs/terracottas](https://www.github.com/gettypubs/terracottas). Earlier versions of the publication may also be accessed in that repository.
 
 ### January 6, 2016
 
