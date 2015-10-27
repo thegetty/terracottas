@@ -7,7 +7,14 @@
      data-start="{{startDate}}"
      data-end="{{endDate}}"
      href="{{url}}">
-    <div class="card-title">
+     <div class="card-info">
+     {{#if rotation}}
+        <img class="card-rotate-icon"
+             alt="360° Rotation Available"
+             src="../../assets/images/icons/noun_191739_white.svg">
+     {{/if}}
+     </div>
+     <div class="card-title">
       <h5 class="mb0">{{cat}}. {{title}}</h5>
       <h6 class="card-date mb0">{{date}}</h6>
     </div>
