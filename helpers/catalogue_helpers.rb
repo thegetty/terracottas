@@ -48,7 +48,6 @@ module CatalogueHelpers
     end
 
     haml_tag :div, :class => "object-data", :data => {
-      :catalogue  => entry[:info][:cat],
       :dimensions => {
         :width    => main_view(entry)["pixel_width"],
         :height   => main_view(entry)["pixel_height"],
