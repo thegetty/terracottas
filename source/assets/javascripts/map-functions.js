@@ -27,7 +27,8 @@ CONFIG = {
 
 function deepZoomSetup() {
   var options = {
-    catNum:      $(".object-data").data("catalogue"),
+    // grab cat number from URL; workaround for now
+    catNum:      Number(window.location.pathname.match(/\d+/)[0]),
     pixelWidth:  $(".object-data").data("dimensions-width"),
     pixelHeight: $(".object-data").data("dimensions-height"),
     views:       $(".object-data").data("views"),
