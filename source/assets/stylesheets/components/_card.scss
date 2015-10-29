@@ -87,6 +87,13 @@
   text-align: center;
 }
 
+// scss for loop
+@for $i from 1 through 60 {
+  [data-catalogue="#{$i}"] {
+    background-image: url(image_path("#{$i}.jpg"));
+  }
+}
+
 // Overrides for specific images
 [data-catalogue="1"] { background-position: center 10%; }
 [data-catalogue="2"] { background-position: center 10%; }
