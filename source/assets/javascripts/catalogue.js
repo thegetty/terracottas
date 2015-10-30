@@ -15,10 +15,6 @@ var catalogue = {
   },
 
   methods: {
-    backgroundImage: function (item) {
-      var imgUrl = this.baseUrl + item.info.acc + '.jpg';
-      return "background-image: url(" + "imgUrl" + ")";
-    },
     // get json method
     getCatalogue: function () {
       // GET request
