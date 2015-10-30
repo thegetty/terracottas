@@ -2,8 +2,7 @@
   - collection.each do |cat, entry|
     .feature-object
       = link_to "#{site_url}/catalogue/#{entry[:info][:cat]}" do
-        .card{ :style => "background-image: url(#{image_path(entry[:info][:acc])}.jpg)",
-               :data => {  :catalogue => entry[:info][:cat],
+        .card{ :data => {  :catalogue => entry[:info][:cat],
                            :typology  => entry[:info][:typology],
                            :location => entry[:info][:location],
                            :group => entry[:info][:group] } }

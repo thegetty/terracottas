@@ -276,14 +276,23 @@ function init360() {
 // Set up all the things!
 
 function setUpPage(){
+
   var map;
+
   fadeHeaderOnCover();
   offCanvasSetup();
   addPanelControls();
   keyboardNav();
   // gridControlSetup();
-  gridSetup();
+  // gridSetup();
   citationDate();
+
+  if ($("#catalogue").length) {
+    catalogueGrid = new Vue(catalogue);
+  } else if (catalogueGrid) {
+    catalogueGrid.$destroy();
+    console.log("Destroyed old vue instance");
+  }
 
   $(".expander-content").addClass("expander--hidden");
   if ( mapCheck($(".object-data")) ) {

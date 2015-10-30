@@ -11,7 +11,12 @@
 //= require ui-functions
 //= require map-functions
 //= require search-functions
-//= require grid-functions
+//= require catalogue.js
+// require grid-functions
+
+// Setting this up as global for now to ensure that old Vue instances
+// are getting destroyed when not needed
+var catalogueGrid;
 
 setUpPage();
 
