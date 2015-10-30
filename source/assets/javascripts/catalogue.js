@@ -82,9 +82,7 @@ var catalogue = {
         console.log("Something went wrong: " + status);
       });
     }
-
-    // remove loading indicator?
-    // a sortBy method may also be useful
+    // TODO: clear filters method for a "clear" button in template
   },
 
   filters: {
