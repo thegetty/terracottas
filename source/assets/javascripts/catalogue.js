@@ -3,10 +3,11 @@
 
 Vue.config.debug = true;
 var catalogue = {
-  el: "#main",
+  el: "#catalogue",
 
   data: {
     entries: [],
+    loaded: false,
     baseUrl: "http://gettypubs.github.io/Terracottas/assets/images/",
     sortKey: '["info"]["cat"]',
 
@@ -48,9 +49,7 @@ var catalogue = {
 
   ready: function (argument) {
     this.getCatalogue();
-    // Any way to do this without a direct DOM query?
-    $("#catalogue").removeClass("hidden");
-    $("#loading").hide();
+    this.loaded = true;
   }
 
 };

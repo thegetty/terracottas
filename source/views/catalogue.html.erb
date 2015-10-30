@@ -5,34 +5,31 @@ sort_order: 10
 ---
 <div class="container mt3">
   <h1 class="page-title centered"><%= current_page.data.title %></h1>
-  <div class="" id="loading">
-    <div class="loader">
-      <div class="loader-inner line-scale">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
+  <div id="catalogue" >
+    <div v-if="! loaded" id="loading">
+      <div class="loader">
+        <div class="loader-inner line-scale">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
       </div>
     </div>
-  </div>
-  <div id="catalogue" class="hidden">
-    <div class="grid grid--gutters pb4">
 
+    <div v-cloak class="grid grid--gutters pb4">
       <a v-for="item in entries | orderBy sortKey"
          href="{{ './' + item.info.cat + '/' }}"
          data-catalogue="{{item.info.cat}}"
          href="#" class="card">
-
         <div class="card-info"></div>
         <div class="card-title">
           <h5 class="mb0">{{item.info.image}}</h5>
           <h5 class="mb0">{{item.info.cat}}. {{item.info.title}}</h5>
           <h6 class="card-date">{{item.info.date}}</h6>
         </div>
-
       </a>
-
     </div>
     <!-- <pre>{{ $data | json }}</pre> -->
   </div>
