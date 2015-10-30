@@ -1,4 +1,15 @@
 // These are hard overrides for 3rd party JS widgets
+// Loading styles from here: https://github.com/ConnorAtherton/loaders.css
+#loading {
+  height: 80vh;
+  margin-top: 40vh;
+  text-align: center;
+}
+
+.line-scale > div {
+  background: $action-color;
+}
+
 
 #map {
   .easy-button-button {
