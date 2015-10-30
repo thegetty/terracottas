@@ -45,7 +45,7 @@ function fadeHeaderOnCover() {
 
 function mapCheck($el) {
   if ($el.length) {
-    if ( !isNaN($el.data("catalogue")) ) { return true; }
+    if ( Number(window.location.pathname.match(/\d+/)[0]) ) { return true; }
     else if ( $el.data("map") === true ) { return true; }
     else { return false; }
   }
@@ -251,7 +251,7 @@ function showModal() {
 
 // 360 rotation-----------------------------------------------------------------
 function init360() {
-  var catNum = $(".object-data").data("catalogue");
+  var catNum = Number(window.location.pathname.match(/\d+/)[0]);
   var rwidth = $(".object-data").data("rwidth");
   var rheight = $(".object-data").data("rheight");
 
