@@ -5,7 +5,9 @@ sort_order: 10
 ---
 <div class="container mt3">
   <h1 class="page-title centered"><%= current_page.data.title %></h1>
-  <div id="catalogue" >
+  <div id="catalogue" class="centered">
+
+    <!-- Loading indicator -->
     <div v-if="! loaded" id="loading">
       <div class="loader">
         <div class="loader-inner line-scale">
@@ -18,8 +20,40 @@ sort_order: 10
       </div>
     </div>
 
+    <!-- Controls -->
+    <select v-model="selection.location" v-cloak>
+      <option v-for="option in locationOptions" v-bind:value="option">
+        {{ option }}
+      </option>
+    </select>
+
+    <select v-model="selection.typology" v-cloak>
+      <option v-for="option in typologyOptions" v-bind:value="option">
+        {{ option }}
+      </option>
+    </select>
+
+    <select v-model="selection.group" v-cloak>
+      <option v-for="option in groupOptions" v-bind:value="option">
+        {{ option }}
+      </option>
+    </select>
+
+    <select v-model="selection.date" v-cloak>
+      <option v-for="option in dateOptions" v-bind:value="option">
+        {{ option.text }}
+      </option>
+    </select>
+
+
+    <h6 v-cloak class="result-counter mt2">
+      {{ currentEntries.length }} Results
+    </h6>
+
+
+    <!-- Grid -->
     <div v-cloak class="grid grid--gutters pb4">
-      <a v-for="item in entries | orderBy sortKey"
+      <a v-for="item in entries | selectedItems | orderBy sortKey"
          href="{{ './' + item.info.cat + '/' }}"
          data-catalogue="{{item.info.cat}}"
          href="#" class="card">
@@ -31,6 +65,11 @@ sort_order: 10
         </div>
       </a>
     </div>
-    <!-- <pre>{{ $data | json }}</pre> -->
+
+    <!-- Empty state -->
+    <h2 v-cloak v-if="currentEntries.length == 0" class='grid-empty'>
+      No results found
+    </h2>
+    <pre>{{ $data.selection | json }}</pre>
   </div>
 </div>
