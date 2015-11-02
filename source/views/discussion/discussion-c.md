@@ -1,6 +1,6 @@
 ---
 title: Four Statues of Mourning Women from Canosa
-objects: 38..41
+objects: !ruby/range 38..41
 layout: false
 ---
 #### Four Statues of Mourning Women from Canosa (cat. 38–41)

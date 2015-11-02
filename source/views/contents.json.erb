@@ -3,17 +3,28 @@ entries     = []
 terracottas = merge_catalogue
 pages       = sitemap.resources.find_all { |p| p.source_file.match(/\.md/) }
 pages.delete_if { |p| p.destination_path.include?("views") }
-pages.delete_if { |p| p.destination_path.include?("discussion") }
 
 pages.each_with_index do |page, index|
-  entry = {
-    :id           => index,
-    :title        => page.data.title,
-    :url          => "#{site_url}#{page.url}",
-    :type         => "Section",
-    :content      => page.render({:layout => false}).gsub( %r{</?[^>]+?>}, '' )
-  }
-  entries << entry
+  if page.destination_path.include?("discussion")
+    discussion_entries = page.data.objects
+    entry = {
+      :id      => index,
+      :title   => page.data.title,
+      :url     => "#{site_url}/catalogue/#{discussion_entries.first}/",
+      :type    => "Discussion Text (Entries #{discussion_entries.first} – #{discussion_entries.last})",
+      :content => page.render({:layout => false}).gsub( %r{</?[^>]+?>},'')
+    }
+    entries << entry
+  else
+    entry = {
+      :id      => index,
+      :title   => page.data.title,
+      :url     => "#{site_url}#{page.url}",
+      :type    => "Section",
+      :content => page.render({:layout => false}).gsub( %r{</?[^>]+?>},'')
+    }
+    entries << entry
+  end
 end
 
 terracottas.each_with_index do |item, index|
