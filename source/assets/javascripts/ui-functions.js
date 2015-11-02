@@ -1,5 +1,3 @@
-//= require grid-functions
-
 // =============================================================================
 // UI Functions
 
@@ -283,8 +281,6 @@ function setUpPage(){
   offCanvasSetup();
   addPanelControls();
   keyboardNav();
-  // gridControlSetup();
-  // gridSetup();
   citationDate();
 
   if ($("#catalogue").length) {
