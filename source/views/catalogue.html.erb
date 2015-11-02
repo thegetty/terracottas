@@ -74,7 +74,12 @@ sort_order: 10
          href="{{ './' + item.info.cat + '/' }}"
          data-catalogue="{{item.info.cat}}"
          href="#" class="card">
-        <div class="card-info"></div>
+        <div class="card-info">
+          <img v-if="item.meta.rotation"
+               class="card-rotate-icon"
+               alt="360° Rotation Available"
+               src="../assets/images/icons/noun_191739_white.svg">
+        </div>
         <div class="card-title">
           <h5 class="mb0">{{item.info.image}}</h5>
           <h5 class="mb0">{{item.info.cat}}. {{item.info.title}}</h5>
