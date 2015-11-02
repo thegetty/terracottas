@@ -59,9 +59,9 @@ sort_order: 10
 
     <br>
 
-    <a href="#" class="button">
+    <button class="button" @click="clearFilters">
       Clear Filters
-    </a>
+    </button>
 
     <h6 v-cloak class="result-counter mt2">
       {{ currentEntries.length }} Results
@@ -87,6 +87,6 @@ sort_order: 10
     <h2 v-cloak v-if="currentEntries.length == 0" class='grid-empty'>
       No results found
     </h2>
-    <pre>{{ $data.selection | json }}</pre>
+    <!-- <pre>{{ $data.selection | json }}</pre> -->
   </div>
 </div>

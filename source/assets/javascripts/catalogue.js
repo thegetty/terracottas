@@ -81,8 +81,15 @@ var catalogue = {
       }).error(function (data, status, request) {
         console.log("Something went wrong: " + status);
       });
+    },
+    clearFilters: function () {
+      this.$set('selection', {
+        location: this.locationOptions[0],
+        typology: this.typologyOptions[0],
+        group:    this.groupOptions[0],
+        date:     this.dateOptions[0]
+      });
     }
-    // TODO: clear filters method for a "clear" button in template
   },
 
   filters: {
