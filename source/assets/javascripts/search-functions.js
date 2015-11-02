@@ -19,13 +19,18 @@
 // Generate an empty Lunr index which searches the specified fields.
 function initIndex() {
   var index = lunr(function(){
-    this.field('title', { boost: 10 });
+    this.field('title', { boost: 100 });
     this.field('city');
     this.field('typology');
-    this.field('region');
+    this.field('location');
     this.field('group');
     this.field('acc');
-    this.field('content');
+    this.field('content', { boost: 10 });
+    this.field('description', { boost: 10 });
+    this.field('condition');
+    this.field('fabric');
+    this.field('bibliography');
+    this.field('provenance');
     this.ref('id');
   });
   return index;

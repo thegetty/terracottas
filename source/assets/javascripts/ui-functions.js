@@ -244,7 +244,7 @@ function addPanelControls() {
 // Show Modal ------------------------------------------------------------------
 function showModal() {
   $("body").addClass("modal-open");
-  init360();
+  // init360();
 }
 
 // 360 rotation-----------------------------------------------------------------
