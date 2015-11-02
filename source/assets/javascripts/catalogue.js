@@ -55,7 +55,7 @@ var catalogue = {
       {start: "550", end:"0",   text: "All dates"},
       {start: "550", end:"500", text: "550–500 BC"},
       {start: "499", end:"450", text: "499–450 BC"},
-      {start: "400", end:"350", text: "400–350 BC"},
+      {start: "449", end:"400", text: "449–400 BC"},
       {start: "399", end:"350", text: "399–350 BC"},
       {start: "349", end:"300", text: "349–300 BC"},
       {start: "299", end:"250", text: "299–250 BC"},
