@@ -4,6 +4,16 @@ module CatalogueHelpers
     "#{current_page.data.author_full_name}"
   end
 
+  def page_title
+    if current_page.data.layout == "cover"
+      "#{data.book.title} | #{data.book.author_full_name}"
+    elsif current_page.data.title
+      "#{current_page.data.title} | #{site_title}"
+    else
+      "#{site_title}"
+    end
+  end
+
   def merge_catalogue
     terracottas = []
     data.catalogue.each do |key, value|
