@@ -59,7 +59,7 @@ function initMap() {
   }
 
   // geoJson placeholder is currently loaded from geojson.js
-  var geojsonMarkerOptions = {
+  var markerStyle = {
     radius: 8,
     fillColor: "#E79340",
     color: "#000",
@@ -68,15 +68,34 @@ function initMap() {
     fillOpacity: 1
   };
 
+  var popupOptions = {
+    minWidth: 100
+  };
+
   L.geoJson(geojsonFeature, {
     pointToLayer: function (feature, latlng) {
-      return L.circleMarker(latlng, geojsonMarkerOptions);
+      if (feature.properties.feature_type == "site") {
+        return L.circleMarker(latlng, markerStyle);
+      } else if (feature.properties.feature_type == "region") {
+        // use the leaflet label plugin here to add text labels
+        // https://github.com/Leaflet/Leaflet.label
+      }
     },
     onEachFeature: function(feature, layer) {
-      layer.bindPopup(feature.properties.custom_name);
+      var pleiadesUrl = "http://pleiades.stoa.org/places/" + feature.properties.pid;
+      var tgnUrl = "http://vocab.getty.edu/tgn/" + feature.properties.tgn;
+      if (feature.properties.catalogue) {
+        // do something here to show the multiple entries
+      } else if (feature.properties.pid) {
+        layer.bindPopup(
+          "<h4 class='feature-name'>" + feature.properties.custom_name + "</h4>" +
+          "<a target='blank' href='" + tgnUrl + "'>Getty Vocabularies</a>" + "<br />" +
+          "<a target='blank' href='" + pleiadesUrl + "'>Pleiades</a>",
+          popupOptions
+        );
+      }
     }
   }).addTo(map);
-  // L.geoJson(taranto).addTo(map);
   return map;
 }
 
