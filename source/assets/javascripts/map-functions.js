@@ -1,21 +1,95 @@
 //= require geojson
 //= require lib/leaflet-easy-button
+//= require lib/leaflet.label-src
 
 // =============================================================================
 // Map Functions
 
-// Leaflet.js is the library used for both Deep Zoom images (catalogue pages)
-// as well as standard map components. Code for interacting with leaflet
-// should live here.
+// oMap = Octavo Map – use o* namespace
+// has CONFIG, methods, and styles properties
 
-CONFIG = {
-  mapboxAccessToken: "pk.eyJ1IjoiZWdhcmRuZXIiLCJhIjoiN2IyMmRlMTc0YTAwMzRjYWVhMzI5ZGY1YmViMGVkZTEifQ._576KIFjJ0S_dRHcdM2BmQ",
-  mapboxTileURL: "https://api.mapbox.com/v4/isawnyu.map-knmctlkh/{z}/{x}/{y}.png?access_token=",
-  imageTileURL: "http://gettypubs.github.io/maptiles/",
-  mapID: "map",
-  coords: [40.51379915504413, 17.193603515625],
-  defaultZoom: 6,
+var oMap = {
+  CONFIG: {
+    mapboxAccessToken: "pk.eyJ1IjoiZWdhcmRuZXIiLCJhIjoiN2IyMmRlMTc0YTAwMzRjYWVhMzI5ZGY1YmViMGVkZTEifQ._576KIFjJ0S_dRHcdM2BmQ",
+    mapboxTileURL: "https://api.mapbox.com/v4/isawnyu.map-knmctlkh/{z}/{x}/{y}.png?access_token=",
+    imageTileURL: "http://gettypubs.github.io/maptiles/",
+    mapID: "map",
+    coords: [40.51379915504413, 17.193603515625],
+    defaultZoom: 6,
+    attribution: 'Tiles © <a href="http://mapbox.com/" target="_blank">MapBox</a> ' +
+                 '| Tiles and Data © 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a>' +
+                 '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US"' +
+                 ' target="_blank">CC-BY-NC 3.0</a>'
+  },
 
+  methods: {
+    geojson: {
+      // Generate a marker layer for each geoJSON feature
+      pointToLayer: function (feature, latlng) {
+        var props = feature.properties;
+
+        if (props.feature_type == "site") {
+          return L.circleMarker(latlng, oMap.styles.defaultMarker);
+        } else if (props.feature_type == "region") {
+          return L.circleMarker(latlng, oMap.styles.regionMarker)
+            .bindLabel(props.custom_name, { noHide: true});
+        }
+      },
+      // Add popup text to each geoJSON feature
+      onEachFeature: function(feature, layer) {
+        oMap.methods.popupContent(feature, layer);
+      }
+    },
+    // Build the HTML string for each popup's content
+    popupContent: function (feature, layer) {
+      var props = feature.properties;
+
+      var popupOptions  = { minWidth: 100, maxHeight: 250 };
+      var pleiadesUrl   = "http://pleiades.stoa.org/places/" + props.pid;
+      var tgnUrl        = "http://vocab.getty.edu/tgn/" + props.tgn;
+      var popupMsg      = "<h4 class='feature-name'>" + props.custom_name + "</h4>";
+      var linkedEntries = props.catalogue;
+
+      if (props.tgn.length > 0) {
+        popupMsg += "<a target='blank' href='" + tgnUrl + "'>Getty Vocabularies</a><br />";
+      }
+
+      if (props.pid.length > 0) {
+        popupMsg += "<a target='blank' href='" + pleiadesUrl + "'>Pleiades</a><br />";
+      }
+
+      if (linkedEntries.length > 0) {
+        popupMsg += "<strong>Catalogue Entries:</strong><ul>";
+        linkedEntries.forEach(function (entry) {
+          var entryURL = "http://gettypubs.github.io/Terracottas/catalogue/" + entry + "/";
+          popupMsg += "<a href='"+ entryURL + "'><li>Cat. " + entry + "</li></a>";
+        });
+        popupMsg += "</ul>";
+      }
+
+      layer.bindPopup(popupMsg, popupOptions);
+    }
+  },
+
+  styles: {
+    defaultMarker: {
+      radius: 6,
+      fillColor: "#E79340",
+      color: "#000",
+      weight: 0.5,
+      opacity: 1,
+      fillOpacity: 1
+    },
+
+    regionMarker: {
+      radius: 6,
+      fillColor: "#fff",
+      color: "#fff",
+      weight: 3,
+      opacity: 0,
+      fillOpacity: 0.75
+    }
+  }
 };
 
 // -----------------------------------------------------------------------------
@@ -46,56 +120,22 @@ function deepZoomSetup() {
 // Returns a Leaflet map object.
 
 function initMap() {
-  var mapboxTiles = L.tileLayer(CONFIG.mapboxTileURL + CONFIG.mapboxAccessToken, {
-    attribution: 'Tiles © <a href="http://mapbox.com/" target="_blank">MapBox</a> | Tiles and Data © 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a> <a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>'
-  });
+  var map, mapboxTiles;
 
-  var map = L.map(CONFIG.mapID, {maxZoom: 12})
-    .addLayer(mapboxTiles)
-    .setView(CONFIG.coords, CONFIG.defaultZoom);
+  // Load tiles
+  mapboxTiles = L.tileLayer(
+    oMap.CONFIG.mapboxTileURL + oMap.CONFIG.mapboxAccessToken, {
+      attribution: oMap.CONFIG.attribution
+    });
 
-  if ($("#map").hasClass("no-scroll")) {
-    map.scrollWheelZoom.disable();
-  }
+  // Load default options
+  map = L.map(oMap.CONFIG.mapID, { maxZoom: 12 }).addLayer(mapboxTiles)
+        .setView(oMap.CONFIG.coords, oMap.CONFIG.defaultZoom);
 
-  // geoJson placeholder is currently loaded from geojson.js
-  var markerStyle = {
-    radius: 8,
-    fillColor: "#E79340",
-    color: "#000",
-    weight: 0.5,
-    opacity: 1,
-    fillOpacity: 1
-  };
+  // Disable scroll zoom on home page
+  if ($("#map").hasClass("no-scroll")) { map.scrollWheelZoom.disable(); }
+  L.geoJson(geojsonFeature, oMap.methods.geojson).addTo(map);
 
-  var popupOptions = {
-    minWidth: 100
-  };
-
-  L.geoJson(geojsonFeature, {
-    pointToLayer: function (feature, latlng) {
-      if (feature.properties.feature_type == "site") {
-        return L.circleMarker(latlng, markerStyle);
-      } else if (feature.properties.feature_type == "region") {
-        // use the leaflet label plugin here to add text labels
-        // https://github.com/Leaflet/Leaflet.label
-      }
-    },
-    onEachFeature: function(feature, layer) {
-      var pleiadesUrl = "http://pleiades.stoa.org/places/" + feature.properties.pid;
-      var tgnUrl = "http://vocab.getty.edu/tgn/" + feature.properties.tgn;
-      if (feature.properties.catalogue) {
-        // do something here to show the multiple entries
-      } else if (feature.properties.pid) {
-        layer.bindPopup(
-          "<h4 class='feature-name'>" + feature.properties.custom_name + "</h4>" +
-          "<a target='blank' href='" + tgnUrl + "'>Getty Vocabularies</a>" + "<br />" +
-          "<a target='blank' href='" + pleiadesUrl + "'>Pleiades</a>",
-          popupOptions
-        );
-      }
-    }
-  }).addTo(map);
   return map;
 }
 
