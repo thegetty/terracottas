@@ -51,11 +51,13 @@ var oMap = {
       var linkedEntries = props.catalogue;
 
       if (props.tgn.length > 0) {
-        popupMsg += "<a target='blank' href='" + tgnUrl + "'>Getty Vocabularies</a><br />";
+        popupMsg += "<a target='blank' href='" + tgnUrl + "'>Getty TGN ID: " +
+                    props.tgn + "</a><br />";
       }
 
       if (props.pid.length > 0) {
-        popupMsg += "<a target='blank' href='" + pleiadesUrl + "'>Pleiades</a><br />";
+        popupMsg += "<a target='blank' href='" + pleiadesUrl + "'>Pleiades ID: " +
+                    props.pid + "</a><br />";
       }
 
       if (linkedEntries.length > 0) {
