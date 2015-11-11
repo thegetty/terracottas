@@ -47,7 +47,16 @@ body { background-color: $base-background-color; }
   #notes { margin-top: 1.5rem; }
 }
 
-.hide-on-mobile { @include media($small-screen) { display: none; } }
+.hide-on-mobile {
+  @include media($small-screen) { display: none; }
+
+  @media only screen
+  and (min-width: $medium-screen)
+  and (max-width: $large-screen)
+  and (orientation: portrait) {
+    display: none;
+  }
+}
 
 .force-wrap {
   @include prefixer(hyphens, auto, webkit moz ms spec);

@@ -221,7 +221,16 @@ function initDeepZoom(options) {
   var mainLayer = sortedViews[0].name.split(regex)[1] + " view";
   map.addLayer(baseMaps[mainLayer]);
 
-  L.easyButton('<i class="icon ion-android-expand"></i>', leftPanelToggle).addTo(map);
+  L.easyButton({
+    id: "fullscreen-toggle",
+    states: [
+      {
+        icon: '<i class="icon ion-android-expand"></i>',
+        onClick: leftPanelToggle,
+        title: "Toggle Full Screen"
+      }
+    ]
+  }).addTo(map);
 
   if (options.rotation === 1) {
     L.easyButton(
