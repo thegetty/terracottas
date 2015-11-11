@@ -33,6 +33,14 @@
   padding: 3px;
 }
 
+// force override for Leaflet's z-index behavior
+// not sure how else to keep region labels from overlapping the catalogue labels
+// when they appear further south...
+
+.map-label-region {
+  z-index: 200 !important;
+}
+
 .map-label-region p {
   color: transparentize($base-font-color, 0.25);
   font-family: $heading-font-family;
