@@ -11,11 +11,17 @@
 
 .cover {
   background-color: $dark-gray;
-  background-image: url(image-path("86.AD.681.detail_1.jpg"));
-  background-position: center center;
+  background-image: url(image-path("86.AD.681.detail_2.jpg"));
+  background-position: center 65%;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 60vh;
+  height: 100vh;
+
+  @media only screen
+  and (max-width: 600px)
+  and (orientation: landscape) {
+    background-position: center 45%;
+  }
 
   @include media($medium-screen-up) {
     background-image: url(image-path("86.AD.681.detail_2.jpg"));
@@ -35,15 +41,17 @@
     transparent 0%,
     rgba(0, 0, 0, 0.75) 100%);
   color: $inverse-color;
+  height: 55vh;
   padding: 1rem;
-  position: static;
+  position: absolute;
   text-align: center;
+  top: 45vh;
   width: 100%;
 
-  @include media($small-screen) {
-    background-color: $action-color;
-    padding: 1.5rem;
-  }
+  // @include media($small-screen) {
+  //   background-color: transparent;
+  //   padding: 1.5rem;
+  // }
 
   @include media($medium-screen-up) {
     @include background-image(linear-gradient(
@@ -111,8 +119,13 @@
 }
 
 .cover-copy {
-  font-size: 1.125em;
-  padding: 2.5rem 1rem;
+  font-size: 0.95em;
+  padding: 1rem;
+
+  @include media($medium-screen-up) {
+    font-size: 1.125em;
+    padding: 2.5rem 1rem;
+  }
 }
 
 .cover-copy-inner {
@@ -129,7 +142,11 @@
 .cover-map {
   @extend %cover-block;
   margin-top: 0;
-  #map { height: 300px; }
+  #map {
+    height: 300px;
+    margin-top: 0;
+  }
+
   @include media($medium-screen-up) {
     #map { height: 600px; }
   }
