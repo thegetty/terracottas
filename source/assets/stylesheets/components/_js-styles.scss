@@ -14,6 +14,10 @@
   background: $action-color;
 }
 
+// leaflet EasyButton ID
+#fullscreen-toggle {
+  @include media($small-screen) { display: none; }
+}
 
 #map {
   .easy-button-button {
