@@ -22,7 +22,8 @@
           %td= entry[:info][:typology] || nil
         %tr
           %td Location
-          %td= entry[:info][:location]
+          %td
+            = link_to entry[:info][:location], "#{site_url}/map/#{location_url(entry)}"
         - if entry[:info][:dimensions].length == 1
           %tr
             %td Dimensions

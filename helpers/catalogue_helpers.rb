@@ -4,6 +4,21 @@ module CatalogueHelpers
     "#{current_page.data.author_full_name}"
   end
 
+  def location_url(entry)
+    case entry[:info][:location]
+    when "Taranto region"
+      "#9/40.453217/17.473755"
+    when "Canosa"
+      "#9/41.2203553/16.0651528"
+    when "Medma"
+      "#9/38.487328/15.976368"
+    when "South Italy"
+      "#9/40.77584/15.66525"
+    when "Sicily"
+      "#9/37.5443/14.2816"
+    end
+  end
+
   def page_title
     if current_page.data.layout == "cover"
       "#{data.book.title} | #{data.book.author_full_name}"

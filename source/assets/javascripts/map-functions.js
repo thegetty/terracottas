@@ -145,7 +145,7 @@ function deepZoomSetup() {
 // Returns a Leaflet map object.
 
 function initMap() {
-  var map, mapboxTiles;
+  var map, mapboxTiles, hash;
 
   // Load tiles
   mapboxTiles = L.tileLayer(
@@ -160,7 +160,10 @@ function initMap() {
           .setView(oMap.CONFIG.coords, oMap.CONFIG.defaultZoom);
 
   // Disable scroll zoom on home page
-  if ($("#map").hasClass("no-scroll")) { map.scrollWheelZoom.disable(); }
+  if ($("#map").hasClass("no-scroll")) {
+    map.scrollWheelZoom.disable();
+  }
+
   L.geoJson(geojsonFeature, oMap.methods.geojson).addTo(map);
 
   return map;
