@@ -154,8 +154,10 @@ function initMap() {
     });
 
   // Load default options
-  map = L.map(oMap.CONFIG.mapID, { maxZoom: 12 }).addLayer(mapboxTiles)
-        .setView(oMap.CONFIG.coords, oMap.CONFIG.defaultZoom);
+  map = L.map(oMap.CONFIG.mapID, {
+          maxZoom: 12
+        }).addLayer(mapboxTiles)
+          .setView(oMap.CONFIG.coords, oMap.CONFIG.defaultZoom);
 
   // Disable scroll zoom on home page
   if ($("#map").hasClass("no-scroll")) { map.scrollWheelZoom.disable(); }
