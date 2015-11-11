@@ -1,0 +1,12 @@
+.grid.grid--gutters
+  - collection = merge_catalogue
+  - collection.each do |entry|
+    .grid-item-static
+      = link_to "#{site_url}/catalogue/#{entry[:info][:cat]}" do
+        .card{ :data => {  :catalogue => entry[:info][:cat],
+                           :typology  => entry[:info][:typology],
+                           :location => entry[:info][:location],
+                           :group => entry[:info][:group] } }
+          .card-title
+            %h5.mb0= "#{entry[:info][:cat]}. #{entry[:info][:title]}"
+            %h6.card-date= "#{entry[:info][:date]}"
