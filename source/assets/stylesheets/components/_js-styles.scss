@@ -32,3 +32,39 @@
 .rotate-icon {
   padding: 3px;
 }
+
+.map-label-region p {
+  color: transparentize($base-font-color, 0.25);
+  font-family: $heading-font-family;
+  font-size: 0.9rem;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  // text-shadow: 2px 2px transparentize($base-background-color, 0.5);
+  text-transform: capitalize;
+}
+
+.map-label-country p {
+  // color: transparentize($base-font-color, 0.25);
+  font-family: $heading-font-family;
+  font-size: 1.25rem;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-shadow: 2px 2px transparentize($base-background-color, 0.5);
+  text-transform: capitalize;
+}
+
+.map-label-catalogue {
+  p {
+    background-color: $base-background-color;
+    border-radius: $base-border-radius;
+    font-family: $heading-font-family;
+    font-size: 0.9rem;
+    font-weight: bold;
+    line-height: 1.2;
+    padding: 0.25rem;
+    text-align: center;
+    text-transform: capitalize;
+  }
+}

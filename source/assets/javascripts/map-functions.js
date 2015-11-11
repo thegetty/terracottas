@@ -1,6 +1,5 @@
 //= require geojson
 //= require lib/leaflet-easy-button
-//= require lib/leaflet.label-src
 
 // =============================================================================
 // Map Functions
@@ -22,18 +21,42 @@ var oMap = {
                  ' target="_blank">CC-BY-NC 3.0</a>'
   },
 
+  // icon: L.divIcon({
+  //   className: 'map-label',
+  //   html: "Custom Label"
+  // }),
+
   methods: {
     geojson: {
       // Generate a marker layer for each geoJSON feature
       pointToLayer: function (feature, latlng) {
         var props = feature.properties;
 
-        if (props.feature_type == "site") {
+        if (props.catalogue.length > 0) {
+          return L.marker(latlng, { icon: L.divIcon({
+              html: "<p>" + props.custom_name + "</p>",
+              className: "map-label-catalogue",
+              iconSize: 65,
+            })
+          });
+        } else if (props.feature_type == "region" || props.feature_type == "sea") {
+          return L.marker(latlng, { icon: L.divIcon({
+              html: "<p>" + props.custom_name + "</p>",
+              className: "map-label-region",
+              iconSize: 100,
+            })
+          });
+        } else if (props.feature_type == "country") {
+          return L.marker(latlng, { icon: L.divIcon({
+              html: "<p>" + props.custom_name + "</p>",
+              className: "map-label-country",
+              iconSize: 150,
+            })
+          });
+        } else if (props.feature_type == "site") {
           return L.circleMarker(latlng, oMap.styles.defaultMarker);
-        } else if (props.feature_type == "region") {
-          return L.circleMarker(latlng, oMap.styles.regionMarker)
-            .bindLabel(props.custom_name, { noHide: true});
         }
+
       },
       // Add popup text to each geoJSON feature
       onEachFeature: function(feature, layer) {
