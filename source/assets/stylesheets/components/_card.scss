@@ -9,15 +9,23 @@
 // .grid-cell.grid-cell--1of2.grid-cell-med--1of3.grid-cell-large--1of3
 
 .grid--gutters > .card,
-.grid--gutters > .feature-object {
+.grid--gutters > .feature-object,
+.grid--gutters > .grid-item-static {
   margin: $base-spacing 0 0 $base-spacing;
   text-align: left;
 }
 
-.feature-object {
+.feature-object,
+.grid-item-static {
   @include flex(1 0 30%);
   @include media($small-screen) {
     @include flex(1 0 80%);
+  }
+}
+
+.grid-item-static {
+  .card {
+    @include justify-content(flex-end);
   }
 }
 

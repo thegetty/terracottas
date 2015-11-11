@@ -1,4 +1,10 @@
 // These are hard overrides for 3rd party JS widgets
+
+// enable these elements in JS; disabled in CSS by default
+.js-only {
+  display: none;
+}
+
 // Loading styles from here: https://github.com/ConnorAtherton/loaders.css
 #loading {
   height: 80vh;
