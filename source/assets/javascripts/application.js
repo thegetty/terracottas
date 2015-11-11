@@ -6,6 +6,7 @@
 //= require lib/underscore-min
 //= require lib/lunr.min
 //= require lib/leaflet
+//= require lib/leaflet-hash
 //= require lib/threesixty
 //= require lib/moment
 //= require ui-functions

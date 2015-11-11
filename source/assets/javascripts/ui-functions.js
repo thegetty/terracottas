@@ -296,6 +296,11 @@ function setUpPage(){
     // must bind map resize asynchronously
     setTimeout(map.invalidateSize.bind(map), 100);
     addMapResizeListener(map);
+  } else if ($("#map").hasClass("fullscreen")) {
+    map = initMap();
+    hash = new L.Hash(map);
+    setTimeout(map.invalidateSize.bind(map), 100);
+    addMapResizeListener(map);
   } else if ($("#map").length) {
     map = initMap();
     setTimeout(map.invalidateSize.bind(map), 100);
