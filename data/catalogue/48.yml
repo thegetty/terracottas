@@ -39,6 +39,10 @@
   path: terracottas/48/top
   pixel_width: 6400
   pixel_height: 5376
+- name: 6_Group
+  path: terracottas/group-e
+  pixel_width: 8192
+  pixel_height: 5120
 :meta:
   :discussion: discussion-e
   :featured: true

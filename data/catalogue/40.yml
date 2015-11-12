@@ -47,6 +47,10 @@
   path: terracottas/40/right
   pixel_width: 3328
   pixel_height: 5120
+- name: 8_Group
+  path: terracottas/group-c
+  pixel_width: 8192
+  pixel_height: 6400
 :meta:
   :discussion: discussion-c
   :featured:
