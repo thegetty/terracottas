@@ -23,6 +23,12 @@
     background-position: center 45%;
   }
 
+  @media only screen
+  and (max-width: $large-screen)
+  and (orientation: landscape) {
+    background-position: center 45%;
+  }
+
   @include media($medium-screen-up) {
     background-image: url(image-path("86.AD.681.detail_2.jpg"));
     height: 100vh;
