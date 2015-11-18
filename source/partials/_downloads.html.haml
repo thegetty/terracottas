@@ -1,17 +1,25 @@
+- download_path = "assets/downloads/AncientTerracottas_Ferruzza"
+- store_url = "http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606061237"
 .expander
   %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
     %h5
       %i.ion-archive.mr1
       Downloads
   .expander-content.nav-downloads
+    %h6 Complete Catalogue
+    %ul
+      %li
+        = link_to "PDF", "#{site_url}/#{download_path}.pdf"
+        %span (35 MB)
+      %li
+        = link_to "EPUB", "#{site_url}/#{download_path}.epub"
+        %span (## MB)
+      %li
+        = link_to "MOBI/KINDLE", "#{site_url}/#{download_path}.mobi"
+        %span (35 MB)
+      %li
+        = link_to "Print on Demand", "#{store_url}"
     :markdown
-      ###### Complete Catalogue
-
-      - [PDF](assets/downloads/AncientTerracottas_Ferruzza.pdf) (35 MB)
-      - [EPUB](assets/downloads/AncientTerracottas_Ferruzza.epub) (## MB)
-      - [MOBI/KINDLE](assets/downloads/AncientTerracottas_Ferruzza.mobi) (## MB)
-      - [PRINT-ON-DEMAND](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606061237)
-
       ###### Catalogue Main Images
 
       - [JPG](assets/downloads/AncientTerracottas_Ferruzza_Images.zip) (21 MB)
