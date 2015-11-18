@@ -7,8 +7,9 @@ class PDF < Middleman::Extension
 
     app.after_build do |builder|
       input_path  = "extensions/filelist.txt"
-      output_path = "pdf/terracottas.pdf"
+      output_path = "source/assets/downloads/terracottas.pdf"
       puts `prince --input-list=#{input_path} -o #{output_path}`
+      puts `rm #{input_path}`
     end
   end
 
@@ -44,6 +45,8 @@ class PDF < Middleman::Extension
 
   def sort_contents(resources)
     pages       = resources.find_all { |p| p.data.sort_order }
+    pages.delete_if { |p| p.data.pdf_output == false }
+
     frontmatter = pages.find_all     { |p| p.data.sort_order < 100 }
     backmatter  = pages.find_all     { |p| p.data.sort_order >= 100 }
     entries     = resources.find_all { |p| p.data.catalogue == true }
