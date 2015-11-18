@@ -3,7 +3,7 @@ title: Guide to the Collection of South Italian and Sicilian Terracottas
 author_first_name: Claire L
 author_last_name: Lyons
 author_full_name: Claire L. Lyons
-cover: 82.AD.93.1.detail_1
+cover: 75.AD.45_detail
 layout: page
 sort_order: 100
 ---
