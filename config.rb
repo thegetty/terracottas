@@ -1,8 +1,14 @@
 require "extensions/views"
+require "extensions/pdf"
 require "yaml"
 
 activate :views
 activate :directory_indexes
+
+activate :deploy do |deploy|
+  deploy.build_before = true
+  deploy.method = :git
+end
 
 # Global site settings
 set :relative_links,  true
@@ -22,27 +28,28 @@ configure :development do
 end
 
 configure :build do
-  # Relative assets needed to deploy to Github Pages
-  activate :relative_assets
+  activate :relative_assets     # Needed for Github Pages
   activate :minify_css
   activate :minify_javascript
   activate :gzip
   activate :minify_html
+
   activate :imageoptim do |options|
     options.image_extensions = %w(.jpg)
+    options.pngout = false
+    options.svgo   = false
+  end
+
+  activate :pdf do |pdf|
+    pdf.print_template = "/catalogue/print-template.html"
+    # pdf.output_path    = "/pdf/terracottas.pdf"
   end
 
   set :site_url, "/Terracottas"
 end
 
-
-activate :deploy do |deploy|
-  deploy.build_before = true
-  deploy.method = :git
-end
-
 data.catalogue.each do |cat, entry|
-  proxy "/catalogue/#{cat}.html", "/catalogue/print-template.html", :locals => {
+  proxy "/catalogue/#{cat}.html", "/catalogue/template.html", :locals => {
     :entry => entry
   }, :ignore => true
 end
