@@ -4,9 +4,7 @@
 }
 
 @media print {
-  #beta-banner {
-    display: none;
-  }
+  #beta-banner { display: none; }
 
   body {
     background-color: #fff;
@@ -84,7 +82,6 @@
   }
 
   .object-header { page-break-before: always; }
-  .about { display: none; }
   .details-heading { display: none; }
   .discussion-note { display: none; }
   .expand-all { display: none; }
