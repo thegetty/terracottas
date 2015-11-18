@@ -1,10 +1,9 @@
 ---
 title: Production Techniques
 layout: page
-cover: 82.AD.93.1.detail_1
+cover: 71.AD.363_detail
 sort_order: 6
 ---
-
 The production process for terracotta statuettes and statues has been
 thoroughly described in many publications, so only a brief summary of
 the most recent studies on the subject is provided here. The technique
