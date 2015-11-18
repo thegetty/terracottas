@@ -14,16 +14,11 @@ catalogue: true
       %a.expand-all{href: "javascript:void(0);"} Expand All
   .object-content
     = partial(:object_details, :locals => { :entry => entry })
-    - entry[:content].each do |key, value|
-      - unless value.nil?
-        .object-content-section.expander
-          %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
-            %h3.pb1.mt1= key.capitalize
-          .expander-content
-            = markdown value
-    -# - if entry[:meta][:discussion]
-    -#   .object-content-section.expander
-    -#     %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
-    -#       %h3.pb1.mt1 Group Discussion
-    -#     .expander-content
-    -#       = find_discussion(entry)
+    .object-columns
+      - entry[:content].each do |key, value|
+        - unless value.nil?
+          .object-content-section.expander
+            %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
+              %h3.pb1.mt1= key.capitalize
+            .expander-content
+              = markdown value
