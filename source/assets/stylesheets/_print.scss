@@ -4,18 +4,23 @@
 }
 
 @media print {
+  #beta-banner {
+    display: none;
+  }
+
   body {
     background-color: #fff;
     margin: 1rem;
   }
 
-  h1, h2, h3, h4, h5, h6 {
-    page-break-after: avoid;
-  }
+  h1, h2, h3, h4, h5, h6 { page-break-after: avoid; }
+  img { page-break-inside: avoid; }
+  table { page-break-inside: avoid; }
+  td { padding: 0.0625in 0; }
+  hr { display: none; }
 
-  ul, img {
-    page-break-inside: avoid;
-  }
+  h1 { font-size: 22pt; }
+  h4 { margin: 0.0625in 0; }
 
   .main-content {
     background-color: #fff;
@@ -23,18 +28,9 @@
     margin: 0 auto;
   }
 
-  .panel {
-    background-color: #fff;
-  }
-
-  .panel-left {
-    display: none;
-    width: 0;
-  }
-
-  .panel-right {
-    width: 100%;
-  }
+  .panel { background-color: #fff; }
+  .panel-left { display: none; width: 0; }
+  .panel-right { width: 100%; }
 
   .page-cover {
     background-color: #fff;
@@ -44,18 +40,13 @@
     margin: auto;
   }
 
-  .nav-primary {
-    display: none;
-  }
-
-  .page-header {
-    display: none;
-  }
+  .nav-primary { display: none; }
+  .page-header { display: none; }
 
   .page-title {
     padding: 0;
     margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 1in;
   }
 
   .page-header-center {
@@ -72,7 +63,13 @@
 
   .page-title,
   .object-title {
-    font-size: 30pt;
+    font-size: 24pt;
+  }
+
+  .object-columns {
+    @include prefixer(column-count, 2, webkit moz spec);
+    @include prefixer(column-gap, 0.35in, webkit moz spec);
+    font-size: 9pt;
   }
 
   .object-content-section {
@@ -80,10 +77,18 @@
     margin-bottom: 0.25in;
 
     h3 {
-      font-size: 18pt;
+      font-size: 16pt;
+      margin-bottom: 0.125in;
       page-break-after: avoid;
     }
   }
+
+  .object-header { page-break-before: always; }
+  .about { display: none; }
+  .details-heading { display: none; }
+  .discussion-note { display: none; }
+  .expand-all { display: none; }
+  .reversefootnote { display: none; }
 
   .expander {
     .expander--hidden,
@@ -92,7 +97,8 @@
     }
   }
 
-  .reversefootnote {
-    display: none;
+  #notes {
+    margin-top: .25in;
   }
+
 }
