@@ -1,6 +1,64 @@
+@for $i from 1 through 60 {
+  .bleed[data-catalogue="#{$i}"] {
+    background-image: url(image_path("print/cat#{$i}.jpg"));
+  }
+}
+
+.bleed[data-catalogue="1"] { background-position: center 10%; }
+.bleed[data-catalogue="2"] { background-position: center 10%; }
+.bleed[data-catalogue="3"] { background-position: center 15%; }
+.bleed[data-catalogue="4"] { background-position: center 65%; }
+.bleed[data-catalogue="5"] { background-position: center 65%; }
+.bleed[data-catalogue="6"] { background-position: center 60%; }
+.bleed[data-catalogue="8"] { background-position: center 60%; }
+.bleed[data-catalogue="21"] { background-position: center 35%; }
+.bleed[data-catalogue="22"] { background-position: center 60%; }
+.bleed[data-catalogue="25"] { background-position: center 20%; }
+.bleed[data-catalogue="26"] { background-position: center 20%; }
+.bleed[data-catalogue="27"] { background-position: center 35%; }
+.bleed[data-catalogue="28"] { background-position: center 35%; }
+.bleed[data-catalogue="29"] { background-position: center 35%; }
+.bleed[data-catalogue="30"] { background-position: center 35%; }
+.bleed[data-catalogue="31"] { background-position: center 60%; }
+.bleed[data-catalogue="32"] { background-position: center 35%; }
+.bleed[data-catalogue="33"] { background-position: center 70%; }
+.bleed[data-catalogue="38"] { background-position: center 25%; }
+.bleed[data-catalogue="39"] { background-position: center 15%; }
+.bleed[data-catalogue="40"] { background-position: center 10%; }
+.bleed[data-catalogue="41"] { background-position: center 25%; }
+.bleed[data-catalogue="42"] { background-position: center 10%; }
+.bleed[data-catalogue="43"] { background-position: center 20%; }
+.bleed[data-catalogue="44"] { background-position: center 20%; }
+.bleed[data-catalogue="45"] { background-position: center 30%; }
+.bleed[data-catalogue="46"] { background-position: center 30%; }
+.bleed[data-catalogue="50"] { background-position: center 100%; }
+.bleed[data-catalogue="55"] { background-position: center 20%; }
+.bleed[data-catalogue="56"] { background-position: center 30%; }
+.bleed[data-catalogue="57"] { background-position: center 20%; }
+.bleed[data-catalogue="58"] { background-position: center 65%; }
+
+// Default page setup
 @page {
   size: 8.5in 11in;
   margin: 1in;
+}
+
+@page entry:first {
+  // bleed: 0.125in;
+  margin: 0;
+  // marks: crop;
+}
+
+article.entry {
+  page: entry;
+
+  .bleed {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 11in;
+    page-break-after: always;
+    width: 8.5in;
+  }
 }
 
 @media print {
@@ -65,9 +123,13 @@
   }
 
   .object-columns {
-    @include prefixer(column-count, 2, webkit moz spec);
-    @include prefixer(column-gap, 0.35in, webkit moz spec);
+    column-count: 2;
+    column-gap: 0.35in;
     font-size: 9pt;
+  }
+
+  .object-info {
+    margin-bottom: 0.5in;
   }
 
   .object-content-section {
