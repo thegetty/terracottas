@@ -61,27 +61,6 @@
   @bottom-center { content: none; }
 }
 
-
-.bleed {
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 11in;
-  page: bleed;
-  page-break-before: left;
-  page-break-after: always;
-  width: 8.5in;
-}
-
-.cover {
-  background-image: url(image_path("print/cover.jpg"));
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 11in;
-  page: bleed;
-  page-break-after: always;
-  width: 8.5in;
-}
-
 @media print {
   // Remove elements not necessary for this layout
   hr,
@@ -119,6 +98,26 @@
   td { padding: 0.0625in 0; }
 
   // Section-specific
+  .bleed {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 11in;
+    page: bleed;
+    page-break-before: left;
+    page-break-after: always;
+    width: 8.5in;
+  }
+
+  .cover {
+    background-image: url(image_path("print/cover.jpg"));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 11in;
+    page: bleed;
+    page-break-after: always;
+    width: 8.5in;
+  }
+
   .main-content { background-color: #fff; color: #000; margin: 0 auto; }
   .panel { background-color: #fff; }
   .panel-right { width: 100%; }
@@ -131,10 +130,7 @@
     margin: auto;
   }
 
-  .page-title, .object-title {
-    prince-bookmark-level: 1;
-  }
-
+  .page-title, .object-title { prince-bookmark-level: 1; }
   .page-title { margin-bottom: 1in; padding: 0; }
   .page-title + .page-author { margin-top: -0.875in; margin-bottom: 1in; }
 
