@@ -79,7 +79,10 @@
   .panel-left { display: none; width: 0; }
 
   // Global defaults
-  body { background-color: #fff; margin: 1rem; }
+  a[href] { prince-link: none; text-decoration: none; color: $base-font-color; }
+  body {
+    background-color: #fff; margin: 1rem;
+  }
 
   h1, h2, h3, h4, h5, h6 {
     margin: 0.0625in 0;
@@ -130,7 +133,7 @@
     margin: auto;
   }
 
-  .page-title, .object-title { prince-bookmark-level: 1; }
+  .page-title { prince-bookmark-level: 1; }
   .page-title { margin-bottom: 1in; padding: 0; }
   .page-title + .page-author { margin-top: -0.875in; margin-bottom: 1in; }
 
@@ -142,13 +145,24 @@
   }
 
   .page-content {
-    h3, h4 { margin-top: 0.15in; }
+    h3, h4 {
+      margin-top: 0.15in;
+      // not quite working yet
+      // a::after {
+      //   content: leader(dotted) " " target-counter(attr(href, url), page);
+      // }
+    }
+
     h6.toc-author { font-size: 9pt; margin: 0; }
     table + table { margin-top: 0.65in; }
   }
 
   .page-content,
   .object-content { font-size: 10pt; }
+
+  .object-title {
+    prince-bookmark-level: 1;
+  }
 
   .object-columns,
   .reference { column-count: 2; column-gap: 0.35in; font-size: 9pt; }
