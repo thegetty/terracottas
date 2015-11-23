@@ -13,8 +13,8 @@ catalogue: true
     %h6
       %a.expand-all{href: "javascript:void(0);"} Expand All
   .object-content
-    = partial(:object_details, :locals => { :entry => entry })
     .object-columns
+      = partial(:object_details, :locals => { :entry => entry })
       - entry[:content].each do |key, value|
         - unless value.nil?
           .object-content-section.expander
