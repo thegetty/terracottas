@@ -9,8 +9,8 @@ class PDF < Middleman::Extension
       input_path  = "extensions/filelist.txt"
       output_path = "source/assets/downloads/AncientTerracottas_Ferruzza.pdf"
       puts `prince --input-list=#{input_path} -o #{output_path}`
-      # puts `rm #{input_path}`
-      # puts `rm -rf build/print-catalogue/`
+      puts `rm #{input_path}`
+      puts `rm -rf build/print-catalogue/`
     end
   end
 
