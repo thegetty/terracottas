@@ -4,6 +4,7 @@ group: Group of a Seated Poet and Sirens
 objects: !ruby/range 1..3
 ---
 #### Group of a Seated Poet (Orpheus?) and Sirens (cat. 1–3)
+{: .no-print }
 
 <h6 class="discussion-note">This discussion is reproduced on each of the individual object pages</h6>
 

@@ -3,15 +3,18 @@ title: Group of Heads and Busts from the Taranto Region
 objects: !ruby/range 4..23
 ---
 #### Group of Heads and Busts from the Taranto Region (cat. 4–23)
+{: .no-print }
 
-<h6 class="discussion-note">This discussion is reproduced on each of the individual object pages</h6>
+<h6 class="discussion-note">This discussion is reproduced on each of the
+individual object pages</h6>
 
 The group of twenty heads and busts (cat. 4–23) that were acquired by
 the Getty Museum in 1982 share a number of technical characteristics,
 despite the fact that they can be assigned to differing typologies and
 very probably come from the same Tarentine workshop. Chronologically
 they span a period from the second half of the fifth century <span
-class="smcaps">BC</span> to the third and second centuries <span class="smcaps">BC</span>, and seem to be linked by a shared history.
+class="smcaps">BC</span> to the third and second centuries <span class="smcaps">
+BC</span>, and seem to be linked by a shared history.
 
 In the documentation about this acquisition, the group of terracottas
 was said to be connected to the extensive collection of Jacob Hirsch, a

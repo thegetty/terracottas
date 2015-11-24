@@ -3,6 +3,7 @@ title: Pair of Altars with the Myth of Adonis
 objects: !ruby/range 47..48
 ---
 #### Pair of Altars with the Myth of Adonis (cat. 47–48)
+{: .no-print }
 
 <h6 class="discussion-note">This discussion is reproduced on each of the individual object pages</h6>
 

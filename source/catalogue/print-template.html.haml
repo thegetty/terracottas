@@ -3,7 +3,7 @@ layout: application
 catalogue: true
 ---
 -# entry is the variable passed from #proxy method in config.rb
-%article.entry
+.entry
   -# = image_tag "large/#{entry[:info][:acc]}.jpg", :class => "primary-img"
   .bleed{ :data => { :catalogue => entry[:info][:cat] } }
   .object-header
@@ -13,7 +13,7 @@ catalogue: true
     %h6
       %a.expand-all{href: "javascript:void(0);"} Expand All
   .object-content
-    .object-columns
+    %article
       = partial(:object_details, :locals => { :entry => entry })
       - entry[:content].each do |key, value|
         - unless value.nil?

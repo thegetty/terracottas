@@ -38,9 +38,7 @@
 .bleed[data-catalogue="58"] { background-position: center 65%; }
 
 // Default page setup
-@prince-pdf {
-  prince-pdf-page-layout: two-column-right;
-}
+@prince-pdf { prince-pdf-page-layout: two-column-right; }
 
 @page {
   size: 8.5in 11in;
@@ -76,21 +74,18 @@
   .page-header,
   .reversefootnote,
   .ion-link,
+  .no-print,
   #beta-banner { display: none; }
   .panel-left { display: none; width: 0; }
 
   // Global defaults
-  a[href] { prince-link: none; text-decoration: none; color: $base-font-color; }
-  body {
-    background-color: #fff; margin: 1rem;
-  }
-
+  body { background-color: #fff; margin: 1rem; }
   h1, h2, h3, h4, h5, h6 {
-    margin: 0.0625in 0;
+    margin-bottom: 0.125in;
+    margin-top: 0.125in;
     page-break-after: avoid;
     prince-bookmark-level: none;
   }
-
   h1 { font-size: 20pt; }
   h2 { font-size: 16pt; }
   h3 { font-size: 14pt; }
@@ -98,10 +93,17 @@
   h5 { font-size: 10pt; }
   h6 { font-size: 10pt; }
   img { page-break-inside: avoid; }
-  // table { page-break-inside: avoid; }
   td { padding: 0.0625in 0; }
 
   // Section-specific
+  .object-title { prince-bookmark-level: 1; }
+  article { column-count: 2; column-gap: 0.35in; font-size: 9pt; }
+  article a[href] {
+    prince-link: none;
+    text-decoration: none;
+    color: $base-font-color;
+  }
+
   .bleed {
     background-repeat: no-repeat;
     background-size: cover;
@@ -146,28 +148,24 @@
   }
 
   .table-of-contents {
-    a:after {
-      content: leader(" ") target-counter(attr(href, url), page);
-    }
-
-    h3, h4 {
-      margin-top: 0.15in;
-    }
-
-    h6.toc-author { font-size: 9pt; margin: 0; }
-    table + table { margin-top: 0.65in; }
+    font-family: $heading-font-family;
+    * { margin: 0; padding: 0; }
+    a { margin: 0; }
+    h3, h4, h6 { margin: 0; }
+    li { font-size: 1.125em; margin-bottom: 0.15in; }
+    table { font-size: 0.875em; margin-top: 0.15in; }
+    ul { list-style-type: none; }
+    a:after { content: leader(dotted) " " target-counter(attr(href, url), page); }
+    .toc-author { font-size: 9pt; margin: 0; }
   }
 
   .page-content,
-  .object-content { font-size: 10pt; }
-
-  .object-title {
-    prince-bookmark-level: 1;
+  .object-content {
+    font-size: 10pt;
+    table + table { margin-top: 0.65in; }
   }
 
-  .object-columns,
-  .reference { column-count: 2; column-gap: 0.35in; font-size: 9pt; }
-
+  .reference { column-count: 1; }
   .object-header { margin-bottom: 1in; page-break-before: always; }
   .object-info td { border: none; }
   .object-info tr { border-bottom: 0.5pt solid $light-gray; }
@@ -184,9 +182,7 @@
     }
 
     p { margin: 0; }
-    // p:first-of-type { margin-top: 0; }
-    p + p { text-indent: 0.25in; }
-
+    p + p { text-indent: 0.125in; }
     h4#appendix { font-size: 10pt; margin-bottom: 0; }
     h4#notes { font-size: 10pt; margin-bottom: 0; }
   }
@@ -197,10 +193,6 @@
   }
 
   #notes { margin-top: .25in; }
-
-
-  // .page-title,
-  // .object-title { font-size: 24pt; }
   .reference p { line-height: 1.5; margin: 0;}
   .reference li { margin-bottom: 0.125in; page-break-inside: avoid; }
 }
