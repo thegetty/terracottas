@@ -13,12 +13,12 @@ sort_order: 1
         - pages.each do |p|
           - next if p.data.title == "Table of Contents"
           - if p.data.layout == "cover"
-            = link_to "#{site_url}/#{p.url}" do
+            = link_to "#{site_url}#{p.url}" do
               %h4 Cover
             %hr
           - elsif p.data.title == "Catalogue"
             %hr
-            = link_to "#{site_url}/#{p.url}" do
+            = link_to "#{site_url}#{p.url}" do
               %h4= p.data.title
             :markdown
               Taranto Region | Cat. 1–37
@@ -28,12 +28,12 @@ sort_order: 1
               Sicily | Cat. 51–60
               {: .toc-regions }
           - elsif p.data.author_full_name
-            = link_to "#{site_url}/#{p.url}" do
+            = link_to "#{site_url}#{p.url}" do
               %h4= p.data.title
             %h6.toc_author= p.data.author_full_name
             %hr
           - else
-            = link_to "#{site_url}/#{p.url}" do
+            = link_to "#{site_url}#{p.url}" do
               %h4= p.data.title
       .print-only
         %ul
