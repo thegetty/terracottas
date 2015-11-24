@@ -15,6 +15,8 @@
     - elsif current_page.data.layout == "cover"
       %span.hide-on-mobile= current_page.data.title
       - next_page(current_page.data.sort_order)
+    - elsif current_page.data.objects
+      = link_to "#{site_title}", "#{site_url}/"
     - elsif current_page.data.title
       - prev_page(current_page.data.sort_order)
       = link_to "#{site_title}", "#{site_url}/"
