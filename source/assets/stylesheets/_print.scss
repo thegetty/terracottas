@@ -75,6 +75,7 @@
   .nav-primary,
   .page-header,
   .reversefootnote,
+  .ion-link,
   #beta-banner { display: none; }
   .panel-left { display: none; width: 0; }
 
@@ -145,7 +146,7 @@
   }
 
   .table-of-contents {
-    a::after {
+    a:after {
       content: leader(" ") target-counter(attr(href, url), page);
     }
 
