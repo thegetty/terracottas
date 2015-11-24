@@ -58,6 +58,12 @@ body { background-color: $base-background-color; }
   }
 }
 
+.print-only {
+  @media only screen {
+    display: none;
+  }
+}
+
 .force-wrap {
   @include prefixer(hyphens, auto, webkit moz ms spec);
   /* These are technically the same, but use both */

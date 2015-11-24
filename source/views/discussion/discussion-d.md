@@ -3,6 +3,7 @@ title: Statuettes of a Seated Eros
 objects: !ruby/range 45..46
 ---
 #### Statuettes of a Seated Eros (cat. 45–46)
+{: .no-print }
 
 <h6 class="discussion-note">This discussion is reproduced on each of the individual object pages</h6>
 
