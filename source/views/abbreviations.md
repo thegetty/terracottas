@@ -1,7 +1,7 @@
 ---
 title: Abbreviations
 layout: page
-sort_order: 7
+sort_order: 103
 ---
 
 fl.|flourished
