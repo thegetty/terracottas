@@ -46,7 +46,10 @@ class PDF < Middleman::Extension
 
   def sort_contents(resources)
     pages       = resources.find_all { |p| p.data.sort_order }
-    pages.delete_if { |p| p.data.pdf_output == false }
+    discussions = resources.find_all { |p| p.data.objects }
+
+    pages.delete_if       { |p| p.data.pdf_output == false }
+    discussions.delete_if { |p| p.destination_path.include? "views" }
 
     frontmatter = pages.find_all     { |p| p.data.sort_order < 100 }
     backmatter  = pages.find_all     { |p| p.data.sort_order >= 100 }
@@ -56,6 +59,12 @@ class PDF < Middleman::Extension
     frontmatter.sort_by! { |p| p.data.sort_order }
     backmatter.sort_by!  { |p| p.data.sort_order }
     entries.sort_by!     { |p| p.metadata[:locals][:entry][:info][:cat] }
+
+    # Add discussions at appropriate location
+    discussions.each_with_index do |discussion, index|
+      insert_location = discussion.data.objects.last + index
+      entries.insert(insert_location, discussion)
+    end
 
     return frontmatter, entries, backmatter
   end
