@@ -9,8 +9,8 @@ class PDF < Middleman::Extension
       input_path  = "extensions/filelist.txt"
       output_path = "source/assets/downloads/AncientTerracottas_Ferruzza.pdf"
       puts `prince --input-list=#{input_path} -o #{output_path}`
-      puts `rm #{input_path}`
-      puts `rm -rf build/print-catalogue/`
+      # puts `rm #{input_path}`
+      # puts `rm -rf build/print-catalogue/`
     end
   end
 
@@ -20,12 +20,12 @@ class PDF < Middleman::Extension
 
   def manipulate_resource_list(resources)
     pagelist = generate_pagelist
-    baseurl  = "build/"
+    baseurl  = "build"
     frontmatter, entries, backmatter = sort_contents(resources)
 
-    frontmatter.each { |p| pagelist.puts baseurl + p.destination_path }
-    entries.each     { |p| pagelist.puts baseurl + p.destination_path }
-    backmatter.each  { |p| pagelist.puts baseurl + p.destination_path }
+    frontmatter.each { |p| pagelist.puts baseurl + p.url + "index.html" }
+    entries.each     { |p| pagelist.puts baseurl + p.url + "index.html" }
+    backmatter.each  { |p| pagelist.puts baseurl + p.url + "index.html" }
     pagelist.close
 
     # return value of this method becomes the new sitemap
