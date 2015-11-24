@@ -24,8 +24,6 @@ sort_order: 1
 
 #### [Production Techniques](../production_techniques/)
 
-#### [Abbreviations](../abbreviations/)
-
 #### [Map of South Italy and Sicily](../map/)
 
 ---
@@ -49,6 +47,8 @@ Sicily | 51–60
 #### [Authors](../authors/)
 
 #### [About](../about/)
+
+#### [Abbreviations](../abbreviations/)
 
 #### [Bibliography](../bibliography/)
 

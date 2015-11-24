@@ -114,7 +114,7 @@ module CatalogueHelpers
 
   def next_page(id = 0)
     pages = sitemap.resources.find_all { |p| p.data.sort_order }
-    if id == 10
+    if id == 8
       destination = "#{site_url}/catalogue/1"
       haml_tag :a, :id     => "next-link",
                    :title  => "Next Section",
