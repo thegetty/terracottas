@@ -144,13 +144,13 @@
     text-align: center;
   }
 
-  .page-content {
+  .table-of-contents {
+    a::after {
+      content: leader(" ") target-counter(attr(href, url), page);
+    }
+
     h3, h4 {
       margin-top: 0.15in;
-      // not quite working yet
-      // a::after {
-      //   content: leader(dotted) " " target-counter(attr(href, url), page);
-      // }
     }
 
     h6.toc-author { font-size: 9pt; margin: 0; }

@@ -3,6 +3,8 @@ title: Table of Contents
 layout: page
 sort_order: 1
 ---
+<div class="table-of-contents">
+
 #### [Cover](../)
 
 ---
@@ -49,3 +51,5 @@ Sicily | 51–60
 #### [About](../about/)
 
 #### [Bibliography](../bibliography/)
+
+</div>
