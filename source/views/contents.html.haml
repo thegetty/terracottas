@@ -11,7 +11,7 @@ sort_order: 1
       - pages.sort_by! { |p| p.data.sort_order }
       .no-print
         - pages.each do |p|
-          - next if p.data.title == "Table of Contents"
+          - next if p.data.title == "Contents"
           - if p.data.layout == "cover"
             = link_to "#{site_url}#{p.url}" do
               %h4 Cover
@@ -38,7 +38,7 @@ sort_order: 1
       .print-only
         %ul
           - pages.each do |p|
-            - if p.data.layout == "map" || p.data.layout == "cover" || p.data.title == "Table of Contents"
+            - if p.data.layout == "map" || p.data.layout == "cover" || p.data.title == "Contents"
               - next
             - elsif p.data.title == "Catalogue"
               %li
