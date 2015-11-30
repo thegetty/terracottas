@@ -50,7 +50,7 @@ where readers can access additional data on specific objects. The brief
 descriptions below are based on the information supplied at the time of
 acquisition, from publications, and more recent observations.
 
-<div class="about">
+<div class="about no-print">
 
 > #### Download [CSV](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.csv) \| [JSON](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.json)<br />
 > Available for further research and study, this extended dataset includes
