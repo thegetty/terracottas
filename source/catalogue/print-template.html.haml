@@ -22,3 +22,5 @@ catalogue: true
               %h3.pb1.mt1= key.capitalize
             .expander-content
               = markdown value
+  - unless entry[:meta][:alternate_views].nil?
+    .alt-view{ :data => { :catalogue_alt => entry[:info][:cat] } }

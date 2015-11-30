@@ -1,50 +1,38 @@
+// Programatically build out image backgrounds
 @for $i from 1 through 60 {
   .bleed[data-catalogue="#{$i}"] {
     background-image: url(image_path("print/cat#{$i}.jpg"));
   }
+  .alt-view[data-catalogue-alt="#{$i}"] {
+    background-image: url(image_path("print/cat#{$i}_alt.jpg"));
+  }
 }
-
-.bleed[data-catalogue="1"] { background-position: center 10%; }
-.bleed[data-catalogue="2"] { background-position: center 10%; }
-.bleed[data-catalogue="3"] { background-position: center 15%; }
-.bleed[data-catalogue="4"] { background-position: center 65%; }
-.bleed[data-catalogue="5"] { background-position: center 65%; }
-.bleed[data-catalogue="6"] { background-position: center 60%; }
-.bleed[data-catalogue="8"] { background-position: center 60%; }
-.bleed[data-catalogue="21"] { background-position: center 35%; }
-.bleed[data-catalogue="22"] { background-position: center 60%; }
-.bleed[data-catalogue="25"] { background-position: center 20%; }
-.bleed[data-catalogue="26"] { background-position: center 20%; }
-.bleed[data-catalogue="27"] { background-position: center 35%; }
-.bleed[data-catalogue="28"] { background-position: center 35%; }
-.bleed[data-catalogue="29"] { background-position: center 35%; }
-.bleed[data-catalogue="30"] { background-position: center 35%; }
-.bleed[data-catalogue="31"] { background-position: center 60%; }
-.bleed[data-catalogue="32"] { background-position: center 35%; }
-.bleed[data-catalogue="33"] { background-position: center 70%; }
-.bleed[data-catalogue="38"] { background-position: center 25%; }
-.bleed[data-catalogue="39"] { background-position: center 15%; }
-.bleed[data-catalogue="40"] { background-position: center 10%; }
-.bleed[data-catalogue="41"] { background-position: center 25%; }
-.bleed[data-catalogue="42"] { background-position: center 10%; }
-.bleed[data-catalogue="43"] { background-position: center 20%; }
-.bleed[data-catalogue="44"] { background-position: center 20%; }
-.bleed[data-catalogue="45"] { background-position: center 30%; }
-.bleed[data-catalogue="46"] { background-position: center 30%; }
-.bleed[data-catalogue="50"] { background-position: center 100%; }
-.bleed[data-catalogue="55"] { background-position: center 20%; }
-.bleed[data-catalogue="56"] { background-position: center 30%; }
-.bleed[data-catalogue="57"] { background-position: center 20%; }
-.bleed[data-catalogue="58"] { background-position: center 65%; }
 
 // Default page setup
 @prince-pdf { prince-pdf-page-layout: two-column-right; }
 
-@page {
-  size: 8.5in 11in;
-  margin: 1in;
+@page { size: 8.5in 11in; }
 
-  @bottom-center {
+@page:left {
+  margin-bottom: 0.875in;
+  margin-left: 0.75in;
+  margin-right: 1in;
+  margin-top: 0.875in;
+
+  @bottom-left {
+    content: counter(page);
+    font-family: $base-font-family;
+    font-size: 7pt;
+  }
+}
+
+@page:right {
+  margin-bottom: 0.875in;
+  margin-left: 1in;
+  margin-right: 0.75in;
+  margin-top: 0.875in;
+
+  @bottom-right {
     content: counter(page);
     font-family: $base-font-family;
     font-size: 7pt;
@@ -56,7 +44,8 @@
   margin: 0;
   size: 8.5in 11in;
   // marks: crop;
-  @bottom-center { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
 }
 
 @media print {
@@ -86,22 +75,58 @@
     page-break-after: avoid;
     prince-bookmark-level: none;
   }
-  h1 { font-size: 20pt; }
+  h1 { font-size: 18pt; }
   h2 { font-size: 16pt; }
-  h3 { font-size: 14pt; }
-  h4 { font-size: 12pt; }
-  h5 { font-size: 10pt; }
-  h6 { font-size: 10pt; }
+  h3 { font-size: 13pt; }
+  h4 { font-size: 10pt; }
+  h5 { font-size: 9pt; }
+  h6 { font-size: 8pt; }
   img { page-break-inside: avoid; }
   td { padding: 0.0625in 0; }
+  table + table { margin-top: 0.65in; }
 
   // Section-specific
+  .entry {
+    page-break-before: left;
+  }
+
+
   .object-title { prince-bookmark-level: 1; }
-  article { column-count: 2; column-gap: 0.35in; font-size: 9pt; }
+  article {
+    column-count: 2;
+    column-gap: 0.25in;
+    font-size: 8pt;
+
+    h3 { font-size: 9pt; font-weight: bold; }
+    h4 { font-size: 8pt; font-weight: bold; }
+    p { line-height: 1.5; margin: 0; }
+    p + p { text-indent: 0.1875in; }
+    ul, ol { margin-left: 0; padding-left: 0.0875in; }
+  }
+
   article a[href] {
     prince-link: none;
     text-decoration: none;
-    color: $base-font-color;
+    color: black;
+  }
+
+  .about {
+    p + p { text-indent: 0.1875in; }
+    h2, h3, h4 { border-top: none; }
+    h3 { font-size: 9pt; font-weight: bold; }
+    h4 { font-size: 8pt; font-weight: bold; }
+    blockquote {
+      background-color: white;
+      margin: 0;
+      padding: 0;
+    }
+  }
+
+  .alt-view {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 9.25in;
+    width: 6.75in;
   }
 
   .bleed {
@@ -109,8 +134,6 @@
     background-size: cover;
     height: 11in;
     page: bleed;
-    page-break-before: left;
-    page-break-after: always;
     width: 8.5in;
   }
 
@@ -137,8 +160,8 @@
   }
 
   .page-title { prince-bookmark-level: 1; }
-  .page-title { margin-bottom: 1in; padding: 0; }
-  .page-title + .page-author { margin-top: -0.875in; margin-bottom: 1in; }
+  .page-title { margin-bottom: 0.75in; padding: 0; }
+  .page-title + .page-author { margin-top: -0.75in; margin-bottom: 0.625in; }
 
   .page-header-center {
     background-color: #fff;
@@ -152,39 +175,28 @@
     * { margin: 0; padding: 0; }
     a { margin: 0; }
     h3, h4, h6 { margin: 0; }
-    li { font-size: 1.125em; margin-bottom: 0.15in; }
+    li { font-size: 1em; margin-bottom: 0.15in; }
     table { font-size: 0.875em; margin-top: 0.15in; }
     ul { list-style-type: none; }
     a:after { content: leader(dotted) " " target-counter(attr(href, url), page); }
     .toc-author { font-size: 9pt; margin: 0; }
   }
 
-  .page-content,
-  .object-content {
-    font-size: 10pt;
-    table + table { margin-top: 0.65in; }
+  .reference { column-count: 1; }
+
+  .object-header {
+    margin-bottom: 0.5in;
   }
 
-  .reference { column-count: 1; }
-  .object-header { margin-bottom: 1in; page-break-before: always; }
+  .object-info { font-size: 7.5pt; }
   .object-info td { border: none; }
   .object-info tr { border-bottom: 0.5pt solid $light-gray; }
 
   .object-content-section {
     border: 0;
+    line-height: 1.5;
     margin-bottom: 0.125in;
-
-    h3 {
-      color: $base-font-color;
-      font-size: 11pt;
-      font-weight: bold;
-      margin: 0;
-    }
-
-    p { margin: 0; }
-    p + p { text-indent: 0.125in; }
-    h4#appendix { font-size: 10pt; margin-bottom: 0; }
-    h4#notes { font-size: 10pt; margin-bottom: 0; }
+    h3 { font-size: 9.5pt; font-weight: bold; margin-bottom: 0; }
   }
 
   .expander {
@@ -192,7 +204,8 @@
     .expander--content { display: block; }
   }
 
-  #notes { margin-top: .25in; }
+  .footnotes { font-size: 6.75pt; margin-top: .125in; }
+  .reference { font-size: 7pt; }
   .reference p { line-height: 1.5; margin: 0;}
   .reference li { margin-bottom: 0.125in; page-break-inside: avoid; }
 }
