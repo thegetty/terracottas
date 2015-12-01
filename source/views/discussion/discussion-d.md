@@ -1,6 +1,7 @@
 ---
 title: Statuettes of a Seated Eros
 objects: !ruby/range 45..46
+cover: "print/group-d"
 ---
 #### Statuettes of a Seated Eros (cat. 45–46)
 {: .no-print }
