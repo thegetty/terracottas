@@ -20,11 +20,11 @@ Burnett Grossman, and Alexandra Sofroniew—whose professionalism and
 collaboration made my task a privilege and a pleasure. Special thanks
 are due to Jerry Podany, former senior conservator of Antiquities, and
 to Jeffrey Maish, Susan Lansing Maish, Erik Risser, and Marie Svoboda in
-the Department of Antiquities Conservation, for their observations and
-contributions on the scientific analysis of several terracottas.
+the Department of Antiquities Conservation, for their observations on and
+contributions to the scientific analysis of several terracottas.
 Stimulating discussions of technical problems made me more confident in
 my understanding of unusual aspects of some of the terracottas. I am
-grateful to Benedicte Gilman, Marina Belozerskaya, Ruth Evans Lane, Greg
+grateful to Benedicte Gilman, Marina Belozerskaya, Ruth Evans Lane, Elizabeth Kahn, Greg
 Albers, Eric Gardner, Steph Grimes, and other staff at Getty
 Publications who made this catalogue a reality.
 
