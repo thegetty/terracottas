@@ -377,7 +377,7 @@ sort_order: 104
 - <span class="smcaps">Frel 1979</span>
 
   Frel, J., ed. *Antiquities in the J. Paul Getty Museum: A Checklist:
-  Sculpture*. Vol*.1, *Greek Originals*. Malibu, 1979.
+  Sculpture*. Vol .1, *Greek Originals*. Malibu, 1979.
 
 - <span class="smcaps">Gabrici 1927</span>
 
