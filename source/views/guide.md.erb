@@ -6,6 +6,8 @@ author_full_name: Claire L. Lyons
 cover: 75.AD.45_detail
 layout: page
 sort_order: 100
+csv: "assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.csv"
+json: "assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.json"
 ---
 The following guide to the entire collection of terracottas from
 southern Italy and Sicily in the collection of the J. Paul Getty Museum
@@ -51,11 +53,16 @@ descriptions below are based on the information supplied at the time of
 acquisition, from publications, and more recent observations.
 
 <div class="about no-print">
-
-> #### Download [CSV](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.csv) \| [JSON](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.json)<br />
-> Available for further research and study, this extended dataset includes
-information on the 60 catalogue objects and 1,000 additional collection objects
-outlined below. It is current to the date of publication.
+  <blockquote markdown="0">
+    <h4>
+      Download
+      <%= link_to "CSV", "#{site_url}/#{current_page.data.csv}", :target => "blank" %> |
+      <%= link_to "JSON", "#{site_url}/#{current_page.data.json}", :target => "blank" %>
+    </h4>
+    Available for further research and study, this extended dataset includes
+    information on the 60 catalogue objects and 1,000 additional collection objects
+    outlined below. It is current to the date of publication.
+  </blockquote>
 </div>
 
 ---
@@ -532,7 +539,11 @@ probably come from Apulian funerary contexts in or near Canosa:
 
 ### Sicily
 
--   [**70.AD.120** <i></i>{:class="ion-link"}][6559]{:target="blank"}:
+-   <figure markdown="0" class="inline-figure">
+      <img src='<%= image_path("guide/70.AD.120.jpg") %>' alt="70.AD.120" />
+      <figcaption>70.AD.120</figcaption>
+    </figure>
+    [**70.AD.120** <i></i>{:class="ion-link"}][6559]{:target="blank"}:
     Bust of a woman with coiled locks of hair falling forward
     over her shoulders, wearing a diadem and necklace, perhaps to be
     identified as Persephone; white slip and traces of polychromy, with
@@ -557,8 +568,6 @@ probably come from Apulian funerary contexts in or near Canosa:
     Rattle in the shape of a pig, with white slip and pink
     pigment; third century <span class="smcaps">BC</span>, probably made
     in Centuripe.
-
-
 
 [6766]: http://www.getty.edu/art/collection/objects/6766 "View this item on the Getty's collection pages."
 [6792]: http://www.getty.edu/art/collection/objects/6792 "View this item on the Getty's collection pages."
