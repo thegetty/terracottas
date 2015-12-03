@@ -18,6 +18,7 @@
 // are getting destroyed when not needed
 var catalogueGrid;
 
+$(".expander-content").addClass("expander--hidden");
 setUpPage();
 
 var searchIndex = $.getJSON(
@@ -43,7 +44,6 @@ searchIndex.done(function(data) {
       duration: 400,
       render: function ($container, $newContent) {
         $container.html($newContent);
-        $(".expander-content").addClass("expander--hidden");
         $container.velocity('fadeIn', {duration: 100});
       }
     },
