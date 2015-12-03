@@ -3,7 +3,7 @@ title: Group of a Seated Poet (Orpheus?) and Sirens
 group: Group of a Seated Poet and Sirens
 objects: !ruby/range 1..3
 ---
-#### Group of a Seated Poet (Orpheus?) and Sirens (cat. 1–3)
+#### Group of a Seated Poet (Orpheus?) and Sirens (cats. 1–3)
 {: .no-print }
 
 <h6 class="discussion-note">This discussion is reproduced on each of the individual object pages</h6>
@@ -16,16 +16,16 @@ and then assembled around supports or an armature, most likely made of
 wood, which kept the fresh clay from collapsing.[^2] The system of
 internal supports was used to establish the overall structural integrity
 of the finished statue and might also have extended toward the exterior
-for certain parts, such as the Sirens’ tails, Orpheus’s arms, the arms
+for certain parts, such as the sirens’ tails, Orpheus’s arms, the arms
 of Siren B, and the seat of the *klismos*. It is likely that, as was
-frequently done in antiquity, several parts, such as the head, arms, and
-legs, were molded separately, with individual components then dovetailed
+frequently done in antiquity, several parts&mdash;such as the head, arms, and
+legs&mdash;were molded separately, with individual components then dovetailed
 together or affixed by either the barbotine method, before firing, or
 using additional mortar. This procedure not only facilitated the working
 process but also reduced the risk of breakage during firing.[^3] Working
 from the bottom up, artists likely constructed the rough figure around
 the framework, over which the various parts were modeled. The drapery
-and a number of elements on the short chitons worn by the Sirens—such as
+and a number of elements on the short chitons worn by the sirens—such as
 the sash around the waist and the shoulder straps—were made with strips
 of clay applied to the figure and then carefully shaped and worked with
 special tools. This is documented by marks left where the shoulder strap
@@ -33,7 +33,7 @@ detached from the right shoulder of the pensive Siren A. A molded head
 was then added to the body. X-radiographs of the figures show that the
 head was inserted deeply into a cavity in the body and that the hands
 are hollow up to the point where the fingers were attached. The breasts,
-too, are hollow and were modeled from within. Perhaps the Sirens’
+too, are hollow and were modeled from within. Perhaps the sirens’
 framework might have consisted of a vertical structure that held the
 figures upright while work was proceeding. The framework for Orpheus, on
 the other hand, was probably a support that roughly approximated the
@@ -42,7 +42,7 @@ assembled. Then the mass of the body was modeled up to the neck and
 shoulders, possibly continuing to follow the guide of the internal
 support. The legs, which were propped against the front face of the
 *klismos,* must also have been modeled by hand and, despite the fact
-that they were to be covered by drapery, they were modeled as far up as
+that they were to be covered by drapery, were modeled as far up as
 the thighs. This manner of working made it possible to achieve a more
 consistent treatment of movement and a more organic relationship between
 the figure and the drapery, which was shaped over the structure of the
@@ -51,7 +51,7 @@ in the area around the chair seat, where the mass of the body rested,
 the sculptor created a series of small cavities, probably to accommodate
 the structural supports. These served to reinforce a section that was
 evidently considered to be especially fragile. Likewise, on the interior
-of the rocky bases on which the Sirens are perched, it is possible to
+of the rocky bases on which the sirens are perched it is possible to
 see evidence of reinforcements arranged around the central cavity.
 
 A subsequent phase focused on working in the iconographic details, such
@@ -90,21 +90,21 @@ the Knidians at Delphi, where Polygnotos painted him dressed in Greek
 style beneath a willow tree and playing the lyre, surrounded by other
 mythological characters.[^7]
 
-In Attic red-figured vase-painting, in addition to images of the poet
+In Attic red-figured vase painting, in addition to images of the poet
 among the Thracians, there are also depictions of his murder at the
 hands of the Thracian women and the episode in which his head continues
 to sing and prophesy even after being severed from his body. Orpheus
 among the Thracians is depicted with a mantle wrapped around his hips or
 dressed in a rich Eastern costume, an identifying feature as well as a
 sign of ethnic affiliation that is found especially in the subsequent
-repertory of Apulian vase-painting.[^8]
+repertory of Apulian vase painting.[^8]
 
 The Getty character’s seated position, the presence of the *klismos,*
 and the mantle that softly envelopes his figure, leaving his torso
 partly uncovered, are also distinctive features of the iconography of
 poets and philosophers. Such figures were sometimes accompanied by a
 *volumen* (papyrus scroll), in keeping with an iconographic scheme that
-was formulated as early as the fifth century BC, but which was more
+was formulated as early as the fifth century <span class="smcaps">BC</span>, but which was more
 widely adopted beginning in the second half of the fourth century <span
 class="smcaps">BC.</span>[^9]
 
@@ -161,12 +161,12 @@ statue is not a depiction of Orpheus but rather a portrayal of a
 deceased individual depicted with a number of elements linked to the
 mythical milieu of Orpheus. These elements include the stringed
 instrument, used to emphasize the lyrical and poetic context of the
-poet-intellectual; and the presence of the Sirens, with their clear
+poet-intellectual; and the presence of the sirens, with their clear
 funerary references.
 
 Orpheus’s connection with the world of the dead would have been well
 known to any contemporary who viewed this group of figures. Through the
-shamanistic power of his art, Orpheus had succeeded not only in subduing
+shamanistic power of his art, Orpheus had succeeded in not only subduing
 the forces of the afterlife but also restoring souls to the world of the
 living. This achievement is narrated in the renowned episode in which he
 nearly rescues his bride, Eurydike, from the Underworld. In it he takes
@@ -175,42 +175,43 @@ afterlife, serving also as a guarantor of the rites of purification
 required in the Underworld.
 
 The chthonic connection of this group is emphasized by the presence of
-the two Sirens standing on bases, which, with their rocky appearance,
-clearly allude to the Sirens’ origin as demons linked to the marine
+the two sirens standing on bases, which, with their rocky appearance,
+clearly allude to the sirens’ origin as demons linked to the marine
 world. The two figures are imagined in an outdoor setting, as suggested
 by the movement of the folds on the sides of their short chitons,
 evoking gusts of sea breeze. Of the two figures, one is characterized by
 a melancholy, pensive expression, while the other, her arms flexing
 upward, is caught in a pose that seems to allude to song.[^15]
 
-The archaeological and literary evidence provides for the Siren a
+The archaeological and literary evidence provides for the siren a
 complex profile and a number of different aspects, both positive and
 negative, that while chiefly linked to the enchantment of music and
 poetry, are also tied to erotic seduction and nature’s life force. Yet
-the funerary nature of these creatures, who are evoked in many literary
+the funerary nature of these creatures, which are evoked in many literary
 sources in the context of mourning, seems to be their prevalent trait.
-In Euripides’ *Helen* (169–75), for example, the Sirens, companions of
+In Euripides’s *Helen* (169–75), for example, the sirens, companions of
 Persephone in Hades, are invoked and urged to accompany funerary
-lamentations with their lyres.[^16] In funerary contexts, the Sirens
+lamentations with their lyres.[^16] In funerary contexts, the sirens
 assume expressive poses and gestures linked to lamentation, in some
 cases accompanying their laments with the sound of the kithara and the
 aulos. That is how they are presented, as early as the late fifth
-century, on a number of Attic funerary stelae. This iconography was to
+century <span
+class="smcaps">BC</span>, on a number of Attic funerary stelae. This iconography was to
 persist throughout the Hellenistic period in various parts of Greece,
-where Sirens appeared, in pairs, on funerary monuments of prominent
+where sirens appeared, in pairs, on funerary monuments of prominent
 women or illustrious men endowed with intellectual virtues. One such
 example is the famed tomb of Sophocles; another is the tomb of the
-Sophist Isocrates. In both tombs, the Sirens’ special relationship with
+Sophist Isocrates. In both tombs the sirens’ special relationship with
 poets and orators is emphasized.[^17]
 
 In many funerary stelae of the fourth and third centuries <span
-class="smcaps">BC,</span> Sirens appear, invariably in
+class="smcaps">BC,</span> sirens appear, invariably in
 pairs, posed symmetrically at either extremity of the slab, supporting
 the inscription with the name of the deceased. In some cases, they are
 shown with their hands on their heads or holding stringed
 instruments.[^18]
 
-The Sirens also served as decorative motifs on the capitals of funerary
+The sirens also served as decorative motifs on the capitals of funerary
 monuments in the area of Taranto between the end of the fourth century
 and the first half of the third century <span
 class="smcaps">BC;</span> they were often depicted
@@ -219,39 +220,39 @@ head in a pose commonly used to indicate melancholy, like that of Siren
 A in the Getty group.[^19]
 
 Sirens were portrayed in the Archaic period with birds’ bodies and
-women’s heads; such was the case in Corinthian vase-painting, where they
-were a recurring motif in animal friezes. In Attic vase-painting, by
+women’s heads; such was the case in Corinthian vase painting, where they
+were a recurring motif in animal friezes. In Attic vase painting, by
 contrast, they were portrayed as protagonists of the Homeric narrative,
 or else as musicians, as witnesses of heroic deeds, or in scenes of
 funerary mourning and lamentation. Beginning in the Classical period,
 they underwent a progressive and radical humanization, as did other
-mythological figures such as the Gorgon. Over the course of the fourth
+mythological figures such as the gorgon. Over the course of the fourth
 century <span class="smcaps">BC</span>, in fact, the
-Sirens would gradually take on a female appearance in the entire upper
+sirens would gradually take on a female appearance in the entire upper
 half of the body, as is documented with crude realism in the
 above-mentioned funerary stelae and, in the context of Magna Graecia, in
 images painted on South Italian vases and in the coroplastic art.[^20]
 In the previously mentioned Exedra of the Philosophers in the Serapeion
 of Saqqara, alongside figures of poets and intellectuals, there was also
-a pair of standing Sirens, each with bird claws and a humanized bust,
+a pair of standing sirens, each with bird claws and a humanized bust,
 wearing melancholy expressions, their heads tilted to one side, and
 small kitharas in their arms.[^21]
 
-Thus the Sirens are, in general terms, figures that foreshadow death and
-accompany the dead into the Underworld. Their role as psychopomp was
+Thus the sirens are, in general terms, figures that foreshadow death and
+accompany the dead into the Underworld. Their role as psychopomps was
 already suggested in the Archaic period by *askoi* (wine vessels) in the
-form of Sirens, used primarily for funerary purposes.[^22] In order to
-reconstruct the function of the Sirens within the Getty group, however,
+form of sirens, used primarily for funerary purposes.[^22] In order to
+reconstruct the function of the sirens within the Getty group, however,
 a more precise interpretation of their iconography and possible semantic
 values must be sought.
 
-One of the primary activities of Sirens, attested by both the pose of
+One of the primary activities of sirens, attested by both the pose of
 Siren B and a copious literary tradition, is singing in an insidiously
 seductive manner. Their singing could prove fatal to those caught
 unawares, those who tended to follow their instincts and the allure of
-the senses. As mentioned above, the Sirens’ song in the Homeric
+the senses. As mentioned above, the sirens’ song in the Homeric
 tradition is linked to an ambiguous persuasive power; they are liminal
-creatures between the past and the future, between earth and the gates
+creatures between the past and the future, between Earth and the gates
 of Hades, set in a flowering meadow scattered with human bones. They
 promise a broad body of knowledge but a deceptive one, as men are lured
 toward another world that coincides with death. In this context, only a
@@ -268,13 +269,13 @@ of wisdom and knowledge—and also our natural fear of death and the
 unknown, the otherness that extends beyond the limits of humanity.[^24]
 
 If the central character in the Getty group represents a deceased person
-who has been assimilated to the wise or skilled Orpheus, the two Sirens
+who has been assimilated to the wise or skilled Orpheus, the two sirens
 would find a consistent placement beside him and be assimilated with him
 *sub specie aeternitatis.* With the harmonious sounds of his musical
 instrument, he can not only triumph over wild creatures of an ambiguous
 nature but also, through the wisdom or skill and harmony evoked by the
 sound of the kithara, he can successfully face the final voyage and
-achieve eternal salvation. In this context, the depiction of the Sirens
+achieve eternal salvation. In this context, the depiction of the sirens
 in an outdoor setting, perched on rocks, harks back to literary
 tradition and such works as the *Argonautica* of Apollonios of Rhodes,
 where in the contest between Orpheus and the Sirens there is an emphasis
@@ -288,7 +289,7 @@ Siren A, in her turn, seems to express the attainment of a new
 condition, identifying an eschatological prospect for the man.[^26]
 Substantial ambivalence characterizes both creatures.
 
-It is worthwhile to consider the hypothesis that the Sirens could be an
+It is worthwhile to consider the hypothesis that the sirens could be an
 expression of a positive tone, clearly present in the complex of Orphic
 and Pythagorean beliefs. However, one should be wary of suggesting too
 narrow a correlation between figures and philosophical ideas in a
@@ -338,7 +339,7 @@ According to Aristoxenus, a musicologist and intellectual of the fourth
 century BC, Archytas—philosopher, mathematician, and statesman—was an
 ideal representative of the *bios pithagorikos*, in which “good music”
 inspired a political practice that strove for a wise economic
-equilibrium among the social classes, and in which philosophical
+equilibrium among the social classes and in which philosophical
 reflection and political practice enjoyed an optimal synthesis. The idea
 of *apatheia*—which implies not the elimination of passions but rather
 their moderation through the practice of virtue—is present in the
@@ -349,11 +350,11 @@ It is intriguing to hypothesize that Siren A expresses the attainment of
 awareness acquired through the good music produced by the deceased
 Orpheus, and that Siren B expresses musical and singing virtue that is
 attained in harmony with the sound of the kithara. This interpretation
-can be traced more precisely to Pythagorean thought, which viewed Sirens
+can be traced more precisely to Pythagorean thought, which viewed sirens
 as creatures linked to the transition from life to death but also as
 privileged guardians of wisdom and guarantors of cosmic harmony. This
 concept was borrowed by Plato as well; it is expressed in the myth of Er
-in the tenth book of *The Republic,* in which he writes that the Sirens
+in the tenth book of *The Republic,* in which he writes that the sirens
 coordinate the harmony of the celestial spheres. It is significant that
 the central theme of this myth is precisely the individual liberty of
 man in the choice between good and evil, the freedom to place oneself in
@@ -372,7 +373,8 @@ previous iconographic analysis and the possible identification of the
 male character as a deceased person. One hypothesis would place the
 group inside a *naiskos* set atop a tomb. This would be in keeping with
 a Tarentine architectural typology after the middle of the fourth
-century BC, during a revival of more lavish funerary customs and a
+century <span
+class="smcaps">BC</span>, during a revival of more lavish funerary customs and a
 return to the use of the chamber tomb. On large vases, probably used as
 *semata* (tomb markers), there are depictions of *naiskoi* within which
 appear individual characters and groups of figures, perhaps in imitation
@@ -384,7 +386,7 @@ large volume of *naiskos* architectural fragments have been recovered,
 few have been found in their original locations; no *naiskos* has yet
 been discovered on the spot where it originally fell, much less in situ.
 Like the figures in the *naiskoi* on vases, the Getty group is
-configured as a *mise-en-scène,* reflecting the status of the deceased
+configured as a mise-en-scène, reflecting the status of the deceased
 and probably forming part of a larger group. The use of *naiskoi* as
 *semata*, augmented with modeled clay decorations, is also attested in
 Greece as far back as the Archaic period, as Pausanias informs us.
@@ -407,7 +409,7 @@ aristocratic class.[^36] This is also supported by a comparison with the
 tombs of Canosa, which in the fourth to third centuries <span
 class="smcaps">BC</span> featured terracotta statue
 groups, probably arranged around the funerary *kline* or dining couch*,*
-and by a chamber tomb in Cariati, in Calabria (Brettian territory),
+and with a chamber tomb in Cariati, in Calabria (Brettian territory),
 dating from the last quarter of the fourth century <span
 class="smcaps">BC,</span> in which the grave goods
 also included a life-size statue, of which only fragments have been
@@ -421,7 +423,8 @@ in places such as Ruvo, Armento, Altamura, and Canosa, where they were
 intended for an elite clientele.[^38] In connection with this
 hypothesis, Angelo Bottini has analyzed the attestations of salvation
 theology and has pointed out that beginning at least in the fifth
-century BC, a rage for re-elaborated and diversified Orphic and
+century <span
+class="smcaps">BC</span>, a rage for re-elaborated and diversified Orphic and
 Pythagorean cults swept through the indigenous centers, especially among
 the localities that were directly involved culturally and commercially
 with the cities of Magna Graecia.[^39]
@@ -439,7 +442,7 @@ Stylistically, the figures in the Getty group have some of the formal
 traits of late-fifth-century <span
 class="smcaps">BC</span> Tarentine plastic arts. These
 are characterized by a fondness for fully rounded volumes; eyes with a
-well shaped, symmetrical outline and distinctly modeled eyelids; fleshy
+well-shaped, symmetrical outline and distinctly modeled eyelids; fleshy
 mouths; robust necks; heavy jaws; and solid cranial structures. Such
 features can also be found in a number of Tarentine marble heads, mostly
 from funerary statues datable to the end of the fifth century through
@@ -447,7 +450,7 @@ most of the fourth century <span
 class="smcaps">BC.</span> They are evidence of the
 artists’ determination to preserve the most distinctive characteristics
 of the local production, in which the iconographic types and the formal
-traits of the Late-Classical Attic school can be clearly
+traits of the Late Classical Attic school can be clearly
 identified.[^41]
 
 The Orpheus figure, with his distinct features and the solid plasticity
@@ -456,11 +459,12 @@ head of Athena in Brescia, which is a copy of a Classical original
 thought to have once formed part of the bronze sculptural group by
 Phidias at Delphi. In addition, the head of the so-called Orpheus
 recognizable in the basanite example at the Munich Glyptothek, an
-Augustan copy of a Greek original dating from 460 BC (but assigned by
+Augustan copy of a Greek original dating from 460 <span
+class="smcaps">BC</span> (but assigned by
 Paul Zanker and Brunilde Ridgway to the Late Hellenistic period), can be
 compared to our male head.[^42]
 
-The Getty Orpheus’s general aspect and facial features also recall the
+The general aspect and facial features of the Getty Orpheus also recall the
 acrolithic marble head of Apollo from the Temple of Apollo Alaios at
 Cirò, datable to the same period (440–430 <span
 class="smcaps">BC)</span>.[^43]
@@ -471,12 +475,12 @@ called the circle of the Master of the Singers of Taras, so named
 because most of the figures seemingly produced by this workshop feature
 a half-open mouth, as if they were in the act of singing. This workshop
 is thought to have been active in the second half of the fourth century
-<span class="smcaps">b.c.</span> The accuracy of the
+<span class="smcaps">bc.</span> The accuracy of the
 individual details of these sculptures suggests that they used
 first-generation molds inspired by works from the Classical period,
 perhaps in bronze; this is indicated by certain technical and
 iconographic traits, such as the type of finish and the shape of the
-eyes with their lamellar eyelids, and the curve from the lip to the
+eyes, with their lamellar eyelids, and the curve from the lip to the
 teeth. The workshop is believed to have specialized in figures of
 banqueters or poets associated with Orpheus. Many pieces can be linked
 to this group; unfortunately most of them have been sold on the
@@ -509,12 +513,12 @@ and the hypothetical connection with the cultural climate of Apulia in
 the second half of fourth century <span
 class="smcaps">BC.</span> Interpretation based on
 style alone may well be misleading, given the persistence of
-Late-Classical traits even into the middle of the fourth century <span
+Late Classical traits even into the middle of the fourth century <span
 class="smcaps">BC</span>.
 
 ### Appendix
 
-Thermoluminescence of the clay body, X-ray fluorescence, polarized light
+Thermoluminescence of the clay body, X-ray fluorescence (XRF), polarized light
 microscopy, and ultraviolet–visible spectroscopy analysis of the
 polychromy were performed. They all attest to the group’s authenticity.
 
@@ -532,7 +536,7 @@ Results of the pigment analysis:
 
 #### Orpheus footstool
 
-6. **Orange:** yellow ocher red ocher
+6. **Orange:** yellow ocher, red ocher
 7. **Black:** lampblack
 8. **Pink:** red ocher, chalk
 
@@ -540,15 +544,14 @@ Results of the pigment analysis:
 
 [^1]: See the report by the Antiquities Conservation Department in the
     appendix to this entry. Detached curls and other fragmentary
-    elements of the group have the inventory numbers 76.AD.11.6 –
-    76.AD.11.304.
+    elements of the group have the inventory numbers 76.AD.11.6–76.AD.11.304.
 
 [^2]: This modeling technique was also used in the Hellenistic period
     for statues in terracotta. See, for example, the female bust from
     Falerii (third century <span
     class="smcaps">BC</span>) in the Musée du Louvre:
     F. Gaultier, “L’Ariadne de Faléries: Une chef-d’oeuvre retrouvé,” in
-    *<span class="smcaps">Damarato* 2000</span>, pp.
+    <span class="smcaps">*Damarato* 2000</span>, pp.
     288–97. The technique was also used during the Renaissance and in
     modern times. On this, see M. G. Vaccari, ed., *La scultura in
     terracotta* (Florence, 1996), in particular the study by G.
@@ -561,8 +564,8 @@ Results of the pigment analysis:
     class="smcaps">Tomei 1992</span>, pp. 176–77; this
     technique is well depicted in a *kylix* by the Foundry Painter in
     Berlin, q.v. *Corpus Vasorum Antiquorum*, Berlin Antiquarium 1, pl.
-    72–73. With the terracotta fragments from the Palatine, thought to
-    have been made from molds, the circular cavities found in them may
+    72–73. The circular cavities found in terracotta fragments from the Palatine, thought to
+    have been made from molds, may
     have been made by a support used during the assembly phase. The same
     procedure was identified at Olympia, for instance, in the group of
     Zeus and Ganymede: see A. Moustaka*, Grossplastik aus Ton in
@@ -575,16 +578,16 @@ Results of the pigment analysis:
 
 [^5]: Suspicion of their authenticity has been heightened by the
     singular nature of some parts of the figures, such as the claws of
-    the Sirens, which elude criteria of standardized production, and by
+    the sirens, which elude criteria of standardized production, and by
     the absence of comparisons for the figures as a group due to the
-    rarity of non-architectural terracotta sculptural groups. The
+    rarity of nonarchitectural terracotta sculptural groups. The
     improper restoration and reckless cleaning done before the Getty
     purchased this group—exemplified by the application of artificial
     incrustations on some sections—has contributed to the anomalous
     appearance of the figures.
 
 [^6]: For the genealogy and the iconography of Orpheus in general, see
-    <span class="smcaps">Garezou</span> 1994.
+    <span class="smcaps">Garezou 1994</span>.
 
 [^7]: Pausanias’s apparent astonishment as he describes Orpheus’s Greek
     appearance can lead us to believe that he was more commonly depicted
@@ -592,34 +595,34 @@ Results of the pigment analysis:
     (Pausanias 10.30.6), see M. D. Stansbury O’Donnell, “Polygnotos’
     Nekyia: A Reconstruction and Analysis,” *AJA* 94 (1990), pp. 213–35.
 
-[^8]: For the iconography of Orpheus in Attic vase-painting, see <span
+[^8]: For the iconography of Orpheus in Attic vase painting, see <span
     class="smcaps">Garezou 1994</span>, in particular
     nos. 7–14, 23–26 for Orpheus dressed in Greek style among the
     Thracians; no. 16 for Apulian vases, especially those produced
     between 340 and 310 <span
     class="smcaps">BC</span>, in which Orpheus appears
     dressed in Greek style; and nos. 20–21, 72–84 for Orpheus in Hades,
-    a theme treated almost exclusively in Apulian vase-painting.
+    a theme treated almost exclusively in Apulian vase painting.
 
 [^9]: On this aspect, see R. Von den Hoff, *Philosophenporträts des
     Früh- und Hochhellenismus* (Munich, 1994), pp. 23–33; P. Zanker,
     *The Mask of Socrates: The Image of the Intellectual in Antiquity*
-    (Berkeley, 1995), pp. 52–57, 113–22; J. J. Pollitt*, Art in the
+    (Berkeley, 1995), pp. 52–57, 113–22; and J. J. Pollitt*, Art in the
     Hellenistic Age* (Cambridge, 1986), pp. 63–69. For examples of
     philosophers or poets in Greek portraiture, including the portrait
     of Euripides in the Louvre, probably derived from the statue erected
-    in Athens by Lykourgos between 340 and 336 BC, see G. M. A. Richter,
+    in Athens by Lykourgos between 340 and 336 <span
+    class="smcaps">BC</span>, see G. M. A. Richter,
     *The Portraits of the Greeks*, vol. 1 (London, 1965), pp. 137–39,
     figs. 760–61.
 
-[^10]: <span class="smcaps">Lauer and Picard</span>
-    1955, pp. 48–68. For a comparison with the statue of Pindar, see
+[^10]: <span class="smcaps">Lauer and Picard 1955</span>, pp. 48–68. For a comparison with the statue of Pindar, see
     also <span class="smcaps">Bottini and Guzzo
     1993</span>, pp. 43–52, nn. 22 and 23.
 
 [^11]: For Apollo Kitharoidos, see W. Lambrinoudakis and O. Palagia,
-    s.v. “Apollon,” *LIMC* 2.1 (1984), pp. 199–213; <span
-    class="smcaps">Flashar 1992</span>, pp. 114–23; D.
+     *LIMC* 2.1 (1984), s.v. “Apollon”; <span
+    class="smcaps">Flashar 1992</span>, pp. 114–23; and D.
     Castaldo, *Il pantheon musicale: Iconografia nella ceramica attica
     tra VI e IV secolo a.C*. (Ravenna, 2000), pp. 15–22; for statuary,
     see M. Mertens-Horn, “La statua di Apollo citaredo della galleria
@@ -642,7 +645,7 @@ Results of the pigment analysis:
     no. 431. See also the head of the Apollo of Cirò in which hair,
     probably of metal leaf, was inserted, in <span
     class="smcaps">Settis and Parra 2005</span>, pp.
-    259–62; M. Mertens-Horn, “Resti di due grandi statue di Apollo
+    259–62; and M. Mertens-Horn, “Resti di due grandi statue di Apollo
     ritrovati nel santuario di Apollo Aleo di Cirò,” in <span
     class="smcaps">*Santuari della Magna Grecia in
     Calabria*</span> 1996*,* pp. 261–65.
@@ -657,9 +660,8 @@ Results of the pigment analysis:
     p. 387, no. 475.
 
 [^13]: For the iconography of Orpheus in Apulian vases, see M. Schmidt,
-    “Orfeo e orfismo nella pittura vascolare italiota,” *<span
-    class="smcaps">Orfismo in Magna Grecia</span>*
-    1975, pp. 105–38, pl. VIII; see also <span
+    “Orfeo e orfismo nella pittura vascolare italiota,” <span
+    class="smcaps">*Orfismo in Magna Grecia* 1975</span>, pp. 105–38, pl. VIII; see also <span
     class="smcaps">Pensa 1977</span>, pp. 23–31, pl.
     V, fig. 1, and pl. X.
 
@@ -667,17 +669,17 @@ Results of the pigment analysis:
     renowned Nekyia by Nikias: see G. Becatti, s.v. “Nikias,” *<span
     class="smcaps">EAA</span>* 5 (1963), pp. 476–82.
     See the conclusions of <span
-    class="smcaps">Bottini</span> 2000 and also <span
+    class="smcaps">Bottini 2000</span> and also <span
     class="smcaps">Pensa 1977</span>, pp. 46–47, no.
     146, pls. VII and IX for two volute kraters, one from Armento, now
     in the Museo Archeologico Nazionale in Naples, the other of an
-    unknown findspot, now at the Hermitage in St. Petersburg, in which
+    unknown findspot, now at the Hermitage Museum in St. Petersburg, in which
     the poet is depicted as a youth wearing a mantle and holding a
     kithara.
 
-[^15]: For a general treatment of the iconography of the Sirens in
+[^15]: For a general treatment of the iconography of the sirens in
     chthonic contexts, see <span
-    class="smcaps">Hofstetter</span> 1997.
+    class="smcaps">Hofstetter 1997</span>.
 
 [^16]: In *Andromache* by Euripides (936), the expression “Sirens’
     words” is used pejoratively, while in *Alexandra* by
@@ -685,17 +687,16 @@ Results of the pigment analysis:
     reproduce the allure and seductive power of their song. As early as
     the seventh century <span
     class="smcaps">BC,</span> the poet Alcman placed
-    the Muses and the Sirens on an equal plane in terms of their musical
+    the muses and the sirens on an equal plane in terms of their musical
     abilities: *Greek Lyric*, vol. 2, trans. D. A. Campbell (Cambridge
     and London, 1988), pp. 418–19, no. 30.
 
-[^17]: On the presence of Sirens on funerary monuments in general, see
-    <span class="smcaps">Hofstetter-Dolega</span>
-    1990, pp. 151–83; on the funerary monuments of Sophocles and
+[^17]: On the presence of sirens on funerary monuments in general, see
+    <span class="smcaps">Hofstetter-Dolega 1990</span>, pp. 151–83; on the funerary monuments of Sophocles and
     Isocrates in particular, see pp. 26–28. For the Sirens in the
     Serapeion of Memphis at Saqqara, see <span
     class="smcaps">Hofstetter 1997</span>, no. 88. For
-    funerary statues of Sirens from the fourth century <span
+    funerary statues of sirens from the fourth century <span
     class="smcaps">BC</span>, from the Kerameikos
     cemetery in Athens, see S. Karouzou, *National Archaeological
     Museum: Collection of Sculpture* (Athens, 1968), p. 106, no. 2583
@@ -703,7 +704,7 @@ Results of the pigment analysis:
     stelae; see examples in M. Comstock and C. C. Vermeule, *Sculpture
     in Stone: The Greek, Roman and Etruscan Collection of the Museum of
     Fine Arts, Boston* (Boston, 1976), nos. 66, 67, 72. On the presence
-    of Sirens performing music in funerary contexts, see <span
+    of sirens performing music in funerary contexts, see <span
     class="smcaps">Beschi 1991</span>, p. 40. Also
     <span class="smcaps">Leclercq-Marx 1997</span>,
     pp. 36–40; <span
@@ -722,39 +723,39 @@ Results of the pigment analysis:
 
 [^19]: See the examples of capitals in <span
     class="smcaps">Wuilleumier 1939</span>, pls. 1–3;
-    the weeping Siren in a limestone capital datable to 300–250 <span
+    the weeping siren in a limestone capital datable to 300–250 <span
     class="smcaps">BC</span> in C. C. Vermeule,
     *Sculpture in Stone and in Bronze: Additions to the Collections of
     Greek, Etruscan, and Roman Art, 1971–1988,* *in the Museum of Fine
-    Arts, Boston* (Boston, 1988), p. 26, no. 15; and the Siren in a
+    Arts, Boston* (Boston, 1988), p. 26, no. 15; and the siren in a
     capital from Taranto (inv. 96.AA.245) at the J. Paul Getty Museum,
     possibly originally from a *naiskos* and datable to about 330 <span
     class="smcaps">BC</span>: <span
     class="smcaps">Grossman 2001</span>, no. 55, pp.
     146–47.
 
-[^20]: On the humanized image of the Siren see, for Southern Italy, the
+[^20]: On the humanized image of the siren, see, for Southern Italy, the
     Apulian volute-krater from 330–320 <span
     class="smcaps">BC</span> in <span
     class="smcaps">Hofstetter 1997</span>, no. 45; a
-    Campanian *hydria* with Siren with long bird claws in A. D.
+    Campanian *hydria* with siren with long bird claws in A. D.
     Trendall, *The* *Red-Figured Vases of Lucania, Campania, and Sicily*
-    (Oxford, 1967), p. 376, no. 121; the Apulian *loutrophoros* at the
+    (Oxford, 1967), p. 376, no. 121; and the Apulian *loutrophoros* at the
     J. Paul Getty Museum by the Painter of Louvre MNB 1148 (inv.
     86.AE.680), in D. Tsiafakis, “Life and Death at the Hands of a
-    Siren,” *Studia Varia from the J. Paul Getty Museum* 2 (2001), pp.
+    Siren,” [*Studia Varia from the J. Paul Getty Museum* 2](http://www.getty.edu/publications/virtuallibrary/0892366346.html) (2001), pp.
     7–24, fig. 4. For examples in terracotta, see the statuette of a
-    Siren dated around ca. 460 <span
+    siren dated around ca. 460 <span
     class="smcaps">BC</span> said to have found in the
     region of Taranto: K. Deppert, “Jahres-berichte Kestner Museum
     1973–1976,” *Hannoversche* *Geschichtsblätter* 30 (1976), pp.
-    287–89, no. 18; see also from Myrina the statuette of a Siren with a
+    287–89, no. 18; see also from Myrina the statuette of a siren with a
     bust of a woman in <span
     class="smcaps">Breitenstein 1941</span>, pl. 58,
     nos. 463–64; and examples in <span
     class="smcaps">Besques 1963</span>, pl. 92, dated
-    from the end of the third century BC.<span
-    class="smcaps">.</span>
+    from the end of the third century <span
+    class="smcaps">BC.</span>
 
 [^21]: In this connection, see <span
     class="smcaps">Lauer and Picard 1955</span>, pp.
@@ -765,12 +766,11 @@ Results of the pigment analysis:
     class="smcaps">*Santuari della Magna Grecia in
     Calabria* 1996</span>, pp. 239–40.
 
-[^23]: <span class="smcaps">Breglia Pulci Doria</span>
-    1987, p. 43; L. Breglia Pulci Doria, “Le Sirene, il confine,
+[^23]: <span class="smcaps">Breglia Pulci Doria 1987</span>, p. 43; L. Breglia Pulci Doria, “Le Sirene, il confine,
     l’aldilà,” in *Mélanges Pierre Lévêque* 4 (Paris, 1990), pp. 63–78.
 
 [^24]: On this interpretation consider the review by F. Gilotta of <span
-    class="smcaps">Hofstetter-Dolega</span> 1990 in
+    class="smcaps">Hofstetter-Dolega 1990</span> in
     *Prospettiva* 67 (1992), pp. 83–85; also <span
     class="smcaps">Giangiulio 1986</span>, pp. 101–54;
     and B. D’Agostino, “Le Sirene, il tuffatore e le porte dell’Ade,”
@@ -785,20 +785,20 @@ Results of the pigment analysis:
     class="smcaps">Bottini 2000</span>, pp. 136–37.
 
 [^27]: For Orphism in general, see the bibliography in <span
-    class="smcaps">Tra Orfeo e Pitagora</span> 2000;
+    class="smcaps">*Tra Orfeo e Pitagora* 2000</span>;
     for the complex issue of relations between Orphism and
     Pythagoreanism and for Plato’s view on Orphic thought, see M.
     Tortorelli Ghidini, “Da Orfeo agli orfici,” in <span
-    class="smcaps">Tra Orfeo e Pitagora 2000</span>,
+    class="smcaps">*Tra Orfeo e Pitagora* 2000</span>,
     pp. 11–41; also P. Bourgeaud, ed., *Orphisme et Orphée, en l’honneur
-    de Jean Rudhardt* (Geneva, 1991); W. K. C. Guthrie, *Orpheus and
-    Greek Religion* (Princeton, 1993). For the Orphic laminae, see G.
+    de Jean Rudhardt* (Geneva, 1991); and W. K. C. Guthrie, *Orpheus and
+    Greek Religion* (Princeton, NJ, 1993). For the Orphic laminae, see G.
     Pugliese Carratelli, *Le lamine d’oro orfiche* (Milan, 2001); and
-    idem, “L’orfismo in Magna Grecia,” in <span
+    Pugliese Carratelli, “L’orfismo in Magna Grecia,” in <span
     class="smcaps">Pugliese Carratelli 1988</span>,
     pp. 159–70, with previous bibliography.
 
-[^28]: *Timaeus* 47d; see also *Republic* 2.376e.
+[^28]: Plato, *Timaeus* 47d; see also *Republic* 2.376e.
 
 [^29]: Plato, *Laws* 7.812 and *Republic* 3.398–400. On the value of
     music in the context of Orphic and Pythagorean theories, see L.
@@ -808,7 +808,7 @@ Results of the pigment analysis:
     nel mondo moderno,” in *Synaulia: Cultura musicale in Grecia e
     contatti mediterranei*, ed. D. Musti, A. C. Cassio, and L. E. Rossi,
     *AION* 5 (2000), pp. 105–10. See also F. Cordano, “La città di
-    Camarina e le corde della lira,” *PdP* 49 **(**1994), pp. 418–26; L.
+    Camarina e le corde della lira,” *PdP* 49 (1994), pp. 418–26; L.
     Todisco, “Nuovi dati e osservazioni sulla tomba delle danzatrici di
     Ruvo,” *AttiMGrecia* 3, n.s. (1994–95), p. 135, n. 96; G. Pugliese
     Carratelli, “L’orfismo in Magna Grecia,” in <span
@@ -818,23 +818,22 @@ Results of the pigment analysis:
 [^30]: Although the text itself is problematic, it contains a number of
     elements that can be linked to the activity of Archytas. See A.
     Visconti, “Musica e attività politica in Aristosseno di Taranto,” in
-    <span class="smcaps">Tra Orfeo e Pitagora</span>
-    2000, pp. 463–85; for the pseudo-Archytan Pythagorean treatises, see
+    <span class="smcaps">*Tra Orfeo e Pitagora* 2000</span>, pp. 463–85; for the pseudo-Archytan Pythagorean treatises, see
     also B. Centrone, “Il *perì nomo kai dikaiosinas* di Pseudo
-    Archita,” <span class="smcaps">Tra Orfeo e
-    Pitagora</span> 2000*,* pp. 487–505; also A. Mele, “I pitagorici e
+    Archita,” <span class="smcaps">*Tra Orfeo e
+    Pitagora* 2000</span>, pp. 487–505; also A. Mele, “I pitagorici e
     Archita,” in *Storia della Società Italiana* 1 (Milan, 1981), pp.
     269–98; A. Barker, “Archita di Taranto e l’armonia pitagorica,” in
     *Tra Sicilia e Magna Grecia: Aspetti di interazione culturale nel IV
     secolo a.C.*, *Atti del Convegno, Napoli 1987*, ed. A. Cassio and D.
-    Musti (Naples, 1991), pp. 157–78; F. Cordano, “Sui frammenti poetici
+    Musti (Naples, 1991), pp. 157–78; and F. Cordano, “Sui frammenti poetici
     attribuiti ad Archita in Stobeo,” *PdP* 26 (1971), pp. 299–300.
 
 [^31]: Plato, *Republic* 10.614–621; <span
     class="smcaps">Breglia Pulci Doria 1987</span>, p.
-    43; for the Sirens and the cosmic music linked to them, see W.
+    43; for the sirens and the cosmic music linked to them, see W.
     Burkert, *Lore and Science in Ancient Pythagoreanism* (Cambridge,
-    Mass., 1972), pp. 350–68; also <span
+    MA, 1972), pp. 350–68; also <span
     class="smcaps">Giangiulio 1986</span>, pp. 101–54.
 
 [^32]: For the group and the figure of Archytas, see P. G. Guzzo, “Altre
@@ -847,7 +846,7 @@ Results of the pigment analysis:
 [^33]: For *naiskoi* in the context of necropoleis of Taranto, see A.
     Pontrandolfo, “Semata e naiskoi nella ceramica italiota,” *AION* 10
     (1988), pp. 181–202; for the relationship between iconography in
-    vase-painting and archaeological reality, see <span
+    vase painting and archaeological reality, see <span
     class="smcaps">Lippolis 1994</span>, pp. 109–28,
     and E. Lippolis, “Taranto: Forma e sviluppo della topografia
     urbana,” pp. 119–69 in *AttiTaranto 41,* *2001* (Taranto, 2002). For
@@ -864,16 +863,16 @@ Results of the pigment analysis:
     Complesso monumentale di S. Nicolò, 5–7 novembre 2004*, ed. M.
     Osanna and M. Torelli (Rome, 2006), pp. 211–26.
 
-[^34]: Pausanias 3.12.8–9, and 3.25–27; for funerary monuments in Sparta
+[^34]: Pausanias 3.12.8–9 and 3.25–27; for funerary monuments in Sparta
     from the Archaic period, see S. Raftopoulou, “Contributo alla
     topografia di Sparta durante l’età geometrica ed arcaica,” in
-    *AttiTaranto 41, 2001*(Taranto, 2002), pp. 25–42; also <span
+    *AttiTaranto 41, 2001* (Taranto, 2002), pp. 25–42; also <span
     class="smcaps">Nafissi 1991</span>, pp. 321–22,
     331–34.
 
 [^35]: On the supposed *heroön* of Orpheus, see <span
     class="smcaps">Lippolis 1982</span>, esp.
-    126–28**.
+    126–28.
 
 [^36]: In this connection, see <span
     class="smcaps">Lippolis 1994,</span> pp. 41–66.
@@ -885,7 +884,7 @@ Results of the pigment analysis:
 [^37]: P. G. Guzzo and S. Luppino, “Due tombe fra Thurii e Crotone,”
     *MÉFRA* 92, no. 1 (1980), pp. 821–914, figs. 18–19.
 
-[^38]: See <span class="smcaps">Bottini</span> 2000;
+[^38]: See <span class="smcaps">Bottini 2000</span>;
     also L. Todisco, “Nuovi dati e osservazioni sulla tomba delle
     danzatrici di Ruvo,” *AttiMGrecia* 3 (1994–95), p. 138, n. 112, and
     <span class="smcaps">Pensa 1977</span>, pp. 83–88.
@@ -894,7 +893,7 @@ Results of the pigment analysis:
     signs of prestige but also objects that affirm religious or social
     behaviors. See, for instance, the small golden lamina found at
     Caudium (modern Montesarchio) in a tomb from the fourth century
-    <span class="smcaps">BC,</span> and the discovery
+    <span class="smcaps">BC</span> and the discovery
     of tombs such as the one in Ruvo del Monte that yielded a
     red-figured calyx krater showing the abduction of a young man by
     Eos, which can be interpreted as a metaphor for the hope of winning
@@ -907,7 +906,7 @@ Results of the pigment analysis:
     della salvezza* (Milan, 1992), pp. 104–15; P. Poccetti, “La
     diffusione di dottrine misteriche e sapienziali nelle culture
     indigene dell’Italia antica: Appunti per un dossier,” in <span
-    class="smcaps">Tra Orfeo e Pitagora 2000</span>,
+    class="smcaps">*Tra Orfeo e Pitagora* 2000</span>,
     pp. 91–126; <span class="smcaps">Bottini</span>
     2000; and A. Mele, “Il Pitagorismo e le popolazioni anelleniche,”
     *AION* 3 (1981), pp. 61–96.
@@ -922,22 +921,21 @@ Results of the pigment analysis:
     Mikythos, there was a votive statue of Orpheus from 460 <span
     class="smcaps">BC</span> (5.26.3).
 
-[^41]: For Tarentine marble sculpture, <span
-    class="smcaps">Belli Pasqua 1995</span>, pp. 3–8
-    and for the connections with Attic production, pp. 45–46; see, in
+[^41]: For Tarentine marble sculpture, see <span
+    class="smcaps">Belli Pasqua 1995</span>, pp. 3–8; for the connections with Attic production, see pp. 45–46; see, in
     particular, the head of Athena from the first half of the fourth
     century <span class="smcaps">BC</span>, derived
     from a prototype of the last third of the fifth century <span
     class="smcaps">BC</span>, pp. 47–48. On the
     cultural ties between Taras and Athens in the fifth century <span
-    class="smcaps">BC,</span> see also E. Lippolis,
+    class="smcaps">BC,</span> see E. Lippolis,
     “Taranto e la politica di Atene in Occidente,” *Ostraka* 6, no. 2
     (1997), pp. 359–78.
 
 [^42]: For the head of Athena in Brescia, see A. Giuliano, “I grandi
     bronzi di Riace, Fidia e la sua officina,” in *Due Bronzi di Riace:
     Rinvenimento, restauro, analisi ed ipotesi di interpretazione*,
-    *BdA* ser. speciale 3 (1984), pp. 297–306, figs. 4–5. The head of
+    *BdA*, ser. speciale 3 (Rome, 1984), pp. 297–306, figs. 4–5. The head of
     Orpheus in Munich has been identified on the basis of its very close
     resemblance to a small bronze statue of Orpheus with a kithara at
     the Hermitage Museum, St. Petersburg: see file no. 15, by R.
@@ -963,9 +961,9 @@ Results of the pigment analysis:
     the Antikenmuseum Basel, in <span
     class="smcaps">Herdejürgen 1982</span>, no. 105
     (it should be noted that the distinctive curls on the heads of the
-    Sirens were also sometimes used by the Tarentine coroplasts for
+    sirens were also sometimes used by the Tarentine coroplasts for
     beards); (5) a bust in the Museo Nazionale Archeologico di Taranto
-    (inv. 20.003); (6) a head in a Phrygian cap, in <span
+    (inv. 20.003); and (6) a head in a Phrygian cap, in <span
     class="smcaps">Fischer-Hansen 1992</span>, no. 53,
     dated to 430–410 BC. See also the mold of the front section of a
     male head in the Musée d’Art et d’Histoire in Geneva, in <span
