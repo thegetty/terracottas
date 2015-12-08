@@ -1,5 +1,8 @@
 .page-cover {
+<<<<<<< HEAD
   margin-bottom: 2rem;
+=======
+>>>>>>> 3b397df14404f32e4de68cba07ff28ef3339416c
   @include display(flex);
   @include justify-content(center);
   @include flex-wrap(wrap);
@@ -84,7 +87,13 @@
   border-top: 2px solid $light-gray;
   line-height: 1.4;
   font-family: $heading-font-family;
+<<<<<<< HEAD
   margin-top: 3rem;
   padding-top: 1.5rem;
   p { font-size: 0.875em; }
+=======
+  font-size: 0.9em;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+>>>>>>> 3b397df14404f32e4de68cba07ff28ef3339416c
 }
