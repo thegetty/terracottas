@@ -1,123 +1,123 @@
-- id: "01"
+- id: 1
   src: "70.AD.120.jpg"
   caption: "70.AD.120"
 
-- id: "02"
+- id: 2
   src: "71.AD.141.jpg"
   caption: "71.AD.141"
 
-- id: "03"
+- id: 3
   src: "71.AD.304.jpg"
   caption: "71.AD.304"
 
-- id: "04"
+- id: 4
   src: "71.AD.305.jpg"
   caption: "71.AD.305"
 
-- id: "05"
+- id: 5
   src: "71.AD.306.jpg"
   caption: "71.AD.306"
 
-- id: "06"
+- id: 6
   src: "71.AD.311.jpg"
   caption: "71.AD.311"
 
-- id: "07"
+- id: 7
   src: "71.AD.339.jpg"
   caption: "71.AD.339"
 
-- id: "08"
+- id: 8
   src: "71.AD.345.jpg"
   caption: "71.AD.345"
 
-- id: "09"
+- id: 9
   src: "71.AD.346.jpg"
   caption: "71.AD.346"
 
-- id: "10"
+- id: 10
   src: "71.AD.347.jpg"
   caption: "71.AD.347"
 
-- id: "11"
+- id: 11
   src: "71.AD.358.jpg"
   caption: "71.AD.358"
 
-- id: "12"
+- id: 12
   src: "71.AD.363.jpg"
   caption: "71.AD.363"
 
-- id: "13"
+- id: 13
   src: "75.AD.36.jpg"
   caption: "75.AD.36"
 
-- id: "14"
+- id: 14
   src: "75.AD.37.jpg"
   caption: "75.AD.37"
 
-- id: "15"
+- id: 15
   src: "75.AD.40_group.jpg"
   caption: "Clockwise from top left: 75.AD.40.H.2, 75.AD.40.A.1, 75.AD.40.N.5, 75.AD.40.I.14, 75.AD.40.I.19"
 
-- id: "16"
+- id: 16
   src: "75.AD.44.jpg"
   caption: "75.AD.44"
 
-- id: "17"
+- id: 17
   src: "75.AD.45.jpg"
   caption: "75.AD.45"
 
-- id: "18"
+- id: 18
   src: "77.AD.75.jpg"
   caption: "77.AD.75"
 
-- id: "19"
+- id: 19
   src: "78.AD.271.4_reference.jpg"
   caption: "78.AD.271.4 (reference image)"
 
-- id: "20"
+- id: 20
   src: "78.AD.271.24_reference.jpg"
   caption: "78.AD.271.24 (reference image)"
 
-- id: "21"
+- id: 21
   src: "78.AD.344.jpg"
   caption: "78.AD.344"
 
-- id: "22"
+- id: 22
   src: "78.AD.346.jpg"
   caption: "78.AD.346"
 
-- id: "23"
+- id: 23
   src: "78.AD.404_reference.jpg"
   caption: "78.AD.404 (reference image)"
 
-- id: "24"
+- id: 24
   src: "80.AD.74.jpg"
   caption: "80.AD.74"
 
-- id: "25"
+- id: 25
   src: "82.AD.52.1.jpg"
   caption: "82.AD.52.1"
 
-- id: "26"
+- id: 26
   src: "82.AD.52.10.jpg"
   caption: "82.AD.52.10"
 
-- id: "27"
+- id: 27
   src: "82.AD.52.128.jpg"
   caption: "82.AD.52.128"
 
-- id: "28"
+- id: 28
   src: "82.AD.52.129.jpg"
   caption: "82.AD.52.129"
 
-- id: "29"
+- id: 29
   src: "82.AD.52.133.jpg"
   caption: "82.AD.52.133"
 
-- id: "30"
+- id: 30
   src: "82.AD.52.71.jpg"
   caption: "82.AD.52.71"
 
-- id: "31"
+- id: 31
   src: "83.AD.354.15.jpg"
   caption: "83.AD.354.15"

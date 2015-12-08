@@ -76,6 +76,14 @@ body { background-color: $base-background-color; }
   word-break: break-word;
 }
 
+.inline-figure {
+  float: right;
+  font-family: $heading-font-family;
+  font-size: $base-font-size * 0.875;
+  height: auto;
+  width: 250px;
+}
+
 #beta-banner {
 
   background-color: $notice-color;

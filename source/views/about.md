@@ -31,6 +31,8 @@ will be detailed here and in the project repository at
 
 - First edition
 
+<div class="no-print">
+
 ## Downloads
 
 ### Complete Catalogue
@@ -56,10 +58,17 @@ Each download includes the main image and caption for each of the sixty catalogu
 
 The object data, available in two formats, includes key information from each of the sixty catalogue entries, with relevant fields keyed to Pleiades locations and the Getty’s Art & Architecture Thesaurus (AAT) and Thesaurus of Geographic Names (TGN). The extended version includes raw data on the 1,000 additional collection objects outlined in the [“Guide to the Collection of South Italian and Sicilian Terracottas.”](../guide/)
 
+</div>
+
 <div class="copyright">
+
+## Copyright Information
+{: .print-only}
+
 © 2016 J. Paul Getty Trust
 
-**Published by the J. Paul Getty Museum, Los Angeles**  
+
+###### Published by the J. Paul Getty Museum, Los Angeles  
 Getty Publications  
 1200 Getty Center Drive, Suite 500  
 Los Angeles, California 90049-1682  

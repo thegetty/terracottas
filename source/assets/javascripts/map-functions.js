@@ -69,7 +69,7 @@ var oMap = {
 
       var popupOptions  = { minWidth: 100, maxHeight: 250 };
       var pleiadesUrl   = "http://pleiades.stoa.org/places/" + props.pid;
-      var tgnUrl        = "http://vocab.getty.edu/tgn/" + props.tgn;
+      var tgnUrl        = "http://vocab.getty.edu/page/tgn/" + props.tgn;
       var popupMsg      = "<h4 class='feature-name'>" + props.custom_name + "</h4>";
       var linkedEntries = props.catalogue;
 
