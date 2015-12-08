@@ -32,6 +32,12 @@ $asset-pipeline: true;
 
 // ionicons are imported in their own scss file (see vendor folder)
 // Freight Text Pro
+@include font-face("Freight Text Pro", "../fonts/freight-text-pro-book", 400);
+@include font-face("Freight Text Pro", "../fonts/freight-text-pro-book-italic", 400, italic);
+@include font-face("Freight Text Pro", "../fonts/freight-text-pro-bold", 700);
+
+// Freight Text smallcaps (flattened for non-opentype browsers)
+@include font-face("Freight Text Pro SC", "../fonts/freight-text-pro-book-smallcaps", 400);
 
 // Merriweather
 @include font-face("Merriweather", "../fonts/merriweather-light", 300);
