@@ -34,7 +34,7 @@ body { background-color: $base-background-color; }
 
   ol li p {
     font-size: 1.0625rem;
-    line-height: 1.4;
+    line-height: $base-line-height;
   }
 }
 
@@ -102,9 +102,10 @@ body { background-color: $base-background-color; }
 
 // style collection links in the Guide section differently
 .guide {
+  h1, h2, h3, h4, h5, h6 { clear: both; }
   ul { list-style-type: circle; }
   li {
-    line-height: 1.3;
+    line-height: $base-line-height;
     margin-bottom: 0.5rem;
 
     a {
@@ -135,7 +136,7 @@ body { background-color: $base-background-color; }
 
   p {
     font-family: $heading-font-family;
-    line-height: 1.3;
+    line-height: $base-line-height;
     margin: 0.25rem;
     text-align: center;
   }
