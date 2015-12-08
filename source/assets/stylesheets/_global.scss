@@ -18,7 +18,6 @@ body { background-color: $base-background-color; }
 }
 
 .smcaps {
-<<<<<<< HEAD
   font-variant-caps: all-small-caps;
   -moz-font-feature-settings: "c2sc", "smcp", "kern";
   -webkit-font-feature-settings: "c2sc", "smcp", "kern";
@@ -55,29 +54,6 @@ body { background-color: $base-background-color; }
 
   p {
     font-size: $base-font-size * 1.35;
-=======
-  font-size: 0.8em;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-}
-
-.footnotes {
-  font-size: 0.75em;
-  margin-top: 1.5rem;
-  ol { @extend %default-ol; }
-}
-
-%body-text {
-  font-size: $base-font-size;
-  @include media($large-screen-up) { font-size: $base-font-size * 1.125; }
-
-  h3 { margin-top: 2rem; }
-  h4 { margin-top: 1.5rem; }
-  ol { @extend %default-ol; }
-  ul { @extend %default-ul; }
-
-  p {
->>>>>>> 3b397df14404f32e4de68cba07ff28ef3339416c
     margin-bottom: 0;
     + p { text-indent: $base-spacing; }
   }
@@ -115,11 +91,10 @@ body { background-color: $base-background-color; }
   word-break: break-word;
 }
 
-<<<<<<< HEAD
 .table-of-contents {
   font-size: 1.125em;
 
-  h4 { 
+  h4 {
     font-size: 1.125em;
     margin-bottom: 0.25rem;
   }
@@ -142,8 +117,6 @@ body { background-color: $base-background-color; }
   }
 }
 
-=======
->>>>>>> 3b397df14404f32e4de68cba07ff28ef3339416c
 .inline-figure {
   float: right;
   font-family: $heading-font-family;
@@ -153,7 +126,6 @@ body { background-color: $base-background-color; }
 }
 
 #beta-banner {
-
   background-color: $notice-color;
   bottom: 0;
   font-size: 0.95em;

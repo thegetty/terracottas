@@ -51,13 +51,10 @@
   @include transition($base-transition);
   border-bottom: $base-border;
   margin: 0 0 $base-spacing;
-<<<<<<< HEAD
 
   .footnotes {
     ol, li { font-size: 1rem; }
   }
-=======
->>>>>>> 3b397df14404f32e4de68cba07ff28ef3339416c
 }
 
 .expander {
