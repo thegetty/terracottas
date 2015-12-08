@@ -35,9 +35,9 @@ $search-text-color: $base-font-color;
 .search-close {
   cursor: pointer;
   font-size: 1.5rem;
+  line-height: 60px;
   position: absolute;
-  right: 15px;
-  top: 11px;
+  right: 20px;
 }
 
 // When search input is active, do the following:
@@ -71,7 +71,7 @@ $search-text-color: $base-font-color;
   &.search-active {
     @include transform(translateY(0));
     opacity: 1;
-    z-index: 1200;
+    z-index: 2000;
   }
 }
 
