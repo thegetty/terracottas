@@ -11,13 +11,16 @@ $outer-margin: 0.75in;
 $inner-width: $page-width - ($inner-margin + $outer-margin);
 $inner-height: $page-height - ($top-margin + $bottom-margin);
 
-$print-base-font-size: 8pt;
+$print-base-font-size: 9.5pt;
 $print-base-spacing: 0.125in;
-$print-base-line-height: 1.6;
+$print-base-line-height: 1.3;
 $print-paragraph-indent: 0.25in;
 
 $print-background-color: #fff;
 $print-text-color: #000;
+
+$page-number-size: 7.5pt;
+$footnote-size: 7.5pt;
 
 // Default page setup
 // -----------------------------------------------------------------------------
@@ -36,7 +39,7 @@ $print-text-color: #000;
   @bottom-left {
     content: counter(page) "\2003" string(doctitle);
     font-family: $base-font-family;
-    font-size: 6.75pt;
+    font-size: $page-number-size;
   }
 }
 
@@ -49,7 +52,7 @@ $print-text-color: #000;
   @bottom-right {
     content: string(doctitle) "\2003" counter(page);
     font-family: $base-font-family;
-    font-size: 6.75pt;
+    font-size: $page-number-size;
   }
 }
 
@@ -203,9 +206,13 @@ $print-text-color: #000;
   }
 
   .footnotes {
-    font-size: 6.5pt;
+    font-size: $footnote-size;
+    line-height: 1.2;
     margin-top: $print-base-spacing;
   }
+
+  .footnotes ol li { font-size: $footnote-size; line-height: 1.2; }
+  .footnotes ol li p { font-size: $footnote-size; line-height: 1.2; }
 
   .main-content {
     background-color: $print-background-color;
@@ -224,17 +231,32 @@ $print-text-color: #000;
   .object-header { margin-bottom: 0.5in; }
 
   .object-info {
-    font-size: 7.5pt;
+    font-size: $footnote-size;
 
     td { border: none; }
     tr { border-bottom: 0.5pt solid $light-gray; }
   }
+
+  .object-meta {
+    font-size: 10pt;
+    letter-spacing: 0.75pt;
+    margin-top: 0;
+  }
   // scss-lint:disable PropertySpelling
-  .object-title { prince-bookmark-level: 1; }
+  .object-title {
+    font-size: 16pt;
+    prince-bookmark-level: 1;
+    margin-bottom: 0.0625in;
+  }
   // scss-lint:enable PropertySpelling
   .panel { background-color: $print-background-color; }
   .panel-right { width: 100%; }
-
+  
+  .page-author { 
+    color: $medium-gray;
+    font-size: 13pt; 
+  }
+  
   .page-cover {
     background-color: $print-background-color;
     background-repeat: no-repeat;
@@ -254,7 +276,7 @@ $print-text-color: #000;
   // scss-lint:disable PropertySpelling
   .page-title { prince-bookmark-level: 1; }
   // scss-lint:enable PropertySpelling
-  .page-title { margin-bottom: 0.75in; padding: 0; }
+  .page-title { font-size: 18pt; margin-bottom: 0.75in; padding: 0; }
   .page-title + .page-author { margin-bottom: 0.625in; margin-top: -0.75in; }
 
   .page-header-center {
@@ -266,10 +288,15 @@ $print-text-color: #000;
 
   .reference {
     column-count: 1;
-    font-size: 7pt;
+    font-size: 8pt;
 
     p { line-height: $print-base-line-height; margin: 0;}
     li { margin-bottom: $print-base-spacing; page-break-inside: avoid; }
+  }
+
+  .smcaps {
+    font-family: "Freight Text Pro SC";
+    text-transform: lowercase;
   }
 
   .table-of-contents {
