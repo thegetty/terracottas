@@ -55,6 +55,7 @@
   :rotation: true
   :rotation_width: 768
   :rotation_height: 1016
+  :alternate_views: true
 :content:
   :fabric: >
     Light beige in color (Munsell 10 yr 8/2–8/3), porous. Polychromy: on a white

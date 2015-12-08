@@ -3,6 +3,9 @@ title: Group of a Seated Poet (Orpheus?) and Sirens
 group: Group of a Seated Poet and Sirens
 objects: !ruby/range 1..3
 ---
+<div class="alt-view print-only" data-discussion="a">
+</div>
+
 #### Group of a Seated Poet (Orpheus?) and Sirens (cat. 1–3)
 {: .no-print }
 
@@ -518,9 +521,9 @@ Thermoluminescence of the clay body, X-ray fluorescence, polarized light
 microscopy, and ultraviolet–visible spectroscopy analysis of the
 polychromy were performed. They all attest to the group’s authenticity.
 
-<br />
+<br class="no-print"/>
 Results of the pigment analysis:  
-<br />
+<br class="no-print"/>
 
 #### Orpheus figure
 

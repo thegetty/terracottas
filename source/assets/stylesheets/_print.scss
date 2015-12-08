@@ -1,65 +1,71 @@
-@for $i from 1 through 60 {
-  .bleed[data-catalogue="#{$i}"] {
-    background-image: url(image_path("print/cat#{$i}.jpg"));
+// Variables
+// -----------------------------------------------------------------------------
+$page-width: 8.5in;
+$page-height: 11in;
+
+$bottom-margin: 1in;
+$top-margin: 0.875in;
+$inner-margin: 1in;
+$outer-margin: 0.75in;
+
+$inner-width: $page-width - ($inner-margin + $outer-margin);
+$inner-height: $page-height - ($top-margin + $bottom-margin);
+
+$print-base-font-size: 8pt;
+$print-base-spacing: 0.125in;
+$print-base-line-height: 1.6;
+$print-paragraph-indent: 0.25in;
+
+$print-background-color: #fff;
+$print-text-color: #000;
+
+// Default page setup
+// -----------------------------------------------------------------------------
+// scss-lint:disable PropertySpelling
+@prince-pdf { prince-pdf-page-layout: two-column-right; }
+// scss-lint:enable PropertySpelling
+
+@page { size: $page-width $page-height; }
+
+@page:left {
+  margin-bottom: $bottom-margin;
+  margin-left: $outer-margin;
+  margin-right: $inner-margin;
+  margin-top: $top-margin;
+
+  @bottom-left {
+    content: counter(page) "\2003" string(doctitle);
+    font-family: $base-font-family;
+    font-size: 6.75pt;
   }
 }
 
-.bleed[data-catalogue="1"] { background-position: center 10%; }
-.bleed[data-catalogue="2"] { background-position: center 10%; }
-.bleed[data-catalogue="3"] { background-position: center 15%; }
-.bleed[data-catalogue="4"] { background-position: center 65%; }
-.bleed[data-catalogue="5"] { background-position: center 65%; }
-.bleed[data-catalogue="6"] { background-position: center 60%; }
-.bleed[data-catalogue="8"] { background-position: center 60%; }
-.bleed[data-catalogue="21"] { background-position: center 35%; }
-.bleed[data-catalogue="22"] { background-position: center 60%; }
-.bleed[data-catalogue="25"] { background-position: center 20%; }
-.bleed[data-catalogue="26"] { background-position: center 20%; }
-.bleed[data-catalogue="27"] { background-position: center 35%; }
-.bleed[data-catalogue="28"] { background-position: center 35%; }
-.bleed[data-catalogue="29"] { background-position: center 35%; }
-.bleed[data-catalogue="30"] { background-position: center 35%; }
-.bleed[data-catalogue="31"] { background-position: center 60%; }
-.bleed[data-catalogue="32"] { background-position: center 35%; }
-.bleed[data-catalogue="33"] { background-position: center 70%; }
-.bleed[data-catalogue="38"] { background-position: center 25%; }
-.bleed[data-catalogue="39"] { background-position: center 15%; }
-.bleed[data-catalogue="40"] { background-position: center 10%; }
-.bleed[data-catalogue="41"] { background-position: center 25%; }
-.bleed[data-catalogue="42"] { background-position: center 10%; }
-.bleed[data-catalogue="43"] { background-position: center 20%; }
-.bleed[data-catalogue="44"] { background-position: center 20%; }
-.bleed[data-catalogue="45"] { background-position: center 30%; }
-.bleed[data-catalogue="46"] { background-position: center 30%; }
-.bleed[data-catalogue="50"] { background-position: center 100%; }
-.bleed[data-catalogue="55"] { background-position: center 20%; }
-.bleed[data-catalogue="56"] { background-position: center 30%; }
-.bleed[data-catalogue="57"] { background-position: center 20%; }
-.bleed[data-catalogue="58"] { background-position: center 65%; }
+@page:right {
+  margin-bottom: $bottom-margin;
+  margin-left: $inner-margin;
+  margin-right: $outer-margin;
+  margin-top: $top-margin;
 
-// Default page setup
-@prince-pdf { prince-pdf-page-layout: two-column-right; }
-
-@page {
-  size: 8.5in 11in;
-  margin: 1in;
-
-  @bottom-center {
-    content: counter(page);
+  @bottom-right {
+    content: string(doctitle) "\2003" counter(page);
     font-family: $base-font-family;
-    font-size: 7pt;
+    font-size: 6.75pt;
   }
 }
 
 @page bleed {
   // bleed: 0.125in;
   margin: 0;
-  size: 8.5in 11in;
+  size: $page-width $page-height;
   // marks: crop;
-  @bottom-center { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
 }
 
+// Print Styles
+// -----------------------------------------------------------------------------
 @media print {
+
   // Remove elements not necessary for this layout
   hr,
   .cover-copy,
@@ -75,124 +81,211 @@
   .reversefootnote,
   .ion-link,
   .no-print,
-  #beta-banner { display: none; }
   .panel-left { display: none; width: 0; }
 
   // Global defaults
-  body { background-color: #fff; margin: 1rem; }
+  body { background-color: $print-background-color; margin: 1rem; }
+  // scss-lint:disable PropertySpelling
   h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 0.125in;
-    margin-top: 0.125in;
+    margin-bottom: $print-base-spacing;
+    margin-top: $print-base-spacing;
     page-break-after: avoid;
     prince-bookmark-level: none;
   }
-  h1 { font-size: 20pt; }
-  h2 { font-size: 16pt; }
-  h3 { font-size: 14pt; }
-  h4 { font-size: 12pt; }
-  h5 { font-size: 10pt; }
-  h6 { font-size: 10pt; }
+  // scss-lint:enable PropertySpelling
+  h1 {
+    font-size: $print-base-font-size * 2.25;
+    string-set: doctitle content();
+  }
+
+  h2 { font-size: $print-base-font-size * 2; }
+  h3 { font-size: $print-base-font-size * 1.625; }
+  h4 { font-size: $print-base-font-size * 1.25; }
+  h5 { font-size: $print-base-font-size * 1.125; }
+  h6 { font-size: $print-base-font-size; }
   img { page-break-inside: avoid; }
-  td { padding: 0.0625in 0; }
+  td { padding: ($print-base-spacing / 2) 0; }
+  table + table { margin-top: ($print-base-spacing / 2); }
 
   // Section-specific
-  .object-title { prince-bookmark-level: 1; }
-  article { column-count: 2; column-gap: 0.35in; font-size: 9pt; }
-  article a[href] {
-    prince-link: none;
-    text-decoration: none;
-    color: $base-font-color;
+  article {
+    column-count: 2;
+    column-gap: ($print-base-spacing * 2);
+    font-size: $print-base-font-size;
+    // scss-lint:disable PropertySpelling
+    a[href] {
+      color: $print-text-color;
+      prince-link: none;
+      text-decoration: none;
+    }
+    // scss-lint:enable PropertySpelling
+
+    h3 { font-size: $print-base-font-size; font-weight: bold; }
+    h4 { font-size: $print-base-font-size * 0.875; font-weight: bold; }
+
+    p {
+      line-height: $print-base-line-height;
+      margin: 0;
+      + p { text-indent: $print-paragraph-indent; }
+    }
+
+    ul, ol { margin-left: 0; padding-left: ($print-base-spacing * 2); }
+  }
+
+  .about {
+    p + p { text-indent: $print-paragraph-indent; }
+    h2, h3, h4 { border-top: none; }
+    h2 { font-size: $print-base-font-size * 1.5; }
+    h3 { font-size: $print-base-font-size * 1.125; font-weight: bold; }
+    h4 { font-size: $print-base-font-size; font-weight: bold; }
+    blockquote { background-color: $print-background-color; margin: 0; padding: 0; }
+  }
+
+  .alt-view {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: $inner-height;
+    width: $inner-width;
+
+    &[data-discussion="a"] {
+      background-image: url(image_path("print/group-a.jpg"));
+      height: $inner-height - 1.25in;
+      page-break-after: always;
+    }
+
+    @for $i from 1 through 60 {
+      &[data-catalogue-alt="#{$i}"] {
+        background-image: url(image_path("print/cat#{$i}_alt.jpg"));
+      }
+    }
   }
 
   .bleed {
     background-repeat: no-repeat;
     background-size: cover;
-    height: 11in;
+    height: $page-height;
     page: bleed;
-    page-break-before: left;
-    page-break-after: always;
-    width: 8.5in;
+    width: $page-width;
+
+    @for $i from 1 through 60 {
+      &[data-catalogue="#{$i}"] {
+        background-image: url(image_path("print/cat#{$i}.jpg"));
+      }
+    }
+  }
+
+  .copyright {
+    border: none;
+    text-indent: 0;
+  }
+
+  .copyright p {
+    margin-bottom: $print-base-spacing;
+    text-indent: 0;
+    + p { text-indent: 0; }
   }
 
   .cover {
     background-image: url(image_path("print/cover.jpg"));
     background-repeat: no-repeat;
     background-size: cover;
-    height: 11in;
+    height: $page-height;
     page: bleed;
     page-break-after: always;
-    width: 8.5in;
+    width: $page-width;
   }
 
-  .main-content { background-color: #fff; color: #000; margin: 0 auto; }
-  .panel { background-color: #fff; }
-  .panel-right { width: 100%; }
-
-  .page-cover {
-    background-color: #fff;
-    background-size: contain;
-    background-repeat: no-repeat;
-    max-height: 5in;
-    margin: auto;
-  }
-
-  .page-title { prince-bookmark-level: 1; }
-  .page-title { margin-bottom: 1in; padding: 0; }
-  .page-title + .page-author { margin-top: -0.875in; margin-bottom: 1in; }
-
-  .page-header-center {
-    background-color: #fff;
-    color: #000;
-    width: 100%;
-    text-align: center;
-  }
-
-  .table-of-contents {
-    font-family: $heading-font-family;
-    * { margin: 0; padding: 0; }
-    a { margin: 0; }
-    h3, h4, h6 { margin: 0; }
-    li { font-size: 1.125em; margin-bottom: 0.15in; }
-    table { font-size: 0.875em; margin-top: 0.15in; }
-    ul { list-style-type: none; }
-    a:after { content: leader(dotted) " " target-counter(attr(href, url), page); }
-    .toc-author { font-size: 9pt; margin: 0; }
-  }
-
-  .page-content,
-  .object-content {
-    font-size: 10pt;
-    table + table { margin-top: 0.65in; }
-  }
-
-  .reference { column-count: 1; }
-  .object-header { margin-bottom: 1in; page-break-before: always; }
-  .object-info td { border: none; }
-  .object-info tr { border-bottom: 0.5pt solid $light-gray; }
-
-  .object-content-section {
-    border: 0;
-    margin-bottom: 0.125in;
-
-    h3 {
-      color: $base-font-color;
-      font-size: 11pt;
-      font-weight: bold;
-      margin: 0;
-    }
-
-    p { margin: 0; }
-    p + p { text-indent: 0.125in; }
-    h4#appendix { font-size: 10pt; margin-bottom: 0; }
-    h4#notes { font-size: 10pt; margin-bottom: 0; }
-  }
+  .entry { page-break-before: left; }
 
   .expander {
     .expander--hidden,
     .expander--content { display: block; }
   }
 
-  #notes { margin-top: .25in; }
-  .reference p { line-height: 1.5; margin: 0;}
-  .reference li { margin-bottom: 0.125in; page-break-inside: avoid; }
+  .footnotes {
+    font-size: 6.5pt;
+    margin-top: $print-base-spacing;
+  }
+
+  .main-content {
+    background-color: $print-background-color;
+    color: $print-text-color;
+    margin: 0 auto;
+  }
+
+  .object-content-section {
+    border: 0;
+    line-height: $print-base-line-height;
+    margin-bottom: $print-base-spacing;
+
+    h3 { font-size: 9.5pt; font-weight: bold; margin-bottom: 0; }
+  }
+
+  .object-header { margin-bottom: 0.5in; }
+
+  .object-info {
+    font-size: 7.5pt;
+
+    td { border: none; }
+    tr { border-bottom: 0.5pt solid $light-gray; }
+  }
+  // scss-lint:disable PropertySpelling
+  .object-title { prince-bookmark-level: 1; }
+  // scss-lint:enable PropertySpelling
+  .panel { background-color: $print-background-color; }
+  .panel-right { width: 100%; }
+
+  .page-cover {
+    background-color: $print-background-color;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 5.25in;
+    margin-bottom: 0.5in;
+    margin-left: -1in;
+    margin-top: -0.875in;
+    width: 9in;
+
+    ~ .container .page-content .page-title {
+      margin-bottom: 0.5in;
+
+      + .page-author { margin-top: -0.25in; }
+    }
+  }
+  // scss-lint:disable PropertySpelling
+  .page-title { prince-bookmark-level: 1; }
+  // scss-lint:enable PropertySpelling
+  .page-title { margin-bottom: 0.75in; padding: 0; }
+  .page-title + .page-author { margin-bottom: 0.625in; margin-top: -0.75in; }
+
+  .page-header-center {
+    background-color: $print-background-color;
+    color: $print-text-color;
+    text-align: center;
+    width: 100%;
+  }
+
+  .reference {
+    column-count: 1;
+    font-size: 7pt;
+
+    p { line-height: $print-base-line-height; margin: 0;}
+    li { margin-bottom: $print-base-spacing; page-break-inside: avoid; }
+  }
+
+  .table-of-contents {
+    font-family: $heading-font-family;
+
+    * { margin: 0; padding: 0; }
+
+    a {
+      margin: 0;
+      &::after { content: leader(dotted) " " target-counter(attr(href, url), page);}
+    }
+
+    h3, h4, h6 { margin: 0; }
+    li { font-size: 1em; margin-bottom: 0.15in; }
+    table { font-size: 0.875em; margin-top: 0.15in; }
+    ul { list-style-type: none; }
+    .toc-author { font-size: $print-base-font-size * 1.125; margin: 0; }
+  }
 }
