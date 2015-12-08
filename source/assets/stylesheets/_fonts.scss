@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //
 //@license
 // MyFonts Webfont Build ID 3135824, 2015-12-03T13:30:57-0500
@@ -26,11 +27,18 @@
 //
 // © 2015 MyFonts Inc
 //
+=======
+// Asset Pipeline:
+// Bourbon supports an $asset-pipeline variable which changes how the @font-face
+// mixin works. By setting it to true, we can give urls relative to the global
+// assets folder (default is /_assets/).
+>>>>>>> 3b397df14404f32e4de68cba07ff28ef3339416c
 
 //-------------------------------------------------------------------
 $asset-pipeline: true;
 
 // ionicons are imported in their own scss file (see vendor folder)
+<<<<<<< HEAD
 // Freight Text Pro
 @include font-face("Freight Text Pro", "../fonts/freight-text-pro-book", 400);
 @include font-face("Freight Text Pro", "../fonts/freight-text-pro-book-italic", 400, italic);
@@ -38,6 +46,8 @@ $asset-pipeline: true;
 
 // Freight Text smallcaps (flattened for non-opentype browsers)
 @include font-face("Freight Text Pro SC", "../fonts/freight-text-pro-book-smallcaps", 400);
+=======
+>>>>>>> 3b397df14404f32e4de68cba07ff28ef3339416c
 
 // Merriweather
 @include font-face("Merriweather", "../fonts/merriweather-light", 300);
