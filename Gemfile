@@ -18,3 +18,5 @@ gem "middleman-imageoptim"
 # Testing
 gem "rspec"
 gem "capybara"
+gem "capybara-webkit"
+gem "selenium-webdriver"
