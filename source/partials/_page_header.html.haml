@@ -1,7 +1,7 @@
 - current_page.data.layout == "cover" ? header_class = "page-header--hidden" : header_class = nil
 %nav.page-header{class: header_class }
   .page-header-left
-    %a.no-smoothState#search
+    %a.no-smoothState#search{:href => "javascript:void(0)" }
       %i.ion-search
   .page-header-center
     - if entry
@@ -24,7 +24,7 @@
       %span.hide-on-mobile= current_page.data.title
       - next_page(current_page.data.sort_order)
   .page-header-right
-    %a.nav-primary-trigger.no-smoothState#off-canvas-toggle
+    %a.nav-primary-trigger.no-smoothState#off-canvas-toggle{ :href => "javascript:void(0);" }
       %i.ion-navicon
   .search-input
     %input#search-field{ :placeholder => "search", :name => "search" }
