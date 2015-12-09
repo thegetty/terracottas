@@ -14,3 +14,7 @@ gem 'middleman-react', :git => 'https://github.com/HappyFunCorp/middleman-react.
 # Production
 gem "middleman-minify-html"
 gem "middleman-imageoptim"
+
+# Testing
+gem "rspec"
+gem "capybara"
