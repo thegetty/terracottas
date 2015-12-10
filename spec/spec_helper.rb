@@ -12,9 +12,11 @@ Capybara.default_max_wait_time = 5
 Capybara.app_host = 'http://localhost:4567/'
 
 Capybara::Webkit.configure do |config|
+  config.allow_url("www.getty.edu")
   config.allow_url("cdn.rawgit.com")
   config.allow_url("api.mapbox.com")
   config.allow_url("gettypubs.github.io")
+  config.block_unknown_urls
 end
 
 Capybara.app = Middleman::Application.server.inst do
