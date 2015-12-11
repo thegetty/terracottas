@@ -5,7 +5,7 @@ objects: !ruby/range 38..41
 #### Four Statues of Mourning Women from Canosa (cat. 38–41)
 {: .no-print }
 
-<h6 class="discussion-note">This discussion is reproduced on each of the individual object pages</h6>
+<h6 class="discussion-note">This discussion is reproduced on each of the individual object pages.</h6>
 
 This group of mourning women, often understood as orantes (female
 figures in prayer), likely comes from a chamber tomb in the Canosa area,
@@ -25,9 +25,9 @@ round shapes of knees and breasts, and from the exterior, through the
 application of clay parts, to depict in three dimensions the details of
 the chiton and himation, such as the circular folds and the hem of the
 himation on the figures’ torsos and the lateral folds of the chiton. On
-the inside bent knee of one figure ([cat. 38](38)), there are vertical strokes
-in the clay, made by fingers pulling downward. The structure is in any
-case well smoothed and finished on the interior: there is a slight ridge
+the inside bent knee of one figure ([cat. 38](../38/)), there are vertical strokes
+in the clay, made by fingers pulling downward. The structure is, in any
+case, well smoothed and finished on the interior: there is a slight ridge
 at the waist in two of the statues. The coroplast attempted to smooth
 the surface, probably using a throwing stick, from the opening in the
 base, as can be seen by the circular traces left on the interior
@@ -45,7 +45,7 @@ haste, it is impossible to interpret them with any certainty.[^3]
 
 The colors were applied after the firing over a preparatory layer of
 white slip, which has been preserved in several areas. The slip is
-heavily applied in large “swipes” as though done with a tool. It is
+heavily applied in large “swipes,” as though done with a tool. It is
 possible to see some striations in the swipes but not fingerprints.[^4]
 The palette shows little variety, consisting of pink, red, white,
 possibly dark brown, and black, although the latter two pigments cannot
@@ -59,12 +59,12 @@ the clothing and in the weighting and position of the arms. The
 comparison is especially good with the group of such orantes, which have
 heads showing harsh and marked facial features and hair pulled back into
 a point on the back.[^5] Relative to these other pieces, the Getty
-statues are characterized by a general lack of plasticity and by sketchy
+statues are characterized by a general lack of plasticity and sketchy
 modeling, underscored by a certain compositional naïveté, an excessively
 rigid pose, and a general lack of compactness in the structure.[^6] The
 same stylistic tendency can be found in other coroplastic products such
-as full-relief statuettes in the round, depicting female figures, Nikai,
-and Erotes, that decorate *askoi*; these are characterized by a
+as full-relief statuettes in the round depicting female figures, Nikai,
+and Erotes that decorate *askoi*; these are characterized by a
 superabundance of decoration. The similarity attests to the close
 collaboration that existed among potters, painters, and coroplasts in
 creating a substantially unified expressive language.[^7] Among the
@@ -109,12 +109,12 @@ market.[^13]
 
 Recent studies have examined four hypogea about whose discovery more is
 known. Scanty though these accounts of discovery are, they seem to
-attest that the statues must were placed inside the tombs in pairs or in
+attest that the statues were placed inside the tombs in pairs or in
 any case in multiples of two. In particular, eight pieces are thought to
 originate from Scocchera B hypogeum in Canosa. Of these, two are
 currently in the Musée de la Ville de Rouen (inv. 1965) and in the
 National Museum of Copenhagen (inv. 4995); one is in the Worcester Art
-Museum (inv. 2008.50); another pair, from the description provided by
+Museum in Massachusetts (inv. 2008.50); another pair, from the description provided by
 Cozzi of the actual discovery of the hypogeum, may be those now in the
 Pushkin Museum of Fine Arts in Moscow (inv. II 1⁰ 634 and 635). The
 solitary figure in the Museo Castromediano in Lecce might belong to this
@@ -134,7 +134,7 @@ have come from this context.[^17]
 The problem of dating the Getty figures is bound up with the
 reexamination of funerary deposits belonging to the Canosa hypogea. For
 the Scocchera B tomb, dates have been suggested between the end of the
-third century and the second century centuries <span class="smcaps">BC</span>;
+third century and the second century <span class="smcaps">BC</span>;
 but the statues are thought to date from the first half of the third century <span class="smcaps">BC</span>, since the hypogeum remained
 in use for about a century following its construction, as attested,
 among other things, by the presence of glass vases.[^18] For the
@@ -149,15 +149,15 @@ pieces and a Latin inscription from 67 <span class="smcaps">BC.</span>[^20]
 For the Tomb of the Gold Ornaments, on the other hand, the end of the third century
  <span class="smcaps">BC</span> seems to be a date widely
 accepted by scholars.[^21] In the absence of reliable excavation
-contexts, it seems advisable to date the group of orantes to the early
+contexts, it seems advisable to date this group of orantes to the early
 third century <span class="smcaps">BC.</span>
 
 #### Notes
 
 [^1]: For the technical working of the statue and the hypothetical use
     of bivalve molds, see <span class="smcaps">Jeammet
-    and Nadalini</span> 1997; for a review of the problem, <span
-    class="smcaps">Jeammet</span> 2003a. This study,
+    and Nadalini 1997</span>; for a review of the problem, <span
+    class="smcaps">Jeammet 2003a</span>. This study,
     which explores the problems linked to Canosan statues in the Louvre
     and surveys all the pieces in the various public and private museum
     collections, proposes a classification according to technical and
@@ -169,7 +169,7 @@ third century <span class="smcaps">BC.</span>
     Copenhagen as well.
 
 [^2]: The circular holes can also be found on the majority of statues,
-    including the examples in Rouen, Copenhagen, and Bari, and on the
+    including the examples in Rouen, Copenhagen, and Bari and on the
     statues in the Museo Archeologico Nazionale in Naples: see <span
     class="smcaps">Levi 1926</span>, pl. II, no.1.
 
@@ -183,43 +183,40 @@ third century <span class="smcaps">BC.</span>
     kaolinite slip; in this connection, see A. Ruiny and F. Schweizer,
     “Analyse de l’engobe blanc et des traces d’adhésifs anciens prélevés
     sur des vases de Canosa,” *Genava,* n.s. 28 (1978), pp. 162–69; see
-    also P. Aureli, “Il restauro,” in Cassano 1992*,* p. 333; C. Meucci,
-    “Analisi dei vasi sovraddipinti,” in Cassano 1992.
+    also P. Aureli, “Il restauro,” in <span class="smcaps">Cassano 1992</span>, p. 333; and C. Meucci,
+    “Analisi dei vasi sovraddipinti,” in <span class="smcaps">Cassano 1992</span>.
 
     5\. In particular, two orantes from the Ny Carlsberg Glyptotek in
     Copenhagen (inv. HIN 422 and 419), a pair of orantes from the Museo
     Archeologico Nazionale in Naples (inv. 22246 and 22247), and the orant
-    from the Musée du Louvre (inv. 7500); respectively: Fischer-Hansen
-    1992*,* pp. 101–3; Levi 1926, no. 235, pl. II, no. 3, inv. 22246–47; see
-    also Jeammet 2003a, Group 3, head m5, pp. 288–92.
+    from the Musée du Louvre (inv. 7500); respectively: <span class="smcaps">Fischer-Hansen
+    1992</span>, pp. 101–3; <span class="smcaps">Levi 1926</span>, no. 235, pl. II, no. 3, inv. 22246–47; see
+    also <span class="smcaps">Jeammet 2003a</span>, Group 3, head m5, pp. 288–92.
 
 [^5]: In particular, two orantes from the Ny Carlsberg Glyptotek in
     Copenhagen (inv. HIN 422 and 419), a pair of orantes from the Museo
     Archeologico Nazionale in Naples (inv. 22246 and 22247), and the
     orant from the Musée du Louvre (inv. 7500); respectively: <span
-    class="smcaps">Fischer-Hansen 1992</span>*,* pp.
-    101–3; <span class="smcaps">Levi 1926</span>, no.
+    class="smcaps">Fischer-Hansen 1992</span>, pp.
+    101–3; and <span class="smcaps">Levi 1926</span>, no.
     235, pl. II, no. 3, inv. 22246–47; see also <span
-    class="smcaps">Jeammet</span> 2003a, Group 3, head
+    class="smcaps">Jeammet 2003a</span>, Group 3, head
     m5, pp. 288–92.
 
 [^6]: For this issue, see <span
-    class="smcaps">Morel</span> 2002; A. Giuliano,
+    class="smcaps">Morel 2002</span>; A. Giuliano,
     “L’influenza greca nell’arte italica,” in <span
     class="smcaps">Pugliese Carratelli 1996</span>,
     pp. 591–606.
 
-[^7]: See n. 1 above. For the *askoi* of Canosa, see also F. van der
+[^7]: See note 1 above. For the *askoi* of Canosa, see also F. van der
     Wielen, “Ceramica a decorazione plastica e policroma,” pp. 310–26 in
-    Cassano 1992*,* nos. 50–76; A. Rinuy, F. van der Wielen, P.
-    Hartmann, and F. Schweizer, “Céramique insolite de l’Italie du Sud:
+    <span class="smcaps">Cassano 1992</span>, nos. 50–76; A. Rinuy et al., “Céramique insolite de l’Italie du Sud:
     Les vases hellénistiques de Canosa,” *Genava* n.s. 26 (1978), pp.
     141–69, pp. 317–18; for the plastic oinochoai, see A. Riccardi,
     “Vasi configurati a testa umana di provenienza o produzione
-    canosina,” in A. Riccardi, A. Sciancio, M. Chelotti, L. Rossi, and
-    F. van der Wielen-van Ommeren, *Canosa* *I*, Studi sull’antico 3
-    (Bari, 1980), nos. 7–8, pp. 7–21; F. Rossi, s.v. “Vasi canosini,”
-    *EAA* suppl. 2 (1994), pp. 848–49. For the type of clothing, see the
+    canosina,” in A. Riccardi et al., *Canosa I*, Studi sull’antico 3
+    (Bari, 1980), pp. 7–21, nos. 7–8; F. Rossi, *EAA* suppl. 2 (1994), s.v. “Vasi canosini,” pp. 848–49. For the type of clothing, see the
     figures painted by the Patera Painter or by the Baltimore Painter:
     A. D. Trendall and A. Cambitoglou, *The Red-Figured Vases of Apulia*
     (Oxford and New York, 1982), vol. 2, pp. 723–24 and 856–60. See also
@@ -235,8 +232,7 @@ third century <span class="smcaps">BC.</span>
     class="smcaps">Besques 1986</span>, pls. 135–37.
 
 [^9]: For the tombs of Paestum, see <span
-    class="smcaps">Pontrandolfo and Rouveret</span>
-    1992, p. 221; for Apulian painting, see E. M. De Juliis, “Nuovi
+    class="smcaps">Pontrandolfo and Rouveret 1992</span>, p. 221; for Apulian painting, see E. M. De Juliis, “Nuovi
     documenti di pittura figurata in Apulia,” *Ricerche di pittura
     ellenistica*, Quaderni dei Dialoghi di archeologia 10 (Rome, 1985),
     pp. 163–68; on the paintings in the Sant’Aloia tomb, see also L. De
@@ -256,13 +252,12 @@ third century <span class="smcaps">BC.</span>
 [^10]: For the presence of statues around the funerary *kline*, see the
     painting from the north plaque of Tomb 53 in the necropolis of
     Andriuolo, depicting a scene of pathos, in <span
-    class="smcaps">Pontrandolfo and Rouveret</span>
-    1992, pp. 140–41, fig. 546. For the funerary ritual, see E. M. De
+    class="smcaps">Pontrandolfo and Rouveret 1992</span>, pp. 140–41, fig. 546. For the funerary ritual, see E. M. De
     Juliis, *L’ipogeo dei Vimini di Canosa* (Bari, 1990), pp. 129–33;
     and <span class="smcaps">De Juliis 1984</span>,
     pp. 19–21.
 
-[^11]: On aspects of Hellenization in indigenous centers, see n. 7 above
+[^11]: On aspects of Hellenization in indigenous centers, see note 7 above
     and J. L. Lamboley, “Les hypogées indigènes apuliens,” *MÉFRA* 94,
     no. 1 (1982), pp. 91–148; L. Todisco*, Introduzione all’artigianato
     della Puglia antica: Dall’età coloniale all’età romana* (Bari,
@@ -285,8 +280,8 @@ third century <span class="smcaps">BC.</span>
 
 [^13]: The dispersal of material from Canosa is documented, in part, by
     the numerous pieces that have appeared on the antiquities market,
-    i.e., the statue of an orante in *Antiquities,* Bonhams
-    Knightbridge, sale cat., November 26, 1997, lot 316 (current
+    i.e., the statue of an orante in *Antiquities,* Bonhams,
+    London, sale cat., November 26, 1997, lot 316 (current
     location unknown). The orant, very similar to the Getty ones, in
     *Classical, Egyptian and Western Asiatic Antiquities and Islamic
     Works of Art*, Sotheby’s New York, Sale 6717, June 1, 1995, lot 113,
@@ -300,7 +295,7 @@ third century <span class="smcaps">BC.</span>
     Cozzi, “Gruppo di camere sepolcrali appartenenti alla necropoli
     canosina,” *Notizie degli Scavi di Antichità* (1896), p. 495. For an
     analysis of the hypogeum and the corresponding grave goods, see also
-    De Juliis 1992. The Rouen piece is also published in *Hommes, dieux
+    <span class="smcaps">De Juliis 1992,</span>. The Rouen piece is also published in *Hommes, dieux
     et héros de la Grèce*, exh. cat. (Rouen, Musée des Antiquités,
     1982), p. 153, no. 66; for the Copenhagen orant, see <span
     class="smcaps">Breitenstein 1941</span>*,* fig.
@@ -337,11 +332,11 @@ third century <span class="smcaps">BC.</span>
     p. 454.
 
 [^19]: See <span class="smcaps">Mazzei 1992</span>,
-    pp. 197–202; M. Mazzei and E. Lippolis, “Dall’ellenizzazione all’età
+    pp. 197–202; and M. Mazzei and E. Lippolis, “Dall’ellenizzazione all’età
     tardo repubblica,” in *La Daunia antica: Dalla preistoria
     all’altomedioevo* (Milan, 1984), pp. 191–92. The dating is also
     discussed in A. Ciancio, “I vetri alessandrini rinvenuti a Canosa,”
-    pp. 31–66 in Riccardi et al., *Canosa I* (cited in n. 7 above), p.
+    pp. 31–66 in Riccardi et al., *Canosa I*, p.
     46, n. 74.
 
 [^20]: R. Cassano, “Gli ipogei Lagrasta,” in <span
