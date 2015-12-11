@@ -3,6 +3,10 @@
 $page-width: 8.5in;
 $page-height: 11in;
 
+$bleed: 0.125in;
+$bleed-height: 11.25in;
+$bleed-width: 8.75in;
+
 $bottom-margin: 1in;
 $top-margin: 0.875in;
 $inner-margin: 1in;
@@ -25,10 +29,15 @@ $footnote-size: 7.5pt;
 // Default page setup
 // -----------------------------------------------------------------------------
 // scss-lint:disable PropertySpelling
-@prince-pdf { prince-pdf-page-layout: two-column-right; }
+// @prince-pdf { prince-pdf-page-layout: two-column-right; }
 // scss-lint:enable PropertySpelling
 
-@page { size: $page-width $page-height; }
+@page { 
+  size: $page-width $page-height;
+  bleed: $bleed; 
+  prince-trim: 0.25in;
+  marks: crop;
+}
 
 @page:left {
   margin-bottom: $bottom-margin;
@@ -57,10 +66,7 @@ $footnote-size: 7.5pt;
 }
 
 @page bleed {
-  // bleed: 0.125in;
   margin: 0;
-  size: $page-width $page-height;
-  // marks: crop;
   @bottom-left { content: none; }
   @bottom-right { content: none; }
 }
@@ -164,11 +170,14 @@ $footnote-size: 7.5pt;
   }
 
   .bleed {
+    background-color: #333;
     background-repeat: no-repeat;
     background-size: cover;
-    height: $page-height;
+    height: $bleed-height; 
+    margin-top: -($bleed);
+    margin-left: -($bleed);
     page: bleed;
-    width: $page-width;
+    width: $bleed-width; 
 
     @for $i from 1 through 60 {
       &[data-catalogue="#{$i}"] {
@@ -192,10 +201,12 @@ $footnote-size: 7.5pt;
     background-image: url(image_path("print/cover.jpg"));
     background-repeat: no-repeat;
     background-size: cover;
-    height: $page-height;
+    height: $bleed-height; 
+    margin-top: -($bleed);
+    margin-left: -($bleed);
     page: bleed;
     page-break-after: always;
-    width: $page-width;
+    width: $bleed-width;
   }
 
   .entry { page-break-before: left; }
@@ -266,8 +277,8 @@ $footnote-size: 7.5pt;
     background-size: cover;
     height: 5.25in;
     margin-bottom: 0.5in;
-    margin-left: -1in;
-    margin-top: -0.875in;
+    margin-left: -1.125in;
+    margin-top: -1in;
     width: 9in;
 
     ~ .container .page-content .page-title {
