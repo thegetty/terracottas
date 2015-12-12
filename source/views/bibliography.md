@@ -357,6 +357,10 @@ sort_order: 104
   Ferrandini Troisi, F., B. M. Buccoliero, and D. Ventrelli. *Coroplastica
   tarantina. Le matrici iscritte*. Bari, 2012.
 
+- <span class="smcaps">Ferrarini and Santoro 2011</span>
+
+  Ferrarini, M. and S. Santoro, “Le sirene di Durazzo tra Grecia, Magna Grecia e Illiria.” In *L’Illyrie méridionale e l’Epire dans l’antiquité V, Actes du Ve colloque international de Grenoble, Grenoble 8–11 octobre 2008*,ed. J-L. Lamboley and M. P. Castiglioni, vol. 2, pp. 559–69. Paris, 2011.
+
 - <span class="smcaps">Ferruzza 2013</span>
 
   Ferruzza, M. L. “Agalmata ek pelou: Aspects of Coroplastic Art in
