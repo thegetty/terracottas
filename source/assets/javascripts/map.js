@@ -3,7 +3,7 @@
 //= require lib/leaflet-easy-button
 //= require lib/leaflet-hash
 
-L.Icon.Default.imagePath = 'assets/stylesheets/vendor/leaflet/images';
+// L.Icon.Default.imagePath = 'assets/stylesheets/vendor/leaflet/images';
 // Map Object
 // ------------------------------------------------------------------------------------------
 // ------------------------------------------------------------------------------------------
@@ -47,14 +47,10 @@ function GeoMap() {
     }
   };
 
-  this.bind('pointToLayer');
-  this.bind('loadGeoJson');
 
   this.init();
   this.addTiles();
-
-  console.log(this);
-  this.loadGeoJson();
+  L.geoJson(this.geojson, { pointToLayer: this.addLabels }).addTo(this.map);
 }
 
 // Methods
@@ -81,7 +77,7 @@ GeoMap.prototype = {
     if ($("#" + this.el).hasClass("no-scroll")) { this.map.scrollWheelZoom.disable(); }
   },
 
-  pointToLayer: function (feature, latlng) {
+  addLabels: function (feature, latlng) {
     var props = feature.properties;
 
     if (props.catalogue.length > 0) {
@@ -118,10 +114,6 @@ GeoMap.prototype = {
   //onEachFeature: function(feature, layer) {
   //  oMap.methods.popupContent(feature, layer);
   //},
-
-  loadGeoJson: function() {
-    L.geoJson(this.geojson, this.pointToLayer).addTo(this.map);
-  }
   
 };
 
