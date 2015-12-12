@@ -303,7 +303,6 @@ function setUpPage(){
     addMapResizeListener(map);
   } else if ($("#map").length) {
     map = new GeoMap();
-    //map = initMap();
     //setTimeout(map.invalidateSize.bind(map), 100);
     //addMapResizeListener(map);
   }
