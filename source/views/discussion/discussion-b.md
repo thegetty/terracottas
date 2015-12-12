@@ -6,7 +6,7 @@ objects: !ruby/range 4..23
 {: .no-print }
 
 <h6 class="discussion-note">This discussion is reproduced on each of the
-individual object pages</h6>
+individual object pages.</h6>
 
 The group of twenty heads and busts (cats. 4–23) that were acquired by
 the Getty Museum in 1982 share a number of technical characteristics,

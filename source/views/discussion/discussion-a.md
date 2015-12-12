@@ -6,7 +6,7 @@ objects: !ruby/range 1..3
 #### Group of a Seated Poet (Orpheus?) and Sirens (cats. 1–3)
 {: .no-print }
 
-<h6 class="discussion-note">This discussion is reproduced on each of the individual object pages</h6>
+<h6 class="discussion-note">This discussion is reproduced on each of the individual object pages.</h6>
 
 An investigation conducted with endoscopic instruments revealed a great
 deal about the execution of this sculptural group.[^1] The figures must
@@ -90,14 +90,14 @@ the Knidians at Delphi, where Polygnotos painted him dressed in Greek
 style beneath a willow tree and playing the lyre, surrounded by other
 mythological characters.[^7]
 
-In Attic red-figured vase painting, in addition to images of the poet
+In Attic red-figured vase-painting, in addition to images of the poet
 among the Thracians, there are also depictions of his murder at the
 hands of the Thracian women and the episode in which his head continues
 to sing and prophesy even after being severed from his body. Orpheus
 among the Thracians is depicted with a mantle wrapped around his hips or
 dressed in a rich Eastern costume, an identifying feature as well as a
 sign of ethnic affiliation that is found especially in the subsequent
-repertory of Apulian vase painting.[^8]
+repertory of Apulian vase-painting.[^8]
 
 The Getty character’s seated position, the presence of the *klismos,*
 and the mantle that softly envelopes his figure, leaving his torso
@@ -115,7 +115,7 @@ Serapeion (Serapeum) of Memphis at Saqqara, built in the third century
 Dionysian cult. In that statue, the poet is seated on a *klismos* and
 partly covered by his mantle as he plays the kithara.[^10] The same
 iconographic scheme is adopted for the type of the Apollo Kitharoidos,
-as documented in vase paintings and statuary. In this scheme, the seated
+as documented in vase-paintings and statuary. In this scheme, the seated
 deity almost always wears a mantle draped over his left shoulder and has
 an elaborate hairstyle. In the case of the Getty Orpheus, the head shows
 traces of pigments, but that does not rule out the possibility that
@@ -220,8 +220,8 @@ head in a pose commonly used to indicate melancholy, like that of Siren
 A in the Getty group.[^19]
 
 Sirens were portrayed in the Archaic period with birds’ bodies and
-women’s heads; such was the case in Corinthian vase painting, where they
-were a recurring motif in animal friezes. In Attic vase painting, by
+women’s heads; such was the case in Corinthian vase-painting, where they
+were a recurring motif in animal friezes. In Attic vase-painting, by
 contrast, they were portrayed as protagonists of the Homeric narrative,
 or else as musicians, as witnesses of heroic deeds, or in scenes of
 funerary mourning and lamentation. Beginning in the Classical period,
@@ -595,14 +595,14 @@ Results of the pigment analysis:
     (Pausanias 10.30.6), see M. D. Stansbury O’Donnell, “Polygnotos’
     Nekyia: A Reconstruction and Analysis,” *AJA* 94 (1990), pp. 213–35.
 
-[^8]: For the iconography of Orpheus in Attic vase painting, see <span
+[^8]: For the iconography of Orpheus in Attic vase-painting, see <span
     class="smcaps">Garezou 1994</span>, in particular
     nos. 7–14, 23–26 for Orpheus dressed in Greek style among the
     Thracians; no. 16 for Apulian vases, especially those produced
     between 340 and 310 <span
     class="smcaps">BC</span>, in which Orpheus appears
     dressed in Greek style; and nos. 20–21, 72–84 for Orpheus in Hades,
-    a theme treated almost exclusively in Apulian vase painting.
+    a theme treated almost exclusively in Apulian vase-painting.
 
 [^9]: On this aspect, see R. Von den Hoff, *Philosophenporträts des
     Früh- und Hochhellenismus* (Munich, 1994), pp. 23–33; P. Zanker,
@@ -846,7 +846,7 @@ Results of the pigment analysis:
 [^33]: For *naiskoi* in the context of necropoleis of Taranto, see A.
     Pontrandolfo, “Semata e naiskoi nella ceramica italiota,” *AION* 10
     (1988), pp. 181–202; for the relationship between iconography in
-    vase painting and archaeological reality, see <span
+    vase-painting and archaeological reality, see <span
     class="smcaps">Lippolis 1994</span>, pp. 109–28,
     and E. Lippolis, “Taranto: Forma e sviluppo della topografia
     urbana,” pp. 119–69 in *AttiTaranto 41,* *2001* (Taranto, 2002). For
