@@ -50,7 +50,7 @@ function GeoMap() {
 
   this.init();
   this.addTiles();
-  L.geoJson(this.geojson, { pointToLayer: this.addLabels }).addTo(this.map);
+  this.addGeoJson();
 }
 
 // Methods
@@ -77,6 +77,7 @@ GeoMap.prototype = {
     if ($("#" + this.el).hasClass("no-scroll")) { this.map.scrollWheelZoom.disable(); }
   },
 
+  // This function should be called wtih pointToLayer
   addLabels: function (feature, latlng) {
     var props = feature.properties;
 
@@ -110,10 +111,44 @@ GeoMap.prototype = {
     }
 
   },
-  // Add popup text to each geoJSON feature
-  //onEachFeature: function(feature, layer) {
-  //  oMap.methods.popupContent(feature, layer);
-  //},
   
+  // This function should be called with onEachFeature
+  addPopups: function (feature, layer) {
+    var props = feature.properties;
+
+    var popupOptions  = { minWidth: 100, maxHeight: 250 };
+    var pleiadesUrl   = "http://pleiades.stoa.org/places/" + props.pid;
+    var tgnUrl        = "http://vocab.getty.edu/page/tgn/" + props.tgn;
+    var popupMsg      = "<h4 class='feature-name'>" + props.custom_name + "</h4>";
+    var linkedEntries = props.catalogue;
+
+    if (props.tgn.length > 0) {
+      popupMsg += "<a target='blank' href='" + tgnUrl + "'>Getty TGN ID: " +
+                  props.tgn + "</a><br />";
+    }
+
+    if (props.pid.length > 0) {
+      popupMsg += "<a target='blank' href='" + pleiadesUrl + "'>Pleiades ID: " +
+                  props.pid + "</a><br />";
+    }
+
+    if (linkedEntries.length > 0) {
+      popupMsg += "<strong>Catalogue Entries:</strong><ul>";
+      linkedEntries.forEach(function (entry) {
+        var entryURL = "http://gettypubs.github.io/Terracottas/catalogue/" + entry + "/";
+        popupMsg += "<a href='"+ entryURL + "'><li>Cat. " + entry + "</li></a>";
+      });
+      popupMsg += "</ul>";
+    }
+
+    layer.bindPopup(popupMsg, popupOptions);
+  },
+
+  // alias for L.geoJson() method with pre-configured options
+  // Call on initialization of new GeoMap object
+  addGeoJson: function(){
+    L.geoJson(this.geojson, { pointToLayer: this.addLabels, onEachFeature: this.addPopups }).addTo(this.map);
+  }
+
 };
 
