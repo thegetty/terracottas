@@ -3,10 +3,10 @@ title: Table of Contents
 layout: application
 sort_order: 1
 ---
-.container
-  .page-content.pb4
-    %h1.page-title.centered= current_page.data.title
-    .table-of-contents
+.table-of-contents
+  .container
+    .page-content.pb4
+      %h1.page-title.centered= current_page.data.title
       - pages       = sitemap.resources.find_all { |p| p.data.sort_order }
       - pages.sort_by! { |p| p.data.sort_order }
       .no-print
