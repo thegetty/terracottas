@@ -32,9 +32,9 @@ $footnote-size: 7.5pt;
 // @prince-pdf { prince-pdf-page-layout: two-column-right; }
 // scss-lint:enable PropertySpelling
 
-@page { 
+@page {
   size: $page-width $page-height;
-  bleed: $bleed; 
+  bleed: $bleed;
   prince-trim: 0.25in;
   marks: crop;
 }
@@ -78,7 +78,6 @@ $footnote-size: 7.5pt;
   // Remove elements not necessary for this layout
   hr,
   .cover-copy,
-  .cover-inner,
   .cover-map,
   .cover-explore,
   .cover-colophon,
@@ -173,11 +172,11 @@ $footnote-size: 7.5pt;
     background-color: #333;
     background-repeat: no-repeat;
     background-size: cover;
-    height: $bleed-height; 
+    height: $bleed-height;
     margin-top: -($bleed);
     margin-left: -($bleed);
     page: bleed;
-    width: $bleed-width; 
+    width: $bleed-width;
 
     @for $i from 1 through 60 {
       &[data-catalogue="#{$i}"] {
@@ -201,12 +200,44 @@ $footnote-size: 7.5pt;
     background-image: url(image_path("print/cover.jpg"));
     background-repeat: no-repeat;
     background-size: cover;
-    height: $bleed-height; 
+    height: $bleed-height;
     margin-top: -($bleed);
     margin-left: -($bleed);
     page: bleed;
     page-break-after: always;
     width: $bleed-width;
+  }
+
+  .cover-inner {
+    color: #000;
+    font-family: "Freight Text Pro SC";
+    text-transform: lowercase;
+    line-height: 1;
+    margin-top: 4in;
+    margin-right: $outer-margin;
+    page-break-before: right;
+
+    .cover-title {
+      font-family: "Freight Text Pro SC";
+      font-size: 18pt;
+      font-weight: normal;
+      line-height: 1;
+      margin-bottom: 0;
+      margin-top: 0;
+      text-align: right;
+    }
+
+    .cover-subtitle {
+      color: $medium-gray;
+      font-family: "Freight Text Pro SC";
+      font-size: 15pt;
+      line-height: 1;
+      margin-bottom: 0;
+      margin-top: 0;
+      text-align: right;
+    }
+
+    .cover-author { display: none; }
   }
 
   .entry { page-break-before: left; }
