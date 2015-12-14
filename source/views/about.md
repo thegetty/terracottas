@@ -5,9 +5,9 @@ sort_order: 102
 ---
 <div class="about">
 
-In the ancient world, terracotta sculpture was ubiquitous. Readily available and economical&#8212;unlike stone suitable for carving&#8212;clay allowed artisans to craft figures of remarkable variety and expressiveness. Terracottas from South Italy and Sicily attest to the prolific coroplastic workshops that supplied sacred and decorative images for sanctuaries, settlements, and cemeteries. Sixty terracottas are investigated here by noted scholar Maria Lucia Ferruzza, comprising a selection of significant types from the Getty’s larger collection&#8212;life-size sculptures, statuettes, heads and busts, altars, and decorative appliqués. In addition to the comprehensive catalogue entries, the publication includes a guide to the full collection of over one thousand other figurines and molds from the region by Claire Lyons.
+In the ancient world, terracotta sculpture was ubiquitous. Readily available and economical&#8212;unlike stone suitable for carving&#8212;clay allowed artisans to craft figures of remarkable variety and expressiveness. Terracottas from South Italy and Sicily attest to the prolific coroplastic workshops that supplied sacred and decorative images for sanctuaries, settlements, and cemeteries. Sixty terracottas are investigated here by noted scholar Maria Lucia Ferruzza, comprising a selection of significant types from the Getty’s larger collection&#8212;life-size sculptures, statuettes, heads and busts, altars, and decorative appliqués. In addition to the comprehensive catalogue entries, the publication includes a guide to the full collection of more than 1,000 other figurines and molds from the region by Claire Lyons.
 
-This custom online catalogue enables a deeper exploration of these ancient objects, with zoomable high-resolution photography and a select number of 360 rotations; the ability to [filter the catalogue](catalogue/) by location, typology and date; and an [interactive map](map/) drawn from the Ancient World Mapping Center and linked to the Getty’s Thesaurus of Geographic Names. The complete catalogue can be [downloaded in multiple formats](#downloads), as can the object data and main images. It is also available for sale as a [print-on-demand](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606061237) book.
+This custom online catalogue enables a deeper exploration of these ancient objects, with zoomable high-resolution photography and a select number of 360 rotations; the ability to [filter the catalogue](../catalogue/) by location, typology and date; and an [interactive map](map/) drawn from the Ancient World Mapping Center and linked to the Getty’s Thesaurus of Geographic Names. The complete catalogue can be [downloaded in multiple formats](#downloads), as can the object data and main images. It is also available for sale as a [paperback book](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606061237).
 
 ## Citation Information
 
@@ -38,7 +38,7 @@ will be detailed here and in the project repository at
 - [**PDF**](assets/downloads/AncientTerracottas_Ferruzza.pdf) (## MB)
 - [**EPUB**](assets/downloads/AncientTerracottas_Ferruzza.epub) (## MB)
 - [**MOBI/KINDLE**](assets/downloads/AncientTerracottas_Ferruzza.mobi) (## MB)
-- [**PRINT-ON-DEMAND**](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606061237)
+- [**PAPERBACK**](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606061237)
 
 Each of these alternative formats includes the complete catalogue text, the two to four primary views of each object, and the map. The PDF and print-on-demand editions also include a complete index.
 
@@ -47,7 +47,7 @@ Each of these alternative formats includes the complete catalogue text, the two 
 - [**JPG**](assets/downloads/AncientTerracottas_Ferruzza_Images.zip) (21 MB)
 - [**PPT**](assets/downloads/AncientTerracottas_Ferruzza_Images.ppt) (11 MB)
 
-Each download includes the main image and caption for each of the sixty catalogue entries, free for unrestricted use. JPGs are 1440px on their longest side. Alternate views and larger sizes are available through the Getty’s Open Content program at [www.getty.edu/art/collection](http://www.getty.edu/art/collection/).
+Each download includes the main image and caption for each of the sixty catalogue entries, free for unrestricted use. JPGs are 1,440 pixels on their longest side. Alternate views and larger sizes are available through the Getty’s Open Content program at [www.getty.edu/art/collection](http://www.getty.edu/art/collection/).
 
 ### Object Data
 

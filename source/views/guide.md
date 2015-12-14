@@ -21,7 +21,7 @@ Samian, and Mysian), Etruscan, Romano-Egyptian, and Roman figurines were
 acquired individually. By far the largest group of terracottas, however,
 consists of votive dedications from sanctuaries and cemeteries in
 Apulia, Lucania, Calabria, Campania, and on Sicily. Most were donations
-received in the 1970s–80s and destined to form a study collection.
+received in the 1970s and 1980s and destined to form a study collection.
 
 With the aim of facilitating further research on this material, this
 index provides links to over 1,000 terracottas. Two major lots consist
@@ -32,9 +32,9 @@ of documentation makes it difficult to ascertain whether some extraneous
 objects were mixed in with these lots, the repetition of types and the
 consistency of the fabric suggest that these assemblages were found
 together in votive deposits. The focus of *Ancient Terracottas* is
-extended here in two key areas. This Guide includes several female heads
+extended here in two key areas. This guide includes several female heads
 from a mold series known in Capua, as well as a significant group of
-statuettes likely to come from Teano, which reflect the links between
+statuettes likely to have come from Teano, which reflect the links between
 Campania and production centers in Magna Graecia and Latium. Important
 for any study of the rich coroplastic traditions of the Italian
 peninsula is the series of thirty-nine molds, mainly made in Taranto,
@@ -63,8 +63,8 @@ outlined below. It is current to the date of publication.
 ### Taranto
 
 -   [**71.AD.311** <i></i>{:class="ion-link"}][6766]{:target="blank"}:
-    Banqueting couple, late fourth–third century <span class="smcaps">BC</span>.
-    <span class="smcaps">Kingsley 1976</span>, p. 6, no. 10, fig. 10; B. M.
+    Banqueting couple, late fourth–third century <span class="smcaps">BC</span>. See
+    <span class="smcaps">Kingsley 1976</span>, p. 6, no. 10, fig. 10; and B. M.
     Kingsley, “The Reclining Heroes of Taras and Their Cult,”
     *California Studies in Classical Antiquity* 12 (1979), p. 205, n. 75.
 -   [**71.AD.339** <i></i>{:class="ion-link"}][6792]{:target="blank"}:

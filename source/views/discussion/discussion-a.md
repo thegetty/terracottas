@@ -336,7 +336,7 @@ During the mid-fourth century <span
 class="smcaps">BC</span>, Taras, under the command of
 Archytas, became the main center of Pythagorean philosophy and Orphism.
 According to Aristoxenus, a musicologist and intellectual of the fourth
-century BC, Archytas—philosopher, mathematician, and statesman—was an
+century <span class="smcaps">BC</span>, Archytas—philosopher, mathematician, and statesman—was an
 ideal representative of the *bios pithagorikos*, in which “good music”
 inspired a political practice that strove for a wise economic
 equilibrium among the social classes and in which philosophical
