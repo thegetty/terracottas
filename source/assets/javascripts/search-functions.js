@@ -103,6 +103,9 @@ function searchSetup(index, contents){
   });
 
   $("#search-field").bind("keyup", debounce(function(){
+    // Force repaint of page due to Safari rendering bug
+    $('<style></style>').appendTo($(document.body)).remove();
+    
     $(".search-results").empty();
     if ($(this).val() < 2) return;
     var query = $(this).val();

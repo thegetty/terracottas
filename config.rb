@@ -6,7 +6,7 @@ activate :views
 activate :directory_indexes
 
 activate :deploy do |deploy|
-  deploy.build_before = true
+  deploy.build_before = false
   deploy.method = :git
 end
 

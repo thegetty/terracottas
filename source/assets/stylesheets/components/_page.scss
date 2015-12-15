@@ -1,4 +1,5 @@
 .page-cover {
+  margin-bottom: 2rem;
   @include display(flex);
   @include justify-content(center);
   @include flex-wrap(wrap);
@@ -83,7 +84,7 @@
   border-top: 2px solid $light-gray;
   line-height: 1.4;
   font-family: $heading-font-family;
-  font-size: 0.9em;
   margin-top: 3rem;
   padding-top: 1.5rem;
+  p { font-size: 0.875em; }
 }
