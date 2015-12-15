@@ -10,7 +10,7 @@ Maria Lucia Ferruzza is an archaeologist in the Ministry of Cultural
 Heritage and Sicilian Identity and manages conservation projects,
 cultural agreements, and exhibitions with national and international
 institutions. She has worked as an editor and director for the arts
-magazines *Kalos* and *PER – Salvare Palermo*, which promote cultural
+magazines *Kalos* and *PER—Salvare Palermo*, which promote cultural
 patrimony policy and education. During her tenures at the Archaeological
 Superintendencies of Palermo and Trapani and subsequently at the
 Regional Center for Planning and Restoration in Palermo (1990s–2005),

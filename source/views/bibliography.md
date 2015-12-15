@@ -6,7 +6,7 @@ sort_order: 104
 - <span class="smcaps">Abruzzese Calabrese 1987</span>
 
   Abruzzese Calabrese, G. “Un’attestazione del culto di Hyakinthos a
-  Taranto,” *Taras* 7, nos. 1–2 (1987), pp. 7–33.
+  Taranto.” *Taras* 7, nos. 1–2 (1987), pp. 7–33.
 
 - <span class="smcaps">Abruzzese Calabrese 1996</span>
 
@@ -15,21 +15,20 @@ sort_order: 104
 
 - <span class="smcaps">*Acquisitions* 1985</span>
 
-  “Acquisitions/1985,” [*GettyMusJ* 14](http://www.getty.edu/publications/virtuallibrary/0892360917.html) (1986).
+  “Acquisitions/1985.” [*GettyMusJ* 14](http://www.getty.edu/publications/virtuallibrary/0892360917.html) (1986).
 
 - <span class="smcaps">*Acquisitions* 1986</span>
 
-  “Acquisitions/1986,” [*GettyMusJ* 15](http://www.getty.edu/publications/virtuallibrary/0892361336.html) (1987).
+  “Acquisitions/1986.” [*GettyMusJ* 15](http://www.getty.edu/publications/virtuallibrary/0892361336.html) (1987).
 
-- <span class="smcaps">*Acquisitions* 1996–1998</span>
+- <span class="smcaps">*Acquisitions* 1996–98</span>
 
   “Museum Acquisitions Between July 1, 1996, and June 30, 1998.” *The
-  Report of the J. Paul Getty Trust*, 1997–1998
+  Report of the J. Paul Getty Trust, 1997–98.*
 
-- <span class="smcaps">Albertocchi and Pautasso</span>
-  2012
+- <span class="smcaps">Albertocchi and Pautasso 2012</span>
 
-  M. Albertocchi and A. Pautasso, eds. *Philotechnia: Studi sulla
+  Albertocchi, M. and A. Pautasso, eds. *Philotechnia: Studi sulla
   coroplastica della Sicilia greca*. Catania, 2012.
 
 - <span class="smcaps">Ampolo 2009</span>
@@ -69,7 +68,7 @@ sort_order: 104
 
 - <span class="smcaps">Barra Bagnasco 1977</span>
 
-  Barra Bagnasco, M., ed. *Locri Epizefiri.*1. *Ricerche nella zona di
+  Barra Bagnasco, M., ed. *Locri Epizefiri: 1. Ricerche nella zona di
   Centocamere.* Florence, 1977.
 
 - <span class="smcaps">Barra Bagnasco 1986</span>
@@ -79,27 +78,27 @@ sort_order: 104
 
 - <span class="smcaps">Barra Bagnasco 1989</span>
 
-  Barra Bagnasco, M., ed. *Locri Epizefiri*. 3. *Cultura materiale e vita
+  Barra Bagnasco, M., ed. *Locri Epizefiri: 3. Cultura materiale e vita
   quotidiana*. Florence, 1989.
 
 - <span class="smcaps">Barra Bagnasco 1994</span>
 
-  Barra Bagnasco, M. “Il culto di Adone a Locri Epizefiri,” *Ostraka* 3,
+  Barra Bagnasco, M. “Il culto di Adone a Locri Epizefiri.” *Ostraka* 3,
   no. 2 (1994), pp. 231–43.
 
 - <span class="smcaps">Bartoccini 1936</span>
 
-  Bartoccini, R. “Taranto: Rinvenimenti e scavi (1933–1934),” *NS*c 12
+  Bartoccini, R. “Taranto: Rinvenimenti e scavi (1933–1934).” *NS*c 12
   (1936), pp. 107–232.
 
 - <span class="smcaps">Bell 1972</span>
 
-  Bell, M. “Two Terracotta Busts from the Judica Collection,” *ArchClass*
+  Bell, M. “Two Terracotta Busts from the Judica Collection.” *ArchClass*
   24 (1972), pp. 1–12.
 
 - <span class="smcaps">Bell 1981</span>
 
-  Bell, M. *Morgantina Studies I: The Terracottas.* Princeton, 1981.
+  Bell, M. *Morgantina Studies I: The Terracottas.* Princeton, NJ, 1981.
 
 - <span class="smcaps">Belli Pasqua 1995</span>
 
@@ -108,19 +107,19 @@ sort_order: 104
 
 - <span class="smcaps">Belvedere 1982</span>
 
-  Belvedere, O. “Tipologia e analisi delle arule imeresi.” In N. Allegro
-  et al., eds., *Secondo Quaderno Imerese*, Studi e materiali 3, pp.
-  61–113. Rome, 1982.
+  Belvedere, O. “Tipologia e analisi delle arule imeresi.” In *Secondo Quaderno Imerese*, ed. N. Allegro
+  et al., pp.
+  61–113. Studi e materiali 3. Rome, 1982.
 
 - <span class="smcaps">Bernabò Brea 1952</span>
 
-  Bernabò Brea, L. “I rilievi tarantini in pietra tenera,” *RivIstArch*,
-  ns. 1 (1952), pp. 5–241.
+  Bernabò Brea, L. “I rilievi tarantini in pietra tenera.” *RivIstArch*,
+  n.s. 1 (1952), pp. 5–241.
 
-- <span class="smcaps">Bernabò Brea 1971</span>–74
+- <span class="smcaps">Bernabò Brea 1971–74</span>
 
   Bernabò Brea, L. “Maschere della commedia nuova di Lipari e di
-  Centuripe,” *Dioniso* 45 (1971–74*)*, pp. 167–80.
+  Centuripe.” *Dioniso* 45 (1971–74*)*, pp. 167–80.
 
 - <span class="smcaps">Bernabò Brea 1981</span>
 
@@ -140,47 +139,46 @@ sort_order: 104
 - <span class="smcaps">Beschi 1991</span>
 
   Beschi, L. “Mousikè Téchne e Thánatos: L’immagine della musica sulle
-  *lekythoi* funerarie attiche a fondo bianco,” *Imago Musicae* 8 (1991),
+  *lekythoi* funerarie attiche a fondo bianco.” *Imago Musicae* 8 (1991),
   pp. 39–59.
 
 - <span class="smcaps">Besques 1954</span>
 
-  Besques, S. *Musée National du Louvre: Catalogue raisonné des figurines
+  Besques, S. *Catalogue raisonné des figurines
   et reliefs en terre-cuite grecs, étrusques et romains. I. Epoque
-  préhellénique, géométrique, archaïque et classique.* Paris, 1954.
+  préhellénique, géométrique, archaïque et classique.* Paris, Musée National du Louvre, 1954.
 
 - <span class="smcaps">Besques 1963</span>
 
-  Besques, S. *Musée National du Louvre: Catalogue raisonné des figurines
-  et reliefs en terre-cuite grecs et romains. II. Myrina.* Paris, 1963.
+  Besques, S. *Catalogue raisonné des figurines
+  et reliefs en terre-cuite grecs et romains. II. Myrina.* Paris, Musée National du Louvre, 1963.
 
 - <span class="smcaps">Besques 1972</span>
 
-  Besques, S. *Musée National du Louvre: Catalogue raisonné des figurines
+  Besques, S. *Catalogue raisonné des figurines
   et reliefs en terre-cuite grecs, étrusques et romains. III. Epoques
-  hellénistique et romain*e, *Grèce et Asie mineure*, vols.1–2. Paris,
-  1972.
+  hellénistique et romain*e, *Grèce et Asie mineure*, vols. 1–2. Paris, Musée National du Louvre, 1972.
 
 - <span class="smcaps">Besques 1986</span>
 
-  Besques, S. *Musée National du Louvre: Catalogue raisonné des figurines
+  Besques, S. *Catalogue raisonné des figurines
   et reliefs en terre-cuite grecs étrusques et romains. IV. 1. Epoques
-  hellénistique et romaine, Italie méridionale-Sicile-Sardaigne*. Paris,
+  hellénistique et romaine, Italie méridionale-Sicile-Sardaigne*. Paris, Musée National du Louvre,
   1986.
 
 - <span class="smcaps">Besques 1992</span>
 
-  Besques, S.*‎ Musée National du Louvre: Catalogue raisonné des figurines
+  Besques, S. *‎Catalogue raisonné des figurines
   et reliefs en terre-cuite grecs, étrusques et romains. IV. 2. Epoques
   hellénistique et romaine, cyrénaique, Egypte ptolématique et romaine,
-  Afrique du Nord et Proche-Orient*. 2 vols. Paris, 1992.
+  Afrique du Nord et Proche-Orient*. 2 vols. Paris, Musée National du Louvre, 1992.
 
-- <span class="smcaps">Bieber 1961</span>a
+- <span class="smcaps">Bieber 1961a</span>
 
   Bieber, M. *The History of the Greek and Roman Theater*, 2nd ed.
   Princeton, 1961.
 
-- <span class="smcaps">Bieber 1961</span>b
+- <span class="smcaps">Bieber 1961b</span>
 
   Bieber, M. *The Sculpture of the Hellenistic Age*. New York, 1961.
 
@@ -204,19 +202,19 @@ sort_order: 104
 
 - <span class="smcaps">Bottini and Guzzo 1993</span>
 
-  Bottini, A., and P. G. Guzzo.“Orfeo e le Sirene al Getty Museum,”
+  Bottini, A., and P. G. Guzzo. “Orfeo e le Sirene al Getty Museum.”
   *Ostraka* 2 (1993), pp. 43–52.
 
 - <span class="smcaps">Breglia Pulci Doria 1987</span>
 
-  Breglia Pulci Doria, L. “Le Sirene: Il canto, la morte, la polis,”
+  Breglia Pulci Doria, L. “Le Sirene: Il canto, la morte, la polis.”
   *Annali di archeologia e storia antica* 9 (1987), pp. 65–98.
 
 - <span class="smcaps">Breitenstein 1941</span>
 
   Breitenstein, N. *Catalogue of Terracottas, Cypriote, Greek,
-  Etrusco-Italian and Roman: Danish National Museum of Copenhagen*.
-  Copenhagen, 1941.
+  Etrusco-Italian and Roman*.
+  Copenhagen, Danish National Museum of Copenhagen, 1941.
 
 - <span class="smcaps">Bulle 1939</span>
 
@@ -237,11 +235,11 @@ sort_order: 104
 - <span class="smcaps">Carter 1975</span>
 
   Carter, J. C. *The Sculpture of Taras*. Transactions of the American
-  Philosophical Society, ns. 65, pt. 7. Philadelphia, 1975.
+  Philosophical Society, n.s. 65, pt. 7. Philadelphia, 1975.
 
 - <span class="smcaps">Carafa 1996</span>
 
-  Carafa, P. “Le terrecotte figurate della stipe votiva di Ariccia,”
+  Carafa, P. “Le terrecotte figurate della stipe votiva di Ariccia.”
   *ArchClass* 40 (1996), pp. 273–94.
 
 - <span class="smcaps">Cassano 1992</span>
@@ -252,7 +250,7 @@ sort_order: 104
 - <span class="smcaps">Cassimatis 1987</span>
 
   Cassimatis, H. “Amours légitime? Rêves d’amours? dans la céramique
-  grecque,” *BABesch* 62 (1987), pp. 75–84.
+  grecque.” *BABesch* 62 (1987), pp. 75–84.
 
 - <span class="smcaps">Castoldi 1999</span>
 
@@ -277,21 +275,21 @@ sort_order: 104
 
 - <span class="smcaps">Croissant 2007</span>
 
-  Croissant, F. “Les echos de la sculpture attique en occident.” In E.
-  Greco and M. Lombardo, eds., *Atene e l’Occidente: I grandi temi: Le
+  Croissant, F. “Les echos de la sculpture attique en occident.” In *Atene e l’Occidente: I grandi temi: Le
   premesse, i protagonisti, le forme della comunicazione e
   dell’interazione, i modi dell’intervento ateniese in Occidente. Atti del
-  Convegno Internazionale, Atene, 25–27 maggio 2006*, pp. 295–324. Athens,
+  Convegno Internazionale, Atene, 25–27 maggio 2006*, ed. E.
+  Greco and M. Lombardo, pp. 295–324. Athens,
   2007.
 
 - <span class="smcaps">Curti and Van Bremen 1999</span>
 
-  Curti, E., and R. van Bremen. “Notes on the Lex Sacra from Selinous,”
+  Curti, E., and R. van Bremen. “Notes on the Lex Sacra from Selinous.”
   *Ostraka* 8 (1999), pp. 21–33.
 
 - <span class="smcaps">Cusumano 1997–98</span>
 
-  Cusumano, N. “Culti e miti,” *Kokalos* 43–44 (1997–98), pp. 727–812.
+  Cusumano, N. “Culti e miti.” *Kokalos* 43–44 (1997–98), pp. 727–812.
 
 - <span class="smcaps">*Damarato* 2000</span>
 
@@ -339,7 +337,7 @@ sort_order: 104
 - <span class="smcaps">De Miro 2000</span>
 
   De Miro, E. *Agrigento I:* *I santuari urbani: L’area scara tra il
-  tempio di Zeus e Porta V*. 2 vols, Rome, 2000.
+  tempio di Zeus e Porta V*. 2 vols. Rome, 2000.
 
 - <span class="smcaps">Dewailly 1992</span>
 
@@ -349,7 +347,7 @@ sort_order: 104
 
 - <span class="smcaps">Fabbricotti 1979</span>
 
-  Fabbricotti, E. “Ruoti (Potenza): Scavi in località Fontana Bona, 1972,”
+  Fabbricotti, E. “Ruoti (Potenza): Scavi in località Fontana Bona, 1972.”
   *NSc* 33 (1979), pp. 347–413.
 
 - <span class="smcaps">Ferrandini Troisi, Buccoliero,
@@ -357,6 +355,14 @@ sort_order: 104
 
   Ferrandini Troisi, F., B. M. Buccoliero, and D. Ventrelli. *Coroplastica
   tarantina. Le matrici iscritte*. Bari, 2012.
+
+- <span class="smcaps">Ferrarini and Santoro 2010</span>
+
+Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultura funeraria ellenistica di Dyrrachion/Dyrrachium: Il caso delle sirene,” *Eidola* 6 (2009) [2010], pp. 47-87, esp. 70-71, fig. 16.
+
+- <span class="smcaps">Ferrarini and Santoro 2011</span>
+
+  Ferrarini, M. and S. Santoro, “Le sirene di Durazzo tra Grecia, Magna Grecia e Illiria.” In *L’Illyrie méridionale e l’Epire dans l’antiquité V, Actes du Ve colloque international de Grenoble, Grenoble 8–11 octobre 2008*, ed. J.-L. Lamboley and M. P. Castiglioni, vol. 2, pp. 559–69. Paris, 2011.
 
 - <span class="smcaps">Ferruzza 2013</span>
 
@@ -367,8 +373,8 @@ sort_order: 104
 
 - <span class="smcaps">Fischer-Hansen 1992</span>
 
-  Fischer-Hansen, T. *Campania, South Italy and Sicily: Ny Carlsberg
-  Glyptotek.* Copenhagen, 1992.
+  Fischer-Hansen, T. *Campania, South Italy and Sicily* Copenhagen, Ny Carlsberg
+  Glyptotek, 1992.
 
 - <span class="smcaps">Flashar 1992</span>
 
@@ -378,16 +384,16 @@ sort_order: 104
 - <span class="smcaps">Frel 1979</span>
 
   Frel, J., ed. *Antiquities in the J. Paul Getty Museum: A Checklist:
-  Sculpture*, vol*.*1, *Greek Originals*. Malibu, 1979.
+  Sculpture*. Vol .1, *Greek Originals*. Malibu, 1979.
 
 - <span class="smcaps">Gabrici 1927</span>
 
-  Gabrici, E. “Il santuario della Malophoros a Selinunte,” *MonAnt* 32
+  Gabrici, E. “Il santuario della Malophoros a Selinunte.” *MonAnt* 32
   (1927).
 
 - <span class="smcaps">Garezou 1994</span>
 
-  Garezou, M.-X. s.v. “Orpheus,” *LIMC* 7 (1994), pp. 81–105.
+  Garezou, M.-X. s.v. “Orpheus,” *LIMC* 7 (1994), pp. 88–105.
 
 - <span class="smcaps">Getty 1978</span>
 
@@ -411,7 +417,7 @@ sort_order: 104
 
 - <span class="smcaps">Getty 2001</span>
 
-  *The J. Paul Getty Museum Handbook of the Collection*. Los Angeles,
+  *The J. Paul Getty Museum Handbook of the Collections*. Los Angeles,
   2001.
 
 - <span class="smcaps">Getty 2002</span>
@@ -496,8 +502,7 @@ sort_order: 104
 - <span class="smcaps">Hermary and Cassimatis</span>
   1986
 
-  Hermary, A., and H. Cassimatis. s.v. “Eros,” *LIMC* 3 (1986), pp.
-  850–942.
+  Hermary, A., and H. Cassimatis. s.v. “Eros,” *LIMC* 3 (1986), pp. 850–942.
 
 - <span class="smcaps">Higgins 1954</span>
 
@@ -510,7 +515,7 @@ sort_order: 104
 
 - <span class="smcaps">Higgins 1986</span>
 
-  Higgins, R. A. *Tanagra and the Figurines*. Princeton, 1986.
+  Higgins, R. A. *Tanagra and the Figurines*. Princeton, NJ, 1986.
 
 - <span class="smcaps">Hinz 1998</span>
 
@@ -524,20 +529,20 @@ sort_order: 104
 
 - <span class="smcaps">Hofstetter 1997</span>
 
-  Hofstetter, E. *“*Seirenen*,” LIMC* 8, suppl. (1997), pp. 1101–4.
+  Hofstetter, E. s.v. “Seirenen,” *LIMC* 8, suppl. (1997), pp. 1101–4.
 
 - <span class="smcaps">Iacobone 1988</span>
 
   Iacobone, C. *Le stipi votive di Taranto: Scavi 1885–1934.* Corpus delle
   stipi votive in Italia, Regio II, 1. Rome, 1988.
 
-- <span class="smcaps">Jeammet 2003</span>a
+- <span class="smcaps">Jeammet 2003a</span>
 
   Jeammet, V. “Quelques particularités de la production des pleureuses
-  canosines en terre cuite,” *Revue archéologique* 36, no. 2 (2003), pp.
+  canosines en terre cuite.” *Revue archéologique* 36, no. 2 (2003), pp.
   255–92.
 
-- <span class="smcaps">Jeammet 2003</span>b
+- <span class="smcaps">Jeammet 2003b</span>
 
   Jeammet, V. ed. *Tanagra: Mythe et archéologie*. Exh. cat. Paris, Musée
   du Louvre, 2003.
@@ -545,19 +550,19 @@ sort_order: 104
 - <span class="smcaps">Jeammet and Nadalini 1997</span>
 
   Jeammet, V., and G. Nadalini. “Restauration et étude technique de deux
-  ‘orantes’ de Canosa,” *Revue du Louvre* 4 (1997), pp. 69–76.
+  ‘orantes’ de Canosa.” *Revue du Louvre* 4 (1997), pp. 69–76.
 
 - <span class="smcaps">Jeammet et al. 2007</span>
 
   Jeammet, V., C. Knecht, and S. Pagès-Camagna, “La couleur sur les terre
   cuites hellénistiques: Les figurines de Tanagra et de Myrina dans la
-  collection du Musée du Louvre.” In S. Descamps-Lequime, ed., *Peinture
+  collection du Musée du Louvre.” In  *Peinture
   et couleur dans le monde grec antique: Proceedings of a conference held
-  March 10 and 27, 2004*, pp. 193–203. Paris, 2007.
+  March 10 and 27, 2004*, ed. S. Descamps-Lequime, pp. 193–203. Paris, 2007.
 
 - <span class="smcaps">Kahil 1984</span>
 
-  Kahil, L. s.v. “Artemis,” *LIMC* 1 (1984), pp. 618–753.
+  Kahil, L. s.v. “Artemis,” *LIMC* 1 (1984), pp. 618–754.
 
 - <span class="smcaps">Kekulé 1884</span>
 
@@ -572,18 +577,18 @@ sort_order: 104
 - <span class="smcaps">Kingsley 1976</span>
 
   Kingsley, B. M. [*The Terracottas of the Tarantine Greeks: An
-  Introduction to the Collection in the J. Paul Getty Museum*](http://www.getty.edu/publications/virtuallibrary/0892360178.html). Malibu, J.
+  Introduction to the Collection in the J. Paul Getty Museum.*](http://www.getty.edu/publications/virtuallibrary/0892360178.html) Malibu, J.
   Paul Getty Museum, 1976.
 
 - <span class="smcaps">Kingsley 1977</span>
 
   Kingsley, B. M. “Tarantine Terracottas Moulds and Reliefs in the J. Paul
-  Getty Museum.” Ph.D. dissertation, University of California, 1977.
+  Getty Museum.” PhD dissertation, University of California, 1977.
 
 - <span class="smcaps">kingsley 1981</span>
 
   Kingsley, B. M. “Coroplastic Workshops at Taras: Marked Moulds of the
-  Late Classical Period,” [*GettyMusJ* 9](http://www.getty.edu/publications/virtuallibrary/0892360321.html) (1981), pp.
+  Late Classical Period.” [*GettyMusJ* 9](http://www.getty.edu/publications/virtuallibrary/0892360321.html) (1981), pp.
   41–52.
 
 - <span class="smcaps">Knoepfler 1992</span>
@@ -602,7 +607,7 @@ sort_order: 104
 - <span class="smcaps">La Regina 2003</span>
 
   La Regina, A., ed. *Nike: Il gioco e la vittoria.* Exh. cat. Rome,
-  Colosseo 2003.
+  Colosseo, 2003.
 
 - <span class="smcaps">La Rocca 1985</span>
 
@@ -659,7 +664,7 @@ sort_order: 104
 
 - <span class="smcaps">Libertini 1947</span>
 
-  Libertini, G. “Centuripe: Scavi nella necropoli in Contrada Casino,”
+  Libertini, G. “Centuripe: Scavi nella necropoli in Contrada Casino.”
   *NSc* 1 (1947), pp. 259–311.
 
 - <span class="smcaps">Lindner 1988</span>
@@ -673,14 +678,13 @@ sort_order: 104
 
 - <span class="smcaps">Lippolis 1982</span>
 
-  Lippolis, E. “Le testimonianze del culto in Taranto greca,” *Taras* 2,
+  Lippolis, E. “Le testimonianze del culto in Taranto greca.” *Taras* 2,
   nos. 1–2 (1982), pp. 81–135.
 
 - <span class="smcaps">Lippolis 1994</span>
 
-  Lippolis, E., ed. *Catalogo del Museo archeologico di Taranto. III, 1.
-  Taranto: Le necropoli: Aspetti e problemi della documentazione
-  archeologica tra VII e I sec. a.C.* Taranto, 1994.
+  Lippolis, E., ed. *Taranto: Le necropoli: Aspetti e problemi della documentazione
+  archeologica tra VII e I sec. a.C.* Catalogo del Museo archeologico di Taranto 3. Taranto, 1994.
 
 - <span class="smcaps">Lippolis 1996</span>
 
@@ -690,15 +694,15 @@ sort_order: 104
 - <span class="smcaps">Lippolis 2001</span>
 
   Lippolis, E. “Culto e iconografie della coroplastica votiva: Problemi
-  interpretativi a Taranto e nel mondo greco,” *MÉFRA* 113, no. 1 (2001),
+  interpretativi a Taranto e nel mondo greco.” *MÉFRA* 113, no. 1 (2001),
   pp. 225–55.
 
 - <span class="smcaps">Lissi Caronna, Sabbione, and Vlad
   Borrelli 1999</span>
 
   Lissi Caronna, E., C. Sabbione, and L. Vlad Borrelli, *I pinakes di
-  Locri Epizefiri*, Musei di Reggio Calabria e di Locri, Atti e Memorie
-  della Società Magna Grecia, IV ser., part 1, 1996–99, Rome, 1999.
+  Locri Epizefiri.* Musei di Reggio Calabria e di Locri, Atti e Memorie
+  della Società Magna Grecia, IV ser., part 1, 1996–99. Rome, 1999.
 
 - <span class="smcaps">Lissi Caronna, Sabbione, and Vlad
   Borrelli 2007</span>
@@ -709,7 +713,7 @@ sort_order: 104
 
 - <span class="smcaps">Lo Porto 1966</span>
 
-  Lo Porto, F. G. “Metaponto: Scavi e ricerche archeologiche,” *NSc* 10
+  Lo Porto, F. G. “Metaponto: Scavi e ricerche archeologiche.” *NSc* 10
   (1966), pp. 136–231.
 
 - <span class="smcaps">*Lo stile severo* 1990</span>
@@ -741,13 +745,13 @@ sort_order: 104
 - <span class="smcaps">Maas and Snyder 1989</span>
 
   Maas, M., and J. M. Snyder. *Stringed Instruments of Ancient Greece*.
-  New Haven and London, 1989.
+  New Haven, CT, and London, 1989.
 
 - <span class="smcaps">Marchionno 1998</span>
 
   Marchionno, M. L. “Apollo a Cirene: Aspetti iconografici.” In *La
   Cirenaica in età antica:* *Atti del convegno internazionale di studi,
-  Macerata, 18–20 maggio 1995*, pp. 366–68. Pisa, 1998.
+  Macerata, 18–20 maggio 1995*,by E. Catani and S. M. Marengo, pp. 366–68. Pisa, 1998.
 
 - <span class="smcaps">Marconi 1994</span>
 
@@ -770,9 +774,7 @@ sort_order: 104
 
   Marconi, C. “Le metope arcaiche di Selinunte: Un riesame.” In *Guerra e
   pace in Sicilia e nel Mediterraneo antico, VIII–III sec. a.C.: Arte,
-  prassi e teoria della pace e della guerra*, Atti delle quinte giornate
-  internazionali di studio sull’area elima e la Sicilia occidentale nel
-  contesto Mediterraneo (Erice, October 12–15, 2003), pp. 621–30. Pisa,
+  prassi e teoria della pace e della guerra*, pp. 621–30. Pisa,
   2006.
 
 - <span class="smcaps">Marconi 2007</span>
@@ -783,8 +785,8 @@ sort_order: 104
 - <span class="smcaps">Marconi 2009</span>
 
   Marconi, C. “Il rilievo con ratto di Persephone dal Santuario della
-  Malophoros: Un riesame.” In C. Antonetti and S. De Vido, eds., *Temi
-  selinuntini*, pp. 191–205. Pisa, 2009.
+  Malophoros: Un riesame.” In *Temi
+  selinuntini*, ed. C. Antonetti and S. De Vido, pp. 191–205. Pisa, 2009.
 
 - <span class="smcaps">Masaracchia 1993</span>
 
@@ -795,9 +797,9 @@ sort_order: 104
 
   Masseria, C., and M. Torelli. “Il mito all’alba di una colonia greca: Il
   programma figurativo delle metope dell’Heraion alla foce del Sele.” In
-  F. H. Massa-Pairault, ed., *Le mythe grec dans l’Italie antique*:
+  *Le mythe grec dans l’Italie antique*:
   *Fonction et image*: *Actes du colloque international organisé par
-  l’École Française de Rome, 14–16 November 1996*, pp. 205–64. Rome, 1999.
+  l’École Française de Rome, 14–16 November 1996*, ed. F. H. Massa-Pairault, pp. 205–64. Rome, 1999.
 
 - <span class="smcaps">Mazzei 1992</span>
 
@@ -813,19 +815,18 @@ sort_order: 104
 
   Merker, G. S. *The Sanctuary of Demeter and Kore: Terracotta Figurines
   of the Classical, Hellenistic, and Roman Periods*, Corinth 18, part 4.
-  Princeton, 2000.
+  Princeton, NJ, 2000.
 
 - <span class="smcaps">Miller Ammerman 1985</span>
 
   Miller Ammerman, R. “Medma and the Exchange of Votive Terracottas.” In
-  C. Malone and S. Stoddart, eds., *Papers in Italian Archaeology* 4,
-  British Archaeological Reports International Series 243–46 (1985), pp.
-  5–19.
+  *Papers in Italian Archaeology IV: The Cambridge Conference*, ed. C. Malone and S. Stoddart, pp.
+  5–19. British Archaeological Reports International Series 243–46. Oxford, 1985.
 
-- <span class="smcaps">Monetti 2004–2005</span>
+- <span class="smcaps">Monetti 2004–5</span>
 
   Monetti, L. “La favissa 6 del santuario della sorgente di Satyrion,”
-  Tesi di laurea in Archeologia della Magna Graecia, Facoltà di Lettere
+  Tesi di laurea, Facoltà di Lettere
   dell’Università degli Studi di Firenze (2000–2001), partially published
   in *Taras* 24–25 (2004–5), pp. 77–105.
 
@@ -843,7 +844,7 @@ sort_order: 104
 
   Musumeci, A. “Le terrecotte figurate della necropoli di contrada Casino
   in Centuripe.” In *Centuripe: Indagini archeologiche e prospettive di
-  ricerca*, ed. G. Biondi (Enna, 2010), pp. 39–114.
+  ricerca*, ed. G. Biondi, pp. 39–114. Enna, 2010.
 
 - <span class="smcaps">Nafissi 1991</span>
 
@@ -859,7 +860,7 @@ sort_order: 104
 - <span class="smcaps">Oliver 1968</span>
 
   Oliver, A., Jr. *The Reconstruction of Two Apulian Tomb Groups*: *Antike
-  Kunst* suppl*.* 5 (1968).
+  Kunst*, suppl*.* 5 (1968).
 
 - <span class="smcaps">*Orfismo in Magna Grecia*</span>
   1975
@@ -869,7 +870,7 @@ sort_order: 104
 
 - <span class="smcaps">Orlandini 1959</span>
 
-  Orlandini, P. “Arule arcaiche e a rilievo nel Museo Nazionale di Gela,”
+  Orlandini, P. “Arule arcaiche e a rilievo nel Museo Nazionale di Gela.”
   *RM* 66 (1959), pp. 97–103.
 
 - <span class="smcaps">Orlandini 1983</span>
@@ -885,37 +886,36 @@ sort_order: 104
 
 - <span class="smcaps">Østby 1982</span>
 
-  Østby, E. “An Early Sicilian Relief-Metope in Copenhagen,” *Acta ad
+  Østby, E. “An Early Sicilian Relief-Metope in Copenhagen.” *Acta ad
   archaeologiam et artium historiam pertinentia* 2 (1982), pp. 1–53.
 
 - <span class="smcaps">Østby 1987</span>
 
-  Østby, E. “Riflessioni sulle metope di Selinunte,” *PdP* 42 (1987), pp.
+  Østby, E. “Riflessioni sulle metope di Selinunte.” *PdP* 42 (1987), pp.
   123–53.
 
 - <span class="smcaps">Østby 1996</span>
 
-  Østby, E. “Orestes and Clytaimnestra at Selinus,” *Symbolae Osloenses*
+  Østby, E. “Orestes and Clytaimnestra at Selinus.” *Symbolae Osloenses*
   71 (1996), pp. 9–33.
 
 - <span class="smcaps">Panvini and Sole 2009</span>
 
   Panvini, R., and L. Sole, eds. *La Sicilia arcaica: Dalle apoikiai al
-  480 a.C. Atti del Convegno Internazionale, Caltanissetta 27*–29 March
-  2008. Palermo, 2009.
+  480 a.C. Atti del Convegno Internazionale, Caltanissetta 27–29 March
+  2008.* Palermo, 2009.
 
 - <span class="smcaps">Paoletti 1981</span>
 
   Paoletti, M. “Contributo al corpus delle terrecotte medmee e carta
-  archeologica di Rosarno.” In M. Paoletti and S. Settis, eds.<span
-  id="Editing" class="anchor"></span>, *Medma e il suo territorio:
-  Materiali per una carta archeologica*, pp. 47–92. Bari, 1981.
+  archeologica di Rosarno.” In *Medma e il suo territorio:
+  Materiali per una carta archeologica*, ed. M. Paoletti and S. Settis, pp. 47–92. Bari, 1981.
 
 - <span class="smcaps">*Passion for Antiquities*</span>
   1994
 
   [*A Passion for Antiquities: Ancient Art from the Collection of Barbara
-  and Lawrence Fleischman*](http://www.getty.edu/publications/virtuallibrary/0892362235.html). Exh. cat. Malibu, J. Paul Getty Museum, 1994.
+  and Lawrence Fleischman.*](http://www.getty.edu/publications/virtuallibrary/0892362235.html) Exh. cat. Malibu, J. Paul Getty Museum, 1994.
 
 - <span class="smcaps">Pautasso 2007</span>
 
@@ -934,8 +934,8 @@ sort_order: 104
 - <span class="smcaps">Pecoraro 2001</span>
 
   Pecoraro, C. “Le arule della Malophoros e le piccole metope di
-  Selinunte,” *Quaderni del Museo archeologico regionale ‘Antonino
-  Salinas’* 7 (2001), pp. 33–44.
+  Selinunte.” *Quaderni del Museo archeologico regionale “Antonino
+  Salinas”* 7 (2001), pp. 33–44.
 
 - <span class="smcaps">Pelagatti and Guzzo 1997</span>
 
@@ -950,13 +950,13 @@ sort_order: 104
 
 - <span class="smcaps">Pensabene 2001</span>
 
-  Pensabene, P., ed. *Terrecotte del Museo nazionale romano.* 2.
-  *Materiali dai depositi votivi di Palestrina: Collezione “kircheriana.”*
+  Pensabene, P., ed. *Terrecotte del Museo nazionale romano:* 2.
+  *Materiali dai depositi votivi di Palestrina; Collezione “Kircheriana e Palestrina.”*
   Rome, 2001.
 
 - <span class="smcaps">Piccirilli 1967</span>
 
-  Piccirilli, L. “Ricerche sul culto di Hyakinthos,” *Studi classici ed
+  Piccirilli, L. “Ricerche sul culto di Hyakinthos.” *Studi classici ed
   orientali* 16 (1967), pp. 99–116.
 
 - <span class="smcaps">Piccirilli 1975</span>
@@ -968,15 +968,15 @@ sort_order: 104
   Pisani, M. *Camarina: Le terrecotte figurate e la ceramica da una
   fornace di V e IV secolo a.C.* Rome, 2008.
 
-- <span class="smcaps">Poli 2010</span>
+- <span class="smcaps">Poli 2010a</span>
 
   Poli, N. *Collezione Tarentina del Civico Museo di Storia ed Arte di
   Trieste: Coroplastica arcaica e classica.* Trieste, 2010.
 
-- <span class="smcaps">Poli 2010</span>a
+- <span class="smcaps">Poli 2010b</span>
 
   Poli, N. “Terrecotte di cavalieri dal deposito del Pizzone (Taranto):
-  Iconografia e interpretazione del soggetto,” *ArchCl* 61, n.s. 11
+  Iconografia e interpretazione del soggetto.” *ArchCl* 61, n.s. 11
   (2010), pp. 41–73.
 
 - <span class="smcaps">Pontrandolfo 2002</span>
@@ -1001,7 +1001,7 @@ sort_order: 104
 - <span class="smcaps">Portale 2008</span>
 
   Portale, E. C. “Coroplastica votiva nella Sicilia di V e III secolo
-  a.C.: La stipe di Fontana Calda a Butera,” *Sicilia antiqua* 5 (2008),
+  a.C.: La stipe di Fontana Calda a Butera.” *Sicilia antiqua* 5 (2008),
   pp. 9–58.
 
 - <span class="smcaps">Prag 1985</span>
@@ -1055,11 +1055,11 @@ sort_order: 104
 
 - <span class="smcaps">Ridgway 1970</span>
 
-  Ridgway, B. S. *The Severe Style in Greek Sculpture*. Princeton, 1970.
+  Ridgway, B. S. *The Severe Style in Greek Sculpture*. Princeton, NJ, 1970.
 
 - <span class="smcaps">Ridgway 1997</span>
 
-  Ridgway, B. S. *Fourth-Century Styles in Greek Sculpture*. Madison,
+  Ridgway, B. S. *Fourth-Century Styles in Greek Sculpture*. Madison, WI,
   1997.
 
 - <span class="smcaps">Ridgway 2004</span>
@@ -1073,14 +1073,14 @@ sort_order: 104
   a.C.” In <span class="smcaps">*Sikanie* 1985</span>,
   pp. 125–242.
 
-- <span class="smcaps">Rolley 1994</span>–99
+- <span class="smcaps">Rolley 1994–99</span>
 
   Rolley, C. *La sculpture grecque*. 2 vols. Paris, 1994–99.
 
 - <span class="smcaps">Salapata 2001</span>
 
   Salapata, G. “&Tau;&rho;&iota;&phi;&iota;&lambda;&eta;&tau;&omicron;&sigmaf; &Alpha;&delta;&omega;&nu;&iota;&sigmaf;: An Exceptional Pair of Terracotta
-  Arulae from South Italy,” [*Studia Varia from the J. Paul Getty Museum* 2](http://www.getty.edu/publications/virtuallibrary/0892366346.html)
+  Arulae from South Italy.” [*Studia Varia from the J. Paul Getty Museum* 2](http://www.getty.edu/publications/virtuallibrary/0892366346.html)
   (2001), pp. 25–50.
 
 - <span class="smcaps">*Santuari della Magna Grecia in
@@ -1103,25 +1103,25 @@ sort_order: 104
 - <span class="smcaps">*Selected Works* 1971</span>
 
   *Selected Works from the Ancient Art Collection of the J. Paul Getty
-  Museum, Malibu, California.* Exh. cat. State College, Pa., Hetzel Union
+  Museum, Malibu, California.* Exh. cat. State College, PA, Hetzel Union
   Gallery, Pennsylvania State University, 1971.
 
 - <span class="smcaps">Servais-Soyez 1991</span>
 
   Servais-Soyez, B. s.v. “Adonis,” *LIMC* 1 (1991), pp. 222–29.
 
-- <span class="smcaps">Settis 1987</span>
+- <span class="smcaps">Settis 1987a</span>
 
   Settis, S. *Archeologia in Calabria: Figure e temi*. Rome, 1987.
 
-- <span class="smcaps">Settis 1987</span>a
+- <span class="smcaps">Settis 1987b</span>
 
-  Settis, S., ed. *Storia della Calabria 1:* *Storia della Calabria
+  Settis, S., ed. *Storia della Calabria 1: La Calabria
   antica.* Rome and Reggio Calabria, 1987.
 
 - <span class="smcaps">Settis 1994</span>
 
-  Settis, S., ed. *Storia della Calabria antica.* 2. *Età italica e
+  Settis, S., ed. *Storia della Calabria antica 2: Età italica e
   romana*. Rome, 1994.
 
 - <span class="smcaps">Settis and Parra 2005</span>
@@ -1137,42 +1137,42 @@ sort_order: 104
 
 - <span class="smcaps">Simonetti 2002</span>
 
-  Simonetti, M. “Le arule da Caulonia.” In M. C. Parra, ed., *Kaulonía,
+  Simonetti, M. “Le arule da Caulonia.” In *Kaulonía,
   Caulonia, Stilida (e oltre): Contributi storici, archeologici e
-  topografici* 1, pp. 337–415. Pisa, 2002.
+  topografici* 1, ed. M. C. Parra, pp. 337–415. Pisa, 2002.
 
-- <span class="smcaps">Siracusano 1986</span>–87
+- <span class="smcaps">Siracusano 1986–87</span>
 
   Siracusano, A. “Riflessioni sull’origine e il significato dei busti
-  fittili di divinità femminile in Sicilia,” *Quaderni dell’Istituto di
+  fittili di divinità femminile in Sicilia.” *Quaderni dell’Istituto di
   Archeologia dell’ Università di Messina* 2 (1986–87), pp. 51–72.
 
 - <span class="smcaps">Smithers 1993</span>
 
   Smithers, S. “Images of Piety and Hope: Select Terracotta Votives from
-  West-Central Italy,” [*Studia Varia from the J. Paul Getty Museum* 1](http://www.getty.edu/publications/virtuallibrary/0892362030.html)
+  West-Central Italy.” [*Studia Varia from the J. Paul Getty Museum* 1](http://www.getty.edu/publications/virtuallibrary/0892362030.html)
   (1993), pp. 13–32.
 
 - <span class="smcaps">Sourvinou-Inwood 1978</span>
 
   Sourvinou-Inwood, C. “Persephone and Aphrodite at Locri: A Model for
-  Personality Definitions in Greek Religion,” *Journal of Hellenistic
+  Personality Definitions in Greek Religion.” *Journal of Hellenistic
   Studies* 98 (1978), pp. 101–21.
 
 - <span class="smcaps">Spagnolo 2000</span>
 
   Spagnolo, G. “Le terrecotte figurate dell’area della stazione vecchia di
-  Gela e i problemi della coroplastica geloa nel V secolo a.C.,” *Quaderni
+  Gela e i problemi della coroplastica geloa nel V secolo a.C.” *Quaderni
   di Archeologia, Università di Messina* 1, no. 1 (2000), pp. 179–201.
 
-- <span class="smcaps">Spigo 2000</span>a
+- <span class="smcaps">Spigo 2000a</span>
 
   Spigo, U. “I pinakes di Francavilla di Sicilia (parte I),” *BdA* 111
   (2000), pp. 1–60.
 
-- <span class="smcaps">Spigo 2000</span>b
+- <span class="smcaps">Spigo 2000b</span>
 
-  Spigo, U. “I pinakes di Francavilla di Sicilia (parte II),” *BdA* 113
+  Spigo, U. “I pinakes di Francavilla di Sicilia (parte II).” *BdA* 113
   (2000), pp. 1–78.
 
 - <span class="smcaps">Stibbe 2001</span>
@@ -1198,7 +1198,7 @@ sort_order: 104
 
 - <span class="smcaps">Tomei 1992</span>
 
-  Tomei, M. A. “Statue di terracotta sul Palatino,” *RM* 99 (1992), pp.
+  Tomei, M. A. “Statue di terracotta sul Palatino.” *RM* 99 (1992), pp.
   171–226.
 
 - <span class="smcaps">Torelli 1997</span>
@@ -1222,13 +1222,13 @@ sort_order: 104
 
   Uhlenbrock, J. P., with contributions by R. Miller Ammerman. *The
   Coroplast’s Art: Greek Terracottas of the Hellenistic World*. Exh. cat.
-  New Paltz, N.Y., College Art Gallery, SUNY New Paltz, 1990.
+  New Paltz, N.Y., College Art Gallery, State University of New York, New Paltz, 1990.
 
 - <span class="smcaps">Van der Wielen-van Ommeren 1985</span>
 
-  Van der Wielen-van Ommeren, F. "Polychrome Vases and Terracottas from
-  Southern Italy in the J. Paul Getty Museum," [*Greek Vases in the J. Paul
-  Getty Museum* 2. *Occasional Papers on Antiquities* 3](http://www.getty.edu/publications/virtuallibrary/0892360704.html) (1985), pp. 171–82.
+  Van der Wielen-van Ommeren, F. “Polychrome Vases and Terracottas from
+  Southern Italy in the J. Paul Getty Museum,” [*Greek Vases in the J. Paul
+  Getty Museum: Volume 2,* Occasional Papers on Antiquities 3](http://www.getty.edu/publications/virtuallibrary/0892360704.html) (1985), pp. 171–82.
 
 - <span class="smcaps">Walters 1903</span>
 
