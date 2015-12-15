@@ -351,9 +351,11 @@ $footnote-size: 7.5pt;
       margin: 0;
       &::after { content: leader(dotted) " " target-counter(attr(href, url), page);}
     }
+		h1 { margin-bottom: 0.75in; }
     h3, h4, h6 { margin: 0; }
     li { font-size: 1em; margin-bottom: 0.15in; }
     table { font-size: 0.875em; margin-top: 0.15in; }
+		td { padding-bottom: 0.0675in; padding-top: 0.0675in; }
     ul { list-style-type: none; }
     .toc-author { font-size: $print-base-font-size * 1.125; margin: 0; }
   }
