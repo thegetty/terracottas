@@ -28,8 +28,7 @@ sort_order: 104
 
 - <span class="smcaps">Albertocchi and Pautasso 2012</span>
 
-
-  M. Albertocchi and A. Pautasso, eds. *Philotechnia: Studi sulla
+  Albertocchi, M. and A. Pautasso, eds. *Philotechnia: Studi sulla
   coroplastica della Sicilia greca*. Catania, 2012.
 
 - <span class="smcaps">Ampolo 2009</span>
@@ -357,9 +356,13 @@ sort_order: 104
   Ferrandini Troisi, F., B. M. Buccoliero, and D. Ventrelli. *Coroplastica
   tarantina. Le matrici iscritte*. Bari, 2012.
 
+- <span class="smcaps">Ferrarini and Santoro 2010</span>
+
+Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultura funeraria ellenistica di Dyrrachion/Dyrrachium: Il caso delle sirene,” *Eidola* 6 (2009) [2010], pp. 47-87, esp. 70-71, fig. 16.
+
 - <span class="smcaps">Ferrarini and Santoro 2011</span>
 
-  Ferrarini, M. and S. Santoro, “Le sirene di Durazzo tra Grecia, Magna Grecia e Illiria.” In *L’Illyrie méridionale e l’Epire dans l’antiquité V, Actes du Ve colloque international de Grenoble, Grenoble 8–11 octobre 2008*,ed. J-L. Lamboley and M. P. Castiglioni, vol. 2, pp. 559–69. Paris, 2011.
+  Ferrarini, M. and S. Santoro, “Le sirene di Durazzo tra Grecia, Magna Grecia e Illiria.” In *L’Illyrie méridionale e l’Epire dans l’antiquité V, Actes du Ve colloque international de Grenoble, Grenoble 8–11 octobre 2008*, ed. J.-L. Lamboley and M. P. Castiglioni, vol. 2, pp. 559–69. Paris, 2011.
 
 - <span class="smcaps">Ferruzza 2013</span>
 
@@ -390,7 +393,7 @@ sort_order: 104
 
 - <span class="smcaps">Garezou 1994</span>
 
-  Garezou, M.-X. *LIMC* 7 (1994), s.v. “Orpheus.”
+  Garezou, M.-X. s.v. “Orpheus,” *LIMC* 7 (1994), pp. 88–105.
 
 - <span class="smcaps">Getty 1978</span>
 
@@ -440,7 +443,7 @@ sort_order: 104
 
 - <span class="smcaps">Gorbounova 1997</span>
 
-  Gorbounova, X.  *LIMC* 8, suppl. (1997), s.v. “Arimaspoi.”
+  Gorbounova, X. s.v. “Arimaspoi,” *LIMC* 8, suppl. (1997), pp. 529–34.
 
 - <span class="smcaps">Graepler 1984</span>
 
@@ -499,7 +502,7 @@ sort_order: 104
 - <span class="smcaps">Hermary and Cassimatis</span>
   1986
 
-  Hermary, A., and H. Cassimatis. *LIMC* 3 (1986), s.v. “Eros.”
+  Hermary, A., and H. Cassimatis. s.v. “Eros,” *LIMC* 3 (1986), pp. 850–942.
 
 - <span class="smcaps">Higgins 1954</span>
 
@@ -526,7 +529,7 @@ sort_order: 104
 
 - <span class="smcaps">Hofstetter 1997</span>
 
-  Hofstetter, E. *LIMC* 8, suppl. (1997), s.v. “Seirenen.”
+  Hofstetter, E. s.v. “Seirenen,” *LIMC* 8, suppl. (1997), pp. 1101–4.
 
 - <span class="smcaps">Iacobone 1988</span>
 
@@ -559,7 +562,7 @@ sort_order: 104
 
 - <span class="smcaps">Kahil 1984</span>
 
-  Kahil, L. *LIMC* 1 (1984), s.v. “Artemis”.
+  Kahil, L. s.v. “Artemis,” *LIMC* 1 (1984), pp. 618–754.
 
 - <span class="smcaps">Kekulé 1884</span>
 
@@ -666,7 +669,7 @@ sort_order: 104
 
 - <span class="smcaps">Lindner 1988</span>
 
-  Lindner, R. *LIMC* 4 (1988), s.v. “Hades.”
+  Lindner, R. s.v. “Hades.” *LIMC* 4 (1988), pp. 367–94.
 
 - <span class="smcaps">Linders and Nordquist 1987</span>
 
@@ -1105,7 +1108,7 @@ sort_order: 104
 
 - <span class="smcaps">Servais-Soyez 1991</span>
 
-  Servais-Soyez, B. *LIMC* 1 (1991), s.v. “Adonis.”
+  Servais-Soyez, B. s.v. “Adonis,” *LIMC* 1 (1991), pp. 222–29.
 
 - <span class="smcaps">Settis 1987a</span>
 
@@ -1113,7 +1116,7 @@ sort_order: 104
 
 - <span class="smcaps">Settis 1987b</span>
 
-  Settis, S., ed. *Storia della Calabria 1:* *La Calabria
+  Settis, S., ed. *Storia della Calabria 1: La Calabria
   antica.* Rome and Reggio Calabria, 1987.
 
 - <span class="smcaps">Settis 1994</span>

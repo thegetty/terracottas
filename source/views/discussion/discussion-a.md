@@ -169,7 +169,7 @@ known to any contemporary who viewed this group of figures. Through the
 shamanistic power of his art, Orpheus had succeeded in not only subduing
 the forces of the afterlife but also restoring souls to the world of the
 living. This achievement is narrated in the renowned episode in which he
-nearly rescues his bride, Eurydike, from the Underworld. In it he takes
+nearly rescues his bride, Eurydice, from the Underworld. In it he takes
 on the role of intermediary between the world of mortals and that of the
 afterlife, serving also as a guarantor of the rites of purification
 required in the Underworld.
@@ -679,7 +679,7 @@ Results of the pigment analysis:
 
 [^15]: For a general treatment of the iconography of the sirens in
     chthonic contexts, see <span
-    class="smcaps">Hofstetter 1997</span>.
+    class="smcaps">Hofstetter 1997</span>. For the expression of Siren A, see S. Settis, “Immagini della meditazione, del pentimento e dell’incertezza nell’arte antica,” *Prospettiva* 2 (1975), pp. 4–17. 
 
 [^16]: In *Andromache* by Euripides (936), the expression “Sirens’
     words” is used pejoratively, while in *Alexandra* by
@@ -693,7 +693,7 @@ Results of the pigment analysis:
 
 [^17]: On the presence of sirens on funerary monuments in general, see
     <span class="smcaps">Hofstetter-Dolega 1990</span>, pp. 151–83; on the funerary monuments of Sophocles and
-    Isocrates in particular, see pp. 26–28. For the Sirens in the
+    Isocrates in particular, see <span class="smcaps">Hofstetter-Dolega 1990</span>, pp. 26–28. For the Sirens in the
     Serapeion of Memphis at Saqqara, see <span
     class="smcaps">Hofstetter 1997</span>, no. 88. For
     funerary statues of sirens from the fourth century <span
@@ -713,8 +713,7 @@ Results of the pigment analysis:
 
 [^18]: P. M. Fraser and T. Rönne, *Boeotian and West Greek Tombstones*
     (Lund, 1957), pp. 191–94, pl. 31, nos. 2–3 from Apollonia, pls. 7–10
-    from Thebes. See also the examples of the third century <span
-    class="smcaps">BC:</span> pl. 25, no. 5; pls.
+    from Thebes. See also: pl. 25, no. 5; pls.
     26–27. For the pose, see the funerary statue depicting a female
     figure from Taranto, datable to the third century <span
     class="smcaps">BC,</span> see <span

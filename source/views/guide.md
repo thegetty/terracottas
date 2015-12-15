@@ -80,10 +80,10 @@ outlined below. It is current to the date of publication.
     <span class="smcaps">Kingsley 1976</span>, p. 5, no. 4, pl. 4.
 -   [**75.AD.40.A.1–75.AD.40.O.7** <i></i>{:class="ion-link"}][search-75AD40]{:target="blank"}:
     Group of 90 small heads of women wearing floral
-    crowns, averaging 2 cm in height. Most are broken off at the neck
+    crowns, averaging 2 cm in height; fourth century <span class="smcaps">BC</span>. Most are broken off at the neck
     and the facial features are worn. One figure (75.AD.40.I.14) has a
-    disc/phiale at her left shoulder; two statuettes of women bearing a
-    torch (75.AD.40.I.1). Fourth century <span class="smcaps">BC</span>
+    disc/phiale at her left shoulder; two statuettes are of women bearing a
+    torch (75.AD.40.I.1).
 -   [**78.AD.271.4** <i></i>{:class="ion-link"}][8222]{:target="blank"}:
     Naked youth, often identified as the hero Taras, with
     drapery flying behind, riding a dolphin across waves. The figure is
@@ -95,7 +95,7 @@ outlined below. It is current to the date of publication.
     young woman wearing a *polos*; late fifth century <span class="smcaps">BC</span>.
 -   [**83.AD.354.1–394** <i></i>{:class="ion-link"}][search-83AD354]{:target="blank"}:
     A group of 394 fragments that comprise 292 votive objects, consisting of types
-    associated with the area of Taranto (272), Apulia (1), and Metaponto (55;
+    associated with the areas of Taranto (272), Apulia (1), and Metaponto (55;
     see below for further discussion of the Metapontine examples), with the
     remainder from unidentified South Italian workshops. The earliest Tarentine
     votives in this lot date from the mid sixth–fifth centuries
@@ -103,7 +103,7 @@ outlined below. It is current to the date of publication.
     with a snake, a sphinx, a head of a woman wearing a conical *polos*, and
     a pair of seated goddesses. One fragment of the upper arm of a woman
     wearing a chiton fastened by three buttons (83.AD.354.15) is close to
-    life size. A small number (21 objects) are fourth-century
+    life size. A small number (twenty-one objects) are fourth-century
     <span class="smcaps">BC</span> types: squatting silenos, head of a silenos
     or papposilenos, satyr playing flutes, heads of comic actors, and female
     heads and figures. The majority of the objects belong to the third century
@@ -112,7 +112,7 @@ outlined below. It is current to the date of publication.
     figures; dancer, mother and child). Also present are figurines of animals
     (dogs, cat, coiled snake, birds, horse, ape on a lion’s back, lion, turtle,
     animals mounting, cow?, boy riding a pig); mythological figures (Aphrodite
-    leaning against a pillar, standing nude figure of Aphrodite, Nike, Eros);
+    leaning against a pillar, standing nude figures of Aphrodite, Nike, Eros);
     and a small number of male figures (head of a boy, torso).
 
 ### Terracotta Molds
@@ -131,7 +131,7 @@ monograms of Tarentine coroplastic workshops.
 -   [**71.AD.363** <i></i>{:class="ion-link"}][6816]{:target="blank"}:
     Head of a woman, wearing a pendant earring in her right
     ear; Tarentine front mold for a life-size funerary bust, with
-    triangular string-marks on the top and sides; fourth century
+    triangular string marks on the top and sides; fourth century
     <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976</span>,
     p. 8, no. 17, pl. 17.
 -   [**73.AD.10.C.2.a** <i></i>{:class="ion-link"}][254985]{:target="blank"}
@@ -179,7 +179,7 @@ monograms of Tarentine coroplastic workshops.
     See <span class="smcaps">Kingsley 1976,</span> p.
     9, no. 19, pl. 19; <span class="smcaps">Kingsley
     1981,</span> pp. 45–46, no. A.1, figs. 1 and 5 (incorrectly cited as
-    74.AD.22); <span class="smcaps">Ferrandini Troisi,
+    74.AD.22); and <span class="smcaps">Ferrandini Troisi,
     Buccoliero, and Ventrelli 2012</span>, p. 184, no. 43 (incorrectly
     cited as 74.AD.22).
 -   [**74.AD.55** <i></i>{:class="ion-link"}][7173]{:target="blank"}:
@@ -200,9 +200,9 @@ monograms of Tarentine coroplastic workshops.
     half-round figure; fourth century <span class="smcaps">BC</span>.
     See <span class="smcaps">Kingsley 1976</span>, p. 11, no. 28, pl. 28.
 -   [**74.AD.58** <i></i>{:class="ion-link"}][7176]{:target="blank"}:
-    Right side of horse’s head. String marks indicate that the
+    Right side of horse’s head; string marks indicate that the
     figure was in the round, and a notch at the lower edge served to
-    attach the head to the animal’s body. Tarentine front mold; fourth
+    attach the head to the animal’s body; Tarentine front mold; fourth
     century <span class="smcaps">BC</span>. See
     <span class="smcaps">Kingsley 1976</span>, p. 12, no. 32, pl. 32.
 -   [**74.AD.59** <i></i>{:class="ion-link"}][7177]{:target="blank"}:
@@ -223,49 +223,48 @@ monograms of Tarentine coroplastic workshops.
     Lion fighting bull; Tarentine mold for making a
     sarcophagus appliqué; fourth century <span class="smcaps">BC</span>.
     See <span class="smcaps">Kingsley 1976</span>, p. 14, no.
-    38, pl. 38; <span class="smcaps">Lullies</span>
+    38, pl. 38; and <span class="smcaps">Lullies</span>
     1977, p. 254.
 -   [**75.AD.41** <i></i>{:class="ion-link"}][7216]{:target="blank"}:
     Ornamental disc with a central rosette and relief
-    ornaments; Tarentine, fourth century <span class="smcaps">BC</span>.
+    ornaments; Tarentine; fourth century <span class="smcaps">BC</span>.
 -   [**75.AD.42** <i></i>{:class="ion-link"}][7217]{:target="blank"}:
-    Daedalic bust of a woman, wearing a peplos, mantle, and
-    *polos*; Tarentine, late 7th century <span class="smcaps">BC</span>.
+    Daedalic bust of a woman wearing a peplos, mantle, and
+    *polos*; Tarentine; late seventh century <span class="smcaps">BC</span>.
     See <span class="smcaps">Kingsley 1976</span>, p. 4, no. 1, pl. 1.
 -   [**75.AD.43** <i></i>{:class="ion-link"}][7218]{:target="blank"}:
     Reclining male banqueter holding a rhyton in his left
-    hand, right hand resting on his right knee; Tarentine, late
+    hand, right hand resting on his right knee; Tarentine; late
     sixth–fifth century <span class="smcaps">BC</span>. See <span
     class="smcaps">Kingsley 1976,</span> p. 4, no.
-    2, pl. 2; B. M. Kingsley, “The Reclining Heroes of Taras and Their
-    Cult,” *California Studies in Classical Antiquity* 12 (1979), pp.
+    2, pl. 2; and B. M. Kingsley, “The Reclining Heroes of Taras,” pp.
     201–20, pl. 1.1–2.
 -   [**75.AD.44** <i></i>{:class="ion-link"}][7219]{:target="blank"}:
-    Bust of Demeter or Persephone, wearing a veiled *polos*
+    Bust of Demeter or Persephone wearing a veiled *polos*
     and holding a crossed torch at her right shoulder; inscribed
     [ZO]PY[RAS], RA (the shop of Zopyras, RA, and LA); Tarentine
     front mold, 350–325 <span class="smcaps">BC</span>. See <span
     class="smcaps">Kingsley 1976,</span> p. 7, no.
     13, pl. 13; <span class="smcaps">Kingsley
     1981,</span> pp. 50–51, no. E.10 (incorrectly cited as
-    74.AD.44); figs. 3 and 13; <span
+    74.AD.44); figs. 3 and 13; and <span
     class="smcaps">Ferrandini Troisi, Buccoliero, and
     Ventrelli 2012</span>, p. 184, no. 44 (incorrectly cited
     as 74.AD.44).
 -   [**75.AD.45** <i></i>{:class="ion-link"}][7220]{:target="blank"}:
     Head and torso of a youth holding a strigil in his
-    upraised right hand, and a phiale in his left hand. The figure
+    upraised right hand, and a *phiale* in his left hand. The figure
     stands within a *naiskos*. Fragmentary Tarentine mold for a relief
     plaque that originally depicted both Dioscuri; fourth century <span
     class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976,</span> p.
     6, no. 11, pl. 11.
 -   [**76.AD.110** <i></i>{:class="ion-link"}][7499]{:target="blank"}:
-    Acanthus leaf, vase appliqué; Tarentine, fourth
+    Acanthus leaf, vase appliqué; Tarentine; fourth
     century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley
     1976,</span> p. 13, no. 34, pl. 34.
 -   [**76.AD.111** <i></i>{:class="ion-link"}][7500]{:target="blank"}:
     Backside of a squatting nude figure (silenos?); Tarentine
-    back mold, third–second century <span class="smcaps">BC</span>.See <span
+    back mold; third–second century <span class="smcaps">BC</span>.See <span
     class="smcaps">Kingsley 1976,</span> p. 8, no. 16, pl. 16.
 -   [**76.AD.112** <i></i>{:class="ion-link"}][7501]{:target="blank"}:
     Male torso with distended stomach (comic actor);
@@ -273,11 +272,11 @@ monograms of Tarentine coroplastic workshops.
     See <span class="smcaps">Kingsley 1976,</span> p. 12, no. 31, pl. 31
     (incorrectly cited as L.74.AD.15).
 -   [**76.AD.113** <i></i>{:class="ion-link"}][7502]{:target="blank"}:
-    Small head set within a triangle; Tarentine, fourth or
+    Small head set within a triangle; Tarentine; fourth or
     third century <span class="smcaps">BC</span>.
 -   [**76.AD.114** <i></i>{:class="ion-link"}][7503]{:target="blank"}:
-    Small bust of a draped woman, broken from a full figure
-    mold, with string marks at the sides; Tarentine, mid-fourth
+    Small bust of a draped woman, broken from a full-figure
+    mold, with string marks at the sides; Tarentine; mid-fourth
     century <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley
     1976,</span> p. 9, no. 20, pl. 20 (incorrectly cited as L.74.AD.12).
 -   [**76.AD.115** <i></i>{:class="ion-link"}][7504]{:target="blank"}:
@@ -292,11 +291,11 @@ monograms of Tarentine coroplastic workshops.
 -   [**76.AD.117** <i></i>{:class="ion-link"}][7506]{:target="blank"}:
     Seated boy, with his left knee resting on the ground, the right raised,
     holding a Maltese puppy. There is an inscription on the reverse of the mold:
-    <span class="smcaps">LEONTOS</span> (the shop of Leon). Tarentine front mold,
+    <span class="smcaps">LEONTOS</span> (the shop of Leon). Tarentine front mold;
     350–325 <span class="smcaps">BC</span>. See
     <span class="smcaps">Kingsley 1976,</span> p. 11, no. 27, pl. 27
     (incorrectly cited as L74.AD.21); <span class="smcaps">Kingsley 1981,</span>
-    pp. 51–52, no. G.16, figs. 4 and 14 (incorrectly cited as 74.AD.21); <span
+    pp. 51–52, no. G.16, figs. 4 and 14 (incorrectly cited as 74.AD.21); and <span
     class="smcaps">Ferrandini Troisi, Buccoliero, and Ventrelli 2012</span>,
     p. 184, no. 42 (incorrectly cited as 74.AD.21).
 -   [**76.AD.118** <i></i>{:class="ion-link"}][7507]{:target="blank"}:
@@ -314,23 +313,23 @@ monograms of Tarentine coroplastic workshops.
     Head, shoulders, and upper right arm of a reclining man
     wearing an elaborate wreath in his hair, which is parted in the
     middle and hangs in long tresses over the shoulders. Tarentine front
-    mold, mid-fifth century <span class="smcaps">BC</span>. See <span
+    mold; mid-fifth century <span class="smcaps">BC</span>. See <span
     class="smcaps">Kingsley 1976,</span> p. 4, no.
     3, pl. 3 (incorrectly cited as L.74.AD.25).
 -   [**76.AD.121** <i></i>{:class="ion-link"}][7510]{:target="blank"}:
     Seated woman wearing a chiton and high *polos*. Her lower
     legs and feet are missing. She holds her garment with her right arm.
-    Possibly a banqueter. Tarentine front mold, mid-fifth century
+    Possibly a banqueter. Tarentine front mold; mid-fifth century
     <span class="smcaps">BC</span>. See <span class="smcaps">Kingsley 1976,</span>
     p. 5, no. 5, pl. 5 (incorrectly cited as L.74.AD.32).
 -   [**76.AD.122** <i></i>{:class="ion-link"}][7511]{:target="blank"}: Herakles,
     with a lion skin over his left shoulder, lower legs and feet missing.
-    Tarentine back mold, 350–300 <span class="smcaps">BC</span>. See
+    Tarentine back mold; 350–300 <span class="smcaps">BC</span>. See
     <span class="smcaps">Kingsley 1976,</span> p. 10, no. 22, pl. 22
     (incorrectly cited as L.74.AD.33).
 -   [**76.AD.123** <i></i>{:class="ion-link"}][7512]{:target="blank"}:
     Frontal left foot for a large sculpture, likely two-thirds life size;
-    Tarentine, fourth century <span class="smcaps">BC</span>. See <span
+    Tarentine; fourth century <span class="smcaps">BC</span>. See <span
     class="smcaps">Kingsley 1976,</span> pp. 8–9, no. 18, pl. 18 (incorrectly
     cited as L.74.AD.35).
 -   [**76.AD.124** <i></i>{:class="ion-link"}][7513]{:target="blank"}:
@@ -340,7 +339,7 @@ monograms of Tarentine coroplastic workshops.
     10–11, no. 24, pl. 24 (incorrectly cited as L.74.AD.38).
 -   [**76.AD.125** <i></i>{:class="ion-link"}][7514]{:target="blank"}:
     Nude boy, his right leg advanced, holding an
-    unidentifiable object under his right arm. Tarentine back mold,
+    unidentifiable object under his right arm. Tarentine back mold;
     fourth or third century <span class="smcaps">BC</span>. See <span
     class="smcaps">Kingsley 1976,</span> pp.
     10–11, no. 26, pl. 26 (incorrectly cited as L.74.AD.41).
@@ -361,31 +360,29 @@ monograms of Tarentine coroplastic workshops.
 
 ### Canosa
 
-Several terracotta figures functioned as appliques on vessels and
+Several terracotta figures functioned as appliqués on vessels and
 probably come from Apulian funerary contexts in or near Canosa:
 
 <br />
 
 -   [**80.AE.37** <i></i>{:class="ion-link"}][9184]{:target="blank"}:
     Eros riding an animal, lacking the head, arms, wings, and
-    lower legs; traces of polychrome pigment on baldric (red) and
+    lower legs; traces of polychrome pigments on baldric (red) and
     chlamys (pink); third century <span class="smcaps">BC</span>. See <span
-    class="smcaps">Van der Wielen-Van Ommeren</span>
-    1985, p. 181, no. 9, fig. 11.
+    class="smcaps">Van der Wielen-Van Ommeren 1985</span>, p. 181, no. 9, fig. 11.
 -   [**80.AE.38.a** <i></i>{:class="ion-link"}][9186]{:target="blank"}:
     Pigeon, hand-modeled, with white slip and polychrome
-    pigments (red for feathers, blue contour line around wing, red
-    collar, purple on the neck; early third century <span
+    pigments; feathers and collar (red), contour line around wing (blue), neck (purple); early third century <span
     class="smcaps">BC</span>. See <span class="smcaps">Van der Wielen-Van
-    Ommeren</span> 1985, p. 180, no. 7, fig. 10.
+    Ommeren 1985</span>, p. 180, no. 7, fig. 10.
 -   [**80.AE.38.b** <i></i>{:class="ion-link"}][9187]{:target="blank"}: Pigeon,
     hand-modeled, with traces of polychromy; early third century <span
     class="smcaps">BC</span>. Similar birds served as attachments on Canosan
     vases or were placed in graves as offerings. See <span class="smcaps">Van
-    der Wielen-Van Ommeren</span> 1985, p. 180, no. 8, fig. 10.
+    der Wielen-Van Ommeren 1985</span>, p. 180, no. 8, fig. 10.
 -   [**81.AD.126** <i></i>{:class="ion-link"}][9776]{:target="blank"}: Paw of a
     lion, possibly the foot of a vessel or stand,
-    with three attachment holes on the back; traces of white slip. About
+    with three attachment holes on the back; traces of white slip; about
     300 <span class="smcaps">BC</span>. See <span class="smcaps">Van der
     Wielen-Van Ommeren 1985</span>, p. 182, no. 11, fig. 13.
 -   [**81.AE.160** <i></i>{:class="ion-link"}][9823]{:target="blank"}:
@@ -399,7 +396,7 @@ probably come from Apulian funerary contexts in or near Canosa:
 
 -   [**71.AD.345** <i></i>{:class="ion-link"}][6798]{:target="blank"}:
     Seated goddess, probably Persephone, wearing an epiblema
-    and a chiton, with her head is tilted to the left. Traces of
+    and a chiton, with her head tilted to the left; traces of
     polychromy are visible on the surface; third century <span
     class="smcaps">BC</span>.
 -   [**71.AD.346** <i></i>{:class="ion-link"}][6799]{:target="blank"}:
@@ -408,8 +405,8 @@ probably come from Apulian funerary contexts in or near Canosa:
     loops of hair at each ear; third century <span class="smcaps">BC</span>.
 -   [**71.AD.358** <i></i>{:class="ion-link"}][6811]{:target="blank"}:
     Upper half of a seated goddess, perhaps Persephone,
-    wearing a himation and veil, with her right arm resting on her lap.
-    The goddess is seated on a throne; pairs of rosettes decorate the
+    wearing a himation and veil, with her right arm resting on her lap;
+    the goddess is seated on a throne; pairs of rosettes decorate the
     backrest on either side of her shoulders; fifth century <span
     class="smcaps">BC</span>.
 -   [**73.AD.10.A.1–73.AD.10.P.15** <i></i>{:class="ion-link"}][search-73AD10]{:target="blank"}:
@@ -418,8 +415,8 @@ probably come from Apulian funerary contexts in or near Canosa:
     lekythoi, a lamp, South Italian, and Gnathia pottery sherds. In
     addition to the seven South Italian molds listed above, the lot is
     almost exclusively composed of female heads, fragmentary figures,
-    and a small number of male heads, 55 of which are identified as
-    “Greek” types. Of the 15 discoid or horse-shoe loom-weights
+    and a small number of male heads, fifty-five of which are identified as
+    “Greek” types. Of the fifteen discoid or horse-shoe loom-weights
     (73.AD.10.I.1-15), several have figural reliefs, with images of a
     kneeling child holding an animal, Eros on a dolphin, Aphrodite
     riding a swan, an owl with arms holding a distaff over a kalathos,
@@ -437,7 +434,7 @@ probably come from Apulian funerary contexts in or near Canosa:
     Votive relief with head and torso of Aphrodite rising
     from the waves; third century <span class="smcaps">BC</span>. South Italian?
 -   [**98.AD.115** <i></i>{:class="ion-link"}][124940]{:target="blank"}:
-    Fragmentary figure of Aphrodite, semi-draped; third
+    Fragmentary figure of Aphrodite, semidraped; third
     century <span class="smcaps">BC</span>.
 -   [**98.AD.116** <i></i>{:class="ion-link"}][124943]{:target="blank"}:
     Upper torso of a nude figure of Aphrodite, with left arm
@@ -446,7 +443,7 @@ probably come from Apulian funerary contexts in or near Canosa:
     Woman standing with left leg advanced and knee bent,
     wearing a chiton belted under her breasts and a himation, which is
     draped over the left shoulder and gathered in thick folds around
-    the waist. The head, right arm at the shoulder, left arm at the
+    the waist; the head, right arm at the shoulder, left arm at the
     elbow, and right foot are missing; there is a circular vent hole in
     the upper back; third century <span class="smcaps">BC</span>.
 -   [**98.AD.118** <i></i>{:class="ion-link"}][124949]{:target="blank"}:
@@ -458,7 +455,7 @@ probably come from Apulian funerary contexts in or near Canosa:
 -   [**98.AD.121** <i></i>{:class="ion-link"}][124952]{:target="blank"}:
     Head and neck of a maenad with a melon coiffeur, wearing
     a wreath of leaves and fruit, a necklace, and a large disc earring
-    appears in the left ear; third century <span class="smcaps">BC</span>.
+    in the left ear; third century <span class="smcaps">BC</span>.
 -   [**98.AD.122** <i></i>{:class="ion-link"}][124955]{:target="blank"}:
     Fragmentary figure of Aphrodite, semidraped; third
     century <span class="smcaps">BC</span>.
@@ -466,8 +463,8 @@ probably come from Apulian funerary contexts in or near Canosa:
     Fragmentary standing woman wearing a peplos, fifth
     century <span class="smcaps">BC</span>.
 -   [**98.AD.124** <i></i>{:class="ion-link"}][124966]{:target="blank"}:
-    Head and neck of a woman, with her hair arranged in a bun
-    at the top of the head. A headscarf is tied in a knot at the peak of
+    Head and neck of a woman with her hair arranged in a bun
+    at the top of the head; a headscarf is tied in a knot at the peak of
     the forehead, and there are holes in the earlobes for the attachment
     of earrings; second century <span class="smcaps">BC</span>.
 -   [**98.AD.130** <i></i>{:class="ion-link"}][125001]{:target="blank"}:
@@ -475,7 +472,7 @@ probably come from Apulian funerary contexts in or near Canosa:
     century <span class="smcaps">BC</span>.
 -   [**98.AD.144.1–98 and .100** <i></i>{:class="ion-link"}][search-98AD144]{:target="blank"}:
     Approximately 100 unrestored fragments
-    belong to a single figure of a draped woman, perhaps Aphrodite,
+    belonging to a single figure of a draped woman, perhaps Aphrodite,
     wearing a chiton belted below the breasts. Red pigment on the hair
     and areas of the drapery; third century <span class="smcaps">BC</span>.
 
@@ -483,20 +480,20 @@ probably come from Apulian funerary contexts in or near Canosa:
 
 -   [**71.AD.304** <i></i>{:class="ion-link"}][6760]{:target="blank"}:
     Head of a woman, with melon coiffeur and veil, and a long
-    neck incised Venus rings; from a mold series found at Capua, ca.
+    neck-incised Venus ring; from a mold series found at Capua; ca.
     250–200 <span class="smcaps">BC</span>. See <span
     class="smcaps">Smithers 1993</span>, p. 26, fig.
     18.
 -   [**71.AD.305** <i></i>{:class="ion-link"}][6761]{:target="blank"}:
-    Head of a woman, with disc earrings and a veil covering
-    the back portion of the head, from the same mold generation as an
-    identical head in the Museo Campano in Capua, dated 300–275 <span
+    Head of a woman with disc earrings and a veil covering
+    the back portion of the head; from the same mold generation as an
+    identical head in the Museo Campano in Capua; dated 300–275 <span
     class="smcaps">BC</span>. See <span class="smcaps">Smithers 1993</span>,
     p. 24, fig. 14.
 -   [**71.AD.306** <i></i>{:class="ion-link"}][6762]{:target="blank"}:
-    Head of a woman, wearing a veil, a fillet with a central
+    Head of a woman wearing a veil, a fillet with a central
     bead, and a coiled torque necklace; stylistically similar to heads
-    in Capua and Cales, 300–250 <span class="smcaps">BC</span>. See <span
+    in Capua and Cales; 300–250 <span class="smcaps">BC</span>. See <span
     class="smcaps">Smithers 1993</span>, p. 25, fig.
     17.
 -   [**82.AD.52.1–153** <i></i>{:class="ion-link"}][search-82AD52]{:target="blank"}:
@@ -514,7 +511,7 @@ probably come from Apulian funerary contexts in or near Canosa:
     helmets (82.AD.52.129) or other styles of headgear; shields with a
     fragmentary hand or arm attached to the inside; a seated figure with
     an animal; a plaque of a standing figure with a snake; and men, both
-    draped and nude, standing with hands on hips 82.AD.58.132, .135). On
+    draped and nude, standing with hands on hips 82.AD.58.132 and 135). On
     some, locks are hair are denoted by circular
     impressions (82.AD.52.128). A large statuette (82.AD.52.1, H. 56 cm)
     of a warrior sports a short Italic-type cuirass ending above the
@@ -534,28 +531,27 @@ probably come from Apulian funerary contexts in or near Canosa:
 
 -   [**70.AD.120** <i></i>{:class="ion-link"}][6559]{:target="blank"}:
     Bust of a woman with coiled locks of hair falling forward
-    over her shoulders, wearing a diadem and necklace, perhaps to be
-    identified as Persephone; white slip and traces of polychromy, with
+    over her shoulders, wearing a diadem and necklace, perhaps Persephone; white slip and traces of polychromy, with
     a circular vent hole in the back of the head and square notch in the
-    rear lower edge of the bust; 300–200 <span class="smcaps">BC</span>,
+    rear lower edge of the bust; 300–200 <span class="smcaps">BC</span>;
     probably from Centuripe.
 -   [**71.AD.141** <i></i>{:class="ion-link"}][6601]{:target="blank"}:
     Seated woman wearing a veil and holding on her lap a
-    child who faces forward; sixth–fifth centuries <span class="smcaps">BC</span>,
+    child who faces forward; sixth–fifth centuries <span class="smcaps">BC</span>;
     reportedly from Gela.
 -   [**71.AD.347** <i></i>{:class="ion-link"}][6800]{:target="blank"}:
     Seated woman, wearing a veil and long himation, holding a
     child up in front of her left shoulder; fifth century <span
-    class="smcaps">BC</span>, reportedly from Gela.
+    class="smcaps">BC</span>; reportedly from Gela.
 -   [**75.AD.34** <i></i>{:class="ion-link"}][7209]{:target="blank"}:
-    Fragmentary head of a woman, with large eyes, a bulbous
+    Fragmentary head of a woman with large eyes, a bulbous
     nose, and thick lips; fifth century <span class="smcaps">BC</span>.
 -   [**78.AD.345** <i></i>{:class="ion-link"}][8467]{:target="blank"}:
     Woman holding a child up in front of her left shoulder;
-    fifth century <span class="smcaps">BC</span>, reportedly from Gela.
+    fifth century <span class="smcaps">BC</span>; reportedly from Gela.
 -   [**78.AD.346** <i></i>{:class="ion-link"}][8468]{:target="blank"}:
     Rattle in the shape of a pig, with white slip and pink
-    pigment; third century <span class="smcaps">BC</span>, probably made
+    pigment; third century <span class="smcaps">BC</span>; probably made
     in Centuripe.
 
 

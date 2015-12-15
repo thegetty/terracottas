@@ -470,9 +470,7 @@ front.
     century <span class="smcaps">BC</span>, see D.
     Graepler, “Des Tanagréens en offrandes funéraires: L’exemple de
     Tarente,” in <span class="smcaps">Jeammet
-    2003b</span>, pp. 277–84. The production of entire life-sized (or
-    slightly smaller) terracotta statues is clearly attested in Taranto
-    and in Magna Graecia; see, for example, the head in <span
+    2003b</span>, pp. 277–84. For terracotta statues in Magna Graecia; see, for example, the head in <span
     class="smcaps">Pugliese Carratelli 1983</span>,
     pp. 501–502, figs, 546–47; see also the statues found near Heraclea,
     ibid., p. 501, fig. 545.
@@ -594,7 +592,7 @@ front.
     head and bust mold of Artemis in Geneva’s Musée d’Art et d’Histoire
     published in <span class="smcaps">Kingsley 1981</span>, pp. 44 and 46, figs. 6–8.
 
-[^21]: On the effects of technical procedures, see <span
+[^21]: On technical procedures, see <span
     class="smcaps">Merker 2000</span>, p. 18.
 
 [^22]: On the facial asymmetries, see S. Stucchi, “Nota introduttiva
