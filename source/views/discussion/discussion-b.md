@@ -2,35 +2,34 @@
 title: Group of Heads and Busts from the Taranto Region
 objects: !ruby/range 4..23
 ---
-#### Group of Heads and Busts from the Taranto Region (cat. 4–23)
+#### Group of Heads and Busts from the Taranto Region (cats. 4–23)
 {: .no-print }
 
 <h6 class="discussion-note">This discussion is reproduced on each of the
-individual object pages</h6>
+individual object pages.</h6>
 
-The group of twenty heads and busts (cat. 4–23) that were acquired by
+The group of twenty heads and busts (cats. 4–23) that were acquired by
 the Getty Museum in 1982 share a number of technical characteristics,
-despite the fact that they can be assigned to differing typologies and
-very probably come from the same Tarentine workshop. Chronologically
+despite the fact that they can be assigned to differing typologies, and
+very probably came from the same Tarentine workshop. Chronologically
 they span a period from the second half of the fifth century <span
 class="smcaps">BC</span> to the third and second centuries <span class="smcaps">
-BC</span>, and seem to be linked by a shared history.
+BC</span> and seem to be linked by a shared history.
 
 In the documentation about this acquisition, the group of terracottas
 was said to be connected to the extensive collection of Jacob Hirsch, a
 renowned early twentieth-century numismatist and art dealer; his
 collection also included a substantial array of material from Medma and
 Taranto. At or shortly before Hirsch’s death in 1955, a portion of this
-collection, which included over eight hundred terracottas, became the
+collection, which included more than 800 terracottas, became the
 property of his colleague Thomas Virzì, an antiquarian of Palermitan
 origin who over the years played a crucial role in the illegal sale and
 exportation of major artworks from Magna Graecia. Virzì was also a key
 figure in the story of the “enthroned goddess” from Taranto, now in the
 Altes Museum, Berlin, and he was an executor of Hirsch’s will, along
-with R. Schlesinger and J. Caskell. In 1957, an auction was held in
+with R. Schlesinger and J. Caskell. In 1957 an auction was held in
 Lucerne, and a selection of Hirsch’s original collection was offered for
-sale. Initially, in 1961, Virzì attempted to sell a portion of the eight
-hundred terracottas to the Antikenmuseum Basel; but it was not until the
+sale. Initially, in 1961, Virzì attempted to sell a portion of the 800 terracottas to the Antikenmuseum Basel; but it was not until the
 end of the 1970s that the Swiss museum actually purchased a block of
 artifacts from the former Virzì collection. This material had previously
 been exhibited, along with other privately owned terracottas, in 1978.
@@ -39,7 +38,7 @@ material from Basel.[^1]
 
 #### The Saturo Hypothesis
 
-In the same documentation held by the Getty Museum, this group is said
+In documentation held by the Getty Museum, this group is said
 to come “from Satyrion,” (modern Saturo), which stood on a promontory to
 the southeast of Taranto. This area was occupied as early as the Bronze
 Age, and it was one of the key locations in the region’s colonization,
@@ -74,7 +73,8 @@ class="smcaps">BC</span>, when the sanctuary suffered
 serious damage during the Hannibalic War. There is evidence of
 subsequent occupation of the area, with materials belonging to Roman
 farms that can be dated between the first century <span
-class="smcaps">BC</span> and the first century AD.
+class="smcaps">BC</span> and the first century <span
+class="smcaps">AD</span>.
 Opinions differ as to the deities worshiped in the area: candidates
 range from the nymph Satyria to Aphrodite Basilis associated with Gaia
 or Persephone, in accordance with a complementary relationship of divine
@@ -128,12 +128,12 @@ material. The terracottas display a considerable typological diversity
 and vary widely in age. There are female busts, generally datable to the
 second half of the fourth century <span
 class="smcaps">BC</span>, with a prevalently chthonic
-character ([cat. 9](9)–[10](10)); heads and busts of banqueters, characterized by
-wreaths and bands ([cat. 7](7)), and in one case depicting a figure in the
-act of singing ([cat. 8](8)), or with a nude bust ([cat. 21](21)); and heads of
+character ([cats. 9](../9) and [10](../10)); heads and busts of banqueters, characterized by
+wreaths and bands ([cat. 7](../7)), and in one case depicting a figure in the
+act of singing ([cat. 8](../8)), or with a nude bust ([cat. 21](../21)); and heads of
 male children and youths, some with strongly individualized features,
 comparable with the coroplastic types of central Italy of the middle
-Republican period ([cat. 19](19), [20](20), [23](23)).
+Republican period ([cats. 19](../19), [20](../20), [23](../23)).
 
 The other heads, which can tentatively be dated to the fourth and third
 centuries <span class="smcaps">BC</span>, can be
@@ -151,11 +151,11 @@ Egypt, and the East to Italy and Sicily. Located at this crossroads,
 Tarentine artists both received and transmitted stylistic models and
 types to and from other regions.[^9]
 
-Thus, in a number of works, such as the head at [cat. 21](21), we find
+Thus, in a number of works, such as the head at [cat. 21](../21), we find
 distinctive features derived from the portraits of Alexander the Great,
 which were especially popular also in the workshops of neighboring
 Heraclea and other Italic and Campanian centers.[^10] In other heads
-([cat. 14](14) and [18](18)), we can identify echoes of Praxitelean style,
+([cat. 14](../14) and [18](../18)), we can identify echoes of Praxitelean style,
 especially in the mournfully tilted heads and in the soft, modulated
 chiaroscuro that seems to characterize a large portion of Tarentine
 production in the fourth century <span
@@ -163,9 +163,9 @@ class="smcaps">BC.</span> From the end of the fifth
 century to the fourth century <span
 class="smcaps">BC</span>, moreover, we find other
 distinctly Tarentine types: alongside the types that appear sorrowful,
-with rapt expressions (for instance, [cat. 21](21)), with thin faces, lowered
-gaze, and thickened eyelids, there are others (for example, [cat. 15](15) and
-the head of Orpheus, [cat. 1](1)) that have full faces, marked features
+with rapt expressions (for instance, [cat. 21](../21)), with thin faces, lowered
+gaze, and thickened eyelids, there are others (for example, [cat. 15](../15) and
+the head of Orpheus, [cat. 1](../1)) that have full faces, marked features
 reminiscent of the Severe style, and small mouths with fleshy lips that
 can be found in the sculpture of the same period, influenced by Attic
 art of the post-Phidian period.[^11] The original contributions of
@@ -209,17 +209,17 @@ illness, and chthonic and funerary rites.
 
 #### The Female Busts
 
-In the case of the busts ([cat. 9](9)–[10](10)), the similarity to Sicilian
+In the case of the busts ([cats. 9](../9) and [10](../10)), the similarity to Sicilian
 prototypes is reasonably straightforward. The typology, however, was
 modified and elaborated by Tarentine coroplasts with the introduction of
 new hairstyles (such as hair gathered in a roll behind the neck, derived
 from the Severe style) and a distinctive stylistic vocabulary. This is
 particularly notable in the emphatic rendering of the eyes and mouths
 and in the precise, compact forms, coupled with the linear treatment of
-the hair (probably achieved by means of special comb-like tools that
+the hair (probably achieved by means of special comblike tools that
 helped to speed a vast serial production), which suggests a link between
-the Getty busts and the Tarentine workshops; in particular, [cat. 9](9) and
-[10](10) seem to indicate a transitional phase from the shorthand depiction of
+the Getty busts and the Tarentine workshops; in particular, [cats. 9](../9) and
+[10](../10) seem to indicate a transitional phase from the shorthand depiction of
 deities (often depicted with *polos*, the high crown worn by goddesses)
 to the actual portrayal of the offerers, shown with progressively
 individuated facial features. In statuary, this phenomenon would become
@@ -227,25 +227,25 @@ increasingly marked as Roman influence grew.[^15]
 
 #### Children
 
-The head of a child ([cat. 23](23)), characterized by a cheerful expression
+The head of a child ([cat. 23](../23)), characterized by a cheerful expression
 and a sentimental pose conveyed by the slight tilt of the head, displays
 an iconographic affinity with comparable heads from the central Italic
 area as well was with the specific typology of crouching children that
-became common in the Near East and in Greece beginning in the fourth
+became common in the Near East and Greece beginning in the fourth
 century <span class="smcaps">BC.</span> Crouching
 children, often depicted holding an object or a small animal, can be
-found in Magna Graecia and in Saturo, but also throughout the Etruscan
+found in Magna Graecia and Saturo, but also throughout the Etruscan
 and Italic world between the third and second centuries <span
 class="smcaps">BC.</span> It may be that a number of
 types already present in the central Italic context were re-elaborated
 by the coroplasts of Magna Graecia in response to specific cult
 practices and patronage. As regards Saturo, there may be links with
-kourotrophic cults as well as with the presence of the spring, or with
+kourotrophic cults as well as with the presence of the spring or with
 rites of passage from infancy to adulthood.[^16]
 
 #### The Banqueters
 
-The heads at [cat. 7](7), [8](8), [20](20), and [21](21)
+The heads at [cats. 7](../7), [8](../8), [20](../20), and [21](../21)
 are certainly linked to reclining
 figures or banqueters. Many unanswered questions remain regarding the
 banqueters in Saturo, including chronology, context, cult significance,
@@ -297,12 +297,12 @@ deceased with reference to a specific otherworldly collocation.[^19]
 
 The fronts of pieces were produced with a mold; so, probably, were the
 backs, though the latter are only rounded off and not detailed. The hair
-might in some cases have been attached, as suggested by [cat. 19](19) in which
+might in some cases have been attached, as suggested by [cat. 19](../19), in which
 the separation of the locks is quite evident; attributes such as crowns
 and diadems could have been applied later as well.[^20] The hole in the
 back of the head was intended for ventilation during the firing process.
 
-The pieces feature, primarily, fabrics of two hues: a pinkish-orange and
+The pieces feature, primarily, fabrics of two hues: a pinkish orange and
 a light beige. Both fabrics are porous, with a reasonably soft
 consistency and micaceous inclusions, with thickness ranging up to 2
 centimeters. The pieces show evidence of uneven firing, resulting in
@@ -334,7 +334,7 @@ well-established artisanal tradition. From the traces of pigment that
 have survived, it has been deduced that the hair on the male heads was
 painted red, as were the lips, while pink was used for the complexion.
 The use of strong colors was intended to enliven the figures’
-expressions. The quality of the molds was quite good and the details
+expressions. The quality of the molds was quite good, and the details
 were well defined. In a number of the heads, two holes are visible at
 the sides of the head, probably corresponding to the points where the
 hair was attached, or at the base of the neck, where decorations could
@@ -353,44 +353,40 @@ front.
     class="smcaps">Herdejürgen</span> 1978 in
     *Prospettiva* 23 (1980), pp. 90–95. For the catalogue of the auction
     held in Lucerne, see A. Hess, *Bedeutende Kunstwerke* (Lucerne,
-    1957). For the Basel material: <span
-    class="smcaps">Herdejürgen</span> 1971; H.
+    1957). For the Basel material, see <span
+    class="smcaps">Herdejürgen 1971</span>; and H.
     Herdejürgen, “Tarentinische Terrakotten der Sammlinug Schwitter,”
-    *AK* 16 (1973), pp. 102–8.
+    *AntK* 16 (1973), pp. 102–8.
 
 [^2]: For the research carried out in Saturo between 1970s and 1980, see
     F. G. Lo Porto, “Satyrion (Taranto): Scavi e ricerche nel luogo del
     più antico insediamento laconico in Puglia,” *NSc* 18 (1964), pp.
-    177–279; F. G. Lo Porto, “L’attività archeologica in Puglia,” in
-    *AttiTaranto 11, 1971*, text volume (Taranto, 1972), p. 500; idem,
-    *AttiTaranto 12, 1972* (Taranto, 1973), pp. 363–76; idem,
-    *AttiTaranto* *13, 1973* (Taranto, 1974), pp. 413–22, esp. 420–21;
-    idem, “Recenti scoperti archeologiche in Puglia,” *AttiTaranto* *16,
-    1976* (Taranto, 1977), pp. 725–45, esp. 728–33; *AttiTaranto 17,
-    1977* (Taranto, 1978), pp. 495–504, esp. 499–500. Also, see M.
-    Torelli, in *AttiTaranto* *16, 1976* (Taranto, 1977), p. 956; E. De
-    Juliis, *AttiTaranto* *19, 1979* (Taranto, 1980), pp. 428–29. On the
+    177–279; Lo Porto, “L’attività archeologica in Puglia,” in
+    *AttiTaranto* 11, text volume (1972), p. 500; Lo Porto,
+    *AttiTaranto* 12, (1973), pp. 363–76; Lo Porto,
+    *AttiTaranto* 13 (1974), pp. 413–22, esp. 420–21;
+    Lo Porto, “Recenti scoperti archeologiche in Puglia,” *AttiTaranto* 16 (1977), pp. 725–45, esp. 728–33; *AttiTaranto* 17, (1978), pp. 495–504, esp. 499–500. Also, see M.
+    Torelli, in *AttiTaranto* 16, (1977), p. 956; E. De
+    Juliis, *AttiTaranto* 19, (1980), pp. 428–29. On the
     cults present in Saturo, see M. Osanna, “Sui culti arcaici di Sparta
     e Taranto: Afrodite Basilis,” *PdP* 45 (1990), pp. 81–94; E.
     Lippolis, “Le testimonianze del culto in Taranto greca,” *Taras* 2
     (1982), pp. 81–135. For a summary of the research done in Saturo,
-    see <span class="smcaps">Settis and Parra</span>
-    2005, pp. 439–40; *<span
-    class="smcaps">Taranto* 1995</span>, pp. 80–87.
+    see <span class="smcaps">Settis and Parra 2005</span>, pp. 439–40; <span
+    class="smcaps">*Taranto* 1995</span>, pp. 80–87.
     For coroplastic material, see also <span
-    class="smcaps">Monetti 2004</span>–200<span
-    class="smcaps">5</span>. The bibliography of
+    class="smcaps">Monetti 2004–5</span>. The bibliography of
     material on Saturo has been enriched over the years by various
     contributions on specific research topics, in particular on Laconian
     vases from Saturo, on which see P. Pelagatti and C. M. Stibbe, “La
-    ceramica laconica a Taranto e nella Puglia,” in *AttiTaranto* *41,
-    2001* (2002), pp. 365–403. On the topography and models of
+    ceramica laconica a Taranto e nella Puglia,” in *AttiTaranto* 41,
+    (2002), pp. 365–403. On the topography and models of
     settlement, see M. A. Dell’Aglio, *Leporano alle origini di un
     territorio*, exh. cat. (Taranto, Castello di Leporano, 1993); A.
     Alessio and P. G. Guzzo, “Santuari e fattorie ad est di Taranto:
     Elementi archeologici per un modello di interpretazione,” *ScAnt*
-    3–4 (1989–90), pp. 363–96; <span
-    class="smcaps">Osanna</span> 1992; and M. A.
+    3–4 (1989–90), pp. 363–96; and <span
+    class="smcaps">Osanna 1992</span>; and M. A.
     Dell’Aglio, *Il parco archeologico di Saturo Porto Perone: Leporano,
     Taranto* (Taranto, 1999).
 
@@ -401,13 +397,13 @@ front.
 
 [^4]: On this topic, see <span class="smcaps">Settis
     and Parra 2005</span>, <span
-    class="smcaps">Lippolis</span> 2001; *<span
-    class="smcaps">Taranto* 1995</span>, pp. 84–85;
-    and <span class="smcaps">Osanna</span> 1992. In
+    class="smcaps">Lippolis 2001</span>; <span
+    class="smcaps">*Taranto* 1995</span>, pp. 84–85;
+    and <span class="smcaps">Osanna 1992</span> 1992. In
     general, on the presence in a sanctuary of religious rituals
     directed toward deities other from those to whom the sanctuary was
     dedicated, see B. Alroth, “Visiting Gods,” *ScAnt* 3–4 (1989–90),
-    pp. 301–10; B. Alroth, “Visiting Gods: Who and Why,” in <span
+    pp. 301–10; and B. Alroth, “Visiting Gods: Who and Why,” in <span
     class="smcaps">Linders and Nordquist 1987</span>,
     pp. 9–19.
 
@@ -420,52 +416,52 @@ front.
     Dell’Aglio, for allowing me to view this material, and the museum
     personnel for their courteous help. The association between the
     Hirsch-Virzì collection and the sanctuary at Saturo remains to be
-    clarified. It may be that in the complicated paths of acquisition
+    clarified. It may be that in the complicated paths of acquisition,
     diverse and conflicting information muddied the history of the
     pieces.
 
 [^6]: For the Copenhagen material, see <span
     class="smcaps">Fischer-Hansen 1992</span>, pp.
-    75–97; on the Fondo Giovinazzi: *<span
-    class="smcaps">Taranto* 1995</span>, pp. 71–77.
+    75–97; on the Fondo Giovinazzi, see <span
+    class="smcaps">*Taranto* 1995</span>, pp. 71–77.
 
 [^7]: The collection of terracottas now in the Musei Civici di Trieste
     was formed through a series of acquisitions on the antiquities
     market in the late nineteenth century. The catalogue of the
     collection is newly published: <span
-    class="smcaps">Poli</span> 2010. See also N. Poli,
+    class="smcaps">Poli 2010a</span>. See also N. Poli,
     “La collezione tarentina del Civico Museo di Storia e Arte di
     Trieste: Storia della formazione,” *Taras* 21, no. 2 (2001), pp.
     79–94. A number of items appear in <span
-    class="smcaps">Winter</span> 1903 (i.e., the
+    class="smcaps">Winter 1903</span> (i.e., the
     pieces on p. 4, no. 8b; p. 31, no. 2; p. 42; and p. 52, no. 7),
     where drawings are reproduced. Several references to these
     materials, some of which probably came from the funerary deposits of
     Pizzone, can be found in <span
     class="smcaps">Wuilleumier 1939</span>, pp.
     396–439; for this large deposit, see <span
-    class="smcaps">Poli</span> 2010a . M. Borda
+    class="smcaps">Poli 2010b</span>. M. Borda
     published a number of statuettes in his *Arte dedalica a Taranto*
     (Pordenone, 1979), pp. 36–38, 46–55, and “La kourotrophos dedalica
-    da Taranto del Museo Civico di Trieste,” *<span
-    class="smcaps">Aparchai* 1982</span>, vol. 1, pp.
+    da Taranto del Museo Civico di Trieste,” <span
+    class="smcaps">*Aparchai* 1982</span>, vol. 1, pp.
     85–96.
 
 [^8]: See <span class="smcaps">Lippolis</span> 2001.
-    Also worth noting is the methodological introduction in *<span
-    class="smcaps">Taranto* 1995</span>, pp. 41–49:
+    Also worth noting is the methodological introduction in <span
+    class="smcaps">*Taranto* 1995</span>, pp. 41–49:
     most of the Tarentine votive deposits show a clear relationship with
     the necropoleis, even though the function of terracottas in funerary
     rituals and their iconographic interpretation within this context
     remain problematic. In this connection, see D. Graepler, “La
-    necropoli e la cultura funeraria,” in *AttiTaranto* *41, 2001*
-    (Taranto, 2002), pp. 193–218.
+    necropoli e la cultura funeraria,” in *AttiTaranto* 41
+    (2002), pp. 193–218.
 
 [^9]: An overarching picture of the cultural exchanges between Taras,
     the Apulian region, and cultural centers of the eastern
     Mediterranean—particularly Macedonia and Egypt—is laid out by J. P.
     Morel in “Taranto nel Mediterraneo in epoca ellenistica,” in
-    *AttiTaranto 41, 2001* (Taranto, 2002), pp. 529–74, and in the
+    *AttiTaranto* 41 (2002), pp. 529–74, and in the
     contribution by N. Bonacasa in that volume, pp. 593–60; see also E.
     Ghisellini, “Una statua femminile alessandrina da Egnazia:
     Considerazioni sui rapporti tra Apulia e l’Egitto tolemaico,”
@@ -474,9 +470,7 @@ front.
     century <span class="smcaps">BC</span>, see D.
     Graepler, “Des Tanagréens en offrandes funéraires: L’exemple de
     Tarente,” in <span class="smcaps">Jeammet
-    2003</span>b, pp. 277–84. The production of entire life-sized (or
-    slightly smaller) terracotta statues is clearly attested in Taranto
-    and in Magna Graecia; see, for example, the head in <span
+    2003b</span>, pp. 277–84. For terracotta statues in Magna Graecia; see, for example, the head in <span
     class="smcaps">Pugliese Carratelli 1983</span>,
     pp. 501–502, figs, 546–47; see also the statues found near Heraclea,
     ibid., p. 501, fig. 545.
@@ -498,7 +492,7 @@ front.
     Western sculpture, particularly at the beginning in the second half
     of the fifth century <span
     class="smcaps">BC</span>, see <span
-    class="smcaps">Rolley</span> 1994–99, vol. 2, pp.
+    class="smcaps">Rolley 1994-99</span>, vol. 2, pp.
     191–96. The melancholy type with finely drawn features, so common in
     Taranto, also characterizes the heads of the Dioscuri in a group
     from the Ionian temple of Marasà in Locri dating to the late fifth
@@ -523,14 +517,14 @@ front.
     2001, pp. 88–89; C. Rolley, “La scultura della Magna Grecia,” in
     <span class="smcaps">Pugliese Carratelli
     1996</span>, pp. 378–79; S. Steingräber, “Zum Phänomen der
-    etruskisch-italischen Votivköpfe,” *RM* 87 (1980), p. 236; A.
+    etruskisch-italischen Votivköpfe,” *RM* 87 (1980), p. 236; and A.
     Maggiani, “Il problema del ritratto,” in *Artigianato artistico:
     L’Etruria settentrionale interna in età ellenistica* (Milan, 1985),
     pp. 89–95.
 
 [^14]: For the presence in Lucera of Tarentine craftsmen specializing in
     works of higher artistic quality, such as statues, see <span
-    class="smcaps">D’Ercole 1990</span>, pp. 307–12;
+    class="smcaps">D’Ercole 1990</span>, pp. 307–12; and
     <span class="smcaps">Orlandini 1983</span>, pp.
     501–6. For the Tarentine influence in Ariccia, see <span
     class="smcaps">Carafa</span> 1996*,* pp. 273–94.
@@ -544,7 +538,7 @@ front.
     class="smcaps">BC;</span> see <span
     class="smcaps">Tomei 1992</span>, pp. 171–226.
 
-[^15]: For the passage to a more individualized typology see P.
+[^15]: For the passage to a more individualized typology, see P.
     Pensabene, “Cippi busti e ritratti: Nota in margine a M. F. Kilmer,
     ‘The Shoulder Bust in Sicily and South and Central Italy,’ Göteborg,
     1977,” *ArchCl* 16 (1977), pp. 425–35. On the Romanization of
@@ -552,10 +546,10 @@ front.
     urbana in Puglia tra Annibale e l’età imperiale* (Taranto, 1998) pp.
     39–55, 101–11.
 
-[^16]: For crouching children, see the bibliography for [cat. 23](23).
+[^16]: For crouching children, see [cat. 23](../23), note 2.
 
-[^17]: For reclining figures, see *<span
-    class="smcaps">Taranto* 1995</span>, pp. 166–69
+[^17]: For reclining figures, see <span
+    class="smcaps">*Taranto* 1995</span>, pp. 166–69
     and nos. 6 and 9; for Metaponto, see G. M. Signore, “Rilievi fittili
     con recumbente dal Ceramico di Metaponto,” *Studi di Antichità* 9
     (1996), pp. 299–359. On the reclining figures in Locri, see M. Barra
@@ -579,9 +573,9 @@ front.
     Dionysius I and II and Agathocles and in the wake of the Hannibalic
     War; regarding these, see E. Lippolis, “La ceramica policroma
     tarantina,” *Taras* 14 (1994), pp. 263–310. For the discoveries of
-    Tarentine reclining figures in Sicily, see also M. Barra Bagnasco,
+    Tarentine reclining figures in Sicily, see  M. Barra Bagnasco,
     “I recumbenti,” in <span class="smcaps">Barra
-    Bagnasco 1977*,*</span>pp. 151–69, n. 27.
+    Bagnasco 1977</span>, pp. 151–69, n. 27.
 
 [^19]: On the heroic connotation and the aristocratic ideal that can be
     seen in the funerary deposits of the Hellenistic period, see <span
@@ -589,17 +583,16 @@ front.
     pp. 189–97. We should also consider in this context the significance
     of the *semata* in <span class="smcaps">Lippolis
     1994</span>, pp. 109–28. On the relationship between votive deposits
-    and funerary areas in Taranto, see *<span
-    class="smcaps">Taranto* 1995</span>, pp. 41–49.
+    and funerary areas in Taranto, see <span
+    class="smcaps">*Taranto* 1995</span>, pp. 41–49.
 
-[^20]: See the introduction, above, and also E. Paribeni, “Volti, teste
+[^20]: See the [introduction](../../introduction/), and also E. Paribeni, “Volti, teste
     calve e parrucche,” *AttiMGrecia* n.s. 2 (1958), pp. 63–68. For
     rounded-off backs of heads achieved by molds, see the example of a
     head and bust mold of Artemis in Geneva’s Musée d’Art et d’Histoire
-    published in <span class="smcaps">Kingsley</span>
-    1981, pp. 44 and 46, figs. 6–8.
+    published in <span class="smcaps">Kingsley 1981</span>, pp. 44 and 46, figs. 6–8.
 
-[^21]: On the effects of technical procedures, see <span
+[^21]: On technical procedures, see <span
     class="smcaps">Merker 2000</span>, p. 18.
 
 [^22]: On the facial asymmetries, see S. Stucchi, “Nota introduttiva
