@@ -1,14 +1,3 @@
-// Cover Class
-// Styles specific to the cover page layout live here.
-//
-// .cover           - Full-bleed background image
-// .cover-inner     - Starts half-way down cover, contains transparent overlay
-// .cover-title     - Sits on top of cover-overlay for legibility; centered
-// .cover-subtitle  - Same as above
-// .cover-author    - same as above
-// .cover-content   - White background, sits below cover image region
-// .centered        - single text column inside .cover-content; centered
-
 .cover {
   background-color: $dark-gray;
   background-image: url(image-path("86.AD.681.detail_2.jpg"));
@@ -124,23 +113,17 @@
   }
 }
 
-.cover-copy {
-  font-size: 0.95em;
-  padding: 1rem;
-
-  @include media($medium-screen-up) {
-    font-size: 1.125em;
-    padding: 2.5rem 1rem;
-  }
-}
-
+.cover-copy { padding: 1rem; }
 .cover-copy-inner {
   @extend %cover-container;
   @extend %cover-block;
   max-width: 64rem;
-
   a.button { margin-top: 3rem; }
-
+  p {
+    font-size: $base-font-size * 1.35;
+    line-height: 1.5;
+    @include media($small-screen) { font-size: $base-font-size * 1.25; }
+  }
   @include media($medium-screen-up) { @include padding(null 4rem); }
   @include media($large-screen-up) { @include padding(null 8rem); }
 }
@@ -167,7 +150,6 @@
 .cover-explore {
   @extend %cover-container;
   @extend %cover-block;
-  // a.button { margin-top: 3rem; margin-bottom: 2rem; }
 }
 
 .cover-colophon {
@@ -190,4 +172,12 @@
 .colophon-logo {
   width: 50px;
   @include media($large-screen-up) { float: right; }
+}
+
+.feature-object p {
+  @include media($medium-screen-up) {
+    font-size: $base-font-size * 1.125;
+    line-height: 1.4;
+    margin-bottom: 2rem;
+  }
 }

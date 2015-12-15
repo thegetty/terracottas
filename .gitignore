@@ -5,5 +5,5 @@
 /build
 /raw
 secrets.yml
-
-test.json
+source/assets/downloads/AncientTerracottas_Ferruzza.pdf
+*.sw*
