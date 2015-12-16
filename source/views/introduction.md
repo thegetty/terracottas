@@ -24,16 +24,16 @@ associations with other materials. Furthermore, this selection
 intentionally presents significant variations in typology and
 chronology, spanning many centuries from the Archaic to the Late
 Hellenistic period. In addition, the intrinsic nature of the collection
-imposes certain limitations on this catalogue, as one cannot base the
+imposes certain limitations on this catalogue, as one cannot base
 interpretative theories on solid foundations that might deepen our
 understanding of a specific center, region, or cultural context.
 
 Certain aspects of the methods, objectives, and results presented in
 this catalogue merit attention. The catalogue presents a selection of
 the most significant typologies of the terracottas in the collection,
-and includes unique pieces as well more ordinary ones that were acquired
+and it includes unique pieces as well more ordinary ones that were acquired
 as donations. Overall, the Getty’s antiquities collection is comprised
-of over 1000 terracotta statues, statuettes, and other object types,
+of more than 1,000 terracotta statues, statuettes, and other object types,
 ranging in date from the Neolithic to the Roman period, the great
 majority of which can be associated with votive deposits in southern and
 central Italy, especially the areas of Campania, Lucania (Metaponto),
@@ -71,7 +71,7 @@ aspects of the artifacts from the ancient world. In fact, such
 artifacts, having been handed down through the filter of collectors,
 sometimes seem to fit poorly within established hermeneutic categories,
 which too often are excessively codified and conventional. I hope that
-this catalogue and the accompanying [Guide to the Collection of South Italian and Sicilian Terracottas](../guide), which indexes over a thousand other
+this catalogue and the accompanying [Guide to the Collection of South Italian and Sicilian Terracottas](../guide), which indexes more than 1,000 other
 statuettes and molds at the Getty, will encourage wider comparison and
 connections to materials of more certain archaeological contexts.[^3]
 
@@ -82,13 +82,13 @@ connections to materials of more certain archaeological contexts.[^3]
     Museum, the Italian Ministry of Culture, and the Assessorato
     Regionale dei Beni Culturali e dell’Identità Siciliana. Prior to
     final editing, bibliographical references have been updated through
-    2010 or in selected cases, to 2013; the bibliography for individual
+    2010 or, in selected cases, to 2013; the bibliography for individual
     objects is current through 2015.
 
-[^2]: [Cat. 24](../catalogue/24), [27](../catalogue/27), [29](../catalogue/29)–[33](../catalogue/33), [35](../catalogue/35)–[36](../catalogue/36), [44](../catalogue/44)–[46](../catalogue/46), and [58](../catalogue/58). The collection was published in the catalogue *<span class="smcaps">Passion for Antiquities</span>* 1994.
+[^2]: [Cats. 24](../catalogue/24), [27](../catalogue/27), [29](../catalogue/29), [30](../catalogue/30), [31](../catalogue/31), [32](../catalogue/32), [33](../catalogue/33), [35](../catalogue/35), [36](../catalogue/36), [44](../catalogue/44), [45](../catalogue/45), [46](../catalogue/46), and [58](../catalogue/58). The collection was published in the catalogue *<span class="smcaps">Passion for Antiquities 1994</span>*.
 
 [^3]: See the essays by P. Pelagatti and N. Bonacasa in <span
     class="smcaps">Pelagatti and Guzzo 1997</span>,
     pp. 9–28, and the introduction to the British Museum catalogue <span
-    class="smcaps">Burn and Higgins</span> 2001*,* pp.
+    class="smcaps">Burn and Higgins 2001</span>*,* pp.
     16–17.

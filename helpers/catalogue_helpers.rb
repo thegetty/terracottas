@@ -159,7 +159,7 @@ module CatalogueHelpers
 
   def prev_entry(id = 1)
     if id == 1
-      prev_page = sitemap.resources.find { |p| p.data.sort_order == 10 }
+      prev_page = sitemap.resources.find { |p| p.data.sort_order == 8 }
       return false if prev_page.nil?
       destination = "#{site_url}#{prev_page.url}"
       haml_tag :a, :id     => "prev-link",

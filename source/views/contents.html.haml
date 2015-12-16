@@ -1,17 +1,17 @@
 ---
-title: Table of Contents
+title: Contents
 layout: application
 sort_order: 1
 ---
-.container
-  .page-content.pb4
-    %h1.page-title.centered= current_page.data.title
-    .table-of-contents
+.table-of-contents
+  .container
+    .page-content.pb4
+      %h1.page-title.centered= current_page.data.title
       - pages       = sitemap.resources.find_all { |p| p.data.sort_order }
       - pages.sort_by! { |p| p.data.sort_order }
       .no-print
         - pages.each do |p|
-          - next if p.data.title == "Table of Contents"
+          - next if p.data.title == "Contents"
           - if p.data.layout == "cover"
             = link_to "#{site_url}#{p.url}" do
               %h4 Cover
@@ -24,7 +24,7 @@ sort_order: 1
               Taranto Region | Cat. 1–37
               Canosa | Cat. 38–46
               Medma | Cat. 47–48
-              South Italy | Cat. 49–50
+              Other South Italy | Cat. 49–50
               Sicily | Cat. 51–60
               {: .toc-regions }
           - elsif p.data.author_full_name
@@ -38,7 +38,7 @@ sort_order: 1
       .print-only
         %ul
           - pages.each do |p|
-            - if p.data.layout == "map" || p.data.layout == "cover" || p.data.title == "Table of Contents"
+            - if p.data.layout == "map" || p.data.layout == "cover" || p.data.title == "Contents"
               - next
             - elsif p.data.title == "Catalogue"
               %li
@@ -47,7 +47,7 @@ sort_order: 1
                   Taranto Region | Cat. 1–37
                   Canosa | Cat. 38–46
                   Medma | Cat. 47–48
-                  South Italy | Cat. 49–50
+                  Other South Italy | Cat. 49–50
                   Sicily | Cat. 51–60
                   {: .toc-regions }
             - elsif p.data.author_full_name

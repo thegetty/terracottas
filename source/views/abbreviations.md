@@ -4,12 +4,6 @@ layout: page
 sort_order: 103
 ---
 
-fl.|flourished
-l./ll.|line/lines
-n.s.|new series
-pl.|plate
-suppl.|supplement
-
 *AA*|*Archäologisches Anzeiger*
 *Aevum*|*Aevum: Rassegna di scienze storiche, linguistiche e filologiche*
 *AION*|*Annali dell’Istituto Orientale di Napoli*
@@ -21,15 +15,15 @@ suppl.|supplement
 *AttiTaranto*|*Atti del convengo di studi sulla Magna Grecia, Taranto*
 *BABesch*|*Bulletin antieke beschaving*
 *BdA*|*Bollettino d'arte*
-*BICS*|*Bulletin of the Institute of Classical Studies (London)*
+*BICS*|*Bulletin of the Institute of Classical Studies* (London)
 *BSA*|*Annual of the British School of Athens*
 *ClAnt*|*Classical Antiquity*
 *CVA*|*Corpus Vasorum Antiquorum*
-*EAA*|*Enciclopedia dell' arte antica, classica e orientale (Rome 1958–1984)*
+*EAA*|*Enciclopedia dell’ arte antica, classica e orientale* (Rome 1958–84)
 *GettyMusJ*|*The J. Paul Getty Museum Journal*
 *IG*|*Inscriptiones graecae*
 *JdI*|*Jahrbuch des Deutschen Archäologischen Instituts*
-*Kokalos*|*Kokalos: Studi pubblicati dall’Instituto di storia dell’Università di Palermo*
+*Kokalos*|*Kokalos: Studi pubblicati dall’Istituto di storia dell’Università di Palermo*
 *LIMC*|*Lexicon Iconographicum Mythologiae Classicae*
 *MÉFRA*|*Mélanges de l’École Française de Rome, Antiquité*
 *MonAnt*|*Monumenti antichi*
@@ -39,7 +33,7 @@ suppl.|supplement
 *RdA*|*Rivista di archeologia*
 *RivIstArch*|*Rivista dell'Istituto nazionale d'archeologia e storia dell'arte*
 *RM*|*Mitteilungen des Deutschen Archäologischen Instituts, Römische Abteilung*
-*ScAnt*|*Scienze dell'Antichita: Storia, archeologia, antropologia (Rome 1987–)*
+*ScAnt*|*Scienze dell'Antichità: Storia, archeologia, antropologia* (Rome 1987–)
 *SicArch*|*Sicilia archeologica*
 *ThesCRA*|*Thesaurus Cultus et Rituum Antiquorum*
 *Xenia*|*Xenia: Semestrale di antichità*

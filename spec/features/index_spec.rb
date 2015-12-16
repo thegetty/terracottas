@@ -11,7 +11,7 @@ describe "index", :type => :feature, js: true do
       page.should have_content /Ancient Terracottas from South Italy and Sicily/i
     end
   end
-  
+
   it "has correct subtitle" do
     page.should have_selector ".cover-subtitle"
     within ".cover-subtitle" do
@@ -49,7 +49,7 @@ describe "index", :type => :feature, js: true do
 
   it "should go to the TOC page when TOC link is clicked" do
     within ".main-content" do
-      click_link "Table of Contents"
+      click_link "Contents"
       current_path.should eq("//contents/")
     end
   end
