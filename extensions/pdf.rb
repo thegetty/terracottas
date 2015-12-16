@@ -45,6 +45,10 @@ class PDF < Middleman::Extension
   end
 
   def sort_contents(resources)
+    # TODO: refactor this method so that frontmatter is not a collection of
+    # pre-existing HTML pages, but a new specially-prepared page with its own
+    # layout. This should be easier to control for the purposes of print layout.
+
     pages       = resources.find_all { |p| p.data.sort_order }
     discussions = resources.find_all { |p| p.data.objects }
 
