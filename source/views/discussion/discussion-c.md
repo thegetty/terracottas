@@ -210,7 +210,7 @@ third century <span class="smcaps">BC.</span>
     class="smcaps">Pugliese Carratelli 1996</span>,
     pp. 591–606.
 
-[^7]: See note 1 above. For the *askoi* of Canosa, see also F. van der
+[^7]: See [note 1](#fn:1) above. For the *askoi* of Canosa, see also F. van der
     Wielen, “Ceramica a decorazione plastica e policroma,” pp. 310–26 in
     <span class="smcaps">Cassano 1992</span>, nos. 50–76; A. Rinuy et al., “Céramique insolite de l’Italie du Sud:
     Les vases hellénistiques de Canosa,” *Genava* n.s. 26 (1978), pp.
@@ -258,7 +258,7 @@ third century <span class="smcaps">BC.</span>
     and <span class="smcaps">De Juliis 1984</span>,
     pp. 19–21.
 
-[^11]: On aspects of Hellenization in indigenous centers, see note 7 above
+[^11]: On aspects of Hellenization in indigenous centers, see [note 7](#fn:7) above
     and J. L. Lamboley, “Les hypogées indigènes apuliens,” *MÉFRA* 94,
     no. 1 (1982), pp. 91–148; L. Todisco*, Introduzione all’artigianato
     della Puglia antica: Dall’età coloniale all’età romana* (Bari,
