@@ -42,9 +42,9 @@ acquisition by the J. Paul Getty Museum is given.
 
 The object “Bibliography” section lists both publications devoted to the
 piece in question and those in which the piece is only mentioned.
-Citations that are mentioned several times in the catalogue and notes
+Citations that are mentioned several times in the catalogue and in notes
 are cited with an abbreviation; the full references are in the general
-“Bibliography.”
+[Bibliography](../bibliography).
 
 The body of each catalogue entry consists of an iconographic description
 and a critical commentary with the pertinent comparisons, dating
@@ -59,8 +59,7 @@ analogies.[^2]
     concerns that have been raised about the use of color charts, see N.
     Cuomo di Caprio, *La ceramica in archeologia: Antiche tecniche di
     lavorazione e moderni metodi d’indagine* (Rome, 1985), p. 175, and
-    M. <span class="smcaps">Barra Bagnasco</span>
-    1986, p. 106. Only an accurate archaeometric analysis can
+    <span class="smcaps">Barra Bagnasco 1986</span>, p. 106. Only an accurate archaeometric analysis can
     definitively identify differences in the structure and mineral
     composition of the fabric.
 
