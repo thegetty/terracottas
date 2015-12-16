@@ -46,7 +46,8 @@ $footnote-size: 7.5pt;
   margin-top: $top-margin;
 
   @bottom-left {
-    content: counter(page) "\2003" string(doctitle);
+    //content: counter(page) "\2003" string(doctitle);
+		content: counter(page);
     font-family: $base-font-family;
     font-size: $page-number-size;
   }
@@ -59,7 +60,8 @@ $footnote-size: 7.5pt;
   margin-top: $top-margin;
 
   @bottom-right {
-    content: string(doctitle) "\2003" counter(page);
+    //content: string(doctitle) "\2003" counter(page);
+		content: counter(page);
     font-family: $base-font-family;
     font-size: $page-number-size;
   }
@@ -67,6 +69,24 @@ $footnote-size: 7.5pt;
 
 @page bleed {
   margin: 0;
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+}
+
+@page no-footer:left {
+  margin-bottom: $bottom-margin;
+  margin-left: $outer-margin;
+  margin-right: $inner-margin;
+  margin-top: $top-margin;
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+}
+
+@page no-footer:right {
+  margin-bottom: $bottom-margin;
+  margin-left: $inner-margin;
+  margin-right: $outer-margin;
+  margin-top: $top-margin;
   @bottom-left { content: none; }
   @bottom-right { content: none; }
 }
@@ -140,7 +160,7 @@ $footnote-size: 7.5pt;
     ul, ol { margin-left: 0; padding-left: ($print-base-spacing * 2); }
   }
 
-  .about {
+  .about .page-content {
     p + p { text-indent: $print-paragraph-indent; }
     h2, h3, h4 { border-top: none; }
     h2 { font-size: $print-base-font-size * 1.5; }
@@ -148,6 +168,10 @@ $footnote-size: 7.5pt;
     h4 { font-size: $print-base-font-size; font-weight: bold; }
     blockquote { background-color: $print-background-color; margin: 0; padding: 0; }
   }
+
+	.acknowledgments {
+		page: no-footer;
+	}
 
   .alt-view {
     background-repeat: no-repeat;
@@ -190,11 +214,20 @@ $footnote-size: 7.5pt;
     text-indent: 0;
   }
 
-  .copyright p {
+  .copyright p,
+	.copyright-page p {
     margin-bottom: $print-base-spacing;
     text-indent: 0;
     + p { text-indent: 0; }
   }
+
+	.copyright-page {
+		font-family: $heading-font-family;
+		font-size: 8pt;
+		margin-right: 3in;
+		page: no-footer;
+		page-break-before: left;
+	}
 
   .cover {
     background-image: url(image_path("print/cover.jpg"));
@@ -215,6 +248,7 @@ $footnote-size: 7.5pt;
     line-height: 1;
     margin-top: 4in;
     margin-right: $outer-margin;
+		page: no-footer;
     page-break-before: right;
 
     .cover-title {
@@ -252,8 +286,21 @@ $footnote-size: 7.5pt;
     line-height: 1.2;
     margin-top: $print-base-spacing;
   }
+
+	.index { page:no-footer }
+
+	.introduction {
+		counter-reset: page 1;
+		page-break-before: right;
+	}
+
   .footnotes ol li { font-size: $footnote-size; line-height: 1.2; }
   .footnotes ol li p { font-size: $footnote-size; line-height: 1.2; }
+
+	.foreword {
+		page: no-footer;
+		page-break-before: left;
+	}
 
   .main-content {
     background-color: $print-background-color;
@@ -303,14 +350,14 @@ $footnote-size: 7.5pt;
   .panel-right { width: 100%; }
 
   .page-cover {
-    background-color: $print-background-color;
+    background-color: #333;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 5.25in;
-    margin-bottom: 0.5in;
-    margin-left: -1.125in;
-    margin-top: -1in;
-    width: 9in;
+    height: $bleed-height;
+    margin-top: -($bleed);
+    margin-left: -($bleed);
+    page: bleed;
+    width: $bleed-width;
 
     ~ .container .page-content .page-title {
       margin-bottom: 0.5in;
@@ -346,6 +393,10 @@ $footnote-size: 7.5pt;
 
   .table-of-contents {
     font-family: $heading-font-family;
+		counter-reset: page 1;
+		page: no-footer;
+		page-break-after: avoid;
+
     * { margin: 0; padding: 0; }
     a {
       margin: 0;

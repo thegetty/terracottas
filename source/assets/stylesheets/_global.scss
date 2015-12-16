@@ -92,16 +92,16 @@ body { background-color: $base-background-color; }
 }
 
 .table-of-contents {
-  font-size: 1.125em;
+  font-size: 1.135em;
 
   h4 {
-    font-size: 1.125em;
+    font-size: 1.135em;
     margin-bottom: 0.25rem;
   }
 }
 
 // style collection links in the Guide section differently
-.guide {
+.guide article {
   h1, h2, h3, h4, h5, h6 { clear: both; }
   ul { list-style-type: circle; }
   li {
