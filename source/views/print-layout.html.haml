@@ -1,0 +1,96 @@
+---
+title: Ancient Terracottas from South Italy and Sicily
+subtitle: in the J. Paul Getty Museum
+layout: false
+---
+!!!
+%html
+  %head
+    %meta{ charset: "utf-8" }
+    %title= page_title
+    = stylesheet_link_tag "application"
+  %body
+    .print-cover
+    .print-cover-inner
+    .print-halftitle
+      %h1.cover-title= current_page.data.title
+      %h2.cover-subtitle= current_page.data.subtitle
+    .print-title-left
+    .print-title-right
+    .print-copyright
+      :markdown
+        © 2016 J. Paul Getty Trust
+
+        ###### Published by the J. Paul Getty Museum, Los Angeles
+        Getty Publications
+        1200 Getty Center Drive, Suite 500
+        Los Angeles, California 90049-1682
+        [www.getty.edu/publications](http://www.getty.edu/publications)
+
+        Ruth Evans Lane, Benedicte Gilman, and Marina Belozerskaya, *Project Editors* <br />
+        TK, *Translator* <br />
+        Greg Albers, Eric Gardner, and Stephanie Grimes, *Digital Development* <br />
+        Elizabeth Chapin Kahn, *Production* <br />
+
+        Library of Congress Cataloging-in-Publication Data TK
+
+        Illustration Credits TK
+    .print-toc
+      %h1.page-title.centered Contents
+      - pages       = sitemap.resources.find_all { |p| p.data.sort_order }
+      - pages.sort_by! { |p| p.data.sort_order }
+
+      - frontmatter = pages.find_all     { |p| p.data.sort_order < 8 }
+      - backmatter  = pages.find_all     { |p| p.data.sort_order >= 100 }
+      %ul
+        - frontmatter.each do |p|
+          - next if p.data.layout == "cover" || p.data.title == "Contents"
+          - anchor = p.url.sub(%r{^/},"").chop
+          %li.frontmatter
+            = link_to p.data.title, "##{anchor}"
+            - if p.data.author_full_name
+              %p.toc-author= p.data.author_full_name
+        %li
+          = link_to "Catalogue", "#catalogue-intro"
+          %ul.toc-regions
+            %li= link_to "Taranto Region (Cats. 1–37)", "../print-catalogue/1/index.html"
+            %li= link_to "Canosa (Cats. 38–46)", "../print-catalogue/38/index.html"
+            %li= link_to "Medma (Cats. 47–48)", "../print-catalogue/47/index.html"
+            %li= link_to "Other South Italy (Cats. 49–50)", "../print-catalogue/49/index.html"
+            %li= link_to "Sicily (Cats. 51–60)", "../print-catalogue/51/index.html"
+        - backmatter.each do |p|
+          - next if p.data.title == "About"
+          %li
+            = link_to p.data.title, "../#{p.destination_path}"
+            - if p.data.author_full_name
+              %p.toc-author= p.data.author_full_name
+    .print-foreword#foreword
+      - foreword = sitemap.find_resource_by_path("foreword.html")
+      %h1.page-title= foreword.data.title
+      %h3.page-author= foreword.data.author_full_name
+      %article
+        = foreword.render(:layout => false )
+    .print-acknowledgments#acknowledgments
+      - acknowledgments = sitemap.find_resource_by_path("acknowledgments.html")
+      %h1.page-title= acknowledgments.data.title
+      %article
+        = acknowledgments.render(:layout => false )
+      .bleed
+    .print-introduction#introduction
+      - introduction = sitemap.find_resource_by_path("introduction.html")
+      %h1.page-title= introduction.data.title
+      %article
+        = introduction.render(:layout => false )
+    .print-classification#classification
+      - classification = sitemap.find_resource_by_path("classification.html")
+      %h1.page-title= classification.data.title
+      %article
+        = classification.render(:layout => false )
+    .print-production_techniques#production_techniques
+      - production_techniques = sitemap.find_resource_by_path("production_techniques.html")
+      %h1.page-title= production_techniques.data.title
+      %article
+        = production_techniques.render(:layout => false )
+    .print-map#map
+    .print-catalogue-intro-left#catalogue-intro
+    .print-catalogue-intro-right

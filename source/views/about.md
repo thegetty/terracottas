@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-sort_order: 102
+sort_order: 104
 pdf_output: false
 ---
 

@@ -23,7 +23,9 @@ class PDF < Middleman::Extension
     baseurl  = "build"
     frontmatter, entries, backmatter = sort_contents(resources)
 
-    frontmatter.each { |p| pagelist.puts baseurl + p.url + "index.html" }
+    # frontmatter.each { |p| pagelist.puts baseurl + p.url + "index.html" }
+    pagelist.puts baseurl + "/print-layout/index.html"
+
     entries.each     { |p| pagelist.puts baseurl + p.url + "index.html" }
     backmatter.each  { |p| pagelist.puts baseurl + p.url + "index.html" }
     pagelist.close
