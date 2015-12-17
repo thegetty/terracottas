@@ -73,6 +73,22 @@ $footnote-size: 7.5pt;
   @bottom-right { content: none; }
 }
 
+@page frontmatter:left {
+  margin-bottom: $bottom-margin;
+  margin-left: $outer-margin;
+  margin-right: $inner-margin;
+  margin-top: $top-margin;
+  @bottom-left { content: counter(page, lower-roman); }
+}
+
+@page frontmatter:right {
+  margin-bottom: $bottom-margin;
+  margin-left: $inner-margin;
+  margin-right: $outer-margin;
+  margin-top: $top-margin;
+  @bottom-right { content: counter(page, lower-roman); }
+}
+
 @page no-footer:left {
   margin-bottom: $bottom-margin;
   margin-left: $outer-margin;
@@ -91,9 +107,21 @@ $footnote-size: 7.5pt;
   @bottom-right { content: none; }
 }
 
+
 // Print Styles
 // -----------------------------------------------------------------------------
 @media print {
+  
+  %full-page-image {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: $bleed-height;
+    margin-top: -($bleed);
+    margin-left: -($bleed);
+    page: bleed;
+    page-break-after: always;
+    width: $bleed-width;
+  }
 
   // Remove elements not necessary for this layout
   hr,
@@ -137,6 +165,7 @@ $footnote-size: 7.5pt;
 
   // Section-specific
   article {
+    color: $print-text-color;
     column-count: 2;
     column-gap: ($print-base-spacing * 2);
     font-size: $print-base-font-size;
@@ -168,10 +197,6 @@ $footnote-size: 7.5pt;
     h4 { font-size: $print-base-font-size; font-weight: bold; }
     blockquote { background-color: $print-background-color; margin: 0; padding: 0; }
   }
-
-	.acknowledgments {
-		page: no-footer;
-	}
 
   .alt-view {
     background-repeat: no-repeat;
@@ -209,30 +234,12 @@ $footnote-size: 7.5pt;
     }
   }
 
-  .copyright {
-    border: none;
-    text-indent: 0;
-  }
-
-  .copyright p,
-	.copyright-page p {
-    margin-bottom: $print-base-spacing;
-    text-indent: 0;
-    + p { text-indent: 0; }
-  }
-
-	.copyright-page {
-		font-family: $heading-font-family;
-		font-size: 8pt;
-		margin-right: 3in;
-		page: no-footer;
-		page-break-before: left;
-	}
-
-  .cover {
+  .print-cover {
     background-image: url(image_path("print/cover.jpg"));
-    background-repeat: no-repeat;
-    background-size: cover;
+    @extend %full-page-image;
+  }
+  .print-cover-inner {
+    background-color: $action-color;
     height: $bleed-height;
     margin-top: -($bleed);
     margin-left: -($bleed);
@@ -240,38 +247,136 @@ $footnote-size: 7.5pt;
     page-break-after: always;
     width: $bleed-width;
   }
-
-  .cover-inner {
-    color: #000;
+  .print-title-left {
+    background-image: url(image_path("print/title-spread.jpg"));
+    @extend %full-page-image;
+  }
+  .print-title-right {
+    background-image: url(image_path("print/title-spread2.jpg"));
+    @extend %full-page-image;
+  }
+  .print-halftitle {
+    counter-reset: page 1;
+    text-transform: lowercase;
+    margin-top: 4in;
+    margin-right: 0in;
+    page: no-footer;
+    page-break-before: right;
+  }
+  .print-halftitle .cover-title {
+    font-family: "Freight Text Pro SC";
+    font-size: 18pt;
+    font-weight: normal;
+    line-height: 1;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: right;
+  }
+  .print-halftitle .cover-subtitle {
+    color: $medium-gray;
+    font-family: "Freight Text Pro SC";
+    font-size: 15pt;
+    line-height: 1;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: right;
+  }
+  .print-copyright {
+    font-family: $heading-font-family;
+    font-size: 8pt;
+    margin-right: 3in;
+    page: no-footer;
+    page-break-after: always;
+  }
+  .print-toc {
+    page: no-footer;
+  }
+  .print-toc a {
+    margin: 0;
+  }
+  .print-toc a::after {
+    content: leader(dotted) " " target-counter(attr(href, url), page);
+  }
+  .print-toc .frontmatter:nth-of-type(-n+2) a::after {
+    content: leader(dotted) " " target-counter(attr(href, url), page, lower-roman);
+  }
+  .print-toc li {
+    font-size: 1.125em; margin-bottom: 0.15in;
+  }
+  .print-toc .toc-author {
+    font-family: $base-font-family;
+    font-size: 9pt;
+    margin-top: 0.0125in;
+  }
+  .print-toc .toc-regions {
     font-family: "Freight Text Pro SC";
     text-transform: lowercase;
-    line-height: 1;
-    margin-top: 4in;
-    margin-right: $outer-margin;
-		page: no-footer;
-    page-break-before: right;
-
-    .cover-title {
-      font-family: "Freight Text Pro SC";
-      font-size: 18pt;
-      font-weight: normal;
-      line-height: 1;
-      margin-bottom: 0;
-      margin-top: 0;
-      text-align: right;
-    }
-
-    .cover-subtitle {
-      color: $medium-gray;
-      font-family: "Freight Text Pro SC";
-      font-size: 15pt;
-      line-height: 1;
-      margin-bottom: 0;
-      margin-top: 0;
-      text-align: right;
-    }
-
-    .cover-author { display: none; }
+    font-size: 10pt;
+    margin-bottom: 0.125in;
+    margin-top: 0.125in;
+  }
+  .print-foreword {
+    page: frontmatter;
+    page-break-after: always;
+  }
+  .print-acknowledgments {
+    page: frontmatter;
+    page-break-after: always;
+  }
+  .print-acknowledgments .bleed {
+    background-image: url(image_path("print/introduction.jpg"));
+    page: bleed;
+  }
+  .print-introduction {
+    counter-reset: page 1;
+    page-break-after: always;
+  }
+  .print-introduction .bleed {
+    background-image: url(image_path("print/classification.jpg"));
+    page: bleed;
+  }
+  .print-classification {
+    page-break-after: always;
+  }
+  .print-classification .bleed {
+    background-image: url(image_path("print/production.jpg"));
+    page: bleed;
+  }
+  .print-production_techniques {
+    page-break-after: always;
+  }
+  .print-map {
+    background-image: url(image_path("print/map.jpg"));
+    @extend %full-page-image;
+  }
+  .print-catalogue-intro-left {
+    background-image: url(image_path("print/catalogue-spread.jpg"));
+    @extend %full-page-image;
+  }
+  .print-catalogue-intro-right {
+    background-image: url(image_path("print/catalogue-spread2.jpg"));
+    @extend %full-page-image;
+  }
+  .guide article ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  .guide article li {
+    margin-bottom: 0.125in;
+  }
+  .guide figure {
+    page-break-inside: avoid;
+    float: none;
+    margin: 0.25in 0 0.0675in 0;
+  }
+  .guide figcaption {
+    font-size: 8pt;
+  }
+  .guide .inline-figure {
+    width: 100%;
+  }
+  .print-page-break {
+    page-break-after: always;
   }
 
   .entry { page-break-before: left; }
@@ -350,9 +455,10 @@ $footnote-size: 7.5pt;
   .panel-right { width: 100%; }
 
   .page-cover {
-    background-color: #333;
+    background-color: #fff;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
+    background-position: center center;
     height: $bleed-height;
     margin-top: -($bleed);
     margin-left: -($bleed);
@@ -393,7 +499,6 @@ $footnote-size: 7.5pt;
 
   .table-of-contents {
     font-family: $heading-font-family;
-		counter-reset: page 1;
 		page: no-footer;
 		page-break-after: avoid;
 

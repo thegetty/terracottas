@@ -2,6 +2,7 @@
 title: Group of a Seated Poet (Orpheus?) and Sirens
 group: Group of a Seated Poet and Sirens
 objects: !ruby/range 1..3
+cover: "print/group-a"
 ---
 #### Group of a Seated Poet (Orpheus?) and Sirens (cats. 1–3)
 {: .no-print }
@@ -679,7 +680,7 @@ Results of the pigment analysis:
 
 [^15]: For a general treatment of the iconography of the sirens in
     chthonic contexts, see <span
-    class="smcaps">Hofstetter 1997</span>. For the expression of Siren A, see S. Settis, “Immagini della meditazione, del pentimento e dell’incertezza nell’arte antica,” *Prospettiva* 2 (1975), pp. 4–17. 
+    class="smcaps">Hofstetter 1997</span>. For the expression of Siren A, see S. Settis, “Immagini della meditazione, del pentimento e dell’incertezza nell’arte antica,” *Prospettiva* 2 (1975), pp. 4–17.
 
 [^16]: In *Andromache* by Euripides (936), the expression “Sirens’
     words” is used pejoratively, while in *Alexandra* by
