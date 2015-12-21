@@ -1,9 +1,9 @@
 ---
 title: About
 layout: page
-sort_order: 102
+sort_order: 104
+pdf_output: false
 ---
-<div class="about">
 
 In the ancient world, terracotta sculpture was ubiquitous. Readily available and economical&#8212;unlike stone suitable for carving&#8212;clay allowed artisans to craft figures of remarkable variety and expressiveness. Terracottas from South Italy and Sicily attest to the prolific coroplastic workshops that supplied sacred and decorative images for sanctuaries, settlements, and cemeteries. Sixty terracottas are investigated here by noted scholar Maria Lucia Ferruzza, comprising a selection of significant types from the Getty’s larger collection&#8212;life-size sculptures, statuettes, heads and busts, altars, and decorative appliqués. In addition to the comprehensive catalogue entries, the publication includes a guide to the full collection of more than 1,000 other figurines and molds from the region by Claire Lyons.
 
@@ -85,4 +85,3 @@ Illustration Credits TK
 
 </div>
 
-</div>
