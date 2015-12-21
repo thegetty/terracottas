@@ -17,17 +17,17 @@ function GeoMap() {
   this.el          = 'map';
   this.defaultZoom = 6;
   this.maxZoom     = 12;
-  this.ctr         = [40.51379915504413, 17.193603515625],
-  
+  this.ctr         = [40.51379915504413, 17.193603515625];
+
   this.tiles = 'https://api.mapbox.com/v4/isawnyu.map-knmctlkh/{z}/{x}/{y}.png?access_token=';
   this.token = "pk.eyJ1IjoiZWdhcmRuZXIiLCJhIjoiN2IyMmRlMTc0YTAwMzRjYWVhMzI5ZGY1YmViMGVkZTEifQ._576KIFjJ0S_dRHcdM2BmQ";
   this.attr  = 'Tiles © <a href="http://mapbox.com/" target="_blank">MapBox</a> ' +
     '| Tiles and Data © 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a>' +
     '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US"' +
     ' target="_blank">CC-BY-NC 3.0</a>';
-  
+
   this.geojson = geojsonFeature;
-  this.styles  = {  
+  this.styles  = {
     defaultMarker: {
       radius: 6,
       fillColor: "#E79340",
@@ -47,10 +47,11 @@ function GeoMap() {
     }
   };
 
-
+  // Call these when a new instance is created
   this.init();
   this.addTiles();
   this.addGeoJson();
+
 }
 
 // Methods
@@ -66,11 +67,11 @@ GeoMap.prototype = {
     };
     return this;
   },
-  
+
   addTiles: function() {
     L.tileLayer(this.tiles + this.token, {attribution: this.attr}).addTo(this.map);
   },
-  
+
   init: function() {
     this.map = L.map(this.el, { maxzoom: this.maxZoom }).setView(this.ctr, this.defaultZoom);
     // Disable scroll on home page
@@ -81,37 +82,42 @@ GeoMap.prototype = {
   addLabels: function (feature, latlng) {
     var props = feature.properties;
 
+    // Create region markers with links to the relevant cat. entries
     if (props.catalogue.length > 0) {
-      return L.marker(latlng, 
-      { 
+      return L.marker(latlng,{
         icon: L.divIcon({
           html: "<p>" + props.custom_name + "</p>",
           className: "map-label-catalogue",
           iconSize: 65,
         })
       });
-    } else if (props.feature_type == "region" || props.feature_type == "sea") {
-      return L.marker(latlng, 
-      { icon: L.divIcon({
-          html: "<p>" + props.custom_name + "</p>",
-          className: "map-label-region",
-          iconSize: 100,
-        })
-      });
-    } else if (props.feature_type == "country") {
-      return L.marker(latlng, 
-      { icon: L.divIcon({
-          html: "<p>" + props.custom_name + "</p>",
-          className: "map-label-country",
-          iconSize: 150,
-        })
-      });
-    } else if (props.feature_type == "site") {
-      return L.circleMarker(latlng, oMap.styles.defaultMarker);
     }
 
+    // Style all other markers based on feature_type value in GeoJSON
+    // use className to control appearance in separate stylesheet
+    switch (props.feature_type) {
+      case "country":
+        return L.marker(latlng, {
+          icon: L.divIcon({
+            html: "<p>" + props.custom_name + "</p>",
+            className: "map-label-country",
+            iconSize: 150,
+          })
+        });
+      case "region":
+      case "sea":
+        return L.marker(latlng, {
+          icon: L.divIcon({
+            html: "<p>" + props.custom_name + "</p>",
+            className: "map-label-region",
+            iconSize: 100,
+          })
+        });
+      default:
+        return L.circleMarker(latlng, oMap.styles.defaultMarker);
+    }
   },
-  
+
   // This function should be called with onEachFeature
   addPopups: function (feature, layer) {
     var props = feature.properties;
@@ -147,8 +153,10 @@ GeoMap.prototype = {
   // alias for L.geoJson() method with pre-configured options
   // Call on initialization of new GeoMap object
   addGeoJson: function(){
-    L.geoJson(this.geojson, { pointToLayer: this.addLabels, onEachFeature: this.addPopups }).addTo(this.map);
+    L.geoJson(this.geojson, {
+      pointToLayer: this.addLabels,
+      onEachFeature: this.addPopups
+    }).addTo(this.map);
   }
 
 };
-
