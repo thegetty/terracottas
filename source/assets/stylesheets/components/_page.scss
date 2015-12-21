@@ -35,6 +35,14 @@
   max-width: 42rem;
 }
 
+
+.page-content blockquote {
+	background-color: $light-gray;
+	border-radius: 8px;
+	margin: 2rem 0;
+	padding: $base-spacing;
+}
+
 .reference {
   @include prefixer(column-count, 2, webkit moz spec);
   @include prefixer(column-gap, 2.5rem, webkit moz spec);
@@ -51,14 +59,8 @@
   ul { padding: 0; }
 }
 
-.about {
+.about .page-content {
   // indicates new section in "about" page
-  blockquote {
-    background-color: $light-gray;
-    border-radius: 8px;
-    margin: 2rem 0;
-    padding: $base-spacing;
-  }
 
   h2 {
     border-top: 2px solid $light-gray;
@@ -87,4 +89,9 @@
   margin-top: 3rem;
   padding-top: 1.5rem;
   p { font-size: 0.875em; }
+}
+
+.abbreviations article,
+.bibliography article {
+	font-size: $base-font-size * 1.135;	
 }
