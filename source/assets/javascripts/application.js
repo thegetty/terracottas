@@ -10,7 +10,6 @@
 //= require lib/threesixty
 //= require lib/moment
 //= require ui-functions
-//= require map-functions
 //= require search-functions
 //= require catalogue.js
 //
