@@ -1,7 +1,7 @@
 ---
 title: Abbreviations
 layout: page
-sort_order: 103
+sort_order: 101
 ---
 
 *AA*|*Archäologisches Anzeiger*
