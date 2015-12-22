@@ -1,0 +1,11 @@
+<%
+  entries     = []
+  terracottas = merge_catalogue
+
+  terracottas.each do |item|
+    entry   = object_data(item)
+    entries << entry
+  end
+%>
+
+var DEEPZOOMDATA = <%= entries.to_json %>;

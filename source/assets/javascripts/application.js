@@ -12,8 +12,8 @@
 //= require ui-functions
 //= require search-functions
 //= require catalogue.js
-//
 //= require map.js
+//= require deepzoom.js
 
 // Setting this up as global for now to ensure that old Vue instances
 // are getting destroyed when not needed
