@@ -52,20 +52,27 @@
 }
 
 .map-label-region p {
-  color: transparentize($base-font-color, 0.25);
-  font-family: $heading-font-family;
+  // color: transparentize($base-font-color, 0.25);
+  font-family: $base-font-family;
   font-size: 0.9rem;
   font-weight: bold;
-  line-height: 1.2;
+  line-height: 1;
   text-align: center;
   // text-shadow: 2px 2px transparentize($base-background-color, 0.5);
   text-transform: capitalize;
 }
 
-.map-label-country p {
-  // color: transparentize($base-font-color, 0.25);
+.map-label-site p {
   font-family: $heading-font-family;
-  font-size: 1.25rem;
+  font-weight: normal;
+  line-height: 1;
+}
+
+.map-label-country p {
+  @extend .smcaps;
+  // color: transparentize($base-font-color, 0.25);
+  font-family: $base-font-family;
+  font-size: 1.45rem;
   font-weight: bold;
   line-height: 1.2;
   text-align: center;
@@ -75,13 +82,13 @@
 
 .map-label-catalogue {
   p {
-    background-color: $base-background-color;
-    border-radius: $base-border-radius;
-    font-family: $heading-font-family;
-    font-size: 0.9rem;
+    // background-color: $base-background-color;
+    // border-radius: $base-border-radius;
+    // font-family: $heading-font-family;
+    font-size: 1rem;
     font-weight: bold;
     line-height: 1.2;
-    padding: 0.25rem;
+    // padding: 0.25rem;
     text-align: center;
     text-transform: capitalize;
   }

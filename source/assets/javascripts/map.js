@@ -2,30 +2,7 @@
 //= require lib/leaflet
 //= require lib/leaflet-easy-button
 //= require lib/leaflet-hash
-
-// Constants
-// ------------------------------------------------------------------------------------------
-// using a constant to hold things like styles which apply to all maps.
-var MAP = {
-  styles: {
-    defaultMarker: {
-      radius: 6,
-      fillColor: "#E79340",
-      color: "#000",
-      weight: 0.5,
-      opacity: 1,
-      fillOpacity: 1
-    },
-    regionMarker: {
-      radius: 6,
-      fillColor: "#fff",
-      color: "#fff",
-      weight: 3,
-      opacity: 0,
-      fillOpacity: 0.75
-    }
-  }
-};
+//= require lib/leaflet.markercluster
 
 // Map Object
 // Properties
@@ -43,7 +20,38 @@ function GeoMap() {
 
   this.init();
   this.addTiles();
-  this.addGeoJson();
+
+  // Add clustered labels to map
+  var siteLabels, countryLabels, regionLabels, siteGroup;
+
+  siteLabels = L.geoJson(this.geojson, {
+    filter: function (feature, layer) {
+      return feature.properties.feature_type == "site";
+    },
+    pointToLayer: this.addLabels,
+    onEachFeature: this.addPopups,
+  });
+  countryLabels = L.geoJson(this.geojson, {
+    filter: function (feature, layer) {
+      return feature.properties.feature_type == "country";
+    },
+    pointToLayer: this.addLabels,
+    onEachFeature: this.addPopups,
+  });
+  regionLabels = L.geoJson(this.geojson, {
+    filter: function (feature, layer) {
+      return feature.properties.feature_type == 'region' ||
+        feature.properties.feature_type == 'sea';
+    },
+    pointToLayer: this.addLabels,
+    onEachFeature: this.addPopups
+  });
+
+  siteGroup = L.markerClusterGroup();
+  siteGroup.addLayer(siteLabels);
+  this.map.addLayer(siteGroup);
+  this.map.addLayer(countryLabels);
+  this.map.addLayer(regionLabels);
 }
 
 // Methods
@@ -54,29 +62,12 @@ GeoMap.prototype = {
     // Disable scroll on home page
     if ($("#" + this.el).hasClass("no-scroll")) { this.map.scrollWheelZoom.disable(); }
   },
-  addGeoJson: function(){
-    L.geoJson(this.geojson, {
-      pointToLayer: this.addLabels,
-      onEachFeature: this.addPopups
-    }).addTo(this.map);
-  },
   addLabels: function (feature, latlng) {
-    var props = feature.properties;
-    // Create region markers with links to the relevant cat. entries
-    if (props.catalogue.length > 0) {
-      return L.marker(latlng,{
-        icon: L.divIcon({
-          html: "<p>" + props.custom_name + "</p>",
-          className: "map-label-catalogue",
-          iconSize: 65,
-        })
-      });
-    }
-    switch (props.feature_type) {
+    switch (feature.properties.feature_type) {
       case "country":
         return L.marker(latlng, {
           icon: L.divIcon({
-            html: "<p>" + props.custom_name + "</p>",
+            html: "<p>" + feature.properties.custom_name + "</p>",
             className: "map-label-country",
             iconSize: 150,
           })
@@ -85,13 +76,19 @@ GeoMap.prototype = {
       case "sea":
         return L.marker(latlng, {
           icon: L.divIcon({
-            html: "<p>" + props.custom_name + "</p>",
+            html: "<p>" + feature.properties.custom_name + "</p>",
             className: "map-label-region",
-            iconSize: 100,
+            iconSize: 80,
           })
         });
       default:
-        return L.circleMarker(latlng, MAP.styles.defaultMarker);
+        return L.marker(latlng, {
+          icon: L.divIcon({
+            html: "<p>" + feature.properties.custom_name + "</p>",
+            className: "map-label-site",
+            iconSize: 25,
+          })
+        });
     }
   },
   addPopups: function (feature, layer) {
