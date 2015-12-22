@@ -38,18 +38,6 @@ function fadeHeaderOnCover() {
   }
 }
 
-// =============================================================================
-// Determine whether the current page needs a deep zoom image
-
-function mapCheck($el) {
-  if ($el.length) {
-    if ( Number(window.location.pathname.match(/\d+/)[0]) ) { return true; }
-    else if ( $el.data("map") === true ) { return true; }
-    else { return false; }
-  }
-  else { return false; }
-}
-
 // -----------------------------------------------------------------------------
 function keyboardNav(){
   $(document).keydown(function(event) {
@@ -104,6 +92,9 @@ function leftPanelToggle() {
   $left.toggleClass("panel--expand");
   $right.toggleClass("panel--collapse");
   $header.toggleClass("panel--collapse");
+  // $(window).trigger('resize');
+
+  // setTimeout(window.dispatchEvent(new Event('resize')), 100);
 }
 
 // -----------------------------------------------------------------------------
@@ -249,9 +240,9 @@ function showModal() {
 
 // 360 rotation-----------------------------------------------------------------
 function init360() {
-  var catNum = Number(window.location.pathname.match(/\d+/)[0]);
-  var rwidth = $(".object-data").data("rwidth");
-  var rheight = $(".object-data").data("rheight");
+  var catNum  = Number(window.location.pathname.match(/\d+/)[0]);
+  var rwidth  = _.findWhere(DEEPZOOMDATA, {cat: catNum}).rwidth;
+  var rheight = _.findWhere(DEEPZOOMDATA, {cat: catNum}).rheight;
 
   $(".rotator").ThreeSixty({
     totalFrames: 180, // Total no. of image you have for 360 slider
@@ -291,19 +282,12 @@ function setUpPage(){
   }
 
   $(".expander-content").addClass("expander--hidden");
-  if ( mapCheck($(".object-data")) ) {
-    map = deepZoomSetup();
-    // must bind map resize asynchronously
-    setTimeout(map.invalidateSize.bind(map), 100);
-    addMapResizeListener(map);
+  if ( window.location.pathname.match(/catalogue\/\d+/) ) {
+    var catNum = Number(window.location.pathname.match(/\d+/)[0]);
+    map = new DeepZoom(catNum);
   } else if ($("#map").hasClass("fullscreen")) {
-    map = initMap();
-    hash = new L.Hash(map);
-    setTimeout(map.invalidateSize.bind(map), 100);
-    addMapResizeListener(map);
+    map = new GeoMap();
   } else if ($("#map").length) {
     map = new GeoMap();
-    //setTimeout(map.invalidateSize.bind(map), 100);
-    //addMapResizeListener(map);
   }
 }
