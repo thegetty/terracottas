@@ -226,7 +226,7 @@ DEPENDENCIES
   capybara
   capybara-webkit
   jasmine
-  middleman
+  middleman (~> 3.3.12)
   middleman-deploy
   middleman-imageoptim
   middleman-livereload
