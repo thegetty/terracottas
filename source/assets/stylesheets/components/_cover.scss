@@ -55,41 +55,67 @@
     background-image: -moz-linear-gradient(
       transparent 0%,
       rgba(0, 0, 0, 0.85) 100%);
-    height: 45vh;
+    height: 55vh;
     padding: 0 3rem;
     position: absolute;
-    top: 55vh;
+    top: 45vh;
+  }
+
+  @include media($large-screen-up) {
+    height: 50vh;
+    top: 50vh;
   }
 
   a { @extend %inverse-link; }
 }
 
 .cover-title {
-  font-size: 1.75rem;
-  line-height: 1;
+  font-family: $base-font-family;
+  font-weight: normal;
+  font-size: 2rem;
+  letter-spacing: 5px;
+  line-height: 1.1;
   margin-bottom: 1rem;
   text-align: center;
+  text-transform: uppercase;
   text-shadow: 2px 2px 4px rgba(51, 51, 51, 0.5);
-  @include media($medium-screen-up) { font-size: 3rem; }
+  @include media($medium-screen-up) { font-size: 4rem; }
 
   @include media ($large-screen-up) {
-    font-size: 3.75rem;
+    font-size: 5rem;
+    line-height: 1;
     margin: 1.5rem auto;
     max-width: 75%;
   }
 }
 
 .cover-subtitle {
+  font-family: "Freight Text Pro SC";
+  text-transform: lowercase;
   font-size: 1.25rem;
   font-weight: 300;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  @include media($medium-screen-up) { font-size: 2rem; }
+  letter-spacing: 1px;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+
+  @include media($medium-screen-up) {
+    font-size: 2.5rem;
+    line-height: 1;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+  }
+
+  @include media($large-screen-up) {
+    line-height: 0.9;
+    font-size: 3rem;
+    margin-bottom: 1.75rem;
+  }
 }
 
 .cover-author {
   font-size: 1rem;
   @include media($medium-screen-up) { font-size: 1.5rem; }
+  @include media($large-screen-up) { margin-top: 1rem; }
 }
 
 .centered { text-align: center; }
