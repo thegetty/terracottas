@@ -5,9 +5,9 @@ sort_order: 104
 pdf_output: false
 ---
 
-In the ancient world, terracotta sculpture was ubiquitous. Readily available and economical&#8212;unlike stone suitable for carving&#8212;clay allowed artisans to craft figures of remarkable variety and expressiveness. Terracottas from South Italy and Sicily attest to the prolific coroplastic workshops that supplied sacred and decorative images for sanctuaries, settlements, and cemeteries. Sixty terracottas are investigated here by noted scholar Maria Lucia Ferruzza, comprising a selection of significant types from the Getty’s larger collection&#8212;life-size sculptures, statuettes, heads and busts, altars, and decorative appliqués. In addition to the comprehensive catalogue entries, the publication includes a guide to the full collection of more than 1,000 other figurines and molds from the region by Claire Lyons.
+In the ancient world, terracotta sculpture was ubiquitous. Readily available and economical&#8212;unlike stone suitable for carving&#8212;clay allowed artisans to craft figures of remarkable variety and expressiveness. Terracottas from South Italy and Sicily attest to the prolific coroplastic workshops that supplied sacred and decorative images for sanctuaries, settlements, and cemeteries. Sixty terracottas are investigated here by noted scholar Maria Lucia Ferruzza, comprising a selection of significant types from the Getty’s larger collection&#8212;life-size sculptures, statuettes, heads and busts, altars, and decorative appliqués. In addition to the comprehensive catalogue entries, the publication includes a guide to the full collection of over one thousand other figurines and molds from the region by Claire Lyons.
 
-This custom online catalogue enables a deeper exploration of these ancient objects, with zoomable high-resolution photography and a select number of 360 rotations; the ability to [filter the catalogue](../catalogue/) by location, typology and date; and an [interactive map](map/) drawn from the Ancient World Mapping Center and linked to the Getty’s Thesaurus of Geographic Names. The complete catalogue can be [downloaded in multiple formats](#downloads), as can the object data and main images. It is also available for sale as a [paperback book](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606061237).
+This custom online catalogue enables a deeper exploration of these ancient objects, with zoomable high-resolution photography and a select number of 360 rotations; the ability to [filter the catalogue](catalogue/) by location, typology and date; and an [interactive map](map/) drawn from the Ancient World Mapping Center and linked to the Getty’s Thesaurus of Geographic Names. The complete   catalogue can be [downloaded in multiple formats](#downloads), as can the object data and main images. It is also available for sale as a [print-on-demand](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606061237) book.
 
 ## Citation Information
 
@@ -31,8 +31,6 @@ will be detailed here and in the project repository at
 
 - First edition
 
-<div class="no-print">
-
 ## Downloads
 
 ### Complete Catalogue
@@ -40,7 +38,7 @@ will be detailed here and in the project repository at
 - [**PDF**](assets/downloads/AncientTerracottas_Ferruzza.pdf) (## MB)
 - [**EPUB**](assets/downloads/AncientTerracottas_Ferruzza.epub) (## MB)
 - [**MOBI/KINDLE**](assets/downloads/AncientTerracottas_Ferruzza.mobi) (## MB)
-- [**PAPERBACK**](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606061237)
+- [**PRINT-ON-DEMAND**](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606061237)
 
 Each of these alternative formats includes the complete catalogue text, the two to four primary views of each object, and the map. The PDF and print-on-demand editions also include a complete index.
 
@@ -49,7 +47,7 @@ Each of these alternative formats includes the complete catalogue text, the two 
 - [**JPG**](assets/downloads/AncientTerracottas_Ferruzza_Images.zip) (21 MB)
 - [**PPT**](assets/downloads/AncientTerracottas_Ferruzza_Images.ppt) (11 MB)
 
-Each download includes the main image and caption for each of the sixty catalogue entries, free for unrestricted use. JPGs are 1,440 pixels on their longest side. Alternate views and larger sizes are available through the Getty’s Open Content program at [www.getty.edu/art/collection](http://www.getty.edu/art/collection/).
+Each download includes the main image and caption for each of the sixty catalogue entries, free for unrestricted use. JPGs are 1440px on their longest side. Alternate views and larger sizes are available through the Getty’s Open Content program at [www.getty.edu/art/collection](http://www.getty.edu/art/collection/).
 
 ### Object Data
 
@@ -58,17 +56,14 @@ Each download includes the main image and caption for each of the sixty catalogu
 
 The object data, available in two formats, includes key information from each of the sixty catalogue entries, with relevant fields keyed to Pleiades locations and the Getty’s Art & Architecture Thesaurus (AAT) and Thesaurus of Geographic Names (TGN). The extended version includes raw data on the 1,000 additional collection objects outlined in the [“Guide to the Collection of South Italian and Sicilian Terracottas.”](../guide/)
 
-</div>
-
 <div class="copyright">
-
-## Copyright Information
-{: .print-only}
-
 © 2016 J. Paul Getty Trust
 
+[![Creative Commons License](cc-by.png)](http://creativecommons.org/licenses/by/4.0/){:rel="license"}
+<br />
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/){:rel="license"}.
 
-###### Published by the J. Paul Getty Museum, Los Angeles  
+**Published by the J. Paul Getty Museum, Los Angeles**  
 Getty Publications  
 1200 Getty Center Drive, Suite 500  
 Los Angeles, California 90049-1682  
@@ -79,7 +74,14 @@ TK, *Translator*
 Greg Albers, Eric Gardner, and Stephanie Grimes, *Digital Development*  
 Elizabeth Chapin Kahn, *Production*
 
-Library of Congress Cataloging-in-Publication Data TK
+Library of Congress Cataloging-in-Publication Data<br />
+Names: J. Paul Getty Museum, author, issuing body. | Ferruzza, Maria Lucia, editor.<br />
+Title: Ancient terracottas from South Italy and Sicily in the J. Paul Getty Museum / Maria Lucia Ferruzza.<br />
+Description: Los Angeles : J. Paul Getty Museum, [2016] | ©2016 | Includes bibliographical references.<br />
+Identifiers: LCCN 2015042795 (print) | LCCN 2015048344 (ebook) | ISBN 9781606064863 (pbk.) | ISBN 9781606064856 (epub) | ISBN 9781606061237 (online)<br />
+Subjects: LCSH: Terra-cotta sculpture, Ancient&#8209;&#8209;Italy, Southern&#8209;&#8209;Catalogs. | Terra-cotta sculpture, Ancient&#8209;&#8209;Italy&#8209;&#8209;Sicily&#8209;&#8209;Catalogs. | J. Paul Getty Museum&#8209;&#8209;Catalogs. | Terra-cotta sculpture&#8209;&#8209;California&#8209;&#8209;Los Angeles&#8209;&#8209;Catalogs.<br />
+Classification: LCC NB145 .J27 2016 (print) | LCC NB145 (ebook) | DDC 733/.309377--dc23<br />
+LC record available at [http://lccn.loc.gov/2015042795](http://lccn.loc.gov/2015042795)
 
 Illustration Credits TK
 
