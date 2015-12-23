@@ -1,6 +1,6 @@
 ---
-title: Ancient Terracottas from South Italy and Sicily
-subtitle: in the J. Paul Getty Museum
+title: Ancient Terracottas
+subtitle: from South Italy and Sicily in the J. Paul Getty Museum
 layout: cover
 sort_order: 0
 ---

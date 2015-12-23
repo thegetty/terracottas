@@ -20,18 +20,19 @@
   background: $action-color;
 }
 
-// leaflet EasyButton ID
-#fullscreen-toggle {
-  @include media($small-screen) { display: none; }
-}
+// .leaflet-control-container .leaflet-fullscreen {
+//   font-size: 1.5em;
+//   line-height: 10px;
+//   padding: 0;
+//   text-align: center;
+//   @include media($small-screen) { display: none; }
+// }
 
-#map {
-  .easy-button-button {
-    font-size: 1.5em;
-    line-height: 10px;
-    padding: 0;
-    text-align: center;
-  }
+.leaflet-touch .leaflet-fullscreen {
+  width: 34px !important;
+  height: 34px !important;
+  line-height: 38px !important;
+  text-align: center;
 }
 
 .leaflet-control-layers-toggle {
@@ -52,13 +53,13 @@
 }
 
 .map-label-region p {
-  // color: transparentize($base-font-color, 0.25);
+  color: #000;
   font-family: $base-font-family;
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: bold;
   line-height: 1;
   text-align: center;
-  // text-shadow: 2px 2px transparentize($base-background-color, 0.5);
+  text-shadow: 1px 1px transparentize($base-background-color, 0.5);
   text-transform: capitalize;
 }
 
@@ -70,13 +71,13 @@
 
 .map-label-country p {
   @extend .smcaps;
-  // color: transparentize($base-font-color, 0.25);
+  color: #000;
   font-family: $base-font-family;
-  font-size: 1.45rem;
+  font-size: 1.7rem;
   font-weight: bold;
   line-height: 1.2;
   text-align: center;
-  text-shadow: 2px 2px transparentize($base-background-color, 0.5);
+  text-shadow: 1px 1px transparentize($base-background-color, 0.5);
   text-transform: capitalize;
 }
 
