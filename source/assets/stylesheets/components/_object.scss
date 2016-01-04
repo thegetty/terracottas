@@ -57,6 +57,12 @@
   }
 }
 
+// .object-content-section:not(:last-child) {
+//   .footnotes ol {
+//     list-style-type: lower-roman;
+//   }
+// }
+
 .expander {
   @include transition($base-transition);
   .expander-trigger { display: block; }
