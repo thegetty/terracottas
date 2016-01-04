@@ -289,6 +289,10 @@ $footnote-size: 7.5pt;
     page: no-footer;
     page-break-after: always;
   }
+  .print-copyright .loc-cip {
+    ul { text-indent: -8pt; }
+    li { padding-left: 8pt; }
+  }
   .print-toc {
     page: no-footer;
   }
