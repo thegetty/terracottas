@@ -74,16 +74,18 @@ TK, *Translator*
 Greg Albers, Eric Gardner, and Stephanie Grimes, *Digital Development*  
 Elizabeth Chapin Kahn, *Production*
 
-Library of Congress Cataloging-in-Publication Data<br />
-Names: J. Paul Getty Museum, author, issuing body. | Ferruzza, Maria Lucia, editor.<br />
-Title: Ancient terracottas from South Italy and Sicily in the J. Paul Getty Museum / Maria Lucia Ferruzza.<br />
-Description: Los Angeles : J. Paul Getty Museum, [2016] | ©2016 | Includes bibliographical references.<br />
-Identifiers: LCCN 2015042795 (print) | LCCN 2015048344 (ebook) | ISBN 9781606064863 (pbk.) | ISBN 9781606064856 (epub) | ISBN 9781606061237 (online)<br />
-Subjects: LCSH: Terra-cotta sculpture, Ancient&#8209;&#8209;Italy, Southern&#8209;&#8209;Catalogs. | Terra-cotta sculpture, Ancient&#8209;&#8209;Italy&#8209;&#8209;Sicily&#8209;&#8209;Catalogs. | J. Paul Getty Museum&#8209;&#8209;Catalogs. | Terra-cotta sculpture&#8209;&#8209;California&#8209;&#8209;Los Angeles&#8209;&#8209;Catalogs.<br />
-Classification: LCC NB145 .J27 2016 (print) | LCC NB145 (ebook) | DDC 733/.309377--dc23<br />
-LC record available at [http://lccn.loc.gov/2015042795](http://lccn.loc.gov/2015042795)
+<div class="loc-cip">
 
-Illustration Credits TK
+Library of Congress Cataloging-in-Publication Data
+
+- Names: J. Paul Getty Museum, author, issuing body. \| Ferruzza, Maria Lucia, editor.
+- Title: Ancient terracottas from South Italy and Sicily in the J. Paul Getty Museum / Maria Lucia Ferruzza.
+- Description: Los Angeles : J. Paul Getty Museum, [2016] \| ©2016 \| Includes bibliographical references.
+- Identifiers: LCCN 2015042795 (print) \| LCCN 2015048344 (ebook) \| ISBN 9781606064863 (pbk.) \| ISBN 9781606064856 (epub) \| ISBN 9781606061237 (online)
+- Subjects: LCSH: Terra-cotta sculpture, Ancient&#8209;&#8209;Italy, Southern&#8209;&#8209;Catalogs. \| Terra-cotta sculpture, Ancient&#8209;&#8209;Italy&#8209;&#8209;Sicily&#8209;&#8209;Catalogs. \| J. Paul Getty Museum&#8209;&#8209;Catalogs. \| Terra-cotta sculpture&#8209;&#8209;California&#8209;&#8209;Los Angeles&#8209;&#8209;Catalogs.
+- Classification: LCC NB145 .J27 2016 (print) \| LCC NB145 (ebook) \| DDC 733/.309377--dc23
+- LC record available at [http://lccn.loc.gov/2015042795](http://lccn.loc.gov/2015042795)
+- Illustration Credits TK
 
 </div>
-
+</div>
