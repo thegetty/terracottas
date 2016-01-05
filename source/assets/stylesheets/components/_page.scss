@@ -88,10 +88,15 @@
   font-family: $heading-font-family;
   margin-top: 3rem;
   padding-top: 1.5rem;
-  p { font-size: 0.875em; }
+  p, li { font-size: 0.875rem; }
+}
+
+.loc-cip {
+  ul { text-indent: -1rem; }
+  li { padding-left: 1rem; }
 }
 
 .abbreviations article,
 .bibliography article {
-	font-size: $base-font-size * 1.135;	
+	font-size: $base-font-size * 1.135;
 }
