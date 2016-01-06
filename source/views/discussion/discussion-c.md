@@ -187,13 +187,6 @@ third century <span class="smcaps">BC.</span>
     also P. Aureli, “Il restauro,” in <span class="smcaps">Cassano 1992</span>, p. 333; and C. Meucci,
     “Analisi dei vasi sovraddipinti,” in <span class="smcaps">Cassano 1992</span>.
 
-    5\. In particular, two orantes from the Ny Carlsberg Glyptotek in
-    Copenhagen (inv. HIN 422 and 419), a pair of orantes from the Museo
-    Archeologico Nazionale in Naples (inv. 22246 and 22247), and the orant
-    from the Musée du Louvre (inv. 7500); respectively: <span class="smcaps">Fischer-Hansen
-    1992</span>, pp. 101–3; <span class="smcaps">Levi 1926</span>, no. 235, pl. II, no. 3, inv. 22246–47; see
-    also <span class="smcaps">Jeammet 2003a</span>, Group 3, head m5, pp. 288–92.
-
 [^5]: In particular, two orantes from the Ny Carlsberg Glyptotek in
     Copenhagen (inv. HIN 422 and 419), a pair of orantes from the Museo
     Archeologico Nazionale in Naples (inv. 22246 and 22247), and the
