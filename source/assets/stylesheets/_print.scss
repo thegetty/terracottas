@@ -391,6 +391,12 @@ $footnote-size: 7.5pt;
   }
   .guide .grid-figure {
     clear: none;
+    margin-bottom: 0.0675in;
+    margin-left: 0;
+    margin-right: 0.25in;
+    margin-top: 0.0675in;
+    padding: 0;
+    width: 40%;
   }
   .grid-figure:nth-of-type(odd) {
     clear: left;
