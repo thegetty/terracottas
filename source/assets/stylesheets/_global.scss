@@ -118,10 +118,13 @@ body { background-color: $base-background-color; }
   }
 }
 
-.inline-figure {
-  float: right;
+.guide figure {
   font-family: $heading-font-family;
   font-size: $base-font-size * 0.875;
+}
+
+.inline-figure {
+  float: right;
   height: auto;
   width: 250px;
 }
