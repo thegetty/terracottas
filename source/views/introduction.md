@@ -85,7 +85,7 @@ connections to materials of more certain archaeological contexts.[^3]
     2010 or, in selected cases, to 2013; the bibliography for individual
     objects is current through 2015.
 
-[^2]: [Cats. 24](../catalogue/24), [27](../catalogue/27), [29](../catalogue/29), [30](../catalogue/30), [31](../catalogue/31), [32](../catalogue/32), [33](../catalogue/33), [35](../catalogue/35), [36](../catalogue/36), [44](../catalogue/44), [45](../catalogue/45), [46](../catalogue/46), and [58](../catalogue/58). The collection was published in the catalogue *<span class="smcaps">Passion for Antiquities 1994</span>*.
+[^2]: [Cats. 24](../catalogue/24), [27](../catalogue/27), [29](../catalogue/29), [30](../catalogue/30), [31](../catalogue/31), [32](../catalogue/32), [33](../catalogue/33), [35](../catalogue/35), [36](../catalogue/36), [44](../catalogue/44), [45](../catalogue/45), [46](../catalogue/46), and [58](../catalogue/58). The collection was published in the catalogue <span class="smcaps">*Passion for Antiquities* 1994</span>.
 
 [^3]: See the essays by P. Pelagatti and N. Bonacasa in <span
     class="smcaps">Pelagatti and Guzzo 1997</span>,
