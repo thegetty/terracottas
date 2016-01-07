@@ -155,7 +155,7 @@ Thus, in a number of works, such as the head at [cat. 21](../21), we find
 distinctive features derived from the portraits of Alexander the Great,
 which were especially popular also in the workshops of neighboring
 Heraclea and other Italic and Campanian centers.[^10] In other heads
-([cat. 14](../14) and [18](../18)), we can identify echoes of Praxitelean style,
+([cats. 14](../14) and [18](../18)), we can identify echoes of Praxitelean style,
 especially in the mournfully tilted heads and in the soft, modulated
 chiaroscuro that seems to characterize a large portion of Tarentine
 production in the fourth century <span
@@ -362,12 +362,12 @@ front.
     F. G. Lo Porto, “Satyrion (Taranto): Scavi e ricerche nel luogo del
     più antico insediamento laconico in Puglia,” *NSc* 18 (1964), pp.
     177–279; Lo Porto, “L’attività archeologica in Puglia,” in
-    *AttiTaranto* 11, text volume (1972), p. 500; Lo Porto,
-    *AttiTaranto* 12, (1973), pp. 363–76; Lo Porto,
+    *AttiTaranto* 11 text volume (1972), p. 500; Lo Porto,
+    *AttiTaranto* 12 (1973), pp. 363–76; Lo Porto,
     *AttiTaranto* 13 (1974), pp. 413–22, esp. 420–21;
     Lo Porto, “Recenti scoperti archeologiche in Puglia,” *AttiTaranto* 16 (1977), pp. 725–45, esp. 728–33; *AttiTaranto* 17, (1978), pp. 495–504, esp. 499–500. Also, see M.
-    Torelli, in *AttiTaranto* 16, (1977), p. 956; E. De
-    Juliis, *AttiTaranto* 19, (1980), pp. 428–29. On the
+    Torelli, in *AttiTaranto* 16 (1977), p. 956; E. De
+    Juliis, *AttiTaranto* 19 (1980), pp. 428–29. On the
     cults present in Saturo, see M. Osanna, “Sui culti arcaici di Sparta
     e Taranto: Afrodite Basilis,” *PdP* 45 (1990), pp. 81–94; E.
     Lippolis, “Le testimonianze del culto in Taranto greca,” *Taras* 2
@@ -379,13 +379,13 @@ front.
     material on Saturo has been enriched over the years by various
     contributions on specific research topics, in particular on Laconian
     vases from Saturo, on which see P. Pelagatti and C. M. Stibbe, “La
-    ceramica laconica a Taranto e nella Puglia,” in *AttiTaranto* 41,
+    ceramica laconica a Taranto e nella Puglia,” in *AttiTaranto* 41
     (2002), pp. 365–403. On the topography and models of
     settlement, see M. A. Dell’Aglio, *Leporano alle origini di un
     territorio*, exh. cat. (Taranto, Castello di Leporano, 1993); A.
     Alessio and P. G. Guzzo, “Santuari e fattorie ad est di Taranto:
     Elementi archeologici per un modello di interpretazione,” *ScAnt*
-    3–4 (1989–90), pp. 363–96; and <span
+    3–4 (1989–90), pp. 363–96; <span
     class="smcaps">Osanna 1992</span>; and M. A.
     Dell’Aglio, *Il parco archeologico di Saturo Porto Perone: Leporano,
     Taranto* (Taranto, 1999).
@@ -399,7 +399,7 @@ front.
     and Parra 2005</span>, <span
     class="smcaps">Lippolis 2001</span>; <span
     class="smcaps">*Taranto* 1995</span>, pp. 84–85;
-    and <span class="smcaps">Osanna 1992</span> 1992. In
+    and <span class="smcaps">Osanna 1992</span>. In
     general, on the presence in a sanctuary of religious rituals
     directed toward deities other from those to whom the sanctuary was
     dedicated, see B. Alroth, “Visiting Gods,” *ScAnt* 3–4 (1989–90),
@@ -470,13 +470,13 @@ front.
     century <span class="smcaps">BC</span>, see D.
     Graepler, “Des Tanagréens en offrandes funéraires: L’exemple de
     Tarente,” in <span class="smcaps">Jeammet
-    2003b</span>, pp. 277–84. For terracotta statues in Magna Graecia; see, for example, the head in <span
+    2003b</span>, pp. 277–84. For terracotta statues in Magna Graecia, see, for example, the head in <span
     class="smcaps">Pugliese Carratelli 1983</span>,
-    pp. 501–502, figs, 546–47; see also the statues found near Heraclea,
+    pp. 501–2, figs, 546–47; see also the statues found near Heraclea,
     ibid., p. 501, fig. 545.
 
 [^10]: On Lysippos’s influence in Taras, see also <span
-    class="smcaps">Lippolis 1996</span>, pp. 314.
+    class="smcaps">Lippolis 1996</span>, p. 314.
     Excavations performed on the acropolis of Heraclea uncovered
     coroplastic workshops with kilns for firing both vases and figures
     and many molds reproducing various types of statuary by the
@@ -586,7 +586,7 @@ front.
     and funerary areas in Taranto, see <span
     class="smcaps">*Taranto* 1995</span>, pp. 41–49.
 
-[^20]: See the [introduction](../../introduction/), and also E. Paribeni, “Volti, teste
+[^20]: See the [introduction](../../introduction/) in this volume, and also E. Paribeni, “Volti, teste
     calve e parrucche,” *AttiMGrecia* n.s. 2 (1958), pp. 63–68. For
     rounded-off backs of heads achieved by molds, see the example of a
     head and bust mold of Artemis in Geneva’s Musée d’Art et d’Histoire

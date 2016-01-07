@@ -24,7 +24,7 @@ contributions to the scientific analysis of several terracottas.
 Stimulating discussions of technical problems made me more confident in
 my understanding of unusual aspects of some of the terracottas. I am
 grateful to Benedicte Gilman, Marina Belozerskaya, Ruth Evans Lane, Elizabeth Kahn, Greg
-Albers, Eric Gardner, Steph Grimes, and other staff at Getty
+Albers, Eric Gardner, Stephanie Grimes, and other staff at Getty
 Publications who made this catalogue a reality.
 
 I am especially grateful to Clemente Marconi, first editor of the

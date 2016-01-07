@@ -156,5 +156,5 @@ details with careful tool work during the retouching phase.[^6]
 
 [^6]: For the technique of production of the statues from Canosa and of
     the Seated Poet and Sirens group, see the pertinent entries: respectively
-    [[cats. 38](../catalogue/38), [39](../catalogue/39), [40](../catalogue/40), [41](../catalogue/41), and [42](../catalogue/42);
+    [cats. 38](../catalogue/38), [39](../catalogue/39), [40](../catalogue/40), [41](../catalogue/41), and [42](../catalogue/42);
     [cats. 1](../catalogue/1), [2](../catalogue/2), and [3](../catalogue/3).

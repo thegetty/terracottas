@@ -70,7 +70,8 @@ Los Angeles, California 90049-1682
 [www.getty.edu/publications](http://www.getty.edu/publications)
 
 Ruth Evans Lane, Benedicte Gilman, and Marina Belozerskaya, *Project Editors*  
-TK, *Translator*  
+Robin H. Ray and Mary Christian, *Copy Editors*
+Antony Shugaar, *Translator*  
 Greg Albers, Eric Gardner, and Stephanie Grimes, *Digital Development*  
 Elizabeth Chapin Kahn, *Production*
 

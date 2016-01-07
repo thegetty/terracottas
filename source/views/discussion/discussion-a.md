@@ -80,7 +80,7 @@ formulated as to its intended placement, significance, function, and
 findspot.[^5]
 
 The seated figure has been identified as Orpheus, the poet son of
-Oeagrus (or Apollo) and the Muse Kalliope. He could charm humans and
+Oeagrus (or Apollo) and the muse Kalliope. He could charm humans and
 subdue animals with his song. The shamanistic power of his art and its
 ties to mystery religions constitute a central theme in the ancient
 thought on and the iconography of the poet.[^6]
@@ -264,8 +264,8 @@ through concerted intellectual and ethical striving can aspire to
 overcome the human condition of suffering and to achieve
 immortality.[^23]
 
-The Siren represents this challenge—a crucial aspect of the relationship
-between Orpheus and the Sirens, and a necessary step in the attainment
+The siren represents this challenge—a crucial aspect of the relationship
+between Orpheus and the sirens, and a necessary step in the attainment
 of wisdom and knowledge—and also our natural fear of death and the
 unknown, the otherness that extends beyond the limits of humanity.[^24]
 
@@ -279,7 +279,7 @@ sound of the kithara, he can successfully face the final voyage and
 achieve eternal salvation. In this context, the depiction of the sirens
 in an outdoor setting, perched on rocks, harks back to literary
 tradition and such works as the *Argonautica* of Apollonios of Rhodes,
-where in the contest between Orpheus and the Sirens there is an emphasis
+where in the contest between Orpheus and the sirens there is an emphasis
 on an opposition between harmful and beneficial music.[^25]
 
 The Getty group would thus seem to evoke, in a fantastic and ideological
@@ -419,7 +419,7 @@ recovered.[^37]
 It was in the indigenous population centers that Orphism and related
 eschatological belief systems were common, as Paolo Orsi had already
 suggested. This seems to be indicated by the fact that most of the
-Apulian vases with depictions of Orpheus were found not in Taranto, but
+Apulian vases with depictions of Orpheus were found not in Taranto but
 in places such as Ruvo, Armento, Altamura, and Canosa, where they were
 intended for an elite clientele.[^38] In connection with this
 hypothesis, Angelo Bottini has analyzed the attestations of salvation
@@ -440,7 +440,7 @@ were a number of sculptural groups depicting Orpheus, now lost, in
 votive settings.[^40]
 
 Stylistically, the figures in the Getty group have some of the formal
-traits of late-fifth-century <span
+traits of late fifth-century <span
 class="smcaps">BC</span> Tarentine plastic arts. These
 are characterized by a fondness for fully rounded volumes; eyes with a
 well-shaped, symmetrical outline and distinctly modeled eyelids; fleshy
@@ -511,7 +511,7 @@ In the absence of a documented findspot, the group can only be generally
 dated to the last thirty years of the fourth century <span
 class="smcaps">BC</span> based on style, iconography,
 and the hypothetical connection with the cultural climate of Apulia in
-the second half of fourth century <span
+the second half of the fourth century <span
 class="smcaps">BC.</span> Interpretation based on
 style alone may well be misleading, given the persistence of
 Late Classical traits even into the middle of the fourth century <span
@@ -621,8 +621,8 @@ Results of the pigment analysis:
     also <span class="smcaps">Bottini and Guzzo
     1993</span>, pp. 43–52, nn. 22 and 23.
 
-[^11]: For Apollo Kitharoidos, see W. Lambrinoudakis and O. Palagia,
-     *LIMC* 2.1 (1984), s.v. “Apollon”; <span
+[^11]: For Apollo Kitharoidos, see W. Lambrinoudakis and O. Palagia, s.v. “Apollon”
+     *LIMC* 2.1 (1984), pp. 199–213; <span
     class="smcaps">Flashar 1992</span>, pp. 114–23; and D.
     Castaldo, *Il pantheon musicale: Iconografia nella ceramica attica
     tra VI e IV secolo a.C*. (Ravenna, 2000), pp. 15–22; for statuary,
@@ -714,7 +714,7 @@ Results of the pigment analysis:
 
 [^18]: P. M. Fraser and T. Rönne, *Boeotian and West Greek Tombstones*
     (Lund, 1957), pp. 191–94, pl. 31, nos. 2–3 from Apollonia, pls. 7–10
-    from Thebes. See also: pl. 25, no. 5; pls.
+    from Thebes. See also pl. 25, no. 5; pls.
     26–27. For the pose, see the funerary statue depicting a female
     figure from Taranto, datable to the third century <span
     class="smcaps">BC,</span> see <span
@@ -849,7 +849,7 @@ Results of the pigment analysis:
     vase-painting and archaeological reality, see <span
     class="smcaps">Lippolis 1994</span>, pp. 109–28,
     and E. Lippolis, “Taranto: Forma e sviluppo della topografia
-    urbana,” pp. 119–69 in *AttiTaranto 41,* *2001* (Taranto, 2002). For
+    urbana,” pp. 119–69 in *AttiTaranto* 41 (2002). For
     an overall analysis of Tarentine necropoleis, see E. Lippolis,
     “Organizzazione delle necropoli e struttura sociale nell’Apulia
     ellenistica: Due esempi: Taranto e Canosa,” in *Romische
@@ -866,7 +866,7 @@ Results of the pigment analysis:
 [^34]: Pausanias 3.12.8–9 and 3.25–27; for funerary monuments in Sparta
     from the Archaic period, see S. Raftopoulou, “Contributo alla
     topografia di Sparta durante l’età geometrica ed arcaica,” in
-    *AttiTaranto 41, 2001* (Taranto, 2002), pp. 25–42; also <span
+    *AttiTaranto* 41 (2002), pp. 25–42; also <span
     class="smcaps">Nafissi 1991</span>, pp. 321–22,
     331–34.
 
