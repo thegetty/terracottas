@@ -69,11 +69,13 @@ Getty Publications
 Los Angeles, California 90049-1682  
 [www.getty.edu/publications](http://www.getty.edu/publications)
 
-Ruth Evans Lane, Benedicte Gilman, and Marina Belozerskaya, *Project Editors*  
-Robin H. Ray and Mary Christian, *Copy Editors*
-Antony Shugaar, *Translator*  
-Greg Albers, Eric Gardner, and Stephanie Grimes, *Digital Development*  
-Elizabeth Chapin Kahn, *Production*
+Ruth Evans Lane, Benedicte Gilman, and Marina Belozerskaya, *Project Editors* <br />
+Robin H. Ray and Mary Christian, *Copy Editors* <br />
+Antony Shugaar, *Translator*  <br />
+Elizabeth Chapin Kahn, *Production* <br />
+Stephanie Grimes, *Digital Researcher* <br />
+Eric Gardner, *Designer &#38; Developer* <br />
+Greg Albers, *Project Manager*
 
 <div class="loc-cip">
 
