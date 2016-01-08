@@ -207,10 +207,10 @@ third century <span class="smcaps">BC.</span>
     Wielen, “Ceramica a decorazione plastica e policroma,” pp. 310–26 in
     <span class="smcaps">Cassano 1992</span>, nos. 50–76; A. Rinuy et al., “Céramique insolite de l’Italie du Sud:
     Les vases hellénistiques de Canosa,” *Genava* n.s. 26 (1978), pp.
-    141–69, pp. 317–18; for the plastic oinochoai, see A. Riccardi,
+    141–69, 317–18; for the plastic oinochoai, see A. Riccardi,
     “Vasi configurati a testa umana di provenienza o produzione
     canosina,” in A. Riccardi et al., *Canosa I*, Studi sull’antico 3
-    (Bari, 1980), pp. 7–21, nos. 7–8; F. Rossi, *EAA* suppl. 2 (1994), s.v. “Vasi canosini,” pp. 848–49. For the type of clothing, see the
+    (Bari, 1980), pp. 7–21, nos. 7–8; F. Rossi, s.v. “Vasi canosini,” *EAA* suppl. 2 (1994), pp. 848–49. For the type of clothing, see the
     figures painted by the Patera Painter or by the Baltimore Painter:
     A. D. Trendall and A. Cambitoglou, *The Red-Figured Vases of Apulia*
     (Oxford and New York, 1982), vol. 2, pp. 723–24 and 856–60. See also
@@ -218,11 +218,11 @@ third century <span class="smcaps">BC.</span>
     libation représentées sur les vases à figures rouges d’Italie du Sud
     au IVe siècle,” *MÉFRA* 94 (1982), pp. 581–623.
 
-[^8]: M. Borda**,** *Ceramiche apule* (Bergamo, 1966), p. 60, fig. 49.
+[^8]: M. Borda, *Ceramiche apule* (Bergamo, 1966), p. 60, fig. 49.
     For the *askos* from the Varrese hypogeum, see L. Todisco et al.,
     *Introduzione all’artigianato della Puglia antica dall’età coloniale
-    all’età romana* (Bari, 1992), fig. 77. See also the *asko*s from
-    Canosa at the Louvre, decorated with figures of *orantes*, in <span
+    all’età romana* (Bari, 1992), fig. 77. See also the *askos* from
+    Canosa at the Louvre, decorated with figures of orantes, in <span
     class="smcaps">Besques 1986</span>, pls. 135–37.
 
 [^9]: For the tombs of Paestum, see <span
@@ -256,9 +256,9 @@ third century <span class="smcaps">BC.</span>
     no. 1 (1982), pp. 91–148; L. Todisco*, Introduzione all’artigianato
     della Puglia antica: Dall’età coloniale all’età romana* (Bari,
     1992), pp. 32–37; M. Torelli, “Principi, indigeni e classi dirigenti
-    italiote: Per una storia della committenza dei vasi apuli,” in G.
-    Sena Chiesa and E. A. Arslan, eds., *Miti Greci: Archeologia e
-    pittura dalla Magna Grecia al collezionismo*, exh. cat. (Milan,
+    italiote: Per una storia della committenza dei vasi apuli,” in *Miti Greci: Archeologia e
+    pittura dalla Magna Grecia al collezionismo*, exh. cat., ed.  G.
+    Sena Chiesa and E. A. Arslan (Milan,
     Palazzo Reale, 2004), pp. 190–92; and M. Torelli, “Aspetti materiali
     e ideologici della romanizzazione della Daunia,” *Dialoghi di
     archeologia* 10 (1992), pp. 47–64.
@@ -278,7 +278,7 @@ third century <span class="smcaps">BC.</span>
     London, sale cat., November 26, 1997, lot 316 (current
     location unknown). The orant, very similar to the Getty ones, in
     *Classical, Egyptian and Western Asiatic Antiquities and Islamic
-    Works of Art*, Sotheby’s New York, Sale 6717, June 1, 1995, lot 113,
+    Works of Art*, Sotheby’s, New York, Sale 6717, June 1, 1995, lot 113,
     is now in the San Antonio Museum of Art (inv. 95.18.2).
 
 [^14]: The most recent study of the context of the Scocchera B tomb is
@@ -289,11 +289,11 @@ third century <span class="smcaps">BC.</span>
     Cozzi, “Gruppo di camere sepolcrali appartenenti alla necropoli
     canosina,” *Notizie degli Scavi di Antichità* (1896), p. 495. For an
     analysis of the hypogeum and the corresponding grave goods, see also
-    <span class="smcaps">De Juliis 1992,</span>. The Rouen piece is also published in *Hommes, dieux
+    <span class="smcaps">De Juliis 1992</span>. The Rouen piece is also published in *Hommes, dieux
     et héros de la Grèce*, exh. cat. (Rouen, Musée des Antiquités,
     1982), p. 153, no. 66; for the Copenhagen orant, see <span
-    class="smcaps">Breitenstein 1941</span>*,* fig.
-    80. A second orante in the Worcester Art Museum was acquired in 1927
+    class="smcaps">Breitenstein 1941</span>, fig.
+    80. A second orant in the Worcester Art Museum was acquired in 1927
     (inv. 1927.45). A preliminary list of statues from Canosa was drawn
     up in W. Deonna, *Les statues de terre cuite dans l’antiquité*
     (Paris, 1908), pp. 72–77.
@@ -303,14 +303,14 @@ third century <span class="smcaps">BC.</span>
     orantes: the two now in the Louvre, the one in London, and the one
     in the Sant’Angelo collection of the Museo Archeologico Nazionale in
     Naples: <span class="smcaps">Jeammet 2003a</span>,
-    pp. 278–7; see, also, <span class="smcaps">Mazzei
+    pp. 278–87; see, also, <span class="smcaps">Mazzei
     1992</span>, nos. 6–8. For the statues in Naples, see also <span
-    class="smcaps">Levi 1926</span>, pl. II, 1–3, nos.
-    233–37, pp. 55–56.
+    class="smcaps">Levi 1926</span>, pp. 55–56, pl. II, 1–3, nos.
+    233–37.
 
 [^16]: <span class="smcaps">Jeammet 2003a</span>, p.
     279; also R. Cassano, “Gli ipogei Lagrasta,” in <span
-    class="smcaps">Cassano 1992</span>, p. 204; <span
+    class="smcaps">Cassano 1992</span>, p. 204; and <span
     class="smcaps">Oliver 1968</span>, p. 22.
 
 [^17]: For the Tomb of the Gold Ornaments, see <span
@@ -318,11 +318,11 @@ third century <span class="smcaps">BC.</span>
     M. Corrente, “La tomba degli Ori,” in <span
     class="smcaps">Cassano 1992</span>, pp. 337–45,
     no. 58; R. Bartoccini, “La tomba degli Ori a Canosa,” *Japigia* 6
-    (1935), pp. 225–62; E. Lippolis, in <span
+    (1935), pp. 225–62; and E. Lippolis, in <span
     class="smcaps">De Juliis 1984</span>, pp. 450–51.
 
 [^18]: <span class="smcaps">De Juliis 1992</span>, p.
-    236; <span class="smcaps">De Juliis 1984</span>,
+    236; and <span class="smcaps">De Juliis 1984</span>,
     p. 454.
 
 [^19]: See <span class="smcaps">Mazzei 1992</span>,
