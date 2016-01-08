@@ -139,7 +139,7 @@ The other heads, which can tentatively be dated to the fourth and third
 centuries <span class="smcaps">BC</span>, can be
 traced to types that are also well established in various Tarentine
 votive contexts, reflecting the influence of sculptural prototypes by
-Lysippus and Praxiteles developed with the distinctive eclecticism that
+Lysippos and Praxiteles developed with the distinctive eclecticism that
 seems to be a main trait of the Tarentine coroplasts of the Early
 Hellenistic period. During this period, especially between the fourth
 century and the first half of the third century <span

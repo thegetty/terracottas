@@ -28,7 +28,7 @@ sort_order: 102
 
 - <span class="smcaps">Albertocchi and Pautasso 2012</span>
 
-  Albertocchi, M. and A. Pautasso, eds. *Philotechnia: Studi sulla
+  Albertocchi, M., and A. Pautasso, eds. *Philotechnia: Studi sulla
   coroplastica della Sicilia greca*. Catania, 2012.
 
 - <span class="smcaps">Ampolo 2009</span>
@@ -176,7 +176,7 @@ sort_order: 102
 - <span class="smcaps">Bieber 1961a</span>
 
   Bieber, M. *The History of the Greek and Roman Theater*, 2nd ed.
-  Princeton, 1961.
+  Princeton, NJ, 1961.
 
 - <span class="smcaps">Bieber 1961b</span>
 
@@ -332,7 +332,7 @@ sort_order: 102
 
 - <span class="smcaps">Deonna 1930</span>
 
-  Deonna, W. “Moules tarantines,” *Genava* 8 (1930), pp. 67–74.
+  Deonna, W. “Moules tarantines.” *Genava* 8 (1930), pp. 67–74.
 
 - <span class="smcaps">De Miro 2000</span>
 
@@ -358,11 +358,14 @@ sort_order: 102
 
 - <span class="smcaps">Ferrarini and Santoro 2010</span>
 
-Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultura funeraria ellenistica di Dyrrachion/Dyrrachium: Il caso delle sirene,” *Eidola* 6 (2009) [2010], pp. 47-87, esp. 70-71, fig. 16.
+  Ferrarini, M., and S. Santoro, “Circolazione di temi iconografici nella scultura funeraria ellenistica di Dyrrachion/Dyrrachium: Il caso
+  delle sirene.” *Eidola* 6 (2009) [2010], pp. 47-87, esp. 70-71, fig. 16.
 
 - <span class="smcaps">Ferrarini and Santoro 2011</span>
 
-  Ferrarini, M. and S. Santoro, “Le sirene di Durazzo tra Grecia, Magna Grecia e Illiria.” In *L’Illyrie méridionale e l’Epire dans l’antiquité V, Actes du Ve colloque international de Grenoble, Grenoble 8–11 octobre 2008*, ed. J.-L. Lamboley and M. P. Castiglioni, vol. 2, pp. 559–69. Paris, 2011.
+  Ferrarini, M., and S. Santoro, “Le sirene di Durazzo tra Grecia, Magna Grecia e Illiria.” In *L’Illyrie méridionale e l’Epire dans
+  l’antiquité V, Actes du Ve colloque international de Grenoble, Grenoble 8–11 octobre 2008*, ed. J.-L. Lamboley and M. P. Castiglioni, vol.
+  2, pp. 559–69. Paris, 2011.
 
 - <span class="smcaps">Ferruzza 2013</span>
 
@@ -373,7 +376,7 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
 
 - <span class="smcaps">Fischer-Hansen 1992</span>
 
-  Fischer-Hansen, T. *Campania, South Italy and Sicily* Copenhagen, Ny Carlsberg
+  Fischer-Hansen, T. *Campania, South Italy and Sicily.* Copenhagen, Ny Carlsberg
   Glyptotek, 1992.
 
 - <span class="smcaps">Flashar 1992</span>
@@ -384,7 +387,7 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
 - <span class="smcaps">Frel 1979</span>
 
   Frel, J., ed. *Antiquities in the J. Paul Getty Museum: A Checklist:
-  Sculpture*. Vol .1, *Greek Originals*. Malibu, 1979.
+  Sculpture*. Vol. 1, *Greek Originals*. Malibu, 1979.
 
 - <span class="smcaps">Gabrici 1927</span>
 
@@ -448,7 +451,7 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
 - <span class="smcaps">Graepler 1984</span>
 
   Graepler, D. “Untersuchungen zu den hellenistischen Terrakotten aus
-  Tarent: Ein Arbeitsbericht,” *Taras* 4, nos. 1–2 (1984), pp. 85–118.
+  Tarent: Ein Arbeitsbericht.” *Taras* 4, nos. 1–2 (1984), pp. 85–118.
 
 - <span class="smcaps">Graepler 1994</span>
 
@@ -491,8 +494,8 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
 - <span class="smcaps">Herdejürgen 1972</span>
 
   *Antike Kunstwerke aus der Sammlung Ludwig, II. Terrakotten und
-  Bronzen*. Ser. ed. E. Berger. Veroffentlichungen des Antikenmuseums
-  Basel 4, 2. Basel, 1982.
+  Bronzen*. Veroffentlichungen des Antikenmuseums
+  Basel 4, 2, ed. E. Berger. Basel, 1982.
 
 - <span class="smcaps">Herdejürgen 1978</span>
 
@@ -582,8 +585,8 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
 
 - <span class="smcaps">Kingsley 1977</span>
 
-  Kingsley, B. M. “Tarantine Terracottas Moulds and Reliefs in the J. Paul
-  Getty Museum.” PhD dissertation, University of California, 1977.
+  Kingsley, B. M. “Tarantine Terracotta Moulds and Reliefs in the J. Paul
+  Getty Museum.” PhD dissertation, University of California, Berkeley, 1977.
 
 - <span class="smcaps">kingsley 1981</span>
 
@@ -669,7 +672,7 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
 
 - <span class="smcaps">Lindner 1988</span>
 
-  Lindner, R. s.v. “Hades.” *LIMC* 4 (1988), pp. 367–94.
+  Lindner, R. s.v. “Hades,” *LIMC* 4 (1988), pp. 367–94.
 
 - <span class="smcaps">Linders and Nordquist 1987</span>
 
@@ -708,8 +711,8 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
   Borrelli 2007</span>
 
   Lissi Caronna, E., C. Sabbione, and L. Vlad Borrelli, *I pinakes di
-  Locri Epizefiri*, Musei di Reggio Calabria e di Locri, Atti e Memorie
-  della Società Magna Grecia, IV ser., part 3. 2004–2007, Rome, 2007.
+  Locri Epizefiri.* Musei di Reggio Calabria e di Locri, Atti e Memorie
+  della Società Magna Grecia, IV ser., part 3, 2004–7. Rome, 2007.
 
 - <span class="smcaps">Lo Porto 1966</span>
 
@@ -751,7 +754,7 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
 
   Marchionno, M. L. “Apollo a Cirene: Aspetti iconografici.” In *La
   Cirenaica in età antica:* *Atti del convegno internazionale di studi,
-  Macerata, 18–20 maggio 1995*,by E. Catani and S. M. Marengo, pp. 366–68. Pisa, 1998.
+  Macerata, 18–20 maggio 1995*, by E. Catani and S. M. Marengo, pp. 366–68. Pisa, 1998.
 
 - <span class="smcaps">Marconi 1994</span>
 
@@ -814,7 +817,7 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
 - <span class="smcaps">Merker 2000</span>
 
   Merker, G. S. *The Sanctuary of Demeter and Kore: Terracotta Figurines
-  of the Classical, Hellenistic, and Roman Periods*, Corinth 18, part 4.
+  of the Classical, Hellenistic, and Roman Periods*. Corinth 18, part 4.
   Princeton, NJ, 2000.
 
 - <span class="smcaps">Miller Ammerman 1985</span>
@@ -825,7 +828,7 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
 
 - <span class="smcaps">Monetti 2004–5</span>
 
-  Monetti, L. “La favissa 6 del santuario della sorgente di Satyrion,”
+  Monetti, L. “La favissa 6 del santuario della sorgente di Satyrion.”
   Tesi di laurea, Facoltà di Lettere
   dell’Università degli Studi di Firenze (2000–2001), partially published
   in *Taras* 24–25 (2004–5), pp. 77–105.
@@ -859,13 +862,13 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
 
 - <span class="smcaps">Oliver 1968</span>
 
-  Oliver, A., Jr. *The Reconstruction of Two Apulian Tomb Groups*: *Antike
+  Oliver, A., Jr. *The Reconstruction of Two Apulian Tomb Groups: Antike
   Kunst*, suppl*.* 5 (1968).
 
 - <span class="smcaps">*Orfismo in Magna Grecia*</span>
   1975
 
-  *Orfismo in Magna Grecia*: *Atti del quattordicesimo convegno di studi
+  *Orfismo in Magna Grecia: Atti del quattordicesimo convegno di studi
   sulla Magna Grecia, Taranto, 6–10 ottobre 1974*. Naples, 1975.
 
 - <span class="smcaps">Orlandini 1959</span>
@@ -1135,11 +1138,11 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
   Pugliese Carratelli, G., N. Bonacasa, and E. De Miro, eds. *Sikanie:
   Storia e civiltà della Sicilia greca*. Milan, 1985.
 
-- <span class="smcaps">Simonetti 2002</span>
+- <span class="smcaps">Simonetti 2001</span>
 
   Simonetti, M. “Le arule da Caulonia.” In *Kaulonía,
   Caulonia, Stilida (e oltre): Contributi storici, archeologici e
-  topografici* 1, ed. M. C. Parra, pp. 337–415. Pisa, 2002.
+  topografici,* 1, ed. M. C. Parra, pp. 337–415. Pisa, 2001.
 
 - <span class="smcaps">Siracusano 1986–87</span>
 
@@ -1167,7 +1170,7 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
 
 - <span class="smcaps">Spigo 2000a</span>
 
-  Spigo, U. “I pinakes di Francavilla di Sicilia (parte I),” *BdA* 111
+  Spigo, U. “I pinakes di Francavilla di Sicilia (parte I).” *BdA* 111
   (2000), pp. 1–60.
 
 - <span class="smcaps">Spigo 2000b</span>
@@ -1179,7 +1182,7 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
 
   Stibbe, C. “La sfinge, la gorgone e la sirena: Tre bronzetti da Capo
   Colonna e i centri di produzione in età arcaica tra Sparta, Corinto e
-  Magna Grecia,” *BdA* 116 (2001), pp. 1–38.
+  Magna Grecia.” *BdA* 116 (2001), pp. 1–38.
 
 - <span class="smcaps">*Taranto* 1995</span>
 
@@ -1221,13 +1224,12 @@ Ferrarini, M. and S. Santoro, “Circolazione di temi iconografici nella scultur
 - <span class="smcaps">Uhlenbrock 1990</span>
 
   Uhlenbrock, J. P., with contributions by R. Miller Ammerman. *The
-  Coroplast’s Art: Greek Terracottas of the Hellenistic World*. Exh. cat.
-  New Paltz, N.Y., College Art Gallery, State University of New York, New Paltz, 1990.
+  Coroplast’s Art: Greek Terracottas of the Hellenistic World*. Exh. cat. College Art Gallery, State University of New York, New Paltz, 1990.
 
 - <span class="smcaps">Van der Wielen-van Ommeren 1985</span>
 
   Van der Wielen-van Ommeren, F. “Polychrome Vases and Terracottas from
-  Southern Italy in the J. Paul Getty Museum,” [*Greek Vases in the J. Paul
+  Southern Italy in the J. Paul Getty Museum.” [*Greek Vases in the J. Paul
   Getty Museum: Volume 2,* Occasional Papers on Antiquities 3](http://www.getty.edu/publications/virtuallibrary/0892360704.html) (1985), pp. 171–82.
 
 - <span class="smcaps">Walters 1903</span>
