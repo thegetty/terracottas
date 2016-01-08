@@ -48,7 +48,7 @@ private collectors. Comparisons with material from excavations and
 critical discussions helps not only to define those qualities but also
 to narrow down, as much as possible, the objects’ place of manufacture
 and possible cultural context. In this manner, we have identified the
-Lakonian colony of Taras (Taranto) and the sites of ancient Canusion
+Laconian colony of Taras (Taranto) and the sites of ancient Canusion
 (Canosa), Medma (Rosarno), Selinous (Selinunte), Kentoripa (Centuripe),
 and Morgantina as possible original centers of production for most of
 the objects presented in this volume. I considered it to be especially

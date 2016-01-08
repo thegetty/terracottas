@@ -688,7 +688,7 @@ Results of the pigment analysis:
     reproduce the allure and seductive power of their song. As early as
     the seventh century <span
     class="smcaps">BC,</span> the poet Alcman placed
-    the muses and the sirens on an equal plane in terms of their musical
+    the Muses and the sirens on an equal plane in terms of their musical
     abilities: *Greek Lyric*, vol. 2, trans. D. A. Campbell (Cambridge
     and London, 1988), pp. 418–19, no. 30.
 
