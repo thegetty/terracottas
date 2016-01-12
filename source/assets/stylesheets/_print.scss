@@ -362,28 +362,48 @@ $footnote-size: 7.5pt;
     background-image: url(image_path("print/catalogue-spread2.jpg"));
     @extend %full-page-image;
   }
+  .guide h3 {
+    font-size: $print-base-font-size * 1.125; font-weight: bold;
+  }
   .guide article ul {
     list-style-type: none;
     padding: 0;
   }
   .guide article li {
-    margin-bottom: 0.125in;
+    // clear: both;
+    margin-bottom: 0.1875in;
   }
   .guide figure {
+    clear: both;
     page-break-inside: avoid;
-    float: none;
-    margin: 0.25in 0 0.0675in 0;
+    float: left;
+    margin-bottom: 0.0675in;
+    margin-left: 0;
+    margin-right: 0.25in;
+    margin-top: 0.0675in;
+    // margin: 0.25in 0 0.0675in 0;
   }
   .guide figcaption {
     font-size: 8pt;
   }
   .guide .inline-figure {
-    width: 100%;
+    width: 40%;
+  }
+  .guide .grid-figure {
+    clear: none;
+    margin-bottom: 0.0675in;
+    margin-left: 0;
+    margin-right: 0.25in;
+    margin-top: 0.0675in;
+    padding: 0;
+    width: 40%;
+  }
+  .grid-figure:nth-of-type(odd) {
+    clear: left;
   }
   .print-page-break {
     page-break-after: always;
   }
-
   .entry { page-break-before: left; }
 
   .expander {
