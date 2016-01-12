@@ -529,17 +529,17 @@ Results of the pigment analysis:
 
 #### Orpheus figure
 
-1. **Yellow/gold:** yellow ocher, lead white, chalk
-2. **Red:** yellow ocher, burnt sienna
-3. **White ground:** chalk (or lead white)
-4. **Pink:** cinnabar, lead white, chalk
-5. **Red/brown:** iron earth red, chalk
+1. Yellow/gold: yellow ocher, lead white, chalk
+2. Red: yellow ocher, burnt sienna
+3. White ground: chalk (or lead white)
+4. Pink: cinnabar, lead white, chalk
+5. Red/brown: iron earth red, chalk
 
 #### Orpheus footstool
 
-6. **Orange:** yellow ocher, red ocher
-7. **Black:** lampblack
-8. **Pink:** red ocher, chalk
+6. Orange: yellow ocher, red ocher
+7. Black: lampblack
+8. Pink: red ocher, chalk
 
 #### Notes
 
