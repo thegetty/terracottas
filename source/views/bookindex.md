@@ -1,0 +1,673 @@
+---
+title: Index
+layout: reference
+sort_order: 104
+---
+Page numbers in *italics* refer to illustrations. “Guide” refers to the Guide to the Collection of South Italian and Sicilian Terracottas (pages 215–30).
+
+- acanthus leaves, 113, 113n2, 220
+- Achilles, 175, 177n2
+- Actaeon, 27
+- Adonis: *adonia* rites, 154–55, 157n21, 157nn23–28; Altars with Myth of Adonis, **cats. 47–48**, *148*, 149, *150*, 151, *152*, 153–58; iconography and mythology of, 153–54, 156n7, 156n12
+- Adrano, 169, 204
+- aedicules, 173, 177n1
+- Aegina, 147n2, 198n5
+- Aegisthos, 174, 175, 178n24
+- Aeschylus, 99
+- Agamemnon, 174, 176, 178n18
+- Agathocles of Syracuse, 79n18, 170n9, 197
+- Agorakritos, 211
+- Agrigento: altars from, 162n8, 165; busts from, 169, 170; dove figurines from, 182; and facial types, 71n1, 184; marble ephebe from, 27; and music in funerary contexts, 194n3; sphinx head from, 212; theatrical masks from, 203
+- Aidone, 209, 212n1
+- Ajax, 177n2
+- Akrai, 169
+- Alciphron, 157n25
+- Alcmaeon, 174
+- Alcman, 23n16
+- Alexander I of Molossia, 131–32
+- Alexander the Great, 29, 59, 76
+- Alexandria, 51, 103, 157n26, 157n31, 194n10
+- Alkyoneus, 177n2
+- Allard Pierson Museum, Amsterdam, 71n1
+- Altamura, 21, 213n14
+- Altar with Animal Combat, Miniature, **cat. 50**, *164*, 165–66, *167*
+- Altar with Animals, **cat. 49**, *160*, 161–62, *163*
+- altars (*arulae*) (in general): placement of, 177n1; production and typologies of, 153, 161, 165, 173
+- Altars with Myth of Adonis, **cats. 47–48**, *148*, 149, *150*, 151, *152*, 153–58
+- Altes Museum, Berlin, 75
+- Amazons: iconography of, 100n1, 111; Statuette of Amazon, **cat. 33**, *110*, 111
+- Amphiaraos, 157n20
+- Amphis, 99
+- Amykles, 87, 88n5
+- Anchises, 156n18
+- Andriuolo necropolis, Paestum, 133n10
+- *Andromache* (Euripides), 23n16
+- animal figures: Altar with Animal Combat, Miniature, **cat. 50**, *164*, 165–66, *167*; Altar with Animals, **cat. 49**, *160*, 161–62, *163*; altar with sow and piglets, 179n36; Bull, Relief with, **cat. 36**, *118*, 119; in Campanian votive group, 228; in Canosan appliqués, 221–22; dove figurines, 182, 185n9; equine protomes, 131; Eros with Deer, Statuette of, **cat. 32**, *108*, 109; Eros with dolphins, 109n2, 147n1, 220; Figurine of Youth with Dolphin, “Guide,” *217*; funerary reliefs with pairs of, 113; Gorgons’ snakes, 207; Griffins Attacking Deer, Relief with, **cat. 37**, *120*, 121; griffins vs. Arimasps, 111, 113, 117; and Hades, 210, 213n15, 213n28; Odysseus under Ram, Statuette of, **cat. 54**, *188*, 189–90, *191*; and Orpheus, 24n40; Rattle in Shape of Pig, “Guide,” *229*, 230; and sirens, 19; in South Italian votive group, 223; in Tarentine molds, 219, 220; in Tarentine votive group, 218
+- antefixes, 29, 39, 43n3, 57, 59, *227*, 228
+- Antikenmuseum Basel, 24n44, 75, 78n1, 81
+- *apatheia* (moderation of passions), 20
+- Aphrodite: and Adonis, 153–54, 156n7, 157n18; bronze relief of Anchises and, 156n18; childhood-related offerings to, 73; and doves, 182; and Eros, 109, 147; and female figure types, 83, 197; and Peitho, 157n20; and Persephone, in Locri, 157n30; relief of, in Cyrene, 57; Relief with, Rising from Waves, “Guide,” *224*; Satyrion cult activity, 75; South Italian figures of, 223, 224; Statuette of, **cat. 56**, *196*, 197–98, *199*; in Tarentine molds, 219; in Tarentine votive group, 218
+- Apollo: Cirò temple of Apollo Alaios, 21, 23n11, 71, 140n7; Delphic temple of, 139; Dionysos’s syncretism with, 139; and Hyakinthos, 87, 88n5; iconography of Apollo Kitharoidos, 18, 22n11, 139–40; Metaponto sanctuary of Apollo Lykaios, 213n24; and Orestes myth, 174, 175; as Orpheus’s father, 17; Roman temple of Apollo Sosianus, 71; and Selinunte metopes, 175, 176; Statuette of, **cat. 44**, 1n2, *138*, 139–41
+- Apollodorus, 153
+- Apollonios of Rhodes, 19
+- appliqués: and altar types, 161; Arimasps in, 113, 117; for Canosan vessels, 215, 221–22; for funerary *kline* or sarcophagi, 113, 121, 220; with maenads, 113, 194n3
+- Apulia (Puglia): Centuripe’s ties with, 77, 197; and Getty collection of terracottas, 1, 215; Orphism and Pythagoreanism in, 20, 21; theatrical masks and statuettes from, 92n4, 107; vase decorations, terracotta, 111, 117, 221. *See also* *specific locations*
+- Apulian vase-painting: and Adonis, 154, 157n21; and Apollo, 22n11, 139; and costume on mourning woman (cat. 38), 123; and Dionysos, 139, 161; and Hades and Persephone (as couple), 211; interpretation of Attic models in, 153; and Nike, 182; and Orpheus, 18, 22n8; and *sistrum* (percussion instrument), 156n5
+- Arcadia, 99
+- Archaeological Museum of Sparta, 174
+- archetypes. *See* prototypes
+- Archytas, 20, 23n30
+- Arethusa, 27n4
+- *Argonautica* (Apollonios of Rhodes), 19
+- Argonauts, 157n20
+- Argos, 175
+- Ariadne, 154, 156nn17–18
+- Ariccia, 22, 51n1, 77
+- Arimasps: iconography of, 111, 113; Relief with Fighting Arimasp, **cat. 35**, *116*, 117
+- Aristoxenus, 20
+- Arkas, 99
+- Armento, 21, 23n14
+- Arpi, 147, 194n3
+- Artemis: head and bust mold of, in Geneva, 79n20; iconography and mythology of, 99–100, 100nn2–3; and Iphigenia, 176; statuette of, in Amsterdam, 71n1; statuettes of Artemis Bendis, 77; and tympanon (drum), 157n28
+- *arulae*. *See* altars
+- Ashmolean Museum, Oxford, 186n29
+- Asklepieion, Corinth, 73n2
+- Athena: Athenian Old Temple of, 212; Delphic temple of Athena Marmaria, 185n19; marble heads of, 21, 24n41, 71, 213n26; and Satyrion acropolis, 75; Syracuse temple of, 183
+- Athens: Adonis cult in, 158n32; Agora, 53n2, 100n3; Artemis statuettes from, 100nn2–3; Kerameikos cemetery, 184, 185n5; and Kritios, 27; and Lykourgos, 22n9; Medma’s ties with, 155–56, 158n38; and music in funerary contexts, 193; and Nike, 182, 183, 184, 187n39; Old Temple of Athena, 212; Parthenon, 53n2, 157n20. *See also* Attic culture
+- athleticism, 29, 30n6, 33, 183
+- Atreides, 174–76
+- Attic culture: and *adonia* depictions, 157n21, 157n26; and altar scenes, 155, 156n4; Arimasps in, 117; comic character types in, 91–92, 95n2, 203; female dancer type in, 103, 104n2; post-Phidian influence on Italian works, 49, 53, 76, 155, 158n34, 211; red-figured vase painting (*see* red-figured vases); Sicily as influenced by style of, 158nn34–35, 183, 184; sirens as funerary motifs in, 19; and Tarentine marble sculpture, 21, 24n41, 33, 49, 53, 71; white-ground lekythoi, 157n20, 179n29. *See also* Athens; *and specific cultural figures*
+
+- Badisches Landesmuseum, Karlsruhe, 157n18
+- Baker Dancer (bronze), 103
+- Baltimore Painter, 132n7, 156n17
+- banqueters: adolescents as, 64n1; and *adonia* rites, 154; Head of Bearded Man (Banqueter), **cat. 24**, 1n2, *80*, 81; Head of Male Banqueter, **cat. 7**, 3, *34*, 35, 75, 76, 77; Head of Male Banqueter, **cat. 8**, *36*, 37, 75, 76, 77; and Italiote kithara, 140; and Master of the Singers of Taras, 21, 24n44; and reclining figures’ typology, 51, 67, 77–78; as singing, 21, 37, 76; Statuette of Banqueting Couple, “Guide,” *215*; Statuette of Bearded Male Banqueter, “Guide,” *217*; Statuette of Reclining Male Banqueter, “Guide,” *218*; in Tarentine molds, 220, 221; and Via Di Palma votive deposit, 47, 55; wreaths worn by, 35, 37
+- Barbarossa hypogeum, Canosa, 132, 133n15, 135
+- barbotine, 3, 17, 153, 165
+- Bari, 132, 132n2
+- Barra Bagnasco, M., 158n32
+- Barrafranca (Enna), 189, 190n7, 213n17
+- Baths of Diocletian, Rome, 33
+- bearded figures: banqueters as, 81, *217*; blue beards, 3, 211, 212; Head of Bearded Man, **cat. 24**, 1n2, *80*, 81
+- Beazley, J. D., 174
+- Bell, M., 210
+- Berenice II of Egypt, 57
+- Berlin Dancer (Lysippos, attrib.), 194n4
+- Berlin Painter, 182
+- blue, symbolism of, 212, 213n28
+- Boeotia, 81, 83, 92n2, 215
+- Bologna, Painter of, 158n35
+- Bookdis, N., 213n17
+- Boreas, 24n39
+- Borgo Arsenale Militare votive deposit, Taranto, 61
+- Bosco Littorio, Gela, 184
+- Bottini, Angelo, 21
+- Brea, Bernabò, 95
+- Brescia, 21
+- British Museum, 3, 59n2, 170n2, 204
+- bronzes: and animals’ S-shaped tails, 161; with Aphrodite and Anchises, 156n18; Baker Dancer, 103; as caryatid *thymiaterion* prototypes, 182, 185n10; Etruscan figures as prototypes, 182, 212; Laconian figures as prototypes, 176, 179n40; Lysippos’s statue of athlete, 30n6; Orestes myth on Olympian relief, 174, 178n9; of Orpheus, at Hermitage, 24n42; Phidias’s group at Delphi, 21; with ram depictions, 189; Severe-style works, 27, 71; with wreaths in Tarentine style, 37
+- Bull, Relief with, **cat. 36**, *118*, 119
+- burnt sienna, 22
+- Bust of Woman, **cat. 15**, *52*, 53, 75, 76
+- Bust of Woman, **cat. 16**, *54*, 55, 75
+- Bust of Woman, **cat. 17**, *56*, 57, 75
+- Bust of Woman, “Guide,” *221*, *228*
+- Bust of Youth, **cat. 21**, 49, *66*, 67–68, *69*, 75, 76, 77
+- busts (in general): circulation and influence of Sicilian busts, 39, 43, 77, 169–70; facing pairs (kissers), 223; typologies of, 76–77, 169–70, 170nn3–4
+- Butera, 79n17, 92, 96n4, 169
+- Byblos, 154
+
+- Calabria, 21, 215. See also *specific locations*
+- calcite, 3, 78, 201, 207, 209
+- Cales, 226
+- Calvi, 29
+- Calypso, 133n9
+- Camarina, 183, 184, 187nn38–39
+- Campania: Alexander portraits as popular in, 29, 76; busts from, 169; and drapery on statuettes, 137; and Getty collection of terracottas, 1, 215; *hydria* with siren from, 23n20; theatrical masks from, 203; votive group from, 228; youths’ heads from, 61. *See also* *specific locations;* *and works on pages 225–28*
+- Campetti sanctuary, Veii, 73n4, 140, 212
+- Canosa, **cats. 38–46**: and Erotes, 147; and Getty collection of terracottas, 1; Hellenization of, 131–32; hypogea (tombs) of, 21, 111n2, 131–32, 147; and statue production techniques, 3, 4; vases, painted, from, 131, 132nn7–8, 154, 207n2, 211; vases with plastic decoration from, 111, 215, 221–22. *See also* works on pages 122–47, 221–22
+- Capo Colonna, Crotone, 179n40, 185n10
+- Capo Soprano, 177n2
+- Capua, 29, 51n1, 61n3, 88n3, 137n1, 225–26
+- Cariati, 21
+- caryatid *thymiateria*, 182, 185n5, 185n10
+- Caskell, J., 75
+- Cassandreia, 113
+- Castellamare di Stabia, 73n3
+- *Catalogue of Women* (Hesiod, attrib.), 176
+- Catania, 183, 184
+- Caudium (Montesarchio), 24n39
+- Caulonia, 140, 156n1, 161, 162n5, 165, 212
+- Cefalù, 103, 104n6, 207n1
+- Centaurs, 113
+- Centuripe (Kentoripa): Apollo Kitharoidos depictions in, 140; and Apulian culture, 77, 197; Artemis statuettes from, 100n3; busts from, 169, 228; chamber tomb with relief slab at, 39, 77; *clipei* (plaques) from, 207; dancer statuette from, 104n6; Erotes from, 201; and Getty collection of terracottas, 1; and music in funerary contexts, 193, 194n3; Rattle in Shape of Pig, “Guide,” *229*, 230; Tarentine ties with, 77, 79n18; theatrical masks and statuettes from, 92, 95, 96n4, 203, 204
+- Cerberus, 18, 210
+- Cercopes, 175
+- chalk, 3, 22
+- Chamay Painter, 22n11
+- Chequer Painter, 158n34
+- children: burial sites of, 64n1, 91, 201; depictions of, 73, 77, 221, 229; Eros as child, 109, 147
+- Chiton Fragment, “Guide,” *218*
+- cinnabar, 3, 22
+- Cirò, 21, 23n11, 71, 140n7
+- *cista* (box), 151, 153, 154, 157nn20–21
+- clay: and barbotine method of joining components, 3, 17, 153, 165; fabric analysis, explained, 2; and hole cutting, 63; shrinkage of, 3, 4n3; from Taranto, characterized, 78, 100n8; and uneven firing, 3, 78; white slip applied as undercoat, 3, 17, 78, 131, 132n4, 137. *See also* production techniques
+- *Clipeus* with Head of Medusa, **cat. 59**, *206*, 207
+- Clytemnestra and Orestes, Relief with, **cat. 52**, *172*, 173–79
+- coinage: Apollo Kitharoidos on, 23n11; hairstyles on, 27, 53, 158n35; Nike on, 157n20, 183; seated male figure on, 156n18; of Syracuse, 27n4, 170, 170n9, 183, 211; Zeus on, 211
+- coloring: blue, symbolism of, 212, 213n28; blue-bearded figures, 3, 211, 212; modern pigments’ presence, 201; Munsell color charts (for fabric analysis), 2; pigment analyses, 22, 114n6, 201, 212; pigments typically used, 3; polychrome pottery, 79n18; of theatrical masks, 203; white layer as undercoat for, 3, 17, 78, 131, 132n4, 137
+- comedy: Comic Mask, **cat. 31**, 1n2, *106*, 107; elderly female characters in, 95–96; masks for comic character types, 91–92, 95, 100, 107, 203–4; Middle Comedy, 91, 95, 96n5, 194n3; mold of comic actor, 220; New Comedy, 91–92, 96n5, 107, 203, 204n4; Statuette of Seated Comic Actor, **cat. 27**, 1n2, *90*, 91–92, *93*
+- conservation: Antiquities Conservation Department, 2, 9, 114n6, 184n1, 212n1; damage caused by improper methods of, 9, 17, 22n5, 149, 151. *See also* technical analyses
+- Contrada Corti Vecchie votive deposit, Taranto, 29n2, 35n1, 51n2
+- Contrada Tesoro necropolis, Taranto, 119
+- Corinth: and animals’ S-shaped tails, 161; Demeter sanctuary, 73n2, 177n1, 213n17; and female dancer type, 103; metal works from, as influence, 176–77, 179n40; ram-shaped handles from, 189; Tarentine coroplastic influence on, 79n9; vase-painting in, 19
+- Cozzi, S., 132
+- Crete, 20
+- Crotone, 156n1, 156n7, 158n38, 179n40, 185nn9–10, 212, 213n26
+- Cuma, 137n1
+- Cyclopes, 189
+- Cyprus, 154, 182, 185n4
+- Cyrenaica, 92n2, 194n6, 197n2
+- Cyrene, 57, 79n9, 139, 177, 193, 194n6, 211
+
+- dance: and *adonia* rites, 154–55; Baker Dancer (bronze), 103; Berlin Dancer (Lysippos, attrib.), 194n4; in funerary contexts, 103, 104n3, 104n8, 193, 194n3; maenads dancing, 158n34, 194n3, 194n8; Sicilian bust with female dancers, 113; Statuette of Dancer, **cat. 30**, 1n2, *102*, 103–4, *105*
+- Daunia, 137, 147
+- Deinomenids, 155, 169
+- Delphi, 17, 21, 139, 182, 185n6, 185n19, 189
+- Delphic Triad, 176
+- Demeter: agrarian rites of, 157n24; and banqueting figures, 77; Corinth sanctuary of, 73n2, 177n1, 213n17; and crouching child type, 73n2; on Farnese Cup, 57; and female dancer type, 103; Mold for Bust of, “Guide,” *220*; Morgantina *Thesmophorion* (San Francesco Bisconti), 177n1, 209–11, 212nn1–2, 213n15; on Parthenon pediments, 157n20; Selinunte sanctuary of Demeter Malophoros, 173, 175–76, 177n6, 178n15, 178n24, 179n29, 179n35, 179n37, 179n40, 182, 183; and Sicilian busts, 43, 113, 169, 170n3; and theatrical masks and statuettes, 92, 204; Therae temple of Eleusinian Demeter, 24n40; and tympanon (drum), 157n28
+- Derveni, 154
+- Dexileos, 158n34
+- Dionysius I of Syracuse, 79n18, 157n31, 170
+- Dionysius II of Syracuse, 79n18
+- Dionysos: and Adonis’s iconography, 156n7; animals associated with, 161; Apollo’s syncretism with, 139; and Ariadne, 154, 156nn17–18; Boeotian masks of, 81; and color blue, 212; and Eros, 109, 147; funerary associations of, 91, 95, 100, 103, 113, 204; and Hyakinthos cult, 87; inscriptions to, 161, 162n2; and ivy wreaths, 87, 103, 137, 139, 203; and music or dance, 139, 193; and Serapeion of Memphis at Saqqara, 18
+- Dioscuri (Castor and Pollux), 77, 79n11, 175, 220
+- Dorieus, 174, 178n16
+- drapery effects, 17, 103, 111n3, 117, 137, 153, 155, 158n35, 181, 183
+- Dresden Zeus, 211
+
+- Eboli, 29n2
+- egg and dart molding, 153, 156n1
+- Egnazia, 51, 83n1, 100n3, 140
+- Egypt: Alexandria, 51, 103, 157n26, 157n31, 194n10; color blue’s significance in, 212; hairstyle of Isis and queens, 57; Serapeion of Memphis, Saqqara, 18, 19, 21, 213n28; Tarentine cultural exchanges with, 76, 79n9; theatrical depiction from, 100n6
+- Egyptian blue, 3, 103–4, 201, 212
+- Elektra, 157n20, 174–75, 178n9
+- Eleusis, 177
+- Elis, 157n20, 183, 211
+- Enna (Barrafranca), 189, 190n7, 213n17
+- Eos, 24n39, 184
+- Eretria, 53n3
+- Eriphyle, 174
+- Eros: on Canosan vessels, 131, 221, 222; iconography and sphere of, 109, 147, 201; in South Italian votive group, 223; Statuette of, **cat. 57**, *200*, 201; Statuette of, with Deer, **cat. 32**, *108*, 109; Statuettes of, Seated, **cats. 45–46**, 1n2, *142*, 143, *144*, 145, *146*, 147; Tarentine mold of, 220; in Tarentine votive group, 218
+- Etruria: and Adonis cult, 154, 156n14, 157n27; and Alexander portraits, 59; bronze prototypes from, 182, 212; candelabra from, 182, 185n6; and crouching child type, 73, 77; mirrors from, 154, 156n14, 157n20, 157n27; Tarentine ties with, 61n3, 76, 79n13; and Zeus’s iconography, 211. *See also* *specific locations*
+- Euainetos, 158n35, 170n8, 183
+- Euripides, 18–19, 22n9, 23n16, 99
+- Eurydice, 18
+- Euthydamos, 178n22
+- Exedra of the Philosophers, Serapeion of Saqqara, 18, 19, 21
+
+- fabric analysis, explained, 2
+- Falerii, 22n2, 29, 30n4, 211
+- Falisci, 157n20, 211
+- Farnese Cup, 57
+- *favissae* (burial places for sacred objects), 40n4, 53n1, 55, 73, 75–76
+- fertility, 73, 75, 77, 147, 210, 211
+- Figurine of Youth with Dolphin, “Guide,” *217*
+- Fleischman, Barbara and Lawrence, 1, 1n2
+- Foce del Sele, 174–75
+- Fondo D’Ayala, Taranto, 59n2
+- Fondo Giovinazzi, Taranto, 21, 35n1, 76
+- Fondo Ruozzo, Teano, 228
+- Forentum, 29n2
+- Foundry Painter, 22n3
+- Francavilla di Sicilia: and Adonis’s iconography, 154; and Persephone’s iconography, 213n12; *pinakes* (votive tablets) from, 178n27, 185n14, 210, 211; *thymiateria* (incense burners) from, 185n4
+- Fratte di Salerno, 29, 40n3, 169, 170n6
+- funerary art and customs: and *adonia* rites, 155, 157n23; Amazons in, 111; appliqués in, 113, 121, 220, 221–22; athletic depictions in, 33; children’s burial sites, 64n1, 91, 201; dance depictions in, 103, 104n3, 104n8, 193, 194n3; Dionysos in, 91, 95, 100, 103, 113, 204; Eros in, 109; *favissae* (burial places for sacred objects), 40n4, 53n1, 55, 73, 75–76; Gorgons in, 207; heroization of the deceased, 30n5, 77; Hyakinthos in, 87; incense and *thymiateria* in, 182, 185nn4–5; *kline* (bed or couch) in, 21, 113, 131, 133n10; Macedonian influence on, 113, 132; Mold for Funerary Bust, “Guide,” *219*; Nike in, 187n39; poses recurrent in, 83n1, 157n20; *semata* (tomb markers), 20–21, 79n19; sirens in, 18–19, 23nn18–20; statue groups within temples and tombs, 20–21, 24n36, 131–32; statue heads with Libyan ringlets, 57; Statues of Mourning Women, **cats. 38–42**, 3, 4, 122–35; terracottas’ ritualistic function in, 79n8; theatrical subjects in, 91, 92n4, 95, 96nn4–6, 100, 204
+- Furies, 18, 175
+
+- Gaia, 73
+- Ganymede Hypogeum, Arpi, 147
+- Ganymede Painter, 18
+- Gela: altars from, 156n1, 156n4, 162n8, 165, 177n2, 186n21; busts from, 169; dancer statuettes from, 194n3; and facial types, 184, 186n29; lekythoi from, 185n16; metope of winged figure from, 179n38; and Nike, 183, 186n21, 187n39; ram-shaped handle from, 190n8; Statuettes of Seated Women, “Guide,” *229*; *thymiaterion kore* from, 182
+- Geras, 174
+- Getty Museum: Antiquities Conservation Department, 2, 9, 114n6, 184n1, 212n1; collection of molds, 45n3, 215, 218; collection of terracottas, 1, 215; Tarentine heads and busts, acquisition of, 76. *See also* technical analyses
+- gilding, 113, 117, 119, 121, 161
+- Giovinazzi votive deposit, Taranto, 21, 35n1, 76
+- Glyptothek, Munich, 21, 24n42
+- Gnathia pottery, 107, 223
+- Gorgoglione (Basilicata), 154
+- Gorgons: altar with Gorgon head, 177n2; antefixe of Gorgon head, 59; bronze figurines of, 182, 185n10; Canosan Medusa head, 131; *Clipeus* with Head of Medusa, **cat. 59**, *206*, 207; humanization of, 19; metope of Perseus and Medusa, 174, 175
+- Grammichele, 169
+- Granicus, Battle of the, 59
+- Gravisca, 154, 156n9
+- griffins: on altar from Gela, 162n8; on Altar with Animals (cat. 49), 161; and Arimasps, 111, 113, 117; Relief with Two Griffins Attacking Deer, **cat. 37**, *120*, 121
+- group, defined, 4n1
+- Group of Heads and Busts from Taranto Region, **cats. 4–23**, 75–79
+- Group of Seated Poet (Orpheus?) and Sirens, **cats. 1–3**, 3, 4, *16*, 17–24
+
+- Hades (deity): Head of, **cat. 60**, 1, 3, *208*, 209–13; Hekate as bride of, 176; iconography of, 210–11; and Orpheus, 18; Persephone’s abduction by, 169, 177n1, 210; and reclining figures, 77
+- Hades (Underworld). *See* Underworld
+- hairstyles: in Alexander portraits, 29; of Apollo, 18, 139, 140; of athletes, 29, 30n6; bearded banqueters, 81, *217*; blue-bearded figures, 3, 211, 212; circular impressions denoting locks, 228; on coinage, 27, 53, 158n35; of Hades, 209, 210, 211; with *kekruphalos* (hairnet), 99, 100n1; *lampadion* (knot), 153, 156n8, 219; Libyan ringlets, 57; Lysippan influence on, 67, 68n3; melon coiffure, 83, 103, 218, 221, 224, 225; with *mitra* (headband), 153, 156n7; Polykleitan influence on, 35; post-Phidian influence on, 49, 53, 158n34; Praxitelean influence on, 197; production techniques for, 3, 77, 78; rolled and gathered behind neck (Severe style), 27, 39, 43, 43n3, 77; rows of globular curls, 181, 183–84; with *sakkos* (hair covering), 49, 53, 55, 95, 100n1, 153; on Saturo heads, 39, 40n4; of Sicilian busts, 170; of siren figures, 13, 24n44; *speira*, 91
+- Hannibal, 87
+- Hannibalic War, 75, 79n18
+- Head, Fragment of, **cat. 22**, *70*, 71, 75
+- Head of Bearded Man, **cat. 24**, 1n2, *80*, 81
+- Head of Child, **cat. 23**, *72*, 73–74, 75, 76, 77
+- Head of Hades, **cat. 60**, 1, 3, *208*, 209–13
+- Head of Male Banqueter, **cat. 7**, 3, *34*, 35, 75, 76, 77
+- Head of Male Banqueter, **cat. 8**, *36*, 37, 75, 76, 77
+- Head of Man, **cat. 4**, *26*, 27, 75
+- Head of Man, **cat. 5**, *28*, 29–30, *31*, 75
+- Head of Man, **cat. 6**, *32*, 33, 75
+- Head of Silenos, “Guide,” *223*
+- Head of Warrior, “Guide,” *227*, 228
+- Head of Woman, **cat. 9**, 27, *38*, 39–40, *41*, 55n2, 75, 76, 77
+- Head of Woman, **cat. 10**, 27, 39, *42*, 43, 55n2, 75, 76, 77
+- Head of Woman, **cat. 11**, *44*, 45, 75
+- Head of Woman, **cat. 12**, *46*, 47, 75
+- Head of Woman, **cat. 13**, *48*, 49, 75
+- Head of Woman, **cat. 14**, *50*, 75, 76
+- Head of Woman, **cat. 51**, *168*, 169–70, *171*
+- Head of Woman, “Guide,” *217*, *218*, *225*, *226*, *227*
+- Head of Youth, **cat. 18**, *58*, 59, 75, 76
+- Head of Youth, **cat. 19**, *60*, 61, 75, 76, 78
+- Head of Youth, **cat. 20**, *62*, 63–64, *65*, 75, 76, 77
+- headgear: diadems, 37n1, 39, 43, 78, 137, 210, 211, 228; floral crowns, 35, 217; headbands, 29, 30n6, 64n1, 153, 156n7, 228; helmets, 228; Phrygian cap, 18, 21, 24n44, 111; *polos* (see *polos*); production techniques for, 78; *stephane* (wreath), 181, 182, 219, *222*; veils, 153, 154, 211, 221, 223, 225, 226, 229; wreaths on banqueters, 35, 37; wreaths on Dionysian figures, 87, 103, 137, 139, 203; wreaths on Tanagra figurines, 83, 137
+- Hekate, 176, 179n30, 179n35
+- Helen, 18–19, 24n39, 99, 174
+- Helikon, Mount, 24n40
+- Hera, 212, 213n26
+- Heraclea (Lucania), 76, 79nn9–10, 83n1, 88n3
+- Heraclea Minoa (Sicily), 165
+- Herakles, 29n3, 35n2, 156n7, 174, 175, 177n2, 221
+- Hermes, 157n20, 176
+- Hermitage Museum, St. Petersburg, 23n14, 24n42
+- *heroa* (shrines dedicated to heroes), 21, 176, 178n22
+- Hesiod, 176
+- Himera, 156n4, 165, 169, 177n6
+- Hipponium, 177n2
+- Hirsch, Jacob, 75, 78n1
+- Homeric tradition, 19, 189, 212
+- Hyakinthos, 77, 87, 88n5
+- Hyperion, 175
+
+- Ida, Mount, 156n18
+- *Idylls* (Theocritus), 157n26, 157n31
+- infrared analysis, 153, 212
+- Ionia, 177n3, 184, 223
+- Iphigenia, 176, 178n27, 179n29
+- iron oxide, 3, 212
+- Isernia, 133n9
+- Isis, 57
+- Isocrates, 19
+
+- J. Paul Getty Museum. *See* Getty Museum
+- Jastrow, E., 4n1
+- Jeammet, V., 133n15, 135
+
+- Kalliope, 17
+- Kallisto, 99–100
+- kaolinite, 3, 78, 132n4, 137
+- Karneia Painter, 156n7
+- Kentoripa. *See* Centuripe
+- Kephalos, 184
+- Khrysothemis, 174
+- Kimon, 158n35, 183
+- Kingsley, Bonnie M., 24n44
+- kithara (stringed instrument): and Apollo, 18, 22n11, 139–40; cradle kithara, described, 189; Italiote kithara, described, 140; and Orpheus, 10, 17, 18, 19, 23n14, 24n42; as pedagogical instrument, 20; Statuette of Woman with, **cat. 55**, *192*, 193–94, *195*
+- *kline* (bed or couch), 21, 113, 131, 133n10
+- *klismos* (seat), 9, 17, 22n11, 23n12
+- Knidians, 17
+- Knidos, 17, 174, 178n16
+- *korai* (statues), 156n4, 157n23, 182–84
+- Kore: Corinth sanctuary of Demeter and, 177n1, 213n17; head of “Kore Albani,” 53n2; on Parthenon pediments, 157n20; and Sicilian busts, 43n2, 169; and theatrical masks and statuettes, 204; and tympanon (drum), 157n28. *See also* Persephone
+- Kos, 158n34
+- kourotrophic cults, 73, 77, 95
+- kraters. *See* red-figured vases; vase-painting
+- Kritios, 27
+- *krotales* (cymbals), 154
+
+- Laconia: and animals’ S-shaped tails, 161; and athleticism, 33; bronze prototypes from, 176, 179n40; Hyakinthos cult in, 87; and Orestes myth, 174, 178n15; Orpheus image in Therae, 24n40; ram-shaped handles from, 189; Taras as colony of, 1, 33, 87; and vases from Saturo, 78n2. *See also* Sparta
+- Lagrasta hypogeum, Canosa, 111n2, 132
+- lampblack, 3, 22
+- Lapiths, 113, 158n36
+- Lavello, 59n2
+- lead white, 3, 22, 103, 104, 212
+- Lecce, 117, 132
+- Lentini, 27n4, 96n4
+- Licata, 186n34, 194n3
+- Lilibeo, 194n3
+- Lipari: altars from, 165; busts from, 169; and music in funerary contexts, 193; theatrical masks and statuettes from, 91–92, 95, 107, 194n3, 203, 204
+- Lipari Painter, 107
+- Lippolis, Enzo, 77, 88n5
+- Lo Scasato, Falerii, 29, 211
+- Locri (Lokris): altars from, 156n4, 161, 165, 177n2; and athleticism, 33; Casa dei Leoni, 154, 158n32; dancing maenad statue from, 158n34; female poet (Nossis) from, 157n23; Ionian temple of Marasà, 79n11; Medma as colony of, 155, 157n30, 158n38; and music in funerary contexts, 193; Nike acroterion from, 183; Persephoneion, Contrada Mannella, 39, 185n9, 210; and Persephone’s iconography, 213n12; *pinakes* (votive tablets) from, 154, 156n13, 157n21, 158n38, 185n14, 210, 211, 213n15; protomes from, 186n32; Syracuse’s ties with, 155, 157n31, 158n38, 169, 211; theatrical statuette from, 100n6
+- Long Overfalls Group, 158n35
+- loom-weights, 223
+- Louvre: Canosan *askos*, 132n8; Canosan statues of mourning women, 4, 131, 132n1; Euripides portrait, 22n9; female bust from Falerii, 22n2; female heads with Libyan ringlets, 57; orant statue, 132n5
+- Lucania, 1, 88n3, 215. See also *specific locations*
+- Lucera, 35n3, 51n1, 59n2, 61n2, 64n3, 73n3, 76, 79n14
+- Lykourgos, 22n9
+- lyre, 17, 19, 87, 139, 143, 145, 193, 194n8. *See also* kithara
+- Lysippos, 30n6, 59, 67, 68n3, 76, 79n10, 194n4
+
+- Macedonia: bronze vessels from, 154, 185n10; and Canosan aristocracy, 131; funerary customs influenced by, 113, 132; Sicilian cultural exchanges with, 197; Tarentine cultural exchanges with, 79n9; wall paintings in, 67, 68n6, 140
+- maenads: and Attic pictoricism, 158n34; cameo with, 194n8; and Eros, 109n2; hairstyles of maenad antefixes, 43n3; and leaning-female figure type, 83; and music in funerary contexts, 194n3; Relief with Two Maenads, **cat. 34**, *112*, 113–14, *115*; Sicilian *clipei* (plaques) of, 207; South Italian head and neck of, 224
+- Magna Graecia: Adonis cult in, 154; Alexander portraits as popular in, 29, 59, 76; Alexandrian influence in, 194n10; altar types in, 153, 161, 165, 173; Apollo Kitharoidos depictions in, 139, 140; Arimasp depictions in, 117; and athleticism, 33; and Canosan aristocracy, 131; children’s depictions in, 73, 77; circulation of molds and statuettes in, 1; circulation of Sicilian busts in, 39, 43, 77, 169–70; *cista* sizes in, 157n21; coinage of, 53, 156n18, 158n35; craft networks’ expansion in, 79n18, 155; earring types in, 156n6; female figure types in, 83, 197; funerary objects imported to, 113; and music in funerary contexts, 193, 194n3; Odysseus scenes as popular in, 189; Orphism and Pythagoreanism in, 20, 21, 24n39; Severe-style works from, 27; Tarentine coroplastic influence in, 76–77, 79n9, 79n14; theatrical subjects as common in, 91–92, 95; *thymiaterion* types in, 182, 185nn9–10; wall painting in, 67. *See also* *specific locations*
+- Magoula, 174
+- Manfria, 92
+- Marathon, Battle of, 183
+- marble sculpture: Aphrodite statuette, 197n2; Athenian *korai*, 184; of Demeter and Persephone, 209; eye incisions on, 213n24; *klinai* of Cassandreia tomb, 113; metal ornaments affixed to, 212, 213n26; with Praxitelean influence, 45, 51; Severe-style works, 27, 33; Tarentine heads, 21, 24n41, 30n5, 33, 45n1, 49, 53n2, 76; vs. terracotta, for funerary statues, 20
+- marriage, 147, 154–55, 169, 170n4, 197, 210
+- masks: Boeotian masks of Dionysos, 81; for comic character types, 91–92, 95, 100, 107, 203–4; Comic Mask, **cat. 31**, 1n2, *106*, 107; Satyr Mask, **cat. 58**, 1n2, *202*, 203–4, *205*
+- Masseria del Carmine votive deposit, Taranto, 87, 88n6, 88n8
+- Masseria Soppegna, Fondo Ruozzo, 228
+- Master of the Singers of Taras, 21–22, 24n44
+- Medma: altar with Pirithous from, 158n36; Altars with Myth of Adonis, **cats. 47–48**, *148*, 149, *150*, 151, *152*, 153–58; Athenian ties with, 155–56; and Getty collection of terracottas, 1; head of female deity from, 212; and Hirsch-Virzì collection, 75, 78n1; Locri as mother colony of, 155, 157n30, 158n38; Persephone statuette from, 157n21; as production center for votives and altars, 155, 156n4; *thymiateria* (incense burners) from, 185n4
+- Medusa, Clipeus with Head of, **cat. 59**, *206*, 207. *See also* Gorgons
+- Megara, 175, 176, 179n29
+- Megara Hyblaea, 186n21, 189
+- Meidias Painter, 158n34
+- Meleager, 30n5
+- Menelaus, 174
+- Messina (Zankle), 165
+- Metaponto: altars from, 161, 162; and Apollo Kitharoidos depictions, 140; and architectural molding, 156n1; and Arimasp depictions, 117; and athleticism, 33; coinage of, 23n11; and Erotes, 109; female dancer type in, 104n3; and Getty collection of terracottas, 1, 215; hairstyles in sculpture of, 43n3; marble head from, 212; votive group from, 221
+- Metropolitan Museum of Art, New York, 103, 182
+- Middle Comedy, 91, 95, 96n5, 194n3
+- milk of lime, 132n4, 189
+- Mime, Statuette of, **cat. 29**, 1n2, *98*, 99–100, *101*
+- Minerva, 61n3
+- Minturno, 137n1
+- *mitra* (headband), 153, 156n7
+- molds: for altars (*arulae*), 161, 165; and backs of figures, 3, 78, 79n20, 81, 83; Bust of Demeter or Persephone, “Guide,” *220*; from Canosa, 131, 132n1; from Capua, 225; circulation of, among production centers, 1, 183; Getty collection of, 45n3, 215, 218; Head of Woman, “Guide,” *219*; from Heraclea, 79n10; inscriptions or signatures on, 3, 45, 218, 219, 220–21; production of, 3, 4n3, 22; from Taranto, 218–21; Youth with Strigil, “Guide,” *214*, *220*
+- Montagna di Marzo, 95n1
+- Monte Altesina, 213n17
+- Monte San Mauro, 179n36
+- Monte Saraceno, 103, 104n6, 165, 174
+- Montesarchio (Caudium), 24n39
+- Morgantina: busts from, 39n1, 113, 114n6, 169, 170; *clipei* (plaques) from, 207; coinage of, 211; female dancer type in, 103, 104n6; and Getty collection of terracottas, 1; Hades statuette with snake from, 212n7, 213n28; Museo Archeologico, 209, 212n1; San Francesco Bisconti sanctuary (*Thesmophorion*), 177n1, 209–11, 212nn1–2, 213n15; theatrical masks and statuettes from, 92, 204
+- Mourning Women, Statues of, **cats. 38–42**, 3, 4, 122–35
+- Mozia, 165
+- Muller, Arthur, 4n1
+- Munsell color charts, 2
+- Musée d’Art et d’Histoire, Geneva, 24n44, 79n20, 155
+- Musée de la Ville de Rouen, 132, 133n14
+- Musée du Louvre. *See* Louvre
+- Musei Civici di Trieste: banqueters’ heads, 29, 35n1, 37n3, 81n1; child’s head, 73n1; collection of terracottas (in general), 76, 78n7; female heads, 39n3, 43n3, 45n2, 51n2; theatrical statuette, 96n6; youth’s head, 61
+- Museo Archeologico di Morgantina, 209, 212n1
+- Museo Archeologico di Santa Scolastica, Bari, 132
+- Museo Archeologico Nazionale di Napoli, 23n14, 57, 132, 132n2, 132n5, 133n15, 135, 157n20
+- Museo Archeologico Regionale di Gela, 186n29
+- Museo Archeologico Regionale di Palermo, 177n3, 194n3
+- Museo Campano di Capua, 225
+- Museo Castromediano, Lecce, 132
+- Museo Civico Archeologico di Canosa, 132
+- Museo Civico Castello Ursino, Catania, 184
+- Museo Civico di Centuripe, 100n3
+- Museo Gregoriano Etrusco Vaticano, 61n2
+- Museo Nazionale Archeologico di Taranto, 24n44, 35n1, 78n5, 81n1, 104n1, 131
+- Museo Nazionale di Reggio Calabria, 27n3, 212
+- Muses, 17, 23n16, 147, 193, 194n6, 194n9
+- Museum of Fine Arts, Boston, 24n44
+- music: and *adonia* rites, 154–55; and Apollo, 18, 22n11, 139–40; and Dionysian cult, 139, 193; and Eros, 147; and female figure type, seminude, 197, 198n5; lyre, 17, 19, 87, 139, 143, 145, 193, 194n8 (*see also* kithara); and Orpheus, 10, 17, 18, 19, 23n14, 24n42; percussion instruments, 83, 113, 153, 154, 155, 156n5, 157n28; *plektron* (plectrum), 139, 140, 143, 144, 194n6; and Pythagorean thought, 20; singing banqueters, 21, 37, 76; of sirens, 15, 18–19, 20, 23n16. *See also* dance
+- Myrina: Apollo Kitharoidos depictions in, 140; Erotes from, 201; and female figure types, 197n2; and music in funerary contexts, 193; siren statuette from, 23n20; theatrical masks and statuettes from, 92n2, 100, 100n3, 203
+- Myskos, 178n22
+- *naiskoi* (small temples): battle scene in *naiskos* frieze, 59; funerary statue groups within, 20–21, 24n36; and Hades and Persephone (as couple), 18, 211; in Morgantina *Thesmophorion*, 209; Nike figures within, 186n20; Tarentine mold with *naiskos*, 220; as tomb markers, 21
+
+- National Museum of Copenhagen, 132
+- Naxos, 156n1, 162n5
+- Nelson-Atkins Museum of Art, Kansas City, 43
+- New Comedy, 91–92, 96n5, 107, 203, 204n4
+- Nicholls, R. V., 4n1
+- Nike: and Canosan *askoi*, 131; on coinage, 157n20, 183; iconography and sphere of, 182–83; and seminude female figure type, 197; in Tarentine votive group, 218; Thymiaterion Supported by Statuette of, **cat. 53**, *180*, 181–87
+- Nikias, 23n14
+- Nisyros, 157n18
+- Nossis, 157n23
+- Ny Carlsberg Glyptotek, Copenhagen, 76, 132n1, 132n5, 182, 189
+- nymphs, 75, 99–100, 155
+
+- ocher, 3, 22, 35, 201, 212
+- Odysseus under Ram, Statuette of, **cat. 54**, *188*, 189–90, *191*
+- Oeagrus, 17
+- Olympia: athletic games at, 33, 183; and Nike, 183, 185n19; Orpheus statue in, 24n40; and Selinunte metopes, 174, 177n7; Zeus and Ganymede statue group, 22n3; Zeus temple, 211
+- Olynthus, 177n1
+- *Onomastikon* (Pollux), 92n1, 203
+- orantes (female figures in prayer), 123n1, 131–33, 135
+- *Oresteia* (Stesichorus), 174–75, 176, 178n15
+- Orestes and Clytemnestra, Relief with, **cat. 52**, *172*, 173–79
+- Orpheus: iconography and mythology of, 17–18, 22nn7–8, 23n14; Pythagorean connections to Orphism, 20, 21, 24n39; and reclining figures, 68n4; sirens’ relationship to, 19; Statue of Seated Poet (Orpheus?), **cat.** **1**, 3, 4, *8*, 9–10, *11*, *16*, 17–24, 76; and terracotta head in Berlin, 37n3; votive statues of, 21, 24n40
+- Orsi, Paolo, 21
+- *oscilla* (hanging offerings), 207
+- Oxford University, England, 67–68
+
+- Paestum, 73n3, 131, 133n10, 140, 174, 183, 193
+- Painter of Bologna, 158n35
+- Painter of Louvre MNB 1148, 23n20
+- Palermo, 75, 177n3, 194n3
+- Palestrina (Praeneste), 51n1, 57n2, 194n3
+- Pan, 59n2
+- Pan Painter, 182
+- Panyassis, 153
+- papposilenos, 218
+- Parthenon, 53n2, 157n20
+- Patera Painter, 132n7
+- Paternò, 165, 169
+- Pausanias, 21, 22n7, 24n40, 87, 88n5, 175, 177, 183
+- Peitho, 157n20
+- Pentathlos, 174, 178n16
+- Pergamon, 103, 104n8, 193, 194n6
+- Persephone: and Adonis, 153–54; and Aphrodite, in Locri, 157n30; and *cista* (box), 154, 157n21; Hades’s abduction of, 169, 177n1, 210; iconography of, 209–10, 213n12; Locrian sanctuary of (Contrada Mannella), 39, 185n9, 210; Mold for Bust of, “Guide,” *220*; Morgantina *Thesmophorion* (San Francesco Bisconti), 177n1, 209–11, 212nn1–2, 213n15; and Sicilian busts, 113, 169, 170n3; and sirens, 18–19; Statuettes of Seated Goddess, “Guide,” *222*, *223*. *See also* Kore
+- Perseus, 174, 175, 176
+- Persians, 59, 183
+- Petralia Sottana, 194n3
+- Phalanthos, 77
+- Phaon, 156n7
+- Phidias, 21, 49, 53, 76, 155, 158n34, 211
+- phlyax farces, 99–100
+- Phrygian cap, 18, 21, 24n44, 111
+- pigments: analyses of, 22, 114n6, 201, 212; modern pigments’ presence, 201; types typically used, 3. *See also* coloring
+- *pinakes* (votive tablets), 154, 156n13, 157n21, 158n38, 177n1, 185n14, 210–11, 213n15
+- Pindar, 18
+- Piraeus, 99
+- Pirithous, 158n36
+- Pizzone funerary deposit, Taranto, 73, 79n7
+- Plaque (*clipeus*) with Head of Medusa, **cat. 59**, *206*, 207
+- Plaque with Woman, **cat. 26**, *86*, 87–88, *89*
+- Plato, 20
+- *plektron* (plectrum), 139, 140, 143, 144, 194n6
+- Plutarch, 157n23
+- poets and philosophers, iconography of, 18, 19, 21–22, 22n9
+- polarized light microscopy (PLM), 103, 140, 201
+- Pollux, Julius, 92n1, 100, 107, 203
+- *polos* (crown): absence of, as identification clue, 39; on Campanian heads, 170n6, 228; goddesses as typically wearing, 77; on Sicilian heads, 169, 170n1, 170n6, 209, 213n12; on Tarentine heads, 77, 218, 219; in Tarentine molds, 219, 220, 221
+- Polybius, 87, 88n5
+- Polyboia, 77, 87, 88nn4–5
+- polychromy. *See* coloring
+- Polygnotos, 17, 22n7
+- Polykleitos, 35
+- portraits, 22n9, 29, 59, 76
+- Poseidon, 212
+- Praxiteles, 45, 51, 76, 139–40, 197, 201
+- Priene, 103, 104n8, 193, 203
+- Privati votive deposits, Castellamare di Stabia, 73n3
+- production techniques: for altars (*arulae*), 153, 161, 165; clay pieces overlaid on conical structure, 4, 131, 132n1, 135; detailing with tools, 3, 17, 78, 153, 161, 169; firing temperature, estimated, 212; gilding, 113, 117, 119, 121, 161; hand modeling, 3, 4, 17, 99, 131, 173, 182, 203; joining of components, 3, 17, 22n3, 131, 140, 153, 165; milk-of-lime paste, 189; potter’s wheel, 182; for statuary, overview of, 3–4, 78 (*see also* statuary)
+- protomes, 131, 169, 184, 186n29, 186n32, 212, 213n17, 213n24
+- prototypes: and asymmetrical facial features, 78; for caryatid *thymiateria*, 182, 185n10; and classification of coroplastic art, 4n1; and dating of works, 2n2; Etruscan bronze figures as, 182, 212; Laconian bronze figures as, 176, 179n40; local interpretation of Greek models, 39, 76, 153, 169–70, 183; mold production from, 3, 22; for *pinakes* (votive tablets), 210; Sicilian busts’ circulation and influence, 39, 43, 77, 169–70; Tarentine models’ influence on other regions, 76–77, 79n9, 79n14
+- Pseudo-Archytas, 20, 23n30
+- Pseudo-Lycophron, 23n16
+- Ptolemy III Euergetes, 57
+- Puglia. *See* Apulia
+- Punta Stilo sanctuary, Caulonia, 140n7
+- Pushkin Museum of Fine Arts, Moscow, 132
+- Pyrrhus, 59
+- Pythagoreanism, 20, 21, 24n39, 117
+
+- quadriga (chariot), 176, 177n6, 210
+
+- Ragusa, 170, 184
+- Rattle in Shape of Pig, “Guide,” *229*, 230
+- reclining figures: and banqueters’ typology, 51, 67, 77–78; leaning-female figure type, 83; maenads as, 113; significance of, 77–78, 79n17; Statuettes of, “Guide,” *215*, *217*, *218*; in Tarentine molds, 220, 221; on triton, from Via Di Palma, 68n2
+- red-figured vases: from Barbarossa hypogeum, 132; and dating of South Italian votives, 223; Dionysos and Ariadne (as couple) on, 156n17; Dionysos holding instrument on, 139; Eos on, 24n39; Eros in musical setting on, 147; Hades and Persephone (as couple) on, 211; hairstyle with *sakkos* on, 53n3; Kallisto on, 99; Nike on, 182, 185n16, 186n25; Orphic iconography on, 17–18; pose with hands grasping knee on, 157n20; slave figures on, 92
+- Reggio di Calabria, 27n3, 71n1, 212
+- Relief with Aphrodite Rising from Waves, “Guide,” *224*
+- Relief with Bull, **cat. 36**, *118*, 119
+- Relief with Fighting Arimasp, **cat. 35**, *116*, 117
+- Relief with Griffins Attacking Deer, **cat. 37**, *120*, 121
+- Relief with Maenads, **cat. 34**, *112*, 113–14, *115*
+- Relief with Orestes and Clytemnestra, **cat. 52**, *172*, 173–79
+- Republic, The (Plato), 20
+- Rhinthon, 100
+- Rhodes, 100n3, 197n2
+- Ridgway, Brunilde, 21
+- Romanization, 77, 131
+- Rome: Apollo Sosianus temple, 71; Baths of Diocletian, 33; military campaigns or conquests by, 75, 77, 211; Minerva Medica temple, 61n3; Museo Gregoriano Etrusco Vaticano, 61n2; Tarentine coroplastic influence on, 76–77, 79n14
+- Rosarno. *See* Medma
+- Ruvo del Monte, 21, 24n39, 185n6, 213n14
+
+- Sackler Museum, Harvard University, 24n44
+- *sakkos* (hair covering), 49, 53, 55, 95, 100n1, 153
+- Salamina necropolis, Cyprus, 185n4
+- Salapata, G., 156n3
+- Samos, 179n44, 185n9
+- San Antonio Museum of Art, 133n13
+- San Fratello, 203
+- Sappho, 157n23
+- Saqqara, 18, 19, 21, 213n28
+- sarcophagi, 113, 121, 220
+- Saturo (Satyrion): archaeological overview of, 75; athletic depictions in, 33; children’s depictions in, 73, 77; female heads from, 39, 40n4, 53n1, 55; further study of votive deposits, 76, 77; and Hirsch-Virzì collection, 75, 78n5
+- Satyria (nymph), 75
+- satyrs: beardless, as New Comedy character type, 203; Mask of Satyr, **cat. 58**, 1n2, *202*, 203–4, *205*; Statuette of Crouching Satyr, “Guide,” *216*; Tarentine figures of, 100n8, 156n18, 218. *See also* silenos
+- Schlesinger, R., 75
+- Scocchera hypogeum, Canosa, 132, 133n14
+- Scornavacche, 169, 170
+- Scythia, 113
+- Selinunte (Selinous): Actaeon figure in, 27; busts from, 169; Camarina’s stylistic convergence with, 187n38; Demeter Malophoros sanctuary, 173, 175–76, 177n6, 178n15, 178n24, 179n29, 179n35, 179n37, 179n40, 182, 183; and facial types, 183, 184; and Getty collection of terracottas, 1; *lex sacra* of, 175, 176, 178nn21–23; and Orestes myth, 174–76; *pinakes* (votive tablets) from, 177n1; Zeus Meilichios sanctuary, 175–76, 177, 178nn22–24
+- *semata* (tomb markers), 20–21, 79n19
+- Serapeion of Memphis, Saqqara, 18, 19, 21, 213n28
+- series, defined, 4n1
+- Settis, Salvatore, 155
+- Severe style, 27, 33, 71, 76, 77, 184
+- sexuality, 18–19, 154–55, 156n7, 157nn24–26, 169, 170n4, 210
+- shell white (pigment), 201
+- shield band reliefs, 174, 177n6
+- Shuvalov Painter, 22n11
+- Sicily, **cats. 51–60**: Adonis cult in, 155, 157n31; Alexandrian influence on, 194n10; altar types in, 153, 161, 165, 173; Apollo Kitharoidos depictions in, 139, 140; Artemis statuettes from, 100nn2–3; Athenian expedition to, 155; Attic stylistic influence on, 158nn34–35, 183, 184; busts, circulation and influence of, 39, 43, 77, 169–70; circulation of molds and statuettes in, 1, 197; and Cyclopes, 189; female dancer type in, 103; and Getty collection of terracottas, 1, 215; hairstyle depictions in, 27, 156n8; and music in funerary contexts, 193, 194n3; Spartan influence on, 174, 178n15; Tarentine coroplastic influence on, 76, 79n9; theatrical subjects in, 91–92, 95, 203–4; *thymiaterion* types in, 182; tutelary deities of, 113, 169. *See also* *specific locations;* *and works on pages 168–213, 228–30*
+- Sicyon, 79n10, 182, 185n6
+- silenos, 218, 219, 220, 223
+- sirens: bronze siren from Crotone, 179n40; and color blue, 213n28; funerary associations of, 18–19, 23nn18–20; Orpheus’s relationship to, 19; Pythagorean view of, 20; Statues of Standing Sirens, **cats. 2–3**, 3, 4, *12*, 13, *14*, 15, *16*, 17–24
+- *sistrum* (percussion instrument), 153, 155, 156n5, 157n28
+- Sisyphus, 18
+- slaves, 91–92, 95, 96nn4–5
+- Smyrna, 100n3, 100n6
+- Solunto, 165
+- Sophocles, 19
+- South Italy, **cats. 49–50**, 160–67, 222–24. *See also* Medma; *and other specific locations*
+- Sparta: adolescent banqueters in, 64n1; bronze works from, 176, 182; *heroa* (shrines dedicated to heroes), 21; Hyakinthos cult in, 87; Knidos as colony of, 178n16; and Orestes myth, 174, 175
+- sphinxes, 177n2, 182, 186n29, 212, 218
+- statuary (in general): bases’ attachment to, 91, 103, 131, 132n2; bases not original to, 111n1; circulation of, among production centers, 1; eyes, depiction of, 179n37, 183–84; gender balance of extant terracottas, 213n24; marks inscribed on, 3, 125, 127, 129, 131; metal ornaments affixed to, 39, 43, 43n1, 169, 170, 212; nesting of heads into bodies, 35; painted panels on, 113, 114n6; production techniques, overview of, 3–4, 78; ritual breakage of, 76; supports or armature used in, 4, 17, 22nn2–3; typologies, overview of, 76–77; as vase attachments, 111, 137, 147, 156n18
+- Statue of Mourning Woman, **cat. 38**, 3, 4, *122*, 123, 127, *130*, 131–33
+- Statue of Mourning Woman, **cat. 39**, 3, 4, *124*, 125, 127, *130*, 131–33
+- Statue of Mourning Woman, **cat. 40**, 3, 4, *126*, 127, 129, *130*, 131–33
+- Statue of Mourning Woman, **cat. 41**, 3, 4, *128*, 129, *130*, 131–33
+- Statue of Mourning Woman, **cat. 42**, 3, 4, *134*, 135
+- Statue of Seated Poet (Orpheus?), **cat.** **1**, 3, 4, *8*, 9–10, *11*, *16*, 17–24, 76
+- Statue of Standing Siren A, **cat. 2**, 3, 4, *12*, 13, *16*, 17–24
+- Statue of Standing Siren B, **cat. 3**, 3, 4, *14*, 15, *16*, 17–24
+- Statuette of Amazon, **cat. 33**, *110*, 111
+- Statuette of Aphrodite, **cat. 56**, *196*, 197–98, *199*
+- Statuette of Apollo, **cat. 44**, 1n2, *138*, 139–41
+- Statuette of Banqueting Couple, “Guide,” *215*
+- Statuette of Bearded Male Banqueter, “Guide,” *217*
+- Statuette of Crouching Satyr, “Guide,” *216*
+- Statuette of Dancer, **cat. 30**, 1n2, *102*, 103–4, *105*
+- Statuette of Eros, **cat. 57**, *200*, 201
+- Statuette of Eros with Deer, **cat. 32**, *108*, 109
+- Statuette of Mime, **cat. 29**, 1n2, *98*, 99–100, *101*
+- Statuette of Odysseus under Ram, **cat. 54**, *188*, 189–90, *191*
+- Statuette of Reclining Male Banqueter, “Guide,” *218*
+- Statuette of Seated Comic Actor, **cat. 27**, 1n2, *90*, 91–92, *93*
+- Statuette of Seated Eros A, **cat. 45**, 1n2, *142*, 143, *146*, 147
+- Statuette of Seated Eros B, **cat. 46**, 1n2, *144*, 145, *146*, 147
+- Statuette of Seated Goddess, “Guide,” *222*, *223*
+- Statuette of Seated Old Woman, **cat. 28**, *94*, 95–96, *97*
+- Statuette of Seated Woman, “Guide,” *216*, *229*
+- Statuette of Standing Male, “Guide,” *228*
+- Statuette of Standing Warrior, “Guide,” *226*, 228
+- Statuette of Standing Woman, **cat. 43**, *136*, 137
+- Statuette of Woman, **cat. 25**, *82*, 83–84, *85*
+- Statuette of Woman with Kithara, **cat. 55**, *192*, 193–94, *195*
+- *stephane* (wreath), 181, 182, 219, *222*
+- Stesichorus, 174–75, 176, 178n15
+- symposia. *See* banqueters
+- Syracuse: busts from, 169, 170; coinage of, 27n4, 170, 170n9, 183, 211; female dancer type in, 103; Francavilla di Sicilia’s ties with, 210, 211; Locri’s ties with, 155, 157n31, 158n38, 169, 211
+
+- Tanagra: Artemis statuette from, 100n3; female figure type of, 83, 103, 137, 219, 220; theatrical statuettes from, 92n2, 95n2
+- Taranto (Taras), **cats. 1–37**: Alexander portraits as popular in, 29, 59; altar types in, 161, 162n1; Apollo Kitharoidos depictions in, 140; and athleticism, 33; Centuripe’s ties with, 77, 79n18; clay characteristic of, 78, 100n8; Erotes from, 201; female figure types in, 83, 197; and Getty collection of terracottas, 1, 76, 215; and Hirsch-Virzì collection, 75; influence of coroplastic models from, 76–77, 79n9, 79n14; marble heads from, 21, 24n41, 30n5, 33, 45n1, 49, 53n2, 76; Master of the Singers of Taras, 21–22, 24n44; molds from, 218–21; Museo Nazionale Archeologico, 24n44, 35n1, 78n5, 81n1, 104n1, 131; and music in funerary contexts, 193, 194n3; Orphism and Pythagoreanism in, 20, 21, 24n39; sirens as funerary motifs in, 19, 23nn18–20; spool base typical of, 137n1; theatrical subjects as common in, 91; votive group from, 218; wreaths distinctive to, 37. *See also* works on pages 8–121, 215–21
+- Taras (hero), 217
+- Tarporley Painter, 158n35
+- Teano, 29, 215, 228
+- technical analyses: of Bust of Youth (cat. 21), 67–68; of Canosan statues of mourning women (cats. 38–42), 4, 131, 132n1, 135; of Group of Seated Poet and Sirens (cats. 1–3), 17, 22; of Head of Hades (cat. 60), 212; objectives of, 2; of Statuette of Apollo (cat. 44), 140; of Statuette of Dancer (cat. 30), 103–4; of Statuette of Eros (cat. 57), 201; of Statuette of Odysseus (cat. 54), 189; of Thymiaterion with Nike (cat. 53), 184n1
+- Terina, 27n4, 53
+- theater: Adonis myth portrayed as stage drama, 157n27; Comic Mask, **cat. 31**, 1n2, *106*, 107; elderly female character types, 95–96; funerary use of theatrical subjects, 91, 92n4, 95, 96nn4–6, 100, 204; masks for comic character types, 91–92, 95, 100, 107, 203–4; mold of comic actor, 220; phlyax farces, 99–100; Statuette of Mime, **cat. 29**, 1n2, *98*, 99–100, *101*; Statuette of Seated Comic Actor, **cat. 27**, 1n2, *90*, 91–92, *93*; Statuette of Seated Old Woman, **cat. 28**, *94*, 95–96, *97*. *See also* dance
+- Thebes, 23n18, 194n6
+- Theias, 153
+- Theocritus, 157n26, 157n31
+- Thera (Santorini), 177
+- Therae, 24n40
+- thermoluminescence analysis, 22, 67–68, 135, 212
+- Theseus, 71, 177
+- Thessaloniki, 68n6
+- Thessaly, 20, 67
+- Thracians, 17–18, 161
+- Thrasybulus, 211
+- *thymiateria* (incense burners): caryatid *thymiateria*, 182, 185n5, 185n10; ritual burning of incense, 153, 158n39, 182; Tarentine mold for, 156n18; Thymiaterion Supported by Statuette of Nike, **cat. 53**, *180*, 181–87
+- thyrsus, 113
+- Timarchides, 139
+- Timmari, 185n9, 186n32
+- Timoleon, 170, 211
+- Tomb of the Gold Ornaments (Tomba degli Ori), Canosa, 132
+- Torelli, Mario, 154
+- Tritopatores, 178n22
+- Troy, 103, 104n8, 176
+- Tuscania, 154, 156n14
+- tympanon (drum), 83, 113, 153, 154, 155, 157n28
+- type, defined, 4n1
+- Typhon, 174
+- Uhlenbrock, J., 184
+- ultraviolet–visible spectroscopy, 22, 63, 140, 189, 201
+- umber, 3
+- Underworld: and Orpheus, 18, 20, 22n8; Persephone’s abduction to, 169, 177n1, 210 (*see also* Hades; Persephone); and Polyboia, 87, 88n4; and sirens, 18–19
+
+- Varrese hypogeum, Canosa, 131
+- vase decorations, terracotta, 111, 117, 137, 147, 156n18, 215, 221–22
+- vase-painting: and Adonis, 154, 156n5, 157n21, 157n24, 157nn26–28; and Apollo Kitharoidos, 18, 22n11, 139, 140; and athleticism, 33; and Attic pictoricism, 155, 158nn34–35; and costume on mourning woman (cat. 38), 123; and Dionysos, 139, 161; and Eos, 24n39; and Eros in musical settings, 147; and funerary monuments, 20–21; in Gnathia style, 107; and Gorgons, 207; and Hades and Persephone (as couple), 211; and hairstyle with *sakkos*, 53n3; and Iphigenia, 179n29; and Kallisto, 99; and Nike, 182, 183, 185n16, 186n25; and orantes, 131, 132nn7–8; and Orestes myth, 174; and Orpheus, 17–18, 22n8, 23n14; and pose with hands grasping knee, 157n20; and sirens, 23n20; and slaves, 92
+- Vassallaggi, 162n8
+- Veii, 61n2, 73n4, 140, 212
+- Venus rings (neck creases), 13, 39, 43, 53, 225
+- Vergina, 113
+- Via Campania funerary deposit, Taranto, 100n8
+- Via D. Peluso votive deposit, Taranto, 81n1, 87
+- Via Di Palma votive deposit, Taranto, 35n1, 47, 55, 68n2, 68n4
+- Via Duca degli Abruzzi votive deposit, Taranto, 61, 100n8
+- Via Tito Livio funerary deposit (Taranto), 137n1
+- Virzì, Thomas, 24n44, 75, 78n1
+- Vollmer Group, 203
+- votive terracottas: association of, with particular deities, 43n1; of children, 73; and classification of coroplastic art, 4n1; of female dancers, 103; funerary associations of, 21, 79n8; group of, from Campania, 228; group of, from Metaponto, 221; group of, from South Italy, 223; group of, from Taranto, 218; Medma as production center for, 155; metal ornaments affixed to, 212; of Orpheus, 21, 24n40; *pinakes* (votive tablets), 154, 156n13, 157n21, 158n38, 177n1, 185n14, 210–11, 213n15; and reclining figures’ significance, 77, 79n17; ritual breakage of statuary, 76; from Saturo, 75, 76, 77; Sicilian busts as, 22, 43, 169, 170nn3–4; with slave figures, 92, 96n4; *thymiateria* (incense burners) as, 182, 187n39; of youths’ heads, 61. *See also* *specific deposit sites*
+- Vulci, 182
+
+- warriors: Head of Warrior, “Guide,” *227*, 228; Statuette of Standing Warrior, “Guide,” *226*, 228; vases with warriors in motion, 111. *See also* Amazons; Arimasps
+- Webster, T. B. L., 92n1, 203
+- white lead, 3, 22, 103, 104, 212
+- White Saccos Painter, 139, 211
+- white-ground lekythoi, 157n20, 179n29
+- Wiesner, J., 117
+- Worcester Art Museum, Massachusetts, 132, 133n14
+- Wuilleumier, Pierre, 161
+
+- X-ray analysis, 17, 22, 103, 140, 201, 212
+
+- Zanker, Paul, 21
+- Zankle (Messina), 165
+- Zeus: and Adonis, 153; Agrigento temple of, 170n9; cult of Zeus Katabaites, 37, 77; and Hades, 210, 211; iconography of, 211; and Kallisto, 99; Olympian statue group of Ganymede and, 22n3; Selinunte sanctuary of Zeus Meilichios, 175–76, 177, 178nn22–24; and shield band reliefs, 174
+- *zoomachia* (animal combat), 165
+- Zopyras, 220
