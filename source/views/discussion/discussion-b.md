@@ -1,6 +1,8 @@
 ---
-title: Group of Heads and Busts from the Taranto Region
+title: Heads and Busts from the Taranto Region
+group: Group of Heads and Busts from the Taranto Region
 objects: !ruby/range 4..23
+layout: discussion
 ---
 #### Group of Heads and Busts from the Taranto Region (cats. 4–23)
 {: .no-print }
