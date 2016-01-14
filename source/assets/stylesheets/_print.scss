@@ -116,8 +116,8 @@ $footnote-size: 7.5pt;
     background-repeat: no-repeat;
     background-size: cover;
     height: $bleed-height;
-    margin-top: -($bleed);
     margin-left: -($bleed);
+    margin-top: -($bleed);
     page: bleed;
     page-break-after: always;
     width: $bleed-width;
@@ -222,8 +222,8 @@ $footnote-size: 7.5pt;
     background-repeat: no-repeat;
     background-size: cover;
     height: $bleed-height;
-    margin-top: -($bleed);
     margin-left: -($bleed);
+    margin-top: -($bleed);
     page: bleed;
     width: $bleed-width;
 
@@ -234,6 +234,7 @@ $footnote-size: 7.5pt;
     }
   }
 
+  // Index page only
   .bookindex .reference {
     li {
       margin-bottom: 0;
@@ -242,30 +243,53 @@ $footnote-size: 7.5pt;
       page-break-inside: auto;
       text-indent: -$print-base-spacing;
     }
-    // li + li { text-indent: $print-paragraph-indent; }
+  }
+
+  .discussion-category {
+    color: $medium-gray;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+  // scss-lint:disable PropertySpelling
+  .discussion .discussion-title {
+    margin-bottom: 0;
+    margin-top: 0;
+    prince-bookmark-level: 1;
+  }
+
+  // scss-lint:enable PropertySpelling
+  .discussion-subtitle {
+    color: $medium-gray;
+    margin-bottom: 0.5in;
+    margin-top: 0;
   }
 
   .print-cover {
-    background-image: url(image_path("print/cover.jpg"));
     @extend %full-page-image;
+    background-image: url(image_path("print/cover.jpg"));
   }
+
   .print-cover-inner {
     background-color: $action-color;
     height: $bleed-height;
-    margin-top: -($bleed);
     margin-left: -($bleed);
+    margin-top: -($bleed);
     page: bleed;
     page-break-after: always;
     width: $bleed-width;
   }
+
   .print-title-left {
+    @extend %full-page-image;
     background-image: url(image_path("print/title-spread.jpg"));
-    @extend %full-page-image;
   }
+
   .print-title-right {
-    background-image: url(image_path("print/title-spread2.jpg"));
     @extend %full-page-image;
+    background-image: url(image_path("print/title-spread2.jpg"));
   }
+
   .print-halftitle {
     counter-reset: page 1;
     text-transform: lowercase;

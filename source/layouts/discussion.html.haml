@@ -1,0 +1,33 @@
+- current_page.data.title == "Contents" ? title_class = "centered" : title_class = nil
+= wrap_layout :application do
+  - if current_page.data.cover?
+    .page-cover{ :style => "background-image: url(#{image_path(current_page.data.cover)}.jpg)"}
+    .container
+      .page-content.pb4#content
+        %h4.discussion-category Group Discussion
+        %h1.discussion-title= current_page.data.title
+        %h4.discussion-subtitle= "Cats. #{current_page.data.objects.min}–#{current_page.data.objects.max}"
+        %article
+          = yield
+  - else
+    .container
+      .page-content.pb4
+        %h4.discussion-category Group Discussion
+        %h1.discussion-title= current_page.data.title
+        %h4.discussion-subtitle= "Cats. #{current_page.data.objects.min}–#{current_page.data.objects.max}"
+        %article
+          = yield
+
+-# - current_page.data.title == "Contents" ? title_class = "centered" : title_class = nil
+-# = wrap_layout :application do
+-#   - if current_page.data.cover
+-#     .page-cover{ :style => "background-image: url(#{image_path(current_page.data.cover)}.jpg)"}
+-#   .container
+-#     .page-content.pb4#content
+-#       %h4.discussion-category Group Discussion
+-#       %h1.page-title= current_page.data.title
+-#       %h4.discussion-subtitle= "Cats. #{current_page.data.objects.min}–#{current_page.data.objects.max}"
+-#       - if author_name
+-#         %h3.page-author= author_name
+-#       %article
+-#         = yield

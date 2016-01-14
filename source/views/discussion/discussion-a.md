@@ -1,8 +1,9 @@
 ---
-title: Group of a Seated Poet (Orpheus?) and Sirens
+title: Seated Poet (Orpheus?) and Sirens
 group: Group of a Seated Poet and Sirens
 objects: !ruby/range 1..3
 cover: "print/group-a"
+layout: discussion
 ---
 #### Group of a Seated Poet (Orpheus?) and Sirens (cats. 1–3)
 {: .no-print }
