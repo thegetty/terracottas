@@ -30,7 +30,6 @@ $footnote-size: 7.5pt;
 // -----------------------------------------------------------------------------
 // scss-lint:disable PropertySpelling
 // @prince-pdf { prince-pdf-page-layout: two-column-right; }
-// scss-lint:enable PropertySpelling
 
 @page {
   size: $page-width $page-height;
@@ -107,6 +106,7 @@ $footnote-size: 7.5pt;
   @bottom-right { content: none; }
 }
 
+// scss-lint:enable PropertySpelling
 
 // Print Styles
 // -----------------------------------------------------------------------------
@@ -232,6 +232,17 @@ $footnote-size: 7.5pt;
         background-image: url(image_path("print/cat#{$i}.jpg"));
       }
     }
+  }
+
+  .bookindex .reference {
+    li {
+      margin-bottom: 0;
+      padding-bottom: 0;
+      padding-left: $print-base-spacing;
+      page-break-inside: auto;
+      text-indent: -$print-base-spacing;
+    }
+    // li + li { text-indent: $print-paragraph-indent; }
   }
 
   .print-cover {
@@ -521,19 +532,20 @@ $footnote-size: 7.5pt;
 
   .table-of-contents {
     font-family: $heading-font-family;
-		page: no-footer;
-		page-break-after: avoid;
+    page: no-footer;
+    page-break-after: avoid;
 
     * { margin: 0; padding: 0; }
     a {
       margin: 0;
       &::after { content: leader(dotted) " " target-counter(attr(href, url), page);}
     }
-		h1 { margin-bottom: 0.75in; }
+
+    h1 { margin-bottom: 0.75in; }
     h3, h4, h6 { margin: 0; }
     li { font-size: 1em; margin-bottom: 0.15in; }
     table { font-size: 0.875em; margin-top: 0.15in; }
-		td { padding-bottom: 0.0675in; padding-top: 0.0675in; }
+    td { padding-bottom: 0.0675in; padding-top: 0.0675in; }
     ul { list-style-type: none; }
     .toc-author { font-size: $print-base-font-size * 1.125; margin: 0; }
   }
