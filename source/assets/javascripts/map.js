@@ -67,33 +67,60 @@ GeoMap.prototype = {
     if ($("#" + this.el).hasClass("no-scroll")) { this.map.scrollWheelZoom.disable(); }
   },
   addLabels: function (feature, latlng) {
-    switch (feature.properties.feature_type) {
-      case "country":
-        return L.marker(latlng, {
-          icon: L.divIcon({
-            html: "<p>" + feature.properties.custom_name + "</p>",
-            className: "map-label-country",
-            iconSize: 150,
-          })
-        });
-      case "region":
-      case "sea":
-        return L.marker(latlng, {
-          icon: L.divIcon({
-            html: "<p>" + feature.properties.custom_name + "</p>",
-            className: "map-label-region",
-            iconSize: 80,
-          })
-        });
-      default:
-        return L.circleMarker(latlng, {
-          radius: 5,
-          fillColor: "#333", // #f0c20c
-          color: "#000",
-          weight: 0,
-          opacity: 1,
-          fillOpacity: 0.75
-        }).bindLabel(feature.properties.custom_name, {noHide: true});
+    if (feature.properties.catalogue.length > 0) {
+      // if feature contains catalogue entries
+      switch (feature.properties.feature_type) {
+        case "region":
+          return L.marker(latlng, {
+            icon: L.divIcon({
+              html: "<p>" + feature.properties.custom_name + "</p>",
+              className: "map-label-region map-label-catalogue",
+              iconSize: 80,
+            })
+          });
+        default:
+          return L.circleMarker(latlng, {
+            radius: 5,
+            fillColor: "#617d8c", // #f0c20c
+            color: "#fff",
+            weight: 0,
+            opacity: 1,
+            fillOpacity: 0.75
+          }).bindLabel(feature.properties.custom_name, {
+            className: "map-label-catalogue",
+            noHide: true
+          });
+      }
+    } else {
+      // if feature does not contain catalogue entries
+      switch (feature.properties.feature_type) {
+        case "country":
+          return L.marker(latlng, {
+            icon: L.divIcon({
+              html: "<p>" + feature.properties.custom_name + "</p>",
+              className: "map-label-country",
+              iconSize: 150,
+            })
+          });
+        case "region":
+        case "sea":
+          return L.marker(latlng, {
+            icon: L.divIcon({
+              html: "<p>" + feature.properties.custom_name + "</p>",
+              className: "map-label-region",
+              iconSize: 80,
+            })
+          });
+        default:
+          return L.circleMarker(latlng, {
+            radius: 5,
+            fillColor: "#333", // #f0c20c
+            color: "#000",
+            weight: 0,
+            opacity: 1,
+            fillOpacity: 0.75
+          }).bindLabel(feature.properties.custom_name, {noHide: true});
+      }
     }
   },
   addPopups: function (feature, layer) {

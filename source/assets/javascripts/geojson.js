@@ -600,7 +600,7 @@ var geojsonFeature = {
                 "feature_type": "site",
                 "pid": "462372",
                 "tgn": "7003925",
-                "catalogue": "",
+                "catalogue": [60],
                 "description": ""
             },
             "geometry": {
