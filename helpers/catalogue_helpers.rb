@@ -21,9 +21,9 @@ module CatalogueHelpers
 
   def page_title
     if current_page.data.layout == "cover"
-      "#{data.book.title} | #{data.book.author_full_name}"
+      "#{data.book.title.short} | #{data.book.creators.first.first_name} #{data.book.creators.first.last_name}"
     elsif current_page.data.title
-      "#{current_page.data.title} | #{site_title}"
+      "#{current_page.data.title} | #{data.book.title.short}"
     else
       "#{site_title}"
     end
