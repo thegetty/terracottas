@@ -82,6 +82,11 @@
 }
 
 .map-label-catalogue {
-  font-weight: bold;
-  text-decoration: underline;
+  background-color: $base-background-color;
+  border-radius: $base-border-radius;
+  font-family: $heading-font-family;
+  line-height: 1;
+  text-align: center;
+
+  p { margin: 0.25rem; }
 }
