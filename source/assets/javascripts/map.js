@@ -26,26 +26,39 @@ function GeoMap() {
   this.addTiles();
 
   // Add clustered labels to map
-  var siteLabels, countryLabels, regionLabels, siteGroup;
+  var catalogueLabels, siteLabels, countryLabels, regionLabels, siteGroup;
 
+  catalogueLabels = L.geoJson(this.geojson, {
+    filter: function (feature, layer) {
+      return feature.properties.catalogue.length > 0;
+    },
+    pointToLayer: this.addCatalogueLabels,
+    onEachFeature: this.addPopups,
+  });
   siteLabels = L.geoJson(this.geojson, {
     filter: function (feature, layer) {
-      return feature.properties.feature_type == "site";
+      if (feature.properties.catalogue.length < 1) {
+        return feature.properties.feature_type == "site";
+      }
     },
     pointToLayer: this.addLabels,
     onEachFeature: this.addPopups,
   });
   countryLabels = L.geoJson(this.geojson, {
     filter: function (feature, layer) {
-      return feature.properties.feature_type == "country";
+      if (feature.properties.catalogue.length < 1) {
+        return feature.properties.feature_type == "country";
+      }
     },
     pointToLayer: this.addLabels,
     onEachFeature: this.addPopups,
   });
   regionLabels = L.geoJson(this.geojson, {
     filter: function (feature, layer) {
-      return feature.properties.feature_type == 'region' ||
-        feature.properties.feature_type == 'sea';
+      if (feature.properties.catalogue.length < 1) {
+        return feature.properties.feature_type == 'region' ||
+          feature.properties.feature_type == 'sea';
+      }
     },
     pointToLayer: this.addLabels,
     onEachFeature: this.addPopups
@@ -53,9 +66,10 @@ function GeoMap() {
 
   siteGroup = L.markerClusterGroup();
   siteGroup.addLayer(siteLabels);
+  siteGroup.addLayer(regionLabels);
   this.map.addLayer(siteGroup);
   this.map.addLayer(countryLabels);
-  this.map.addLayer(regionLabels);
+  this.map.addLayer(catalogueLabels);
 }
 
 // Methods
@@ -66,61 +80,43 @@ GeoMap.prototype = {
     // Disable scroll on home page
     if ($("#" + this.el).hasClass("no-scroll")) { this.map.scrollWheelZoom.disable(); }
   },
+  addCatalogueLabels: function (feature, latlng) {
+    return L.marker(latlng, {
+      icon: L.divIcon({
+        html: "<p>" + feature.properties.custom_name + "</p>",
+        className: "map-label-catalogue",
+        iconSize: 50,
+      })
+    });
+  },
   addLabels: function (feature, latlng) {
-    if (feature.properties.catalogue.length > 0) {
-      // if feature contains catalogue entries
-      switch (feature.properties.feature_type) {
-        case "region":
-          return L.marker(latlng, {
-            icon: L.divIcon({
-              html: "<p>" + feature.properties.custom_name + "</p>",
-              className: "map-label-region map-label-catalogue",
-              iconSize: 80,
-            })
-          });
-        default:
-          return L.circleMarker(latlng, {
-            radius: 5,
-            fillColor: "#617d8c", // #f0c20c
-            color: "#fff",
-            weight: 0,
-            opacity: 1,
-            fillOpacity: 0.75
-          }).bindLabel(feature.properties.custom_name, {
-            className: "map-label-catalogue",
-            noHide: true
-          });
-      }
-    } else {
-      // if feature does not contain catalogue entries
-      switch (feature.properties.feature_type) {
-        case "country":
-          return L.marker(latlng, {
-            icon: L.divIcon({
-              html: "<p>" + feature.properties.custom_name + "</p>",
-              className: "map-label-country",
-              iconSize: 150,
-            })
-          });
-        case "region":
-        case "sea":
-          return L.marker(latlng, {
-            icon: L.divIcon({
-              html: "<p>" + feature.properties.custom_name + "</p>",
-              className: "map-label-region",
-              iconSize: 80,
-            })
-          });
-        default:
-          return L.circleMarker(latlng, {
-            radius: 5,
-            fillColor: "#333", // #f0c20c
-            color: "#000",
-            weight: 0,
-            opacity: 1,
-            fillOpacity: 0.75
-          }).bindLabel(feature.properties.custom_name, {noHide: true});
-      }
+    switch (feature.properties.feature_type) {
+      case "country":
+      return L.marker(latlng, {
+        icon: L.divIcon({
+          html: "<p>" + feature.properties.custom_name + "</p>",
+          className: "map-label-country",
+          iconSize: 150,
+        })
+      });
+      case "region":
+      case "sea":
+      return L.marker(latlng, {
+        icon: L.divIcon({
+          html: "<p>" + feature.properties.custom_name + "</p>",
+          className: "map-label-region",
+          iconSize: 80,
+        })
+      });
+      default:
+      return L.circleMarker(latlng, {
+        radius: 5,
+        fillColor: "#333", // #f0c20c
+        color: "#000",
+        weight: 0,
+        opacity: 1,
+        fillOpacity: 0.75
+      }).bindLabel(feature.properties.custom_name, {noHide: true});
     }
   },
   addPopups: function (feature, layer) {
