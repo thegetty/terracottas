@@ -12,14 +12,14 @@ This custom online catalogue enables a deeper exploration of these ancient objec
 ## Citation Information
 
 > #### Chicago
-> Ferruzza, Maria Lucia. *Ancient Terracottas from South Italy and Sicily in the J. Paul Getty Museum*. Los Angeles: Getty Publications, 2016. http://pubs.getty.edu/museumcatalogues/terracottas
+> Ferruzza, Maria Lucia. *Ancient Terracottas from South Italy and Sicily in the J. Paul Getty Museum*. Los Angeles: Getty Publications, 2016. http://www.getty.edu/publications/terracottas
 
 > #### MLA
 > Ferruzza, Maria Lucia. *Ancient Terracottas from South Italy and Sicily
-  in the J. Paul Getty Museum*. Los Angeles: Getty P, 2016. <span class="cite-current-date">DD Mon. YYYY</span> &#60;http://pubs.getty.edu/museumcatalogues/terracottas&#62;.
+  in the J. Paul Getty Museum*. Los Angeles: Getty P, 2016. <span class="cite-current-date">DD Mon. YYYY</span> &#60;http://www.getty.edu/publications/terracottas&#62;.
 
 #### Permanent URL
-[http://pubs.getty.edu/museumcatalogues/terracottas](http://pubs.getty.edu/museumcatalogues/terracottas)
+[http://www.getty.edu/publications/terracottas](http://www.getty.edu/publications/terracottas)
 
 ## Revision History
 
