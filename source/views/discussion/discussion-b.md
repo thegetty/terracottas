@@ -130,12 +130,12 @@ material. The terracottas display a considerable typological diversity
 and vary widely in age. There are female busts, generally datable to the
 second half of the fourth century <span
 class="smcaps">BC</span>, with a prevalently chthonic
-character ([cats. 9](../9) and [10](../10)); heads and busts of banqueters, characterized by
-wreaths and bands ([cat. 7](../7)), and in one case depicting a figure in the
-act of singing ([cat. 8](../8)), or with a nude bust ([cat. 21](../21)); and heads of
+character ([cats. 9](../9/) and [10](../10/)); heads and busts of banqueters, characterized by
+wreaths and bands ([cat. 7](../7/)), and in one case depicting a figure in the
+act of singing ([cat. 8](../8/)), or with a nude bust ([cat. 21](../21/)); and heads of
 male children and youths, some with strongly individualized features,
 comparable with the coroplastic types of central Italy of the middle
-Republican period ([cats. 19](../19), [20](../20), [23](../23)).
+Republican period ([cats. 19](../19/), [20](../20/), [23](../23/)).
 
 The other heads, which can tentatively be dated to the fourth and third
 centuries <span class="smcaps">BC</span>, can be
@@ -153,11 +153,11 @@ Egypt, and the East to Italy and Sicily. Located at this crossroads,
 Tarentine artists both received and transmitted stylistic models and
 types to and from other regions.[^9]
 
-Thus, in a number of works, such as the head at [cat. 21](../21), we find
+Thus, in a number of works, such as the head at [cat. 21](../21/), we find
 distinctive features derived from the portraits of Alexander the Great,
 which were especially popular also in the workshops of neighboring
 Heraclea and other Italic and Campanian centers.[^10] In other heads
-([cats. 14](../14) and [18](../18)), we can identify echoes of Praxitelean style,
+([cats. 14](../14/) and [18](../18/)), we can identify echoes of Praxitelean style,
 especially in the mournfully tilted heads and in the soft, modulated
 chiaroscuro that seems to characterize a large portion of Tarentine
 production in the fourth century <span
@@ -165,9 +165,9 @@ class="smcaps">BC.</span> From the end of the fifth
 century to the fourth century <span
 class="smcaps">BC</span>, moreover, we find other
 distinctly Tarentine types: alongside the types that appear sorrowful,
-with rapt expressions (for instance, [cat. 21](../21)), with thin faces, lowered
-gaze, and thickened eyelids, there are others (for example, [cat. 15](../15) and
-the head of Orpheus, [cat. 1](../1)) that have full faces, marked features
+with rapt expressions (for instance, [cat. 21](../21/)), with thin faces, lowered
+gaze, and thickened eyelids, there are others (for example, [cat. 15](../15/) and
+the head of Orpheus, [cat. 1](../1/)) that have full faces, marked features
 reminiscent of the Severe style, and small mouths with fleshy lips that
 can be found in the sculpture of the same period, influenced by Attic
 art of the post-Phidian period.[^11] The original contributions of
@@ -211,7 +211,7 @@ illness, and chthonic and funerary rites.
 
 #### The Female Busts
 
-In the case of the busts ([cats. 9](../9) and [10](../10)), the similarity to Sicilian
+In the case of the busts ([cats. 9](../9/) and [10](../10/)), the similarity to Sicilian
 prototypes is reasonably straightforward. The typology, however, was
 modified and elaborated by Tarentine coroplasts with the introduction of
 new hairstyles (such as hair gathered in a roll behind the neck, derived
@@ -220,8 +220,8 @@ particularly notable in the emphatic rendering of the eyes and mouths
 and in the precise, compact forms, coupled with the linear treatment of
 the hair (probably achieved by means of special comblike tools that
 helped to speed a vast serial production), which suggests a link between
-the Getty busts and the Tarentine workshops; in particular, [cats. 9](../9) and
-[10](../10) seem to indicate a transitional phase from the shorthand depiction of
+the Getty busts and the Tarentine workshops; in particular, [cats. 9](../9/) and
+[10](../10/) seem to indicate a transitional phase from the shorthand depiction of
 deities (often depicted with *polos*, the high crown worn by goddesses)
 to the actual portrayal of the offerers, shown with progressively
 individuated facial features. In statuary, this phenomenon would become
@@ -229,7 +229,7 @@ increasingly marked as Roman influence grew.[^15]
 
 #### Children
 
-The head of a child ([cat. 23](../23)), characterized by a cheerful expression
+The head of a child ([cat. 23](../23/)), characterized by a cheerful expression
 and a sentimental pose conveyed by the slight tilt of the head, displays
 an iconographic affinity with comparable heads from the central Italic
 area as well was with the specific typology of crouching children that
@@ -247,7 +247,7 @@ rites of passage from infancy to adulthood.[^16]
 
 #### The Banqueters
 
-The heads at [cats. 7](../7), [8](../8), [20](../20), and [21](../21)
+The heads at [cats. 7](../7/), [8](../8/), [20](../20/), and [21](../21/)
 are certainly linked to reclining
 figures or banqueters. Many unanswered questions remain regarding the
 banqueters in Saturo, including chronology, context, cult significance,
@@ -299,7 +299,7 @@ deceased with reference to a specific otherworldly collocation.[^19]
 
 The fronts of pieces were produced with a mold; so, probably, were the
 backs, though the latter are only rounded off and not detailed. The hair
-might in some cases have been attached, as suggested by [cat. 19](../19), in which
+might in some cases have been attached, as suggested by [cat. 19](../19/), in which
 the separation of the locks is quite evident; attributes such as crowns
 and diadems could have been applied later as well.[^20] The hole in the
 back of the head was intended for ventilation during the firing process.
@@ -548,7 +548,7 @@ front.
     urbana in Puglia tra Annibale e l’età imperiale* (Taranto, 1998) pp.
     39–55, 101–11.
 
-[^16]: For crouching children, see [cat. 23](../23), note 2.
+[^16]: For crouching children, see [cat. 23](../23/), note 2.
 
 [^17]: For reclining figures, see <span
     class="smcaps">*Taranto* 1995</span>, pp. 166–69
