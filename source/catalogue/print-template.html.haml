@@ -4,7 +4,6 @@ catalogue: true
 ---
 -# entry is the variable passed from #proxy method in config.rb
 .entry
-  -# = image_tag "large/#{entry[:info][:acc]}.jpg", :class => "primary-img"
   .bleed{ :data => { :catalogue => entry[:info][:cat] } }
   .object-header
     %h2.object-meta.mt2= entry[:info][:cat]
