@@ -54,6 +54,12 @@ data.catalogue.each do |cat, entry|
   }, :ignore => true
 end
 
+data.catalogue.each do |cat, entry|
+  proxy "/epub/catalogue/#{cat}.html", "/catalogue/epub_template.html", :locals => {
+    :entry => entry
+  }, :ignore => true
+end
+
 ignore "/catalogue/print-template.html"
 page "/discussion/*", :layout => :page
 
