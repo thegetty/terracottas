@@ -61,25 +61,6 @@ var geojsonFeature = {
             }
         },
         {
-            "type": "Feature",
-            "properties": {
-                "basename": "",
-                "custom_name": "South Italy",
-                "feature_type": "region",
-                "pid": "",
-                "tgn": "4005365",
-                "catalogue": [49, 50],
-                "description": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.66525,
-                    40.77584
-                ]
-            }
-        },
-        {
           "type": "Feature",
             "properties": {
                 "basename": "Sicilia (island)",
@@ -1081,8 +1062,8 @@ var geojsonFeature = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    17.75,
-                    40.75
+                    16.5,
+                    39.0
                 ]
             }
         },

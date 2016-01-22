@@ -118,12 +118,35 @@ body { background-color: $base-background-color; }
   }
 }
 
-.inline-figure {
-  float: right;
+.guide figure {
   font-family: $heading-font-family;
   font-size: $base-font-size * 0.875;
+}
+
+.inline-figure {
+  float: right;
   height: auto;
   width: 250px;
+}
+
+.guide-campania .grid-figure {
+  float: left;
+  margin: 1rem 0;
+  padding-right: 1rem;
+  width: 50%;
+
+  @include media($small-screen) {
+    &:nth-of-type(odd) { clear: both; }
+  }
+
+  @include media($medium-screen-up) {
+    width: 33%;
+    &:nth-of-type(3n+1) { clear: both; }
+  }
+}
+
+.guide-campania ul {
+  clear: both;
 }
 
 #beta-banner {

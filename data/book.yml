@@ -1,12 +1,144 @@
 # Book Data (ISBN, etc) should live here
 
-title: Ancient Terracottas from South Italy and Sicily in the J. Paul Getty Museum
-short_title: Ancient Terracottas from South Italy and Sicily
-author_first_name: Maria Lucia
-author_last_name: Ferruzza
-author_full_name: Maria Lucia Ferruzza
-publication_year: 2016
+title:
+  main: Ancient Terracottas from South Italy and Sicily in the J. Paul Getty Museum
+  short: Ancient Terracottas from South Italy and Sicily
+pub_date: 2016-01
+creators:
+  - first_name: Maria Lucia
+    last_name: Ferruzza
+    role: aut
+    bio: |
+      Maria Lucia Ferruzza is an archaeologist in the Ministry of Cultural Heritage and Sicilian Identity and manages conservation projects, cultural agreements, and exhibitions with national and international institutions. She has worked as an editor and director for the arts magazines *Kalos* and *PER—Salvare Palermo*, which promote cultural patrimony policy and education. During her tenures at the Archaeological Superintendencies of Palermo and Trapani and subsequently at the Regional Center for Planning and Restoration in Palermo (1990s–2005), she participated in field surveys and excavations, exhibition organization, and research. Following a 1985–86 internship at the J. Paul Getty Museum, where she studied the collection of terracottas, Ferruzza has published frequently on the coroplastic arts in ancient Italy and on the collecting of antiquities.
+contributors:
+  - first_name: Claire L.
+    last_name: Lyons
+    role: ctb
+    bio: |
+      Claire L. Lyons is curator of antiquities at the J. Paul Getty Museum and a specialist in Greek and Roman art and archaeology.
+  - first_name: Timothy
+    last_name: Potts
+    role: aui
+    bio:
+author_as_it_appears: Maria Lucia Ferruzza
+author_description: |
+  Maria Lucia Ferruzza is an archaeologist in the Ministry of Cultural Heritage and Sicilian Identity in Palermo and an expert in the arts and culture of ancient South Italy and Sicily. Claire L. Lyons is curator of antiquities at the J. Paul Getty Museum and a specialist in Greek and Roman art and archaeology.
+project_team: |
+  - Ruth Evans Lane, Benedicte Gilman, and Marina Belozerskaya, *Project Editors*
+  - Robin H. Ray and Mary Christian, *Copy Editors*
+  - Antony Shugaar, *Translator*
+  - Elizabeth Chapin Kahn, *Production*
+  - Stephanie Grimes, *Digital Researcher*
+  - Eric Gardner, *Designer &#38; Developer*
+  - Greg Albers, *Project Manager*
+editions:
+  - name: Online
+    type: InteractiveResource
+    format: text/html
+    isbn: 978-1-60606-123-7
+    permalink: "http://www.getty.edu/publications/terracottas"
+    additional_description: |
+      This custom online catalogue enables a deeper exploration of these ancient objects, with zoomable high-resolution photography and a select number of 360-degree rotations; the ability to [filter the catalogue](catalogue/) by location, typology and date; and an [interactive map](map/) drawn from the Ancient World Mapping Center and linked to the Getty’s Thesaurus of Geographic Names. The complete catalogue can be [downloaded for free in multiple formats](#downloads), as can the object data and main images. For readers who wish to have a bound reference copy, a [print-on-demand](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606061237) version is available for sale.
+  - name: EPUB
+    type: Text
+    format: application/epub+zip
+    isbn: 978-1-60606-485-6
+    file_size_mb:
+    file_name: AncientTerracottas_Ferruzza.epub
+  - name: MOBI/KINDLE
+    type: Text
+    format: application/mobi
+    isbn: 978-1-60606-485-6
+    file_size_mb:
+    file_name: AncientTerracottas_Ferruzza.mobi
+  - name: PDF
+    type: Text
+    format: application/pdf
+    isbn: 978-1-60606-486-3
+    file_size_mb:
+    file_name: AncientTerracottas_Ferruzza.pdf
+  - name: Print-on-Demand
+    type: PhyiscalObject
+    format: paperback
+    isbn: 978-1-60606-486-3
+    pages: 250
+    illustrations: 124 color illustrations, 1 map
+    gettystore: http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606064863
+    additional_description: |
+      Reflecting the Getty’s commitment to open content, Ancient Terracottas from South Italy and Sicily in the J. Paul Getty Museum is available online at www.getty.edu/publications/terracottas and may be downloaded free of charge in multiple formats. For readers who wish to have a bound reference copy, this print-on-demand version has been made available for sale.
+other_downloads:
+  - name: JPG
+    file_size_mb: 21
+    file_name: AncientTerracottas_Ferruzza_Images.zip
+  - name: PPT
+    file_size_mb: 11
+    file_name: AncientTerracottas_Ferruzza_Images.ppt
+  - name: CSV Catalogue
+    file_size_mb:
+    file_name: AncientTerracottas_Ferruzza_Data.csv
+  - name: CSV Extended
+    file_size_mb:
+    file_name: AncientTerracottas_Ferruzza_Data_Extended.csv
+  - name: JSON Catalogue
+    file_size_mb:
+    file_name: AncientTerracottas_Ferruzza_Data.json
+  - name: JSON Extended
+    file_size_mb:
+    file_name: AncientTerracottas_Ferruzza_Data_Extended.json
 publisher: Getty Publications
+imprint: J. Paul Getty Museum
 publisher_short: Getty P
 publisher_location: Los Angeles
-permalink: "http://pubs.getty.edu/museumcatalogues/terracottas/"
+rights: © 2016 J. Paul Getty Trust
+cc_license: Creative Commons Attribution 4.0 International License
+cc_license_link: http://creativecommons.org/licenses/by/4.0/
+cc_license_exceptions:
+description_main: |
+  In the ancient world, terracotta sculpture was ubiquitous. Readily available and economical&#8212;unlike stone suitable for carving&#8212;clay allowed artisans to craft figures of remarkable variety and expressiveness. Terracottas from South Italy and Sicily attest to the prolific coroplastic workshops that supplied sacred and decorative images for sanctuaries, settlements, and cemeteries. Sixty terracottas are investigated here by noted scholar Maria Lucia Ferruzza, comprising a selection of significant types from the Getty’s larger collection&#8212;life-size sculptures, statuettes, heads and busts, altars, and decorative appliqués. In addition to the comprehensive catalogue entries, the publication includes a guide to the full collection of over one thousand other figurines and molds from the region by Getty curator of antiquities Claire Lyons.
+description_short: |
+  This J. Paul Getty Museum collection catalogue by Maria Lucia Ferruzza features sixty ancient terracottas from South Italy and Sicily, spanning the Archaic, Classical, and Hellenistic periods, and includes a guide to the one thousand other objects in the collection by Claire Lyons.
+toc: |
+  - Director’s Foreword, *Timothy Potts*
+  - Acknowledgments
+  - Introduction
+  - Classification
+  - Production techniques
+  - Map of South Italy and Sicily
+  - Catalogue
+      - Taranto Region: Cats. 1–37
+      - Canosa: Cats. 38–46
+      - Medma: Cats. 47–48
+      - Other South Italy: Cats. 49–50
+      - Sicily: Cats. 51–60
+  - Abbreviations
+  - Bibliography
+  - Authors
+  - About
+cip_data: |
+  - Names: J. Paul Getty Museum, author, issuing body. \| Ferruzza, Maria Lucia, editor.
+  - Title: Ancient terracottas from South Italy and Sicily in the J. Paul Getty Museum / Maria Lucia Ferruzza.
+  - Description: Los Angeles : J. Paul Getty Museum, [2016] \| ©2016 \| Includes bibliographical references.
+  - Identifiers: LCCN 2015042795 (print) \| LCCN 2015048344 (ebook) \| ISBN 9781606064863 (pbk.) \| ISBN 9781606064856 (epub) \| ISBN 9781606061237 (online)
+  - Subjects: LCSH: Terra-cotta sculpture, Ancient&#8209;&#8209;Italy, Southern&#8209;&#8209;Catalogs. \| Terra-cotta sculpture, Ancient&#8209;&#8209;Italy&#8209;&#8209;Sicily&#8209;&#8209;Catalogs. \| J. Paul Getty Museum&#8209;&#8209;Catalogs. \| Terra-cotta sculpture&#8209;&#8209;California&#8209;&#8209;Los Angeles&#8209;&#8209;Catalogs.
+  - Classification: LCC NB145 .J27 2016 (print) \| LCC NB145 (ebook) \| DDC 733/.309377--dc23
+  - LC record available at [http://lccn.loc.gov/2015042795](http://lccn.loc.gov/2015042795)
+categories:
+  - Antiquities
+coverage:
+  - Southern Italy
+  - Sicily
+  - 550-100 BC
+keywords:
+  - terracotta sculpture
+  - ancient art
+  - coroplastic
+  - art history
+  - archaeology
+  - collection catalogue
+bisac:
+  - code: ART015060
+    subject: "ART / History / Ancient and Classical"
+  - code: ART006000
+    subject: "ART / Collections, Catalogs, Exhibitions / General"
+  - code: SOC003000
+    subject: "SOCIAL SCIENCE / Archaeology"

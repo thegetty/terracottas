@@ -1,8 +1,9 @@
 ---
-title: Group of a Seated Poet (Orpheus?) and Sirens
+title: Seated Poet (Orpheus?) and Sirens
 group: Group of a Seated Poet and Sirens
 objects: !ruby/range 1..3
 cover: "print/group-a"
+layout: discussion
 ---
 #### Group of a Seated Poet (Orpheus?) and Sirens (cats. 1–3)
 {: .no-print }
@@ -517,17 +518,15 @@ style alone may well be misleading, given the persistence of
 Late Classical traits even into the middle of the fourth century <span
 class="smcaps">BC</span>.
 
-### Appendix
+#### Appendix
 
 Thermoluminescence of the clay body, X-ray fluorescence (XRF), polarized light
 microscopy, and ultraviolet–visible spectroscopy analysis of the
 polychromy were performed. They all attest to the group’s authenticity.
 
-<br class="no-print"/>
-Results of the pigment analysis:  
-<br class="no-print"/>
+<br />Results of the pigment analysis:
 
-#### Orpheus figure
+<br />*Orpheus figure*
 
 1. Yellow/gold: yellow ocher, lead white, chalk
 2. Red: yellow ocher, burnt sienna
@@ -535,11 +534,13 @@ Results of the pigment analysis:
 4. Pink: cinnabar, lead white, chalk
 5. Red/brown: iron earth red, chalk
 
-#### Orpheus footstool
+<br />*Orpheus footstool*
 
 6. Orange: yellow ocher, red ocher
 7. Black: lampblack
 8. Pink: red ocher, chalk
+
+<br />
 
 #### Notes
 

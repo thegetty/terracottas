@@ -44,7 +44,7 @@ The object “Bibliography” section lists both publications devoted to the
 piece in question and those in which the piece is only mentioned.
 Citations that are mentioned several times in the catalogue and in notes
 are cited with an abbreviation; the full references are in the general
-[Bibliography](../bibliography).
+[Bibliography](../bibliography/).
 
 The body of each catalogue entry consists of an iconographic description
 and a critical commentary with the pertinent comparisons, dating

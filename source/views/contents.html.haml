@@ -31,7 +31,7 @@ pdf_output: false
       - pages.sort_by! { |p| p.data.sort_order }
       .no-print
         - pages.each do |p|
-          - next if p.data.title == "Contents"
+          - next if p.data.title == "Contents" || p.data.title == "Index"
           - if p.data.layout == "cover"
             = link_to "#{site_url}#{p.url}" do
               %h4 Cover
@@ -41,11 +41,11 @@ pdf_output: false
             = link_to "#{site_url}#{p.url}" do
               %h4= p.data.title
             :markdown
-              [Taranto Region](../catalogue/1) | [Cat. 1–37](../catalogue/1)
-              [Canosa](../catalogue/38) | [Cat. 38–46](../catalogue/38)
-              [Medma](../catalogue/47) | [Cat. 47–48](../catalogue/47)
-              [Other South Italy](../catalogue/49) | [Cat. 49–50](../catalogue/49)
-              [Sicily](../catalogue/51) | [Cat. 51–60](../catalogue/51)
+              [Taranto Region](../catalogue/1/) | [Cats. 1–37](../catalogue/1/)
+              [Canosa](../catalogue/38/) | [Cats. 38–46](../catalogue/38/)
+              [Medma](../catalogue/47/) | [Cats. 47–48](../catalogue/47/)
+              [Other South Italy](../catalogue/49/) | [Cats. 49–50](../catalogue/49/)
+              [Sicily](../catalogue/51/) | [Cats. 51–60](../catalogue/51/)
               {: .toc-regions }
           - elsif p.data.author_full_name
             = link_to "#{site_url}#{p.url}" do

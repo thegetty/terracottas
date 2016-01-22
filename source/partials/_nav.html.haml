@@ -3,8 +3,9 @@
 %ul.nav
   %li
     %h3.nav-title.mb1
-      =link_to data.book.short_title || data.book.title, "#{site_url}/"
-    %h4.nav-entry-author.mb3= data.book.author_full_name
+      =link_to data.book.title.short, "#{site_url}/"
+    - author = data.book.creators.first
+    %h4.nav-entry-author.mb3= "#{author.first_name} #{author.last_name}"
   %li.nav-section
     %h4
       =link_to "Contents", "#{site_url}/contents/"
@@ -23,7 +24,7 @@
       :markdown
         Online collection catalogue published by the J. Paul Getty Museum, and licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/){:rel="license"}
         <br /><br />
-        [About](#{site_url}/about)
+        [About](#{site_url}/about/)
         | [Privacy](http://www.getty.edu/legal/privacy.html)
         | [Terms of Use](http://www.getty.edu/legal/copyright.html)
   %li.nav-logo
