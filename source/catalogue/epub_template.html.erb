@@ -1,0 +1,36 @@
+---
+layout: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title><%= page_title %></title>
+    <%= stylesheet_link_tag "epub" %>
+
+  </head>
+  <body>
+    <div class="entry">
+      <!-- <img
+        src="../assets/images/cat<%= entry[:info][:cat] %>.jpg"
+        alt="Cat <%= entry[:info][:cat]%> Image"
+        class="catalogue-image" /> -->
+      <%= image_tag "epub/cat#{entry[:info][:cat]}.jpg" %>
+      <div class="entry-header">
+        <h2 class="object-meta"><%= entry[:info][:cat] %></h2>
+        <h1 class="object-title"><%= entry[:info][:title] %></h1>
+        <h3 class="object-meta"><%= entry[:info][:date] %></h3>
+      </div>
+      <article class="entry-content">
+        <%= partial(:object_details, :locals => { :entry => entry, :epub => true }) %>
+        <% entry[:content].each do |key, value| %>
+          <% unless value.nil? %>
+          <section>
+            <h3 class="section-heading"><%= key.capitalize %></h3>
+            <%= markdown(value).gsub("fn:", "fn_").gsub("fnref:", "fnref_") %>
+          </section>
+          <% end %>
+        <% end %>
+      </article>
+    </div>
+  </body>
+</html>
