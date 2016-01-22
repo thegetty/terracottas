@@ -1,0 +1,334 @@
+@font-face {
+  font-family: "Merriweather";
+  src: url("../fonts/merriweather-light.otf");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Merriweather";
+  src: url("../fonts/merriweather-lightitalic.otf");
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Merriweather";
+  src: url("../fonts/merriweather-regular.otf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Merriweather";
+  src: url("../fonts/merriweather-italic.otf");
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("../fonts/FiraSans-Book.otf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("../fonts/FiraSans-BookItalic.otf");
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("../fonts/FiraSans-Bold.otf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("../fonts/FiraSans-BoldItalic.otf");
+  font-style: italic;
+  font-weight: 700;
+}
+
+body {
+  font-family: "Merriweather";
+  font-weight: 300;
+  font-style: normal;
+  background: #fff;
+  color: #282828;
+  line-height: 100%;
+  font-size: 12px;
+}
+
+p {
+  widows: 2;
+  orphans: 2; }
+
+.simplelist ul,
+.simplelist ol,
+ul.simplelist,
+ol.simplelist {
+  line-height: 1.6em;
+  padding-left: 16px; }
+
+.bullets {
+  list-style-type: disc; }
+
+h1 {
+  font-family: "Fira Sans", Helvetica, Arial, sans-serif;
+  color: #282828;
+  font-size: 2.75em;
+  font-weight: 400;
+  line-height: 110%;
+  padding: 0;
+  margin: 0;
+  -epub-hyphens: none;
+}
+
+h2 {
+  font-family: "Fira Sans", Helvetica, Arial, sans-serif;
+  color: #282828;
+  font-size: 2.25em;
+  font-weight: 400;
+  line-height: 110%;
+  padding: 0;
+  margin: 0;
+  -epub-hyphens: none;
+}
+
+h3 {
+  color: #282828;
+  font-family: "Fira Sans", Helvetica, Arial, sans-serif;
+  font-size: 1.75em;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  break-after: avoid;
+  -epub-hyphens: none;
+}
+
+h4 {
+  text-transform: uppercase;
+  font-size: 1.125em;
+  line-height: 150%;
+  letter-spacing: 1px;
+  margin: 40px 0 0;
+}
+
+  /* line 181, epub.css.scss */
+  h4 + p {
+    margin-top: 10px; }
+  /* line 186, epub.css.scss */
+  h4 + figure,
+  h4 + .figure {
+    margin-top: 10px; }
+
+h6 {
+  font-size: 0.875em;
+  line-height: 21pt;
+  margin: 35px 0 100px;
+  padding: 0; }
+
+p {
+  line-height: 1.6em;
+  -epub-hyphens: none;  }
+
+ul,
+ol {
+  padding-left: 1.5em; }
+
+li {
+  margin: .8em 0;
+  line-height: 1.813em; }
+
+em {
+  font-family: "Merriweather", serif;
+  font-style: italic;
+  font-weight: 300;
+}
+
+a,
+a:visited {
+  color: #617d8c;
+  text-decoration: none; }
+
+figcaption,
+.figcaption,
+small,
+cite {
+  font-family: "Fira Sans", Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-size: 1rem;
+  line-height: 1.5em;
+  color: #888;
+}
+
+figcaption em,
+.figcaption em,
+small em,
+cite em {
+  font-family: "Fira Sans", Helvetica, Arial, sans-serif;
+}
+
+cite {
+  line-height: 1.4em;
+}
+
+figure,
+.figure {
+  display: block;
+  margin: 0 0 20px;
+  padding: 0;
+  page-break-inside: avoid;
+  page-break-before: always;
+  page-break-after: always;
+}
+
+figure img,
+.figure img {
+  display: block;
+  margin: 0 auto;
+  page-break-inside: avoid;
+}
+
+figure img.small,
+.figure img.small {
+    width: 60%;
+}
+
+figure img.short,
+.figure img.short {
+  width: 50%;
+}
+
+figcaption,
+.figcaption {
+  display: block;
+  margin-top: 10px;
+  font-size: 0.9rem;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #282828;
+  width: 60px;
+  margin: 30px auto;
+}
+
+.break {
+  page-break-before: always;
+}
+
+.break-before {
+  break-before: column;
+}
+
+.break-after {
+  break-after: column;
+}
+
+.group {
+  page-break-inside: avoid;
+}
+
+/*============================================================================*/
+
+.catalogue-image {
+  page-break-inside: avoid;
+  width: 100%;
+}
+
+.entry {
+  /*-webkit-font-feature-settings: "kern", "liga", "onum", "pnum", "smcp";*/
+  /*-moz-font-feature-settings: "kern", "liga", "onum", "pnum", "smcp";*/
+  /*-ms-font-feature-settings: "kern", "liga", "onum", "pnum", "smcp";*/
+  /*font-feature-settings: "kern", "liga", "onum", "pnum", "smcp";*/
+  /*font-family: "Merriweather", serif;*/
+  line-height: 1.5;
+}
+
+.entry-header {
+  text-align: center;
+}
+
+.entry h2, .entry h3, {
+  margin-top: 1.875rem;
+  margin-bottom: 1.125rem;
+}
+
+.entry p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  /*font-size: 1.15rem;*/
+  text-indent: 2rem;
+}
+
+.entry h2 + p, .entry h3 + p { text-indent: 0; }
+.entry-content > p:first-of-type { text-indent: 0; }
+
+.entry-content blockquote > * {
+  text-indent: 0px;
+  padding-left: 2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+}
+
+.figure-inline {
+  float: right;
+  display: inline;
+  margin-left: 0.75em;
+  width: 30%;
+}
+
+.entry section {
+  margin-bottom: 1.5em;
+}
+
+.entry table {
+  border-top: 1px solid #cbcbcb;
+  border-collapse:collapse;
+  border-spacing:0;
+  empty-cells:show;
+  font-family: "Fira Sans";
+  margin-bottom: 1.5em;
+  page-break-inside: avoid;
+  width: 100%;
+}
+
+.entry table caption {
+  color:#000;
+  font:italic 85%/1 arial,sans-serif;
+  padding:1em 0;
+  text-align:center
+}
+
+.entry table td,
+.entry table th {
+  /*border-left:1px solid #cbcbcb;*/
+  border-width:0 0 0 1px;
+  font-size:inherit;
+  overflow:visible;
+  padding:.5em 0;
+}
+
+.entry table tr {
+  border-bottom: 1px solid #cbcbcb;
+}
+
+.entry table td:first-child,
+.entry table th:first-child {
+  border-left-width:0
+}
+
+.entry table thead{
+  background-color:#e0e0e0;
+  color:#000;
+  text-align:left;
+  vertical-align:bottom
+}
+
+.entry table td {
+  background-color:transparent;
+}
