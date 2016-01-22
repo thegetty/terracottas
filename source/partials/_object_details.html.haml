@@ -23,7 +23,10 @@
         %tr
           %td Location
           %td
-            = link_to entry[:info][:location], "#{site_url}/map/#{location_url(entry)}"
+            - if entry[:meta][:show_site]
+              = link_to entry[:info][:site] + ", " + entry[:info][:location], "#{site_url}/map/#{location_url(entry)}"
+            - else
+              = link_to entry[:info][:location], "#{site_url}/map/#{location_url(entry)}"
         - if entry[:info][:dimensions].length == 1
           %tr
             %td Dimensions

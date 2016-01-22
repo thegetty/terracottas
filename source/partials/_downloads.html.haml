@@ -19,14 +19,22 @@
         %span (35 MB)
       %li
         = link_to "Print on Demand", "#{store_url}"
-    :markdown
-      ###### Catalogue Main Images
-
-      - [JPG](assets/downloads/AncientTerracottas_Ferruzza_Images.zip) (21 MB)
-      - [PPT](assets/downloads/AncientTerracottas_Ferruzza_Images.ppt) (11 MB)
-
-      ###### Object Data
-
-      - [CSV Catalogue](assets/downloads/AncientTerracottas_Ferruzza_Data.csv) \| [Extended](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.csv)
-      - [JSON Catalogue](assets/downloads/AncientTerracottas_Ferruzza_Data.json) \| [Extended](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.json)
-    = link_to "More Information", "#{site_url}/about#downloads"
+    %h6 Catalogue Main Images
+    %ul
+      %li
+        = link_to "JPG", "#{site_url}/#{download_path}_Images.zip"
+        %span (21 MB)
+      %li
+        = link_to "PPT", "#{site_url}/#{download_path}_Images.ppt"
+        %span (11 MB)
+    %h6 Object Data
+    %ul
+      %li
+        = link_to "CSV Catalogue", "#{site_url}/#{download_path}_Data.csv"
+        \|
+        = link_to "Extended", "#{site_url}/#{download_path}_Data_Extended.csv"
+      %li
+        = link_to "JSON Catalogue", "#{site_url}/#{download_path}_Data.json"
+        \|
+        = link_to "Extended", "#{site_url}/#{download_path}_Data_Extended.json"
+    = link_to "More Information", "#{site_url}/about/#downloads"
