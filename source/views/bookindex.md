@@ -5,6 +5,8 @@ sort_order: 104
 ---
 Page numbers in *italics* refer to illustrations. “Guide” refers to the Guide to the Collection of South Italian and Sicilian Terracottas (pages 215–22).
 
+<br />
+
 - acanthus leaves, 113, 113n2, 218
 - Achilles, 175, 177n2
 - Actaeon, 27
