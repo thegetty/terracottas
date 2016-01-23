@@ -208,7 +208,7 @@ function addPanelControls() {
     // expand mode
     if ($(this).hasClass("expanded")) {
       $(this).html("Collapse All");
-      $(".expander-trigger").filter(function() {
+      $("article .expander-trigger").filter(function() {
         var $section = $(this).parent().find(".expander-content");
         if ($section.hasClass("expander--hidden")) {
           return $section;
@@ -217,7 +217,7 @@ function addPanelControls() {
     // collapse mode
     } else {
       $(this).html("Expand All");
-      $(".expander-trigger").filter(function() {
+      $("article .expander-trigger").filter(function() {
         var $section = $(this).parent().find(".expander-content");
         if (!$section.hasClass("expander--hidden")) {
           return $section;
