@@ -250,7 +250,7 @@ function init360() {
     currentFrame: 1, // This the start frame for auto spin
     imgList: '.threesixty_images', // selector for image list
     progress: '.spinner', // selector to show the loading progress
-    imagePath:'http://gettypubs.github.io/Terracottas/assets/images/360/' + catNum + '/',
+    imagePath:'http://getty.edu/publications/terracottas/assets/images/360/' + catNum + '/',
     filePrefix: '', // file prefix if any
     ext: '.JPG', // extention for the assets
     height: rheight,
