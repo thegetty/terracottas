@@ -10,7 +10,7 @@ var catalogue = {
   data: {
     entries: [],
     loaded: false,
-    baseUrl: "http://gettypubs.github.io/Terracottas/assets/images/",
+    baseUrl: "http://getty.edu/publications/terracottas/assets/images/",
     sortKey: '["info"]["cat"]',
     selection: {
       location:   "All regions",
@@ -75,7 +75,7 @@ var catalogue = {
     // get json method
     getCatalogue: function () {
       // GET request
-      var url = "http://gettypubs.github.io/Terracottas/catalogue.json";
+      var url = "http://getty.edu/publications/terracottas/catalogue.json";
       this.$http.get(url, function (data, status, request) {
         this.$set('entries', data);
       }).error(function (data, status, request) {
