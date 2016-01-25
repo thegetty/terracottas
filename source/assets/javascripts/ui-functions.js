@@ -287,6 +287,7 @@ function setUpPage(){
     map = new DeepZoom(catNum);
   } else if ($("#map").hasClass("fullscreen")) {
     map = new GeoMap();
+    var hash = L.hash(map.map);
   } else if ($("#map").length) {
     map = new GeoMap();
   }
