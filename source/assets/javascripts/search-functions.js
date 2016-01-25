@@ -78,6 +78,7 @@ function debounce (fn) {
 function searchSetup(index, contents){
   // Set up Handlebars template
   var resultsTemplate = Handlebars.compile($("#results-template").html());
+  var searchInfo = Handlebars.compile($("#search-info").html());
 
   $("#search").click(function () {
     $(this).closest(".page-header").toggleClass("search-active");
@@ -105,11 +106,15 @@ function searchSetup(index, contents){
   $("#search-field").bind("keyup", debounce(function(){
     // Force repaint of page due to Safari rendering bug
     $('<style></style>').appendTo($(document.body)).remove();
-    
+
     $(".search-results").empty();
     if ($(this).val() < 2) return;
     var query = $(this).val();
     var results = index.search(query);
+
+    // Add search info disclaimer
+    $(".search-results").append(searchInfo());
+
     $.each(results, function(index, result){
       //console.log(JSON.stringify(contents[result.ref]));
       $(".search-results").append(resultsTemplate({
