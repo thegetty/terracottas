@@ -245,12 +245,12 @@ function init360() {
   var rheight = _.findWhere(DEEPZOOMDATA, {cat: catNum}).rheight;
 
   $(".rotator").ThreeSixty({
-    totalFrames: 180, // Total no. of image you have for 360 slider
-    endFrame: 180, // end frame for the auto spin animation
+    totalFrames: 45, // Total no. of image you have for 360 slider
+    endFrame: 45, // end frame for the auto spin animation
     currentFrame: 1, // This the start frame for auto spin
     imgList: '.threesixty_images', // selector for image list
     progress: '.spinner', // selector to show the loading progress
-    imagePath:'http://getty.edu/publications/terracottas/assets/images/360/' + catNum + '/',
+    imagePath:'../../assets/images/360/' + catNum + '/',
     filePrefix: '', // file prefix if any
     ext: '.JPG', // extention for the assets
     height: rheight,
