@@ -15,11 +15,11 @@ sort_order: 102
 
 - <span class="smcaps">*Acquisitions* 1985</span>
 
-  “Acquisitions/1985.” [*GettyMusJ* 14](http://www.getty.edu/publications/virtuallibrary/0892360917.html) (1986).
+  “Acquisitions/1985.” [*GettyMusJ* 14](http://www.getty.edu/publications/virtuallibrary/0892360917.html){:target="blank"} (1986).
 
 - <span class="smcaps">*Acquisitions* 1986</span>
 
-  “Acquisitions/1986.” [*GettyMusJ* 15](http://www.getty.edu/publications/virtuallibrary/0892361336.html) (1987).
+  “Acquisitions/1986.” [*GettyMusJ* 15](http://www.getty.edu/publications/virtuallibrary/0892361336.html){:target="blank"} (1987).
 
 - <span class="smcaps">*Acquisitions* 1996–98</span>
 
@@ -484,7 +484,7 @@ sort_order: 102
 - <span class="smcaps">Grossman 2001</span>
 
   Grossman, J. B. [*Greek Funerary Sculpture: Catalogue of the Collections
-  at the Getty Villa.*](http://www.getty.edu/publications/virtuallibrary/0892366125.html) Los Angeles, 2001.
+  at the Getty Villa.*](http://www.getty.edu/publications/virtuallibrary/0892366125.html){:target="blank"} Los Angeles, 2001.
 
 - <span class="smcaps">Herdejürgen 1971</span>
 
@@ -580,7 +580,7 @@ sort_order: 102
 - <span class="smcaps">Kingsley 1976</span>
 
   Kingsley, B. M. [*The Terracottas of the Tarantine Greeks: An
-  Introduction to the Collection in the J. Paul Getty Museum.*](http://www.getty.edu/publications/virtuallibrary/0892360178.html) Malibu, J.
+  Introduction to the Collection in the J. Paul Getty Museum.*](http://www.getty.edu/publications/virtuallibrary/0892360178.html){:target="blank"} Malibu, J.
   Paul Getty Museum, 1976.
 
 - <span class="smcaps">Kingsley 1977</span>
@@ -591,7 +591,7 @@ sort_order: 102
 - <span class="smcaps">kingsley 1981</span>
 
   Kingsley, B. M. “Coroplastic Workshops at Taras: Marked Moulds of the
-  Late Classical Period.” [*GettyMusJ* 9](http://www.getty.edu/publications/virtuallibrary/0892360321.html) (1981), pp.
+  Late Classical Period.” [*GettyMusJ* 9](http://www.getty.edu/publications/virtuallibrary/0892360321.html){:target="blank"} (1981), pp.
   41–52.
 
 - <span class="smcaps">Knoepfler 1992</span>
@@ -918,7 +918,7 @@ sort_order: 102
   1994
 
   [*A Passion for Antiquities: Ancient Art from the Collection of Barbara
-  and Lawrence Fleischman.*](http://www.getty.edu/publications/virtuallibrary/0892362235.html) Exh. cat. Malibu, J. Paul Getty Museum, 1994.
+  and Lawrence Fleischman.*](http://www.getty.edu/publications/virtuallibrary/0892362235.html){:target="blank"} Exh. cat. Malibu, J. Paul Getty Museum, 1994.
 
 - <span class="smcaps">Pautasso 2007</span>
 
@@ -1083,7 +1083,7 @@ sort_order: 102
 - <span class="smcaps">Salapata 2001</span>
 
   Salapata, G. “&Tau;&rho;&iota;&phi;&iota;&lambda;&eta;&tau;&omicron;&sigmaf; &Alpha;&delta;&omega;&nu;&iota;&sigmaf;: An Exceptional Pair of Terracotta
-  Arulae from South Italy.” [*Studia Varia from the J. Paul Getty Museum* 2](http://www.getty.edu/publications/virtuallibrary/0892366346.html)
+  Arulae from South Italy.” [*Studia Varia from the J. Paul Getty Museum* 2](http://www.getty.edu/publications/virtuallibrary/0892366346.html){:target="blank"}
   (2001), pp. 25–50.
 
 - <span class="smcaps">*Santuari della Magna Grecia in
@@ -1153,7 +1153,7 @@ sort_order: 102
 - <span class="smcaps">Smithers 1993</span>
 
   Smithers, S. “Images of Piety and Hope: Select Terracotta Votives from
-  West-Central Italy.” [*Studia Varia from the J. Paul Getty Museum* 1](http://www.getty.edu/publications/virtuallibrary/0892362030.html)
+  West-Central Italy.” [*Studia Varia from the J. Paul Getty Museum* 1](http://www.getty.edu/publications/virtuallibrary/0892362030.html){:target="blank"}
   (1993), pp. 13–32.
 
 - <span class="smcaps">Sourvinou-Inwood 1978</span>
@@ -1230,7 +1230,7 @@ sort_order: 102
 
   Van der Wielen-van Ommeren, F. “Polychrome Vases and Terracottas from
   Southern Italy in the J. Paul Getty Museum.” [*Greek Vases in the J. Paul
-  Getty Museum: Volume 2,* Occasional Papers on Antiquities 3](http://www.getty.edu/publications/virtuallibrary/0892360704.html) (1985), pp. 171–82.
+  Getty Museum: Volume 2,* Occasional Papers on Antiquities 3](http://www.getty.edu/publications/virtuallibrary/0892360704.html){:target="blank"} (1985), pp. 171–82.
 
 - <span class="smcaps">Walters 1903</span>
 
