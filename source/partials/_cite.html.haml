@@ -54,7 +54,7 @@
         <span class='force-wrap'>#{data.book.editions.first.permalink}#{path}</span>
       %h6 MLA
       %p
-        #{data.book.author_last_name}, #{data.book.author_first_name}.
+        #{data.book.creators.first.last_name}, #{data.book.creators.first.first_name}.
         “#{current_page.data.title}.” <em>#{data.book.title.main}</em>.
         By #{data.book.author_as_it_appears}. #{data.book.publisher_location}:
         #{data.book.publisher_short}, #{data.book.pub_date.split('-').first}.

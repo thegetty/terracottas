@@ -49,10 +49,10 @@ Each of these alternative formats includes the complete catalogue text, the prim
 
 #### Catalogue Main Images
 
-- [**JPG**](assets/downloads/AncientTerracottas_Ferruzza_Images.zip) (21 MB)
-- [**PPT**](assets/downloads/AncientTerracottas_Ferruzza_Images.ppt) (11 MB)
+- [**JPG**](assets/downloads/AncientTerracottas_Ferruzza_Images.zip) (32.9 MB)
+- [**PPT**](assets/downloads/AncientTerracottas_Ferruzza_Images.ppt) (10.9 MB)
 
-Each download includes the main image and caption for each of the sixty catalogue entries, free for unrestricted use. JPGs are 1440px on their longest side. Alternate views and larger sizes are available through the Getty’s Open Content program at [www.getty.edu/art/collection](http://www.getty.edu/art/collection/).
+Each download includes the main image and caption for each of the sixty catalogue entries, free for unrestricted use. JPGs are up to 1024px on their longest side. Alternate views and larger sizes are available through the Getty’s Open Content program at [www.getty.edu/art/collection](http://www.getty.edu/art/collection/).
 
 #### Object Data
 
@@ -97,6 +97,12 @@ Library of Congress Cataloging-in-Publication Data
 
 </div>
 
-Illustration Credits TK
+Illustration Credits
+
+- [Cover](../): Thymiaterion Supported by a Statuette of Nike (detail, [cat. 53](../catalogue/53/))
+- [Introduction](../introduction/): Fragment of a Head (detail, [cat. 22](../catalogue/22/))
+- [Classification](../classification/): Statue of a Standing Siren A (detail, [cat. 2](../catalogue/2/))
+- [Production Techniques](../production_techniques/): Tarentine front mold, Head of a Woman (detail, [fig. 10](../guide/#fig_10))
+- [Guide to the Collection of South Italian and Sicilian Terracottas](../guide/): Head and Torso of a Youth with Tarentine mold (detail, [fig. 12](../guide/#fig_12))
 
 </section>
