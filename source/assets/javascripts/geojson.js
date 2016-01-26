@@ -291,10 +291,10 @@ var geojsonFeature = {
         {
             "type": "Feature",
             "properties": {
-                "basename": "Caulonia",
+                "basename": "Kaulonia",
                 "custom_name": "Caulonia",
                 "feature_type": "site",
-                "pid": "452295",
+                "pid": "452352",
                 "tgn": "7902180",
                 "catalogue": "",
                 "description": ""
@@ -302,8 +302,27 @@ var geojsonFeature = {
             "geometry": {
             	"type": "Point",
                 "coordinates": [
-                    16.409844,
-                    38.382526
+                    16.579807,
+                    38.445426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "basename": "Sybaris/Thurii/Copia",
+                "custom_name": "Sybaris",
+                "feature_type": "site",
+                "pid": "452457",
+                "tgn": "7004265",
+                "catalogue": "",
+                "description": ""
+            },
+            "geometry": {
+            	"type": "Point",
+                "coordinates": [
+                    16.490517,
+                    39.715622
                 ]
             }
         },
@@ -634,7 +653,7 @@ var geojsonFeature = {
             "type": "Feature",
             "properties": {
                 "basename": "Acrae",
-                "custom_name": "Akrai (Palazzolo Acreide)",
+                "custom_name": "Akrai",
                 "feature_type": "site",
                 "pid": "462068",
                 "tgn": "7003793",
