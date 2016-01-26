@@ -70,6 +70,7 @@ function GeoMap() {
   this.map.addLayer(siteGroup);
   this.map.addLayer(countryLabels);
   this.map.addLayer(catalogueLabels);
+
 }
 
 // Methods
@@ -137,7 +138,7 @@ GeoMap.prototype = {
     if (linkedEntries.length > 0) {
       popupMsg += "<strong>Catalogue Entries:</strong><ul>";
       linkedEntries.forEach(function (entry) {
-        var entryURL = "http://getty.edu/publications/terracottas/catalogue/" + entry + "/";
+        var entryURL = "/Terracottas/catalogue/" + entry + "/";
         popupMsg += "<a href='"+ entryURL + "'><li>Cat. " + entry + "</li></a>";
       });
       popupMsg += "</ul>";
