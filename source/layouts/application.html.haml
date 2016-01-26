@@ -19,7 +19,6 @@
     %title= page_title
     = stylesheet_link_tag "application"
     = stylesheet_link_tag "https://cdn.rawgit.com/CliffCloud/Leaflet.EasyButton/f3f3136bda3937aa813c80a1a6c8c921c6df06ed/src/easy-button.css"
-
   %body
     #beta-banner.no-print
       %p
@@ -35,3 +34,36 @@
         - else
           = partial "page_header", :locals => { :entry => nil }
     = javascript_include_tag "application"
+    / Google Analytics
+    :javascript
+      (function(i, s, o, g, r, a, m) {
+          i['GoogleAnalyticsObject'] = r;
+          i[r] = i[r] || function() {
+              (i[r].q = i[r].q || []).push(arguments)
+          }, i[r].l = 1 * new Date();
+          a = s.createElement(o),
+              m = s.getElementsByTagName(o)[0];
+          a.async = 1;
+          a.src = g;
+          m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+      ga('create', 'UA-8087223-1', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('send', 'pageview');
+    / Google Analytics: to handle pdfs, docs, xls
+    :javascript
+      jQuery(document).ready(function($) {
+          $("a[href$='pdf'],a[href$='rtf'],a[href$='doc'],a[href$='xls'],a[href*='bit.ly']a[href$='csv'],a[href$='json'],a[href$='zip'],a[href$='ppt'],a[href*='epub'],a[href*='mobi']").each(function(index) {
+              pdfLabel = $(this).attr('href');
+              pdfOnClick = "ga('send', 'pageview','" + pdfLabel + "');";
+              $(this).attr("onClick", pdfOnClick);
+          });
+      });
+    / Google Analytics: to handle outbound links
+    :javascript
+      var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+          'hitCallback': function () { document.location = url; }
+        });
+      }
