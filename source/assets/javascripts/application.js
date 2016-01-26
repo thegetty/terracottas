@@ -23,7 +23,7 @@ $(".expander-content").addClass("expander--hidden");
 setUpPage();
 
 var searchIndex = $.getJSON(
-  "/Terracottas/contents.json").promise();
+  "/publications/terracottas/contents.json").promise();
 searchIndex.done(function(data) {
   var index    = populateIndex(data);
   var contents = contentList(data);
