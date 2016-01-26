@@ -45,7 +45,7 @@ configure :build do
     # pdf.output_path    = "/pdf/terracottas.pdf"
   end
 
-  set :site_url, "/publications/terracottas"
+  set :site_url, "/Terracottas"
 end
 
 data.catalogue.each do |cat, entry|
