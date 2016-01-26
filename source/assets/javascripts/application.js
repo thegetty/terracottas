@@ -51,6 +51,11 @@ searchIndex.done(function(data) {
     onAfter: function ($container, $newContent) {
       setUpPage();
       searchSetup(index, contents);
+      // GA integration
+      if (window.ga) {
+        window.ga('send', 'pageview', window.location.pathname || smoothState.href );
+        console.log(window.location.pathname)
+      }
     }
   });
   // end Smoothstate section
