@@ -1,0 +1,24 @@
+---
+layout: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title><%= data.book.title.short %></title>
+    <link href="assets/styles/epub.css" rel="stylesheet" type="text/css"/>
+  </head>
+  <body>
+    <section class="foreword" id="foreword">
+      <% foreword = sitemap.find_resource_by_path("foreword.html") %>
+      <h1 class="page-title">
+        <%= foreword.data.title %>
+      </h1>
+      <h3 class="page-author">
+        <%= foreword.data.author_full_name %>
+      </h3>
+      <article>
+        <%= foreword.render(:layout => false ) %>
+      </article>
+    </section>
+  </body>
+</html>  
