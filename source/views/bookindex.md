@@ -81,6 +81,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Atreides, 174–76
 - Attic culture: and *adonia* depictions, 157n21, 157n26; and altar scenes, 155, 156n4; Arimasps in, 117; comic character types in, 91–92, 95n2, 203; female dancer type in, 103, 104n2; post-Phidian influence on Italian works, 49, 53, 76, 155, 158n34, 211; red-figured vase painting (*see* red-figured vases); Sicily as influenced by style of, 158nn34–35, 183, 184; sirens as funerary motifs in, 19; and Tarentine marble sculpture, 21, 24n41, 33, 49, 53, 71; white-ground lekythoi, 157n20, 179n29. *See also* Athens; *and specific cultural figures*
 
+<br />
+
 - Badisches Landesmuseum, Karlsruhe, 157n18
 - Baker Dancer (bronze), 103
 - Baltimore Painter, 132n7, 156n17
@@ -121,6 +123,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - busts (in general): circulation and influence of Sicilian busts, 39, 43, 77, 169–70; facing pairs (kissers), 220; typologies of, 76–77, 169–70, 170nn3–4
 - Butera, 79n17, 92, 96n4, 169
 - Byblos, 154
+
+<br />
 
 - Calabria, 21, 215. See also *specific locations*
 - calcite, 3, 78, 201, 207, 209
@@ -178,6 +182,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Cyrenaica, 92n2, 194n6, 197n2
 - Cyrene, 57, 79n9, 139, 177, 193, 194n6, 211
 
+<br />
+
 - dance: and *adonia* rites, 154–55; Baker Dancer (bronze), 103; Berlin Dancer (Lysippos, attrib.), 194n4; in funerary contexts, 103, 104n3, 104n8, 193, 194n3; maenads dancing, 158n34, 194n3, 194n8; Sicilian bust with female dancers, 113; Statuette of Dancer Wearing Long Chiton and Himation, **cat. 30**, 1n2, *102*, 103–4, *105*
 - Daunia, 137, 147
 - Deinomenids, 155, 169
@@ -197,6 +203,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - doves, 182, 185n9
 - drapery effects: *apoptygma* (cape-like fold), 13; and Attic vase-painting, 155, 158n35; hands clutching folds of drapery, 87, 137, 153, 181; incised lines denoting folds, 181, 183; movement suggested by, 99, 103, 111n3, 117, 155, 193; production techniques for, 17
 - Dresden Zeus, 211
+
+<br />
 
 - Eboli, 29n2
 - egg and dart molding, 153, 156n1
@@ -218,6 +226,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Euthydamos, 178n22
 - Exedra of the Philosophers, Serapeion of Saqqara, 18, 19, 21
 
+<br />
+
 - fabric analysis, explained, 2
 - Falerii, 22n2, 29, 30n4, 211
 - Falisci, 157n20, 211
@@ -237,6 +247,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Fratte di Salerno, 29, 40n3, 169, 170n6
 - funerary art and customs: and *adonia* rites, 155, 157n23; Amazons in, 111; appliqués in, 113, 121, 218, 219; athletic depictions in, 33; children’s burial sites, 64n1, 91, 201; dance depictions in, 103, 104n3, 104n8, 193, 194n3; Dionysos in, 91, 95, 100, 103, 113, 204; Eros in, 109; *favissae* (burial places for sacred objects), 40n4, 53n1, 55, 73, 75–76; Gorgons in, 207; heroization of the deceased, 30n5, 77; Hyakinthos in, 87; incense and *thymiateria* in, 182, 185nn4–5; *kline* (bed or couch) in, 21, 113, 131, 133n10; Macedonian influence on, 113, 132; Mold for Funerary Bust of a Woman, “Guide,” *217*; Nike in, 187n39; poses recurrent in, 83n1, 157n20; *semata* (tomb markers), 20–21, 79n19; sirens in, 18–19, 23nn18–20; statue groups within temples and tombs, 20–21, 24n36, 131–32; statue heads with Libyan ringlets, 57; Statues of Mourning Women, **cats. 38–42**, 3, 4, 122–35; terracottas’ ritualistic function in, 79n8; theatrical subjects in, 91, 92n4, 95, 96nn4–6, 100, 204
 - Furies, 18, 175
+
+<br />
 
 - Gaia, 73
 - Ganymede Hypogeum, Arpi, 147
@@ -258,6 +270,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - group, defined, 4n1
 - Group of Heads and Busts from Taranto Region, **cats. 4–23**, 75–79
 - Group of Seated Poet (Orpheus?) and Sirens, **cats. 1–3**, 3, 4, *16*, 17–24
+
+<br />
 
 - Hades (deity): Head of, **cat. 60**, 1, 3, *208*, 209–13; Hekate as bride of, 176; iconography of, 210–11; and Orpheus, 18; Persephone’s abduction by, 169, 177n1, 210; and reclining figures, 77
 - Hades (Underworld). *See* Underworld
@@ -312,6 +326,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Hyakinthos, 77, 87, 88n5
 - Hyperion, 175
 
+<br />
+
 - Ida, Mount, 156n18
 - *Idylls* (Theocritus), 157n26, 157n31
 - infrared analysis, 153, 212
@@ -323,10 +339,14 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Isis, 57
 - Isocrates, 19
 
+<br />
+
 - J. Paul Getty Museum. *See* Getty Museum
 - Jastrow, E., 4n1
 - Jeammet, V., 133n15, 135
 - Juno Popluna sanctuary, Teano, 222
+
+<br />
 
 - Kalliope, 17
 - Kallisto, 99–100
@@ -349,6 +369,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - kraters. *See* red-figured vases; vase-painting
 - Kritios, 27
 - *krotales* (cymbals), 155
+
+<br />
 
 - Laconia: and animals’ S-shaped tails, 161; and athleticism, 33; bronze prototypes from, 176, 179n40; Hyakinthos cult in, 87; and Orestes myth, 174, 178n15; Orpheus image in Therae, 24n40; ram-shaped handles from, 189; Taras as colony of, 1, 33, 87; and vases from Saturo, 78n2. *See also* Sparta
 - Lagrasta hypogeum, Canosa, 111n2, 132
@@ -381,6 +403,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Lykourgos, 22n9
 - lyre, 18, 19, 87, 139, 143, 145, 193, 194n8. *See also* kithara
 - Lysippos, 30n6, 59, 67, 68n3, 76, 79n10, 194n4
+
+<br />
 
 - Macedonia: bronze vessels from, 154, 185n10; and Canosan aristocracy, 131; funerary customs influenced by, 113, 132; Sicilian cultural exchanges with, 197; Tarentine cultural exchanges with, 79n9; wall paintings in, 67, 68n6, 140
 - maenads: and Attic pictoricism, 158n34; cameo with, 194n8; and Eros, 109n2; hairstyles of maenad antefixes, 43n3; Head of Maenad, “Guide,” 220; and leaning-female figure type, 83; and music in funerary contexts, 194n3; Relief with Two Maenads, **cat. 34**, *112*, 113–14, *115*; Sicilian *clipei* (plaques) of, 207
@@ -478,6 +502,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Myskos, 178n22
 - *naiskoi* (small temples): battle scene in *naiskos* frieze, 59; funerary statue groups within, 20–21, 24n36; and Hades and Persephone (as couple), 18, 211; in Morgantina *Thesmophorion*, 209; Nike figures within, 186n20; Tarentine mold with *naiskos*, 218; as tomb markers, 21
 
+<br />
+
 - National Museum of Copenhagen, 132
 - Naxos, 156n1, 162n5
 - Nelson-Atkins Museum of Art, Kansas City, 43
@@ -490,6 +516,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Nossis, 157n23
 - Ny Carlsberg Glyptotek, Copenhagen, 76, 132n1, 132n5, 182, 189
 - nymphs, 75, 99–100, 155
+
+<br />
 
 - ocher, 3, 22, 35, 201, 212
 - Odysseus under Ram, Statuette of, **cat. 54**, *188*, 189–90, *191*
@@ -505,6 +533,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - *oscilla* (hanging offerings), 207
 - owls, 220
 - Oxford University, England, 67–68
+
+<br />
 
 - Paestum, 73n3, 131, 133n10, 140, 174, 183, 193
 - Painter of Bologna, 158n35
@@ -574,7 +604,11 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Pyrrhus, 59
 - Pythagoreanism, 20, 21, 24n39, 117
 
+<br />
+
 - quadriga (chariot), 176, 177n6, 210
+
+<br />
 
 - Ragusa, 170, 184
 - rams, *188*, 189–90
@@ -596,6 +630,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Rome: Apollo Sosianus temple, 71; Baths of Diocletian, 33; and Getty collection of terracottas, 215; military campaigns or conquests by, 75, 77, 211; Minerva Medica temple, 61n3; Museo Gregoriano Etrusco Vaticano, 61n2; Tarentine coroplastic influence on, 76–77, 79n14
 - Rosarno. *See* Medma
 - Ruvo del Monte, 21, 24n39, 185n6, 213n14
+
+<br />
 
 - Sackler Museum, Harvard University, 24n44
 - *sakkos* (hair covering), 49, 53, 55, 95, 100n1, 153
@@ -703,6 +739,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Tanagra: Artemis statuette from, 100n3; female figure type of, 83, 103, 137, 217; and Getty collection of terracottas, 215; theatrical statuettes from, 92n2, 95n2
 - Taranto (Taras), **cats. 1–37**: Alexander portraits as popular in, 29, 59; altar types in, 161, 162n1; Apollo Kitharoidos depictions in, 140; and athleticism, 33; Centuripe’s ties with, 77, 79n18; clay characteristic of, 78, 100n8; Erotes from, 201; female figure types in, 83, 197; and Getty collection of terracottas, 1, 76, 215; and Hirsch-Virzì collection, 75; influence of coroplastic models from, 76–77, 79n9, 79n14; marble heads from, 21, 24n41, 30n5, 33, 45n1, 49, 53n2, 76; Master of the Singers of Taras, 21–22, 24n44; molds from, 215, 217–19; Museo Nazionale Archeologico, 24n44, 35n1, 78n5, 81n1, 104n1, 131; and music in funerary contexts, 193, 194n3; Orphism and Pythagoreanism in, 20, 21, 24n39; sirens as funerary motifs in, 19, 23nn18–20; spool base typical of, 137n1; theatrical subjects as common in, 91; votive group from, 215, 216; wreaths distinctive to, 37. *See also* works on pages 8–121, 215–19
 
+<br />
+
 - Taras (city). *See* Taranto
 - Taras (hero), 216
 - Tarporley Painter, 158n35
@@ -736,10 +774,14 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - type, defined, 4n1
 - Typhon, 174
 
+<br />
+
 - Uhlenbrock, J., 184
 - ultraviolet–visible spectroscopy, 22, 63, 140, 189, 201
 - umber, 3
 - Underworld: and Orpheus, 18, 20, 22n8; Persephone’s abduction to, 169, 177n1, 210 (*see also* Hades; Persephone); and Polyboia, 87, 88n4; and sirens, 18–19
+
+<br />
 
 - Varrese hypogeum, Canosa, 131
 - vase decorations, terracotta, 111, 117, 137, 147, 156n18, 215, 219
@@ -758,6 +800,8 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - votive terracottas: association of, with particular deities, 43n1; of children, 73; and classification of coroplastic art, 4n1; of female dancers, 103; funerary associations of, 21, 79n8; group of, from Campania, 221–22; group of, from Metaponto, 215, 216, 219; group of, from South Italy, 215, 220; group of, from Taranto, 215, 216; Medma as production center for, 155; metal ornaments affixed to, 212; of Orpheus, 21, 24n40; *pinakes* (votive tablets), 154, 156n13, 157n21, 158n38, 177n1, 185n14, 210–11, 213n15; and reclining figures’ significance, 77, 79n17; ritual breakage of statuary, 76; from Saturo, 75, 76, 77; Sicilian busts as, 22, 43, 169, 170nn3–4; with slave figures, 92, 96n4; *thymiateria* (incense burners) as, 182, 187n39; of youths’ heads, 61. *See also* *specific deposit sites*
 - Vulci, 182
 
+<br />
+
 - warriors: Head of Warrior, “Guide,” 222; Head of Warrior with Crested Helmet, “Guide,” *221*; shields, terracotta, 222; Statuette of Warrior with Italic-Type Cuirass, “Guide,” *221*; Statuette of Warrior with Italic-type cuirass, “Guide,” 222; vases with warriors in motion, 111. *See also* Amazons; Arimasps
 - Webster, T. B. L., 92n1, 203
 - white lead, 3, 22, 103, 104, 212
@@ -770,7 +814,11 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - workshop of Zopyras, RA, and LA, 218
 - Wuilleumier, Pierre, 161
 
+<br />
+
 - X-ray analysis, 17, 22, 103, 140, 201, 212
+
+<br />
 
 - Zanker, Paul, 21
 - Zankle (Messina), 165
