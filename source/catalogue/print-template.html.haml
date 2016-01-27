@@ -3,7 +3,7 @@ layout: application
 catalogue: true
 ---
 -# entry is the variable passed from #proxy method in config.rb
-.entry
+.entry#entry
   .bleed{ :data => { :catalogue => entry[:info][:cat] } }
   .object-header
     %h2.object-meta.mt2= entry[:info][:cat]
