@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
   font-family: "Merriweather";
   src: url("../fonts/merriweather-light.otf");
   font-weight: 300;
@@ -48,10 +48,10 @@
   src: url("../fonts/FiraSans-BoldItalic.otf");
   font-style: italic;
   font-weight: 700;
-}
+}*/
 
 body {
-  font-family: "Merriweather";
+  font-family: "Merriweather", serif;
   font-weight: 300;
   font-style: normal;
   background: #fff;
@@ -125,7 +125,7 @@ h4 {
 
 h6 {
   font-size: 0.875em;
-  line-height: 21pt;
+  line-height: 200%;
   margin: 35px 0 100px;
   padding: 0; }
 
