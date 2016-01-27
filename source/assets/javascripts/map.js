@@ -138,7 +138,7 @@ GeoMap.prototype = {
     if (linkedEntries.length > 0) {
       popupMsg += "<strong>Catalogue Entries:</strong><ul>";
       linkedEntries.forEach(function (entry) {
-        var entryURL = "/publications/terracottas/catalogue/" + entry + "/";
+        var entryURL = "/catalogue/" + entry + "/";
         popupMsg += "<a href='"+ entryURL + "'><li>Cat. " + entry + "</li></a>";
       });
       popupMsg += "</ul>";
