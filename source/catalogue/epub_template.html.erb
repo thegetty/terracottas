@@ -10,11 +10,9 @@ layout: false
   </head>
   <body>
     <div class="entry">
-      <!-- <img
-        src="../assets/images/cat<%= entry[:info][:cat] %>.jpg"
-        alt="Cat <%= entry[:info][:cat]%> Image"
-        class="catalogue-image" /> -->
-      <%= image_tag "epub/cat#{entry[:info][:cat]}.jpg" %>
+      <div class="plate">
+      	<div class="plate_percent"><%= image_tag "epub/cat#{entry[:info][:cat]}.jpg", :class => "plate_vh" %></div>
+      </div>
       <div class="entry-header">
         <h2 class="object-meta"><%= entry[:info][:cat] %></h2>
         <h1 class="object-title"><%= entry[:info][:title] %></h1>

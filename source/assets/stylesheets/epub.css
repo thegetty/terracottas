@@ -234,11 +234,6 @@ hr {
 
 /*============================================================================*/
 
-.catalogue-image {
-  page-break-inside: avoid;
-  width: 100%;
-}
-
 .entry {
   /*-webkit-font-feature-settings: "kern", "liga", "onum", "pnum", "smcp";*/
   /*-moz-font-feature-settings: "kern", "liga", "onum", "pnum", "smcp";*/
@@ -273,13 +268,6 @@ hr {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
   font-style: italic;
-}
-
-.figure-inline {
-  float: right;
-  display: inline;
-  margin-left: 0.75em;
-  width: 30%;
 }
 
 .entry section {
@@ -331,4 +319,36 @@ hr {
 
 .entry table td {
   background-color:transparent;
+}
+
+figure {
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  page-break-inside: avoid;
+}
+
+figure img {
+  width: 100%;
+}
+
+/* Image CSS based on Joshua Tallent's https://github.com/jstallent/ImagesSingleFile */
+
+div.plate {
+	text-align: center;
+	margin: 0;
+	page-break-inside: avoid;
+}
+
+div.plate_percent {
+	height: 80%;
+}
+
+img.plate_vh {
+	height: 80%;
+}
+
+img.plate_vh:only-of-type {
+	height: 80vh;
 }
