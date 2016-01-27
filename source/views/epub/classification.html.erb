@@ -1,0 +1,21 @@
+---
+layout: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title><%= data.book.title.short %></title>
+    <link href="assets/styles/epub.css" rel="stylesheet" type="text/css"/>
+  </head>
+  <body>
+    <section class="classification" id="classification">
+      <% classification = sitemap.find_resource_by_path("classification.html") %>
+      <h1 class="page-title">
+        <%= classification.data.title %>
+      </h1>
+      <article>
+        <%= classification.render(:layout => false ) %>
+      </article>
+    </section>
+  </body>
+</html>

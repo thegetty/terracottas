@@ -1,0 +1,21 @@
+---
+layout: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title><%= data.book.title.short %></title>
+    <link href="assets/styles/epub.css" rel="stylesheet" type="text/css"/>
+  </head>
+  <body>
+    <section class="abbreviations" id="abbreviations">
+      <% abbreviations = sitemap.find_resource_by_path("abbreviations.html") %>
+      <h1 class="page-title">
+        <%= abbreviations.data.title %>
+      </h1>
+      <article>
+        <%= abbreviations.render(:layout => false ) %>
+      </article>
+    </section>
+  </body>
+</html>
