@@ -325,7 +325,7 @@ $light-gray: transparentize($print-text-color, 0.5);
   .print-copyright {
     font-family: $heading-font-family;
     font-size: 8pt;
-    margin-right: 2.75in;
+    margin-right: 2.25in;
     page: no-footer;
     page-break-after: always;
   }
