@@ -75,7 +75,7 @@ var catalogue = {
     // get json method
     getCatalogue: function () {
       // GET request
-      var url = "/publications/terracottas/catalogue.json";
+      var url = "/catalogue.json";
       this.$http.get(url, function (data, status, request) {
         this.$set('entries', data);
       }).error(function (data, status, request) {
