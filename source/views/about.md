@@ -67,7 +67,9 @@ The object data, available in two formats, includes key information from each of
 
 [![Creative Commons License](cc-by.png)](http://creativecommons.org/licenses/by/4.0/){:rel="license"}
 <br />
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/){:rel="license"}.
+Except where otherwise noted, this work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/){:rel="license"}.
+
+Tiles for the Map of South Italy and Sicily are from the Ancient World Mapping Center. Sharing and remixing permitted under terms of the [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by-nc/3.0/).
 
 **Published by the J. Paul Getty Museum, Los Angeles**  
 Getty Publications  
