@@ -27,7 +27,7 @@ var catalogue = {
       "Taranto region",
       "Canosa",
       "Medma",
-      "South Italy",
+      "Other South Italy",
       "Sicily"
     ],
     typologyOptions: [
