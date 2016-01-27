@@ -466,6 +466,10 @@ $light-gray: transparentize($print-text-color, 0.5);
     width: 40%;
   }
 
+  .grid-figure + ul li {
+    clear: both;
+  }
+
   .print-page-break {
     page-break-after: always;
   }
