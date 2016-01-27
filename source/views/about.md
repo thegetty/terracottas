@@ -65,11 +65,11 @@ The object data, available in two formats, includes key information from each of
 
 © 2016 J. Paul Getty Trust
 
-[![Creative Commons License](cc-by.png)](http://creativecommons.org/licenses/by/4.0/){:rel="license"}
+[![Creative Commons License](cc-by.png)](http://creativecommons.org/licenses/by/4.0/){:rel="license"}{:target="blank"}
 <br />
-Except where otherwise noted, this work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/){:rel="license"}.
+Except where otherwise noted, this work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/){:rel="license"}{:target="blank"}.
 
-Tiles for the Map of South Italy and Sicily are from the Ancient World Mapping Center. Sharing and remixing permitted under terms of the [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by-nc/3.0/).
+Tiles for the Map of South Italy and Sicily are from the Ancient World Mapping Center. Sharing and remixing permitted under terms of the [Creative Commons Attribution-NonCommercial 3.0 License](http://creativecommons.org/licenses/by-nc/3.0/){:target="blank"}.
 
 **Published by the J. Paul Getty Museum, Los Angeles**  
 Getty Publications  
@@ -95,7 +95,7 @@ Library of Congress Cataloging-in-Publication Data
 - Identifiers: LCCN 2015042795 (print) \| LCCN 2015048344 (ebook) \| ISBN 9781606064863 (pbk.) \| ISBN 9781606064856 (epub) \| ISBN 9781606061237 (online)
 - Subjects: LCSH: Terra-cotta sculpture, Ancient&#8209;&#8209;Italy, Southern&#8209;&#8209;Catalogs. \| Terra-cotta sculpture, Ancient&#8209;&#8209;Italy&#8209;&#8209;Sicily&#8209;&#8209;Catalogs. \| J. Paul Getty Museum&#8209;&#8209;Catalogs. \| Terra-cotta sculpture&#8209;&#8209;California&#8209;&#8209;Los Angeles&#8209;&#8209;Catalogs.
 - Classification: LCC NB145 .J27 2016 (print) \| LCC NB145 (ebook) \| DDC 733/.309377--dc23
-- LC record available at [http://lccn.loc.gov/2015042795](http://lccn.loc.gov/2015042795)
+- LC record available at [http://lccn.loc.gov/2015042795](http://lccn.loc.gov/2015042795){:target="blank"}
 
 </div>
 
