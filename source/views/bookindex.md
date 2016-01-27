@@ -50,7 +50,7 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - *apatheia* (moderation of passions), 20
 - apes, 216
 - Aphrodite: and Adonis, 153–54, 156n7, 157n18; bronze relief of Anchises and, 156n18; childhood-related offerings to, 73; and doves, 182; and Eros, 109, 147; and female figure types, 83, 197; Loom-weight with, Riding Swan, “Guide,” 220; Mold for Head of Woman (Aphrodite?) Wearing *Stephane*, “Guide,” 217; Mold for Nude Woman (Aphrodite?) Wearing *Polos*, “Guide,” 217; and Peitho, 157n20; and Persephone, in Locri, 157n30; relief of, in Cyrene, 57; Relief with, Rising from Waves, “Guide,” *220*; Satyrion cult activity, 75; Statue of Woman (Aphrodite?) Wearing Chiton, “Guide,” 221; Statuette of, Nude (multiple), “Guide,” 216, 220; Statuette of, Semidraped, **cat. 56**, *196*, 197–98, *199*; Statuette of, Semidraped (multiple), “Guide,” 220
-- Apollo: Cirò temple of Apollo Alaios, 21, 23n11, 71, 140n7; Delphic temple of, 139; Dionysos’s syncretism with, 139; and Hyakinthos, 87, 88n5; iconography of Apollo Kitharoidos, 18, 22n11, 139–40; Metaponto sanctuary of Apollo Lykaios, 213n24; and Orestes myth, 174, 175; as Orpheus’s father, 17; Roman temple of Apollo Sosianus, 71; and Selinunte metopes, 175, 176; Statuette of, **cat. 44**, 1n2, *138*, 139–41
+- Apollo: Cirò temple of Apollo Alaios, 21, 22n11, 71, 140n7; Delphic temple of, 139; Dionysos’s syncretism with, 139; and Hyakinthos, 87, 88n5; iconography of Apollo Kitharoidos, 18, 22n11, 139–40; Metaponto sanctuary of Apollo Lykaios, 213n24; and Orestes myth, 174, 175; as Orpheus’s father, 17; Roman temple of Apollo Sosianus, 71; and Selinunte metopes, 175, 176; Statuette of, **cat. 44**, 1n2, *138*, 139–41
 - Apollodorus, 153
 - Apollonios of Rhodes, 19
 - appliqués: and altar types, 161; Arimasps in, 113, 117; for Canosan vessels, 215, 219; for funerary *kline* or sarcophagi, 113, 121, 218; with maenads, 113, 194n3
@@ -181,7 +181,7 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - dance: and *adonia* rites, 154–55; Baker Dancer (bronze), 103; Berlin Dancer (Lysippos, attrib.), 194n4; in funerary contexts, 103, 104n3, 104n8, 193, 194n3; maenads dancing, 158n34, 194n3, 194n8; Sicilian bust with female dancers, 113; Statuette of Dancer Wearing Long Chiton and Himation, **cat. 30**, 1n2, *102*, 103–4, *105*
 - Daunia, 137, 147
 - Deinomenids, 155, 169
-- Delphi, 17, 21, 139, 182, 185n6, 185n19, 189
+- Delphi, 18, 21, 139, 182, 185n6, 185n19, 189
 - Delphic Triad, 176
 - Demeter: agrarian rites of, 157n24; and banqueting figures, 77; Corinth sanctuary of, 73n2, 177n1, 213n17; and crouching child type, 73n2; on Farnese Cup, 57; and female dancer type, 103; Mold for Bust of, Holding Crossed Torch, “Guide,” *218*; Morgantina *Thesmophorion* (San Francesco Bisconti), 177n1, 209–11, 212nn1–2, 213n15; on Parthenon pediments, 157n20; Selinunte sanctuary of Demeter Malophoros, 173, 175–76, 177n6, 178n15, 178n24, 179n29, 179n35, 179n37, 179n40, 182, 183; and Sicilian busts, 43, 113, 169, 170n3; and theatrical masks and statuettes, 92, 204; Therae temple of Eleusinian Demeter, 24n40; and tympanon (drum), 157n28
 - Derveni, 154
@@ -339,7 +339,7 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Kingsley, Bonnie M., 24n44
 - kithara (stringed instrument): and Apollo, 18, 22n11, 139–40; cradle kithara, described, 189; Italiote kithara, described, 140; and Orpheus, 10, 17, 18, 19, 23n14, 24n42; as pedagogical instrument, 20; Statuette of Woman Playing Kithara, **cat. 55**, *192*, 193–94, *195*
 - *kline* (bed or couch), 21, 113, 131, 133n10
-- *klismos* (seat), 9, 17, 22n11, 23n12
+- *klismos* (seat), 9, 17, 18, 22n11, 23n12
 - Knidians, 17
 - Knidos, 17, 174, 178n16
 - *korai* (statues), 156n4, 157n23, 182–84
@@ -348,7 +348,7 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - kourotrophic cults, 73, 77, 95
 - kraters. *See* red-figured vases; vase-painting
 - Kritios, 27
-- *krotales* (cymbals), 154
+- *krotales* (cymbals), 155
 
 - Laconia: and animals’ S-shaped tails, 161; and athleticism, 33; bronze prototypes from, 176, 179n40; Hyakinthos cult in, 87; and Orestes myth, 174, 178n15; Orpheus image in Therae, 24n40; ram-shaped handles from, 189; Taras as colony of, 1, 33, 87; and vases from Saturo, 78n2. *See also* Sparta
 - Lagrasta hypogeum, Canosa, 111n2, 132
@@ -367,7 +367,7 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Lipari Painter, 107
 - Lippolis, Enzo, 77, 88n5
 - Lo Scasato, Falerii, 29, 211
-- Locri (Lokris): altars from, 156n4, 161, 165, 177n2; and athleticism, 33; Casa dei Leoni, 154, 158n32; dancing maenad statue from, 158n34; female poet (Nossis) from, 157n23; Ionian temple of Marasà, 79n11; Medma as colony of, 155, 157n30, 158n38; and music in funerary contexts, 193; Nike acroterion from, 183; Persephoneion, Contrada Mannella, 39, 185n9, 210; and Persephone’s iconography, 213n12; *pinakes* (votive tablets) from, 154, 156n13, 157n21, 158n38, 185n14, 210, 211, 213n15; protomes from, 186n32; Syracuse’s ties with, 155, 157n31, 158n38, 169, 211; theatrical statuette from, 100n6
+- Locri (Lokris): altars from, 156n4, 161, 165, 177n2; and athleticism, 33; Casa dei Leoni, 154, 158n32; dancing maenad statue from, 158n34; female poet (Nossis) from, 157n23; Ionian temple of Marasà, 79n11; Medma as colony of, 156, 157n30, 158n38; and music in funerary contexts, 193; Nike acroterion from, 183; Persephoneion, Contrada Mannella, 39, 185n9, 210; and Persephone’s iconography, 213n12; *pinakes* (votive tablets) from, 154, 156n13, 157n21, 158n38, 185n14, 210, 211, 213n15; protomes from, 186n32; Syracuse’s ties with, 155, 157n31, 158n38, 169, 211; theatrical statuette from, 100n6
 - Long Overfalls Group, 158n35
 - Loom-weight with Aphrodite Riding Swan, “Guide,” 220
 - Loom-weight with Eros on Dolphin, “Guide,” 220
@@ -375,11 +375,11 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Loom-weight with Owl Holding Distaff, “Guide,” 220
 - Loom-weight with Two Facing Busts, “Guide,” 220
 - Loom-weight with Woman’s Head, “Guide,” 220
-- Louvre: Canosan *askos*, 132n8; Canosan statues of mourning women, 4, 131, 132n1; Euripides portrait, 22n9; female bust from Falerii, 22n2; female heads with Libyan ringlets, 57; orant statue, 132n5
+- Louvre: Canosan *askos*, 133n8; Canosan statues of mourning women, 4, 131, 132n1; Euripides portrait, 22n9; female bust from Falerii, 22n2; female heads with Libyan ringlets, 57; orant statue, 132n5
 - Lucania, 1, 88n3, 215. See also *specific locations*
 - Lucera, 35n3, 51n1, 59n2, 61n2, 64n3, 73n3, 76, 79n14
 - Lykourgos, 22n9
-- lyre, 17, 19, 87, 139, 143, 145, 193, 194n8. *See also* kithara
+- lyre, 18, 19, 87, 139, 143, 145, 193, 194n8. *See also* kithara
 - Lysippos, 30n6, 59, 67, 68n3, 76, 79n10, 194n4
 
 - Macedonia: bronze vessels from, 154, 185n10; and Canosan aristocracy, 131; funerary customs influenced by, 113, 132; Sicilian cultural exchanges with, 197; Tarentine cultural exchanges with, 79n9; wall paintings in, 67, 68n6, 140
@@ -532,7 +532,7 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - *phiale* (bowl), 87, 182, 210, 216, 217, 218
 - Phidias, 21, 49, 53, 76, 155, 158n34, 211
 - phlyax farces, 99–100
-- Phrygian cap, 18, 21, 24n44, 111
+- Phrygian cap, 18, 22, 24n44, 111
 - pigeons, 219
 - pigments: analyses of, 22, 114n6, 201, 212; modern pigments’ presence, 201; types typically used, 3. *See also* coloring
 - pigs, 109n2, 179n36, 216, *222*
@@ -555,7 +555,7 @@ Page numbers in *italics* refer to illustrations. “Guide” refers to the Guid
 - Polybius, 87, 88n5
 - Polyboia, 77, 87, 88nn4–5
 - polychromy. *See* coloring
-- Polygnotos, 17, 22n7
+- Polygnotos, 18, 22n7
 - Polykleitos, 35
 - portraits, 22n9, 29, 59, 76
 - Poseidon, 212
