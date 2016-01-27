@@ -367,7 +367,7 @@ front.
     *AttiTaranto* 11 text volume (1972), p. 500; Lo Porto,
     *AttiTaranto* 12 (1973), pp. 363–76; Lo Porto,
     *AttiTaranto* 13 (1974), pp. 413–22, esp. 420–21;
-    Lo Porto, “Recenti scoperti archeologiche in Puglia,” *AttiTaranto* 16 (1977), pp. 725–45, esp. 728–33; *AttiTaranto* 17, (1978), pp. 495–504, esp. 499–500. Also, see M.
+    Lo Porto, “Recenti scoperti archeologiche in Puglia,” *AttiTaranto* 16 (1977), pp. 725–45, esp. 728–33; *AttiTaranto* 17 (1978), pp. 495–504, esp. 499–500. Also, see M.
     Torelli, in *AttiTaranto* 16 (1977), p. 956; E. De
     Juliis, *AttiTaranto* 19 (1980), pp. 428–29. On the
     cults present in Saturo, see M. Osanna, “Sui culti arcaici di Sparta
