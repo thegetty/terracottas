@@ -99,8 +99,6 @@ Library of Congress Cataloging-in-Publication Data
 
 </div>
 
-Illustration Credits
-
 - [Cover](../): Thymiaterion Supported by a Statuette of Nike (detail, [cat. 53](../catalogue/53/))
 - [Introduction](../introduction/): Fragment of a Head (detail, [cat. 22](../catalogue/22/))
 - [Classification](../classification/): Statue of a Standing Siren A (detail, [cat. 2](../catalogue/2/))
