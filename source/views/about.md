@@ -40,9 +40,9 @@ will be detailed here and in the project repository at
 
 #### Complete Catalogue
 
-- [**PDF**](assets/downloads/AncientTerracottas_Ferruzza.pdf) (## MB)
-- [**EPUB**](assets/downloads/AncientTerracottas_Ferruzza.epub) (## MB)
-- [**MOBI/KINDLE**](assets/downloads/AncientTerracottas_Ferruzza.mobi) (## MB)
+- [**PDF**](assets/downloads/AncientTerracottas_Ferruzza.pdf) (12 MB)
+- [**EPUB**](assets/downloads/AncientTerracottas_Ferruzza.epub) (85 MB)
+- [**MOBI/KINDLE**](assets/downloads/AncientTerracottas_Ferruzza.mobi) (60 MB)
 - [**PAPERBACK**](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606064863){:target="blank"}
 
 Each of these alternative formats includes the complete catalogue text, the primary view of each object, and the map. The PDF and paperback editions also include a complete index.
