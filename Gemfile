@@ -16,8 +16,8 @@ gem "middleman-minify-html"
 gem "middleman-imageoptim"
 
 # Testing
-gem "rspec"
-gem "capybara"
-gem "capybara-webkit"
-gem "selenium-webdriver"
-gem "jasmine"
+# gem "rspec"
+# gem "capybara"
+# gem "capybara-webkit"
+# gem "selenium-webdriver"
+# gem "jasmine"
