@@ -81,6 +81,10 @@ h4, h2.object-meta, h3.object-meta {
 	margin: 40px 0 0;
 }
 
+h1 + h3.object-meta {
+  margin-top: 0;
+}
+
 h4+p {
 	margin-top: 10px;
 }
@@ -113,11 +117,11 @@ h6 {
   text-align: center;
 }
 
-.titlepage .colophon-logo {
+.titlepage .logo {
   text-align: center;
+  margin: 10px auto 0;
   width: 30%;
   max-width: 50px;
-  margin-top: 10px;
 }
 
 p {
@@ -245,21 +249,31 @@ hr {
 	background-color: transparent;
 }
 
-div.plate {
+.fullpage-image {
+  text-align: center;
+	margin: 0 5%;
+  width: 90%;
+}
+
+.fullpage-image img {
+  width: 100%;
+}
+
+.plate-group {
 	text-align: center;
 	margin: 0;
 	page-break-inside: avoid;
 }
 
-div.plate_percent {
+.plate {
+  height: 80%;
+}
+
+.plate img {
 	height: 80%;
 }
 
-img.plate_vh {
-	height: 80%;
-}
-
-img.plate_vh:only-of-type {
+.plate img {
 	height: 80vh;
 }
 
@@ -285,7 +299,10 @@ figcaption {
 
 .abbreviations table {
   line-height: 2em;
-  tr { border-bottom: 1px solid #000; }
+}
+
+.abbreviations table tr {
+  border-bottom: 1px solid #000;
 }
 
 .footnotes ol li p {
@@ -305,14 +322,14 @@ figcaption {
   margin-bottom: 1em;
 }
 
+.loc-cip p {
+  margin-bottom: 0;
+}
 .loc-cip ul {
   text-indent: -8pt;
-  margin-top: 0; }
+  margin: 0; }
 
 .loc-cip ul li {
   padding-left: 8pt;
-}
-
-.loc-cip ul li p {
-  margin-bottom: 0;
+  margin: 0;
 }
