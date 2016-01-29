@@ -40,9 +40,9 @@ will be detailed here and in the project repository at
 
 #### Complete Catalogue
 
-- [**PDF**](assets/downloads/AncientTerracottas_Ferruzza.pdf) (## MB)
-- [**EPUB**](assets/downloads/AncientTerracottas_Ferruzza.epub) (## MB)
-- [**MOBI/KINDLE**](assets/downloads/AncientTerracottas_Ferruzza.mobi) (## MB)
+- [**PDF**](assets/downloads/AncientTerracottas_Ferruzza.pdf) (12 MB)
+- [**EPUB**](assets/downloads/AncientTerracottas_Ferruzza.epub) (85 MB)
+- [**MOBI/KINDLE**](assets/downloads/AncientTerracottas_Ferruzza.mobi) (60 MB)
 - [**PAPERBACK**](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606064863){:target="blank"}
 
 Each of these alternative formats includes the complete catalogue text, the primary view of each object, and the map. The PDF and paperback editions also include a complete index.
@@ -65,9 +65,11 @@ The object data, available in two formats, includes key information from each of
 
 © 2016 J. Paul Getty Trust
 
-[![Creative Commons License](cc-by.png)](http://creativecommons.org/licenses/by/4.0/){:rel="license"}
+[![Creative Commons License](cc-by.png)](http://creativecommons.org/licenses/by/4.0/){:rel="license"}{:target="blank"}
 <br />
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/){:rel="license"}.
+Except where otherwise noted, this work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/){:rel="license"}{:target="blank"}.
+
+Tiles for the Map of South Italy and Sicily are from the Ancient World Mapping Center. Sharing and remixing permitted under terms of the [Creative Commons Attribution-NonCommercial 3.0 License](http://creativecommons.org/licenses/by-nc/3.0/){:target="blank"}.
 
 **Published by the J. Paul Getty Museum, Los Angeles**  
 Getty Publications  
@@ -91,9 +93,9 @@ Library of Congress Cataloging-in-Publication Data
 - Title: Ancient terracottas from South Italy and Sicily in the J. Paul Getty Museum / Maria Lucia Ferruzza.
 - Description: Los Angeles : J. Paul Getty Museum, [2016] \| ©2016 \| Includes bibliographical references.
 - Identifiers: LCCN 2015042795 (print) \| LCCN 2015048344 (ebook) \| ISBN 9781606064863 (pbk.) \| ISBN 9781606064856 (epub) \| ISBN 9781606061237 (online)
-- Subjects: LCSH: Terra-cotta sculpture, Ancient&#8209;&#8209;Italy, Southern&#8209;&#8209;Catalogs. \| Terra-cotta sculpture, Ancient&#8209;&#8209;Italy&#8209;&#8209;Sicily&#8209;&#8209;Catalogs. \| J. Paul Getty Museum&#8209;&#8209;Catalogs. \| Terra-cotta sculpture&#8209;&#8209;California&#8209;&#8209;Los Angeles&#8209;&#8209;Catalogs.
+- Subjects: LCSH: Terra-cotta sculpture, Ancient&mdash;Italy, Southern&mdash;Catalogs. \| Terra-cotta sculpture, Ancient&mdash;Italy&mdash;Sicily&mdash;Catalogs. \| J. Paul Getty Museum&mdash;Catalogs. \| Terra-cotta sculpture&mdash;California&mdash;Los Angeles&mdash;Catalogs.
 - Classification: LCC NB145 .J27 2016 (print) \| LCC NB145 (ebook) \| DDC 733/.309377--dc23
-- LC record available at [http://lccn.loc.gov/2015042795](http://lccn.loc.gov/2015042795)
+- LC record available at [http://lccn.loc.gov/2015042795](http://lccn.loc.gov/2015042795){:target="blank"}
 
 </div>
 
