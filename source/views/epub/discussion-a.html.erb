@@ -10,10 +10,11 @@ layout: false
   <body>
     <section class="discussion" id="discussion-a">
       <% discussion = sitemap.find_resource_by_path("views/discussion/discussion-a.html") %>
-      <h3>Group Discussion (Cats. 1-3)</h3>
+      <h4>Group Discussion</h4>
       <h1 class="page-title">
         <%= discussion.data.title %>
       </h1>
+      <h4>Cats. 1-3</h4>
       <article>
         <%= discussion.render(:layout => false ) %>
       </article>
