@@ -103,10 +103,21 @@ h6 {
 .titlepage h1 {
   text-align: center;
   font-family: "Merriweather", serif;
-  text-transform: capitalize;
-  font-size: 2.5em;
-  line-height: 1.4em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 3.25em;
+  line-height: 1.25em;
   margin-top: 2em;
+}
+
+.titlepage h2 {
+  text-align: center;
+  font-family: "Merriweather", serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 1.5em;
+  line-height: 1.55em;
+  margin: .5em 0 .65em;
 }
 
 .titlepage h3 {
@@ -115,13 +126,17 @@ h6 {
 
 .titlepage h4 {
   text-align: center;
+  margin-bottom: 15px;
 }
 
-.titlepage .logo {
-  text-align: center;
-  margin: 10px auto 0;
-  width: 30%;
-  max-width: 50px;
+#logo {
+  margin: 20px auto 0px;
+  width: 50px;
+}
+
+h1 + ul {
+  padding: 0;
+  margin-top: 3em;
 }
 
 p {
