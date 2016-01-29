@@ -331,7 +331,8 @@ $light-gray: transparentize($print-text-color, 0.5);
   }
 
   .print-copyright .loc-cip {
-    ul { text-indent: -8pt; }
+    p { margin-bottom: 0; }
+    ul { text-indent: -8pt; margin-bottom: 12pt; margin-top: 0; }
     li { padding-left: 8pt; }
   }
 
