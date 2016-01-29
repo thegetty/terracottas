@@ -17,7 +17,7 @@ p {
 h1 {
   color: rgb(97, 125, 140);
 	font-family: "Fira Sans", Helvetica, Arial, sans-serif;
-	font-size: 2.75em;
+	font-size: 2.25em;
 	font-weight: 400;
 	line-height: 110%;
 	padding: 0;
@@ -61,7 +61,7 @@ h1 + h3 {
 }
 
 article + h3 {
-  font-size: 1em;
+  font-size: .75em;
   line-height: 100%;
   font-weight: normal;
 }
@@ -82,7 +82,7 @@ h4, h2.object-meta, h3.object-meta {
 }
 
 h1 + h3.object-meta {
-  margin-top: 0;
+  margin-top: .25em;
 }
 
 h4+p {
@@ -104,7 +104,7 @@ h6 {
   text-align: center;
   font-family: "Merriweather", serif;
   text-transform: capitalize;
-  font-size: 2.25em;
+  font-size: 2.5em;
   line-height: 1.4em;
   margin-top: 2em;
 }
@@ -164,6 +164,11 @@ hr {
 
 .group {
 	page-break-inside: avoid;
+}
+
+.catalogue-section h1 {
+  text-align: center;
+  margin-top: 4em;
 }
 
 .entry {
@@ -251,8 +256,8 @@ hr {
 
 .fullpage-image {
   text-align: center;
-	margin: 0 5%;
-  width: 90%;
+	margin: 0 1%;
+  width: 98%;
 }
 
 .fullpage-image img {
@@ -326,6 +331,7 @@ figcaption {
   margin-bottom: 0;
 }
 .loc-cip ul {
+  padding-left: 0;
   text-indent: -8pt;
   margin: 0; }
 
