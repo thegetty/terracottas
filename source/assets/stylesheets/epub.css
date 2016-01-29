@@ -1,339 +1,249 @@
-/*@font-face {
-  font-family: "Merriweather";
-  src: url("../fonts/merriweather-light.otf");
-  font-weight: 300;
-}
-
-@font-face {
-  font-family: "Merriweather";
-  src: url("../fonts/merriweather-lightitalic.otf");
-  font-style: italic;
-  font-weight: 300;
-}
-
-@font-face {
-  font-family: "Merriweather";
-  src: url("../fonts/merriweather-regular.otf");
-  font-weight: 400;
-}
-
-@font-face {
-  font-family: "Merriweather";
-  src: url("../fonts/merriweather-italic.otf");
-  font-style: italic;
-  font-weight: 400;
-}
-
-@font-face {
-  font-family: "Fira Sans";
-  src: url("../fonts/FiraSans-Book.otf");
-  font-weight: 400;
-}
-
-@font-face {
-  font-family: "Fira Sans";
-  src: url("../fonts/FiraSans-BookItalic.otf");
-  font-style: italic;
-  font-weight: 400;
-}
-
-@font-face {
-  font-family: "Fira Sans";
-  src: url("../fonts/FiraSans-Bold.otf");
-  font-weight: 700;
-}
-
-@font-face {
-  font-family: "Fira Sans";
-  src: url("../fonts/FiraSans-BoldItalic.otf");
-  font-style: italic;
-  font-weight: 700;
-}*/
-
 body {
-  font-family: "Merriweather", serif;
-  font-weight: 300;
-  font-style: normal;
-  background: #fff;
-  color: #282828;
-  line-height: 100%;
-  font-size: 12px;
+  text-align: left;
+	font-family: "Merriweather", serif;
+	line-height: 100%;
+	font-size: 1em;
 }
 
 p {
-  widows: 2;
-  orphans: 2; }
-
-.simplelist ul,
-.simplelist ol,
-ul.simplelist,
-ol.simplelist {
-  line-height: 1.6em;
-  padding-left: 16px; }
+	widows: 2;
+	orphans: 2;
+}
 
 .bullets {
-  list-style-type: disc; }
+	list-style-type: disc;
+}
 
 h1 {
-  font-family: "Fira Sans", Helvetica, Arial, sans-serif;
-  color: #282828;
-  font-size: 2.75em;
-  font-weight: 400;
-  line-height: 110%;
-  padding: 0;
-  margin: 0;
-  -epub-hyphens: none;
+  color: rgb(97, 125, 140);
+	font-family: "Fira Sans", Helvetica, Arial, sans-serif;
+	font-size: 2.75em;
+	font-weight: 400;
+	line-height: 110%;
+	padding: 0;
+  margin-top: 2em;
+  margin-bottom: 0;
+	-epub-hyphens: none;
+}
+
+h2.object-meta + h1, h4 + h1 {
+  margin-top: .5em;
+}
+
+article {
+  margin-top: 3em;
 }
 
 h2 {
-  font-family: "Fira Sans", Helvetica, Arial, sans-serif;
-  color: #282828;
-  font-size: 2.25em;
-  font-weight: 400;
-  line-height: 110%;
-  padding: 0;
+  color: rgb(97, 125, 140);
+	font-family: "Fira Sans", Helvetica, Arial, sans-serif;
+	font-size: 2.25em;
+	font-weight: 400;
+	line-height: 110%;
+	padding: 0;
   margin: 0;
-  -epub-hyphens: none;
+	-epub-hyphens: none;
 }
 
 h3 {
-  color: #282828;
-  font-family: "Fira Sans", Helvetica, Arial, sans-serif;
-  font-size: 1.75em;
-  font-weight: 400;
-  margin: 0;
-  padding: 0;
-  break-after: avoid;
-  -epub-hyphens: none;
+  color: rgb(97, 125, 140);
+	font-family: "Fira Sans", Helvetica, Arial, sans-serif;
+	font-size: 1.75em;
+	font-weight: 400;
+	margin: 0;
+	padding: 0;
+	break-after: avoid;
+	-epub-hyphens: none;
 }
 
-h4 {
-  text-transform: uppercase;
-  font-size: 1.125em;
-  line-height: 150%;
-  letter-spacing: 1px;
-  margin: 40px 0 0;
+h1 + h3 {
+  margin-top: .5em;
 }
 
-  /* line 181, epub.css.scss */
-  h4 + p {
-    margin-top: 10px; }
-  /* line 186, epub.css.scss */
-  h4 + figure,
-  h4 + .figure {
-    margin-top: 10px; }
+article + h3 {
+  font-size: 1em;
+  line-height: 100%;
+  font-weight: normal;
+}
+
+.guide article h3 {
+  margin-top: 1.5em;
+  line-height: 1.3em;
+	margin-bottom: 1em;
+}
+
+h4, h2.object-meta, h3.object-meta {
+  color: rgb(97, 125, 140);
+	text-transform: uppercase;
+	font-size: 1.125em;
+	line-height: 150%;
+	letter-spacing: 1px;
+	margin: 40px 0 0;
+}
+
+h4+p {
+	margin-top: 10px;
+}
 
 h6 {
-  font-size: 0.875em;
-  line-height: 200%;
-  margin: 35px 0 100px;
-  padding: 0; }
+	font-size: .875em;
+	line-height: 200%;
+	margin: 35px 0 100px;
+	padding: 0;
+}
+
+.titlepage {
+  text-align: center;
+}
+
+.titlepage h1 {
+  text-align: center;
+  font-family: "Merriweather", serif;
+  text-transform: capitalize;
+  font-size: 2.25em;
+  line-height: 1.4em;
+  margin-top: 2em;
+}
+
+.titlepage h3 {
+  text-align: center;
+}
+
+.titlepage h4 {
+  text-align: center;
+}
+
+.titlepage .colophon-logo {
+  text-align: center;
+  width: 30%;
+  max-width: 50px;
+  margin-top: 10px;
+}
 
 p {
-  line-height: 1.6em;
-  -epub-hyphens: none;  }
+	line-height: 1.6em;
+	-epub-hyphens: none;
+}
 
-ul,
-ol {
-  padding-left: 1.5em; }
+ul,ol {
+	padding-left: 1.75em;
+}
 
 li {
-  margin: .8em 0;
-  line-height: 1.813em; }
-
-em {
-  font-family: "Merriweather", serif;
-  font-style: italic;
-  font-weight: 300;
+	margin: .8em 0;
 }
 
-a,
-a:visited {
-  color: #617d8c;
-  text-decoration: none; }
-
-figcaption,
-.figcaption,
-small,
-cite {
-  font-family: "Fira Sans", Helvetica, Arial, sans-serif;
-  font-style: normal;
-  font-size: 1rem;
-  line-height: 1.5em;
-  color: #888;
-}
-
-figcaption em,
-.figcaption em,
-small em,
-cite em {
-  font-family: "Fira Sans", Helvetica, Arial, sans-serif;
-}
-
-cite {
-  line-height: 1.4em;
-}
-
-figure,
-.figure {
-  display: block;
-  margin: 0 0 20px;
-  padding: 0;
-  page-break-inside: avoid;
-  page-break-before: always;
-  page-break-after: always;
-}
-
-figure img,
-.figure img {
-  display: block;
-  margin: 0 auto;
-  page-break-inside: avoid;
-}
-
-figure img.small,
-.figure img.small {
-    width: 60%;
-}
-
-figure img.short,
-.figure img.short {
-  width: 50%;
-}
-
-figcaption,
-.figcaption {
-  display: block;
-  margin-top: 10px;
-  font-size: 0.9rem;
+a,a:visited {
+	color: #617d8c;
+	text-decoration: none;
 }
 
 hr {
-  border: none;
-  height: 1px;
-  background-color: #282828;
-  width: 60px;
-  margin: 30px auto;
+	border: none;
+	height: 1px;
+	background-color: #282828;
+	width: 60px;
+	margin: 30px auto;
 }
 
 .break {
-  page-break-before: always;
+	page-break-before: always;
 }
 
 .break-before {
-  break-before: column;
+	break-before: column;
 }
 
 .break-after {
-  break-after: column;
+	break-after: column;
 }
 
 .group {
-  page-break-inside: avoid;
+	page-break-inside: avoid;
 }
 
-/*============================================================================*/
-
 .entry {
-  /*-webkit-font-feature-settings: "kern", "liga", "onum", "pnum", "smcp";*/
-  /*-moz-font-feature-settings: "kern", "liga", "onum", "pnum", "smcp";*/
-  /*-ms-font-feature-settings: "kern", "liga", "onum", "pnum", "smcp";*/
-  /*font-feature-settings: "kern", "liga", "onum", "pnum", "smcp";*/
-  /*font-family: "Merriweather", serif;*/
-  line-height: 1.5;
+	line-height: 1.5;
 }
 
 .entry-header {
-  text-align: center;
+	text-align: center;
 }
 
-.entry h2, .entry h3, {
-  margin-top: 1.875rem;
-  margin-bottom: 1.125rem;
+.entry h2,.entry h3 {
+	margin-top: 1.875rem;
+	margin-bottom: 1.125rem;
 }
 
 .entry p {
-  margin-top: 0px;
-  margin-bottom: 0px;
-  /*font-size: 1.15rem;*/
-  text-indent: 2rem;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-indent: 2rem;
 }
 
-.entry h2 + p, .entry h3 + p { text-indent: 0; }
-.entry-content > p:first-of-type { text-indent: 0; }
+.entry h2+p,.entry h3+p {
+	text-indent: 0;
+}
 
-.entry-content blockquote > * {
-  text-indent: 0px;
-  padding-left: 2rem;
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-  font-style: italic;
+.entry-content>p:first-of-type {
+	text-indent: 0;
+}
+
+.entry-content blockquote>* {
+	text-indent: 0;
+	padding-left: 2rem;
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
+	font-style: italic;
 }
 
 .entry section {
-  margin-bottom: 1.5em;
+	margin-bottom: 1.5em;
 }
 
 .entry table {
-  border-top: 1px solid #cbcbcb;
-  border-collapse:collapse;
-  border-spacing:0;
-  empty-cells:show;
-  font-family: "Fira Sans";
-  margin-bottom: 1.5em;
-  page-break-inside: avoid;
-  width: 100%;
+	border-top: 1px solid #cbcbcb;
+	border-collapse: collapse;
+	border-spacing: 0;
+	empty-cells: show;
+	font-family: "Fira Sans", Helvetica, Arial, sans-serif;
+	margin-bottom: 1.5em;
+	page-break-inside: avoid;
+	width: 100%;
 }
 
 .entry table caption {
-  color:#000;
-  font:italic 85%/1 arial,sans-serif;
-  padding:1em 0;
-  text-align:center
+	color: #000;
+	font: italic 85%/1 arial,sans-serif;
+	padding: 1em 0;
+	text-align: center;
 }
 
-.entry table td,
-.entry table th {
-  /*border-left:1px solid #cbcbcb;*/
-  border-width:0 0 0 1px;
-  font-size:inherit;
-  overflow:visible;
-  padding:.5em 0;
+.entry table td,.entry table th {
+	border-width: 0 0 0 1px;
+	font-size: inherit;
+	overflow: visible;
+	padding: .5em 0;
 }
 
 .entry table tr {
-  border-bottom: 1px solid #cbcbcb;
+	border-bottom: 1px solid #cbcbcb;
 }
 
-.entry table td:first-child,
-.entry table th:first-child {
-  border-left-width:0
+.entry table td:first-child,.entry table th:first-child {
+	border-left-width: 0;
 }
 
-.entry table thead{
-  background-color:#e0e0e0;
-  color:#000;
-  text-align:left;
-  vertical-align:bottom
+.entry table thead {
+	background-color: #e0e0e0;
+	color: #000;
+	text-align: left;
+	vertical-align: bottom;
 }
 
 .entry table td {
-  background-color:transparent;
+	background-color: transparent;
 }
-
-figure {
-  text-align: center;
-  width: 50%;
-  margin-left: 25%;
-  margin-right: 25%;
-  page-break-inside: avoid;
-}
-
-figure img {
-  width: 100%;
-}
-
-/* Image CSS based on Joshua Tallent's https://github.com/jstallent/ImagesSingleFile */
 
 div.plate {
 	text-align: center;
@@ -351,4 +261,58 @@ img.plate_vh {
 
 img.plate_vh:only-of-type {
 	height: 80vh;
+}
+
+ul {
+	list-style-type: none;
+}
+
+figure {
+	width: 35%;
+  max-width: 160px;
+  text-align: center;
+	margin-left: auto;
+  margin-right: auto;
+  page-break-inside: avoid;
+}
+
+figcaption {
+  font-family: "Fira Sans", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: .75em;
+  line-height: 1.2em;
+}
+
+.abbreviations table {
+  line-height: 2em;
+  tr { border-bottom: 1px solid #000; }
+}
+
+.footnotes ol li p {
+  text-indent: 0;
+  font-family: "Fira Sans", Helvetica, Arial, sans-serif;
+  font-size: .875em;
+  line-height: 1.3em;
+}
+
+.copyright {
+  font-family: "Fira Sans", Helvetica, Arial, sans-serif;
+  font-size: .875em;
+  line-height: 1.3em;
+}
+
+.loc-cip {
+  margin-bottom: 1em;
+}
+
+.loc-cip ul {
+  text-indent: -8pt;
+  margin-top: 0; }
+
+.loc-cip ul li {
+  padding-left: 8pt;
+}
+
+.loc-cip ul li p {
+  margin-bottom: 0;
 }
