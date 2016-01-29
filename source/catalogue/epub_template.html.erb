@@ -10,8 +10,10 @@ layout: false
   </head>
   <body>
     <div class="entry">
-      <div class="plate">
-      	<div class="plate_percent"><%= image_tag "epub/cat#{entry[:info][:cat]}.jpg", :class => "plate_vh" %></div>
+      <div class="plate-group">
+      	<div class="plate">
+          <%= image_tag "epub/cat#{entry[:info][:cat]}.jpg" %>
+        </div>
       </div>
       <div class="entry-header">
         <h2 class="object-meta"><%= entry[:info][:cat] %></h2>
