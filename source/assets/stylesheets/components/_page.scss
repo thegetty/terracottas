@@ -92,8 +92,14 @@
 }
 
 .loc-cip {
+  margin-bottom: 1.5rem;
   ul { text-indent: -1rem; }
   li { padding-left: 1rem; }
+}
+
+.about .page-content .loc-cip {
+  p { margin-bottom: 0; }
+  ul { margin-top: 0; }
 }
 
 .abbreviations article,
