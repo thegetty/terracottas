@@ -15,6 +15,7 @@ end
 keywords_list << data.book.coverage
 keywords_list.concat data.book.keywords
 %>
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
 <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
 <link rel="canonical" href="http://www.getty.edu/publications/terracottas">
 <link rel="publisher" href="http://www.getty.edu">
@@ -23,35 +24,35 @@ keywords_list.concat data.book.keywords
 <meta name="dcterms.bibliographicCitation" content="Ferruzza, Maria Lucia. Ancient Terracottas from South Italy and Sicily in the J. Paul Getty Museum. Los Angeles: Getty Publications, 2016. http://pubs.getty.edu/museumcatalogues/terracottas">
 <% # Loop through terms %>
 <% data.book.coverage.each do |term| %>
-  <meta name="dcterms.coverage" content='<%= term %>'>
+  <meta name="dc.coverage" content='<%= term %>'>
 <% end %>
 <% author_names.each do |name| %>
-  <meta name="dcterms.creator" content='<%= name %>'>
+  <meta name="dc.creator" content='<%= name %>'>
 <% end %>
 <% contributor_names.each do |name| %>
-  <meta name="dcterms.contributor" content='<%= name %>'>
+  <meta name="dc.contributor" content='<%= name %>'>
 <% end %>
 <% # Date and description %>
-<meta name="dcterms.date" content="<%= data.book.pub_date %>">
-<meta name="dcterms.description" content="<%= data.book.description_short %>">
+<meta name="dc.date" content="<%= data.book.pub_date %>">
+<meta name="dc.description" content="<%= data.book.description_short %>">
 <% # Editions %>
 <% data.book.editions.each_with_index do |edition, index| %>
   <% if index < 1 %>
-  <meta name="dcterms.format" content="<%= edition.format %>">
+  <meta name="dc.format" content="<%= edition.format %>">
   <% else %>
   <meta name="dcterms.hasFormat" content="<%= edition.format %>">
   <% end %>
 <% end %>
 <% # Identifier, publisher, rights%>
-<meta name="dcterms.identifier" content="<%= data.book.editions.first.isbn %>">
-<meta name="dcterms.language" content="en">
+<meta name="dc.identifier" content="<%= data.book.editions.first.isbn %>">
+<meta name="dc.language" content="en-US">
 <meta name="dcterms.license" content="<%= data.book.cc_license %>">
-<meta name="dcterms.publisher" content="<%= data.book.imprint %>, <%= data.book.publisher_location %>">
-<meta name="dcterms.rights" content="<%= data.book.rights %>">
+<meta name="dc.publisher" content="<%= data.book.imprint %>, <%= data.book.publisher_location %>">
+<meta name="dc.rights" content="<%= data.book.rights %>">
 <% # Subjects %>
-<meta name="dcterms.subject" content="<%= data.book.categories.to_sentence %>">
+<meta name="dc.subject" content="<%= data.book.categories.to_sentence %>">
 <% data.book.bisac.each do |item| %>
-  <meta name="dcterms.subject" content='<%= item.subject %>'>
+  <meta name="dc.subject" content='<%= item.subject %>'>
 <% end %>
-<meta name="dcterms.title" content="<%= data.book.title.main %>">
-<meta name="dcterms.type" content="<%= data.book.editions.first.type %>">
+<meta name="dc.title" content="<%= data.book.title.main %>">
+<meta name="dc.type" content="<%= data.book.editions.first.type %>">
