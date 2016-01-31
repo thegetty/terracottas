@@ -32,7 +32,7 @@ Any revisions or corrections made to this catalogue after the first edition date
 will be detailed here and in the project repository at
 [www.github.com/gettypubs/terracottas](https://www.github.com/gettypubs/terracottas). Earlier versions of the publication may also be accessed in that repository.
 
-#### January 28, 2016
+#### January 31, 2016
 
 - First edition
 
@@ -41,16 +41,16 @@ will be detailed here and in the project repository at
 #### Complete Catalogue
 
 - [**PDF**](assets/downloads/AncientTerracottas_Ferruzza.pdf) (12 MB)
-- [**EPUB**](assets/downloads/AncientTerracottas_Ferruzza.epub) (85 MB)
-- [**MOBI/KINDLE**](assets/downloads/AncientTerracottas_Ferruzza.mobi) (60 MB)
-- [**PAPERBACK**](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606064863){:target="blank"}
+- [**EPUB**](assets/downloads/AncientTerracottas_Ferruzza.epub) (27 MB)
+- [**MOBI/KINDLE**](assets/downloads/AncientTerracottas_Ferruzza.mobi) (63 MB)
+- [**Paperback**](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606064863){:target="blank"}
 
 Each of these alternative formats includes the complete catalogue text, the primary view of each object, and the map. The PDF and paperback editions also include a complete index.
 
 #### Catalogue Main Images
 
-- [**JPG**](assets/downloads/AncientTerracottas_Ferruzza_Images.zip) (32.9 MB)
-- [**PPT**](assets/downloads/AncientTerracottas_Ferruzza_Images.ppt) (10.9 MB)
+- [**JPG**](assets/downloads/AncientTerracottas_Ferruzza_Images.zip) (33 MB)
+- [**PPT**](assets/downloads/AncientTerracottas_Ferruzza_Images.ppt) (11MB)
 
 Each download includes the main image and caption for each of the sixty catalogue entries, free for unrestricted use. JPGs are up to 1024px on their longest side. Alternate views and larger sizes are available through the Getty’s Open Content program at [www.getty.edu/art/collection](http://www.getty.edu/art/collection/).
 
