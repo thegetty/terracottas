@@ -10,6 +10,11 @@ layout: false
   <body>
     <section class="discussion" id="discussion-a">
       <% discussion = sitemap.find_resource_by_path("views/discussion/discussion-a.html") %>
+      <div class="plate-group">
+      	<div class="plate">
+          <img src="../../assets/images/epub/group-a.jpg">
+        </div>
+      </div>
       <h4>Group Discussion</h4>
       <h1 class="page-title">
         <%= discussion.data.title %>
