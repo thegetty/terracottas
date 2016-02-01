@@ -30,7 +30,7 @@ This custom online catalogue enables a deeper exploration of these ancient objec
 
 Any revisions or corrections made to this catalogue after the first edition date
 will be detailed here and in the project repository at
-[www.github.com/gettypubs/terracottas](https://www.github.com/gettypubs/terracottas). Earlier versions of the publication may also be accessed in that repository.
+[www.github.com/gettypubs/terracottas](https://www.github.com/gettypubs/terracottas){:target="blank"}. Earlier versions of the publication may also be accessed in that repository.
 
 #### January 31, 2016
 
@@ -40,24 +40,24 @@ will be detailed here and in the project repository at
 
 #### Complete Catalogue
 
-- [**PDF**](assets/downloads/AncientTerracottas_Ferruzza.pdf) (12 MB)
-- [**EPUB**](assets/downloads/AncientTerracottas_Ferruzza.epub) (27 MB)
-- [**MOBI/KINDLE**](assets/downloads/AncientTerracottas_Ferruzza.mobi) (63 MB)
+- [**PDF**](../assets/downloads/AncientTerracottas_Ferruzza.pdf){:target="blank"}{:class="no-smoothState"} (12 MB)
+- [**EPUB**](../assets/downloads/AncientTerracottas_Ferruzza.epub){:target="blank"}{:class="no-smoothState"} (27 MB)
+- [**MOBI/KINDLE**](../assets/downloads/AncientTerracottas_Ferruzza.mobi){:target="blank"}{:class="no-smoothState"} (63 MB)
 - [**Paperback**](http://shop.getty.edu/products/ancient-terracottas-from-south-italy-and-sicily-in-the-j-paul-getty-museum-978-1606064863){:target="blank"}
 
 Each of these alternative formats includes the complete catalogue text, the primary view of each object, and the map. The PDF and paperback editions also include a complete index.
 
 #### Catalogue Main Images
 
-- [**JPG**](assets/downloads/AncientTerracottas_Ferruzza_Images.zip) (33 MB)
-- [**PPT**](assets/downloads/AncientTerracottas_Ferruzza_Images.ppt) (11MB)
+- [**JPG**](../assets/downloads/AncientTerracottas_Ferruzza_Images.zip){:target="blank"}{:class="no-smoothState"} (33 MB)
+- [**PPT**](../assets/downloads/AncientTerracottas_Ferruzza_Images.ppt){:target="blank"}{:class="no-smoothState"} (11 MB)
 
-Each download includes the main image and caption for each of the sixty catalogue entries, free for unrestricted use. JPGs are up to 1024px on their longest side. Alternate views and larger sizes are available through the Getty’s Open Content program at [www.getty.edu/art/collection](http://www.getty.edu/art/collection/).
+Each download includes the main image and caption for each of the sixty catalogue entries, free for unrestricted use. JPGs are up to 1024px on their longest side. Alternate views and larger sizes are available through the Getty’s Open Content program at [www.getty.edu/art/collection](http://www.getty.edu/art/collection/){:target="blank"}.
 
 #### Object Data
 
-- [**CSV Catalogue**](assets/downloads/AncientTerracottas_Ferruzza_Data.csv) \| [**Extended**](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.csv)
-- [**JSON Catalogue**](assets/downloads/AncientTerracottas_Ferruzza_Data.json) \| [**Extended**](assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.json)
+- [**CSV Catalogue**](../assets/downloads/AncientTerracottas_Ferruzza_Data.csv){:target="blank"}{:class="no-smoothState"} \| [**Extended**](../assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.csv){:target="blank"}{:class="no-smoothState"}
+- [**JSON Catalogue**](../assets/downloads/AncientTerracottas_Ferruzza_Data.json){:target="blank"}{:class="no-smoothState"} \| [**Extended**](../assets/downloads/AncientTerracottas_Ferruzza_Data_Extended.json){:target="blank"}{:class="no-smoothState"}
 
 The object data, available in two formats, includes key information from each of the sixty catalogue entries, with relevant fields keyed to Pleiades locations and the Getty’s Art & Architecture Thesaurus (AAT) and Thesaurus of Geographic Names (TGN). The extended version includes raw data on the 1,000 additional collection objects outlined in the [“Guide to the Collection of South Italian and Sicilian Terracottas.”](../guide/)
 
@@ -75,7 +75,7 @@ Tiles for the Map of South Italy and Sicily are from the Ancient World Mapping C
 Getty Publications  
 1200 Getty Center Drive, Suite 500  
 Los Angeles, California 90049-1682  
-[www.getty.edu/publications](http://www.getty.edu/publications)
+[www.getty.edu/publications](http://www.getty.edu/publications){:target="blank"}
 
 Ruth Evans Lane, Benedicte Gilman, and Marina Belozerskaya, *Project Editors* <br />
 Robin H. Ray and Mary Christian, *Copy Editors* <br />
