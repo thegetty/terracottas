@@ -103,6 +103,6 @@ Library of Congress Cataloging-in-Publication Data
 - [Introduction](../introduction/): Fragment of a Head (detail, [cat. 22](../catalogue/22/))
 - [Classification](../classification/): Statue of a Standing Siren A (detail, [cat. 2](../catalogue/2/))
 - [Production Techniques](../production_techniques/): Tarentine front mold, Head of a Woman (detail, [fig. 10](../guide/#fig_10))
-- [Guide to the Collection of South Italian and Sicilian Terracottas](../guide/): Head and Torso of a Youth with Tarentine mold (detail, [fig. 12](../guide/#fig_12))
+- [Guide to the Collection of South Italian and Sicilian Terracottas](../guide/): Tarentine Mold with Head and Torso of a Youth (detail, [fig. 12](../guide/#fig_12))
 
 </section>
