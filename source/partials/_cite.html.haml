@@ -16,7 +16,7 @@
         <em>#{data.book.title.main}</em>, by #{data.book.author_as_it_appears}.
         #{data.book.publisher_location}:
         #{data.book.publisher}, #{data.book.pub_date.year}.
-        <span class='force-wrap'>#{data.book.editions.first.permalink}#{path}</span>
+        <span class='force-wrap'>#{data.book.editions.first.permalink}/#{path}</span>
       %h6 MLA
       %p
         #{data.book.creators.first.last_name}, #{data.book.creators.first.first_name}.
@@ -25,7 +25,7 @@
         #{data.book.publisher_location}:
         #{data.book.publisher_short}, #{data.book.pub_date.year}.
         <span class="cite-current-date">DD Mon. YYYY</span>
-        <<span class='force-wrap'>#{data.book.editions.first.permalink}#{path}</span>>.
+        <<span class='force-wrap'>#{data.book.editions.first.permalink}/#{path}</span>>.
     - elsif current_page.data.author_first_name
       / Page has author
       %h6 Chicago
@@ -34,7 +34,7 @@
         “#{current_page.data.title}.” In <em>#{data.book.title.main}</em>,
         by #{data.book.author_as_it_appears}. #{data.book.publisher_location}:
         #{data.book.publisher}, #{data.book.pub_date.year}.
-        <span class='force-wrap'>#{data.book.editions.first.permalink}#{path}</span>
+        <span class='force-wrap'>#{data.book.editions.first.permalink}/#{path}</span>
       %h6 MLA
       %p
         #{current_page.data.author_last_name}, #{current_page.data.author_first_name}.
@@ -42,7 +42,7 @@
         By #{data.book.author_as_it_appears}. #{data.book.publisher_location}:
         #{data.book.publisher_short}, #{data.book.pub_date.year}.
         <span class="cite-current-date">DD Mon. YYYY</span>
-        <<span class='force-wrap'>#{data.book.editions.first.permalink}#{path}</span>>.
+        <<span class='force-wrap'>#{data.book.editions.first.permalink}/#{path}</span>>.
     - else
       / All other pages
       %h6 Chicago
@@ -51,7 +51,7 @@
         “#{current_page.data.title}” In <em>#{data.book.title.main}</em>,
         by #{data.book.author_as_it_appears}. #{data.book.publisher_location}:
         #{data.book.publisher}, #{data.book.pub_date.year}.
-        <span class='force-wrap'>#{data.book.editions.first.permalink}#{path}</span>
+        <span class='force-wrap'>#{data.book.editions.first.permalink}/#{path}</span>
       %h6 MLA
       %p
         #{data.book.creators.first.last_name}, #{data.book.creators.first.first_name}.
@@ -59,5 +59,5 @@
         By #{data.book.author_as_it_appears}. #{data.book.publisher_location}:
         #{data.book.publisher_short}, #{data.book.pub_date.year}.
         <span class="cite-current-date">DD Mon. YYYY</span>
-        <<span class='force-wrap'>#{data.book.editions.first.permalink}#{path}</span>>.
+        <<span class='force-wrap'>#{data.book.editions.first.permalink}/#{path}</span>>.
     = link_to "Full Catalogue Citation", "#{site_url}/about/#citation-information"
