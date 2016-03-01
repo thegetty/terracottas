@@ -1,0 +1,6 @@
+%p Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at <a href="#{data.book.repository_url}" target="_blank">#{data.book.repository_url}</a>, where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
+- data.book.revision_history.each do |revisions|
+  %h4= revisions.date
+  %ul
+    - revisions.summary.each do |item|
+      %li= item

@@ -142,3 +142,12 @@ bisac:
     subject: "ART / Collections, Catalogs, Exhibitions / General"
   - code: SOC003000
     subject: "SOCIAL SCIENCE / Archaeology"
+revision_history:
+  - date: January 31, 2016
+    summary:
+      - First edition
+  - date: February 24, 2016
+    summary:
+      - Minor text corrections
+      - Note on ongoing research
+repository_url: https://www.github.com/gettypubs/terracottas
