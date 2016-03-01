@@ -9,32 +9,32 @@
     %h6 Complete Catalogue
     %ul
       %li
-        = link_to "PDF", "#{site_url}/#{download_path}.pdf", :target => "blank"
+        = link_to "PDF", "#{site_url}/#{download_path}.pdf", :target => "blank", :class => "no-smoothState"
         %span (12 MB)
       %li
-        = link_to "EPUB", "#{site_url}/#{download_path}.epub"
-        %span (85 MB)
+        = link_to "EPUB", "#{site_url}/#{download_path}.epub", :target => "blank", :class => "no-smoothState"
+        %span (27 MB)
       %li
-        = link_to "MOBI/KINDLE", "#{site_url}/#{download_path}.mobi"
-        %span (60 MB)
+        = link_to "MOBI/KINDLE", "#{site_url}/#{download_path}.mobi", :target => "blank", :class => "no-smoothState"
+        %span (63 MB)
       %li
-        = link_to "Paperback", "#{store_url}"
+        = link_to "Paperback", "#{store_url}", :target => "blank"
     %h6 Catalogue Main Images
     %ul
       %li
-        = link_to "JPG", "#{site_url}/#{download_path}_Images.zip"
-        %span (21 MB)
+        = link_to "JPG", "#{site_url}/#{download_path}_Images.zip", :target => "blank", :class => "no-smoothState"
+        %span (33 MB)
       %li
-        = link_to "PPT", "#{site_url}/#{download_path}_Images.ppt"
+        = link_to "PPT", "#{site_url}/#{download_path}_Images.ppt", :target => "blank", :class => "no-smoothState"
         %span (11 MB)
     %h6 Object Data
     %ul
       %li
-        = link_to "CSV Catalogue", "#{site_url}/#{download_path}_Data.csv"
+        = link_to "CSV Catalogue", "#{site_url}/#{download_path}_Data.csv", :target => "blank", :class => "no-smoothState"
         \|
-        = link_to "Extended", "#{site_url}/#{download_path}_Data_Extended.csv"
+        = link_to "Extended", "#{site_url}/#{download_path}_Data_Extended.csv", :target => "blank", :class => "no-smoothState"
       %li
-        = link_to "JSON Catalogue", "#{site_url}/#{download_path}_Data.json"
+        = link_to "JSON Catalogue", "#{site_url}/#{download_path}_Data.json", :target => "blank", :class => "no-smoothState"
         \|
-        = link_to "Extended", "#{site_url}/#{download_path}_Data_Extended.json"
+        = link_to "Extended", "#{site_url}/#{download_path}_Data_Extended.json", :target => "blank", :class => "no-smoothState"
     = link_to "More Information", "#{site_url}/about/#downloads"

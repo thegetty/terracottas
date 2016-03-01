@@ -3,7 +3,7 @@
 title:
   main: Ancient Terracottas from South Italy and Sicily in the J. Paul Getty Museum
   short: Ancient Terracottas from South Italy and Sicily
-pub_date: 2016-01
+pub_date: 2016-01-31
 creators:
   - first_name: Maria Lucia
     last_name: Ferruzza
@@ -43,19 +43,19 @@ editions:
     type: Text
     format: application/epub+zip
     isbn: 978-1-60606-485-6
-    file_size_mb:
+    file_size_mb: 27
     file_name: AncientTerracottas_Ferruzza.epub
   - name: MOBI/KINDLE
     type: Text
     format: application/mobi
     isbn: 978-1-60606-485-6
-    file_size_mb:
+    file_size_mb: 63
     file_name: AncientTerracottas_Ferruzza.mobi
   - name: PDF
     type: Text
     format: application/pdf
     isbn: 978-1-60606-486-3
-    file_size_mb:
+    file_size_mb: 12
     file_name: AncientTerracottas_Ferruzza.pdf
   - name: Paperback
     type: PhyiscalObject
@@ -68,7 +68,7 @@ editions:
       Reflecting the Getty’s commitment to open content, Ancient Terracottas from South Italy and Sicily in the J. Paul Getty Museum is available online at www.getty.edu/publications/terracottas and may be downloaded free of charge in multiple formats. For readers who wish to have a bound reference copy, this paperback version has been made available for sale.
 other_downloads:
   - name: JPG
-    file_size_mb: 21
+    file_size_mb: 33
     file_name: AncientTerracottas_Ferruzza_Images.zip
   - name: PPT
     file_size_mb: 11
@@ -119,7 +119,7 @@ cip_data: |
   - Title: Ancient terracottas from South Italy and Sicily in the J. Paul Getty Museum / Maria Lucia Ferruzza.
   - Description: Los Angeles : J. Paul Getty Museum, [2016] \| ©2016 \| Includes bibliographical references.
   - Identifiers: LCCN 2015042795 (print) \| LCCN 2015048344 (ebook) \| ISBN 9781606064863 (pbk.) \| ISBN 9781606064856 (epub) \| ISBN 9781606061237 (online)
-  - Subjects: LCSH: Terra-cotta sculpture, Ancient&#8209;&#8209;Italy, Southern&#8209;&#8209;Catalogs. \| Terra-cotta sculpture, Ancient&#8209;&#8209;Italy&#8209;&#8209;Sicily&#8209;&#8209;Catalogs. \| J. Paul Getty Museum&#8209;&#8209;Catalogs. \| Terra-cotta sculpture&#8209;&#8209;California&#8209;&#8209;Los Angeles&#8209;&#8209;Catalogs.
+  - Subjects: LCSH: Terra-cotta sculpture, Ancient&mdashItaly, Southern&mdashCatalogs. \| Terra-cotta sculpture, Ancient&mdashItaly&mdashSicily&mdashCatalogs. \| J. Paul Getty Museum&mdashCatalogs. \| Terra-cotta sculpture&mdashCalifornia&mdashLos Angeles&mdashCatalogs.
   - Classification: LCC NB145 .J27 2016 (print) \| LCC NB145 (ebook) \| DDC 733/.309377--dc23
   - LC record available at [http://lccn.loc.gov/2015042795](http://lccn.loc.gov/2015042795)
 categories:
@@ -142,3 +142,12 @@ bisac:
     subject: "ART / Collections, Catalogs, Exhibitions / General"
   - code: SOC003000
     subject: "SOCIAL SCIENCE / Archaeology"
+revision_history:
+  - date: January 31, 2016
+    summary:
+      - First edition
+  - date: February 24, 2016
+    summary:
+      - Minor text corrections
+      - Note on ongoing research
+repository_url: https://www.github.com/gettypubs/terracottas
