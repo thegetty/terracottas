@@ -13,6 +13,11 @@ layout: false
       <p>© 2016 J. Paul Getty Trust</p>
       <p><a href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" src="../../assets/images/epub/cc-by.png"></a><br>
       This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042.</p>
+      <% data.book.revision_history.each_with_index do |revision, i| %>
+      <% if i == (data.book.revision_history.size - 1) %>
+          <p>First edition, <%= data.book.pub_date.year %><br />Last updated, <%= revision.date %><br />
+            <a href="<%= data.book.repository_url %>" target="blank"><%= data.book.repository_url %></a></p>
+      <% end %><% end %>
       <p><strong>Published by the J. Paul Getty Museum, Los Angeles</strong><br />
       Getty Publications<br>
       1200 Getty Center Drive, Suite 500<br>
