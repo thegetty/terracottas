@@ -2,11 +2,11 @@
 # the following line to use "https"
 source "http://rubygems.org"
 
-gem "middleman", ' ~> 3.3.12'
+gem "middleman", ' ~> 3.4'
 gem "middleman-livereload"
 gem "middleman-deploy"
-gem "bourbon"
-gem "neat"
+gem "bourbon", "~> 4.2"
+gem "neat", "~> 1.7"
 
 gem "middleman-pry"
 gem 'middleman-react', :git => 'https://github.com/HappyFunCorp/middleman-react.git'
