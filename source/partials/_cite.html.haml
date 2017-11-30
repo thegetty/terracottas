@@ -1,4 +1,6 @@
 - path = current_path.gsub("index.html", "")
+- mlalink = data.book.editions.first.permalink.gsub("http://", "").gsub("/", "&#8203;/")
+- chicagolink = data.book.editions.first.permalink.gsub("/", "&#8203;/").gsub("&#8203;/&#8203;/", "//")
 
 .expander
   %a{ :href => "javascript:void(0);", :class => "expander-trigger" }
@@ -16,16 +18,15 @@
         <em>#{data.book.title.main}</em>, by #{data.book.author_as_it_appears}.
         #{data.book.publisher_location}:
         #{data.book.publisher}, #{data.book.pub_date.year}.
-        <span class='force-wrap'>#{data.book.editions.first.permalink}/#{path}</span>
+        <span class='force-wrap'>#{chicagolink}/#{path}</span>.
       %h6 MLA
       %p
         #{data.book.creators.first.last_name}, #{data.book.creators.first.first_name}.
         “Cat. #{entry[:info][:cat]}: #{entry[:info][:title]}.”
-        <em>#{data.book.title.main}</em>. By #{data.book.author_as_it_appears}.
-        #{data.book.publisher_location}:
-        #{data.book.publisher_short}, #{data.book.pub_date.year}.
-        <span class="cite-current-date">DD Mon. YYYY</span>
-        <<span class='force-wrap'>#{data.book.editions.first.permalink}/#{path}</span>>.
+        <em>#{data.book.title.main}</em>, by #{data.book.author_as_it_appears}.
+        #{data.book.publisher}, #{data.book.pub_date.year}.
+        <span class='force-wrap'>#{mlalink}/#{path}</span>.
+        Accessed <span class="cite-current-date">DD Mon. YYYY</span>.
     - elsif current_page.data.author_first_name
       / Page has author
       %h6 Chicago
@@ -34,15 +35,15 @@
         “#{current_page.data.title}.” In <em>#{data.book.title.main}</em>,
         by #{data.book.author_as_it_appears}. #{data.book.publisher_location}:
         #{data.book.publisher}, #{data.book.pub_date.year}.
-        <span class='force-wrap'>#{data.book.editions.first.permalink}/#{path}</span>
+        #{chicagolink}/#{path}.
       %h6 MLA
       %p
         #{current_page.data.author_last_name}, #{current_page.data.author_first_name}.
-        “#{current_page.data.title}.” <em>#{data.book.title.main}</em>.
-        By #{data.book.author_as_it_appears}. #{data.book.publisher_location}:
-        #{data.book.publisher_short}, #{data.book.pub_date.year}.
-        <span class="cite-current-date">DD Mon. YYYY</span>
-        <<span class='force-wrap'>#{data.book.editions.first.permalink}/#{path}</span>>.
+        “#{current_page.data.title}.” <em>#{data.book.title.main}</em>,
+        by #{data.book.author_as_it_appears}.
+        #{data.book.publisher}, #{data.book.pub_date.year}.
+        <span class='force-wrap'>#{mlalink}/#{path}</span>.
+        Accessed <span class="cite-current-date">DD Mon. YYYY</span>.
     - else
       / All other pages
       %h6 Chicago
@@ -51,13 +52,13 @@
         “#{current_page.data.title}” In <em>#{data.book.title.main}</em>,
         by #{data.book.author_as_it_appears}. #{data.book.publisher_location}:
         #{data.book.publisher}, #{data.book.pub_date.year}.
-        <span class='force-wrap'>#{data.book.editions.first.permalink}/#{path}</span>
+        #{chicagolink}/#{path}.
       %h6 MLA
       %p
         #{data.book.creators.first.last_name}, #{data.book.creators.first.first_name}.
-        “#{current_page.data.title}.” <em>#{data.book.title.main}</em>.
-        By #{data.book.author_as_it_appears}. #{data.book.publisher_location}:
-        #{data.book.publisher_short}, #{data.book.pub_date.year}.
-        <span class="cite-current-date">DD Mon. YYYY</span>
-        <<span class='force-wrap'>#{data.book.editions.first.permalink}/#{path}</span>>.
+        “#{current_page.data.title}.” <em>#{data.book.title.main}</em>,
+        by #{data.book.author_as_it_appears}.
+        #{data.book.publisher}, #{data.book.pub_date.year}.
+        <span class='force-wrap'>#{mlalink}/#{path}</span>.
+        Accessed <span class="cite-current-date">DD Mon. YYYY</span>.
     = link_to "Full Catalogue Citation", "#{site_url}/about/#citation-information"
