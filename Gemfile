@@ -8,12 +8,8 @@ gem "middleman-deploy"
 gem "bourbon", "~> 4.2"
 gem "neat", "~> 1.7"
 
-gem "middleman-pry"
-gem 'middleman-react', :git => 'https://github.com/HappyFunCorp/middleman-react.git'
-
 # Production
 gem "middleman-minify-html"
-gem "middleman-imageoptim"
 
 # Testing
 # gem "rspec"

@@ -34,12 +34,6 @@ configure :build do
   activate :gzip
   activate :minify_html
 
-  activate :imageoptim do |options|
-    options.image_extensions = %w(.jpg)
-    options.pngout = false
-    options.svgo   = false
-  end
-
   activate :pdf do |pdf|
     pdf.print_template = "/catalogue/print-template.html"
     # pdf.output_path    = "/pdf/terracottas.pdf"
