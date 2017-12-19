@@ -150,4 +150,8 @@ revision_history:
     summary:
       - Minor text corrections
       - Note on ongoing research
+  - date: December 19, 2017
+    summary:
+      - Correct image for fig. 24 in “Guide to the Collection”
+      - MLA citation formatting update
 repository_url: https://www.github.com/gettypubs/terracottas
