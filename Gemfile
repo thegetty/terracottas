@@ -1,19 +1,21 @@
-# If you have OpenSSL installed, we recommend updating
-# the following line to use "https"
-source "http://rubygems.org"
+source "https://rubygems.org"
 
-gem "middleman", ' ~> 3.4'
-gem "middleman-livereload"
-gem "middleman-deploy"
-gem "bourbon", "~> 4.2"
-gem "neat", "~> 1.7"
+ruby "2.3.1"
 
-# Production
 gem "middleman-minify-html"
 
-# Testing
-# gem "rspec"
-# gem "capybara"
-# gem "capybara-webkit"
-# gem "selenium-webdriver"
-# gem "jasmine"
+group :development do
+  gem "bourbon", "~> 4.2"
+  gem "middleman", ' ~> 3.4'
+  gem "middleman-deploy"
+  gem "middleman-livereload"
+  gem "neat", "~> 1.7"
+end
+
+group :test do
+  gem "capybara"
+  gem "capybara-webkit"
+  gem "jasmine"
+  gem "rspec"
+  gem "selenium-webdriver"
+end
