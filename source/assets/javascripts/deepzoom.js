@@ -77,7 +77,7 @@ DeepZoom.prototype = {
         map.unproject([layerWidth, 0], options.dimensions.max_zoom)
       );
       baseMaps[layerName + " view"] = L.tileLayer(
-        'http://gettypubs.github.io/maptiles/' + layerPath + '/{z}/{x}/{y}.png',
+        'https://www.getty.edu/publications/resources/' + layerPath + '/{z}/{x}/{y}.png',
         { bounds: layerBounds }
       );
     });
