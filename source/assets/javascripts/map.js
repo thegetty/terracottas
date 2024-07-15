@@ -17,9 +17,9 @@ function GeoMap() {
   this.defaultZoom = 6;
   this.maxZoom     = 12;
   this.ctr         = [40.51379915504413, 17.193603515625];
-  this.tiles       = 'https://api.mapbox.com/v4/isawnyu.map-knmctlkh/{z}/{x}/{y}.png?access_token=';
-  this.token       = "pk.eyJ1IjoiZWdhcmRuZXIiLCJhIjoiN2IyMmRlMTc0YTAwMzRjYWVhMzI5ZGY1YmViMGVkZTEifQ._576KIFjJ0S_dRHcdM2BmQ";
-  this.attr        = 'Tiles © <a href="http://mapbox.com/" target="_blank">MapBox</a> | Tiles and Data © 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a> <a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>';
+  this.tiles       = 'https://cawm.lib.uiowa.edu/tiles/{z}/{x}/{y}.png';
+  this.token       = '';
+  this.attr        = 'Tiles and Data © 2024 <a href="https://cawm.lib.uiowa.edu/index.html" target="_blank">Consortium of Ancient World Mappers</a> <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>';
   this.geojson     = geojsonFeature;
 
   this.init();
